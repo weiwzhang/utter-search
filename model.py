@@ -4,11 +4,14 @@
 
 import pandas as pd
 import torch
+import math
 from torch.utils.data import DataLoader
 import logging
 from sentence_transformers import SentenceTransformer, LoggingHandler, losses, models, util
 from sentence_transformers.readers import InputExample
 from sentence_transformers.evaluation import EmbeddingSimilarityEvaluator
+
+torch.cuda.empty_cache()
 
 # prepare corpus
 dataset = pd.read_csv('data.csv')
@@ -39,8 +42,8 @@ print(test_corpus['label'].value_counts())
 
 # create training sentence pairs
 train_pair_corpus = []
-for idx in corpus_label_counts.index.tolist():
-    label = idx[0]
+for idx in ['restaurant-search', 'movie-search', 'flight-search', 'music-search', 'pizza-order', 'coffee-order']:
+    label = idx
     train_label_data = train_corpus[train_corpus['label'] == label].reset_index(drop=True)
     print(len(train_label_data))
     for utter1 in train_label_data['utterance']:
