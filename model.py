@@ -75,7 +75,7 @@ pooling_model = models.Pooling(word_embedding_model.get_word_embedding_dimension
                                pooling_mode_cls_token=False,
                                pooling_mode_max_tokens=False)
 model = SentenceTransformer(modules=[word_embedding_model, pooling_model])
-train_dataloader = DataLoader(train_pair_corpus, shuffle=True, batch_size=256)
+train_dataloader = DataLoader(train_pair_corpus, shuffle=True, batch_size=32)
 train_loss = losses.CosineSimilarityLoss(model=model)
 evaluator = EmbeddingSimilarityEvaluator.from_input_examples(dev_pair_corpus, name='dev')
 warmup_steps = math.ceil(len(train_dataloader) * 4  * 0.1) #10% of train data for warm-up
