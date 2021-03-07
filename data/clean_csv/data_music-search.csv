@@ -1,0 +1,1506 @@
+instruction_id,conversation_id,utterance,label
+music-5,dlg-007002e0-3285-4dd5-8f8c-c51084332ae8,Can you play something by Whitney Houston.,music-search
+music-6,dlg-0077569e-55bf-4dde-8f6c-54b4bf0f5a35,"Hello. Could you play something from the band Creed, please?",music-search
+music-8,dlg-00a94095-44d3-4d0c-9291-0dd9bb65c313,Can you play me a country song?,music-search
+music-6,dlg-00bca323-87d8-4a93-970c-b6eae2f7827e,Can you play something by August Burns Red?,music-search
+music-6,dlg-00df2921-7b74-4c1a-82eb-51ebd2b46dea,Hello.Play me Sia.,music-search
+music-6,dlg-01216494-fbba-4866-817e-01c5326f8912,"Hello Assistant, I would like to hear some music by Michael Buble.",music-search
+music-5,dlg-013d41ac-fdd2-47a2-9f25-61c4554fcf7c,"Hey, Can I hear a song by Lorde?",music-search
+music-6,dlg-013fffb7-bb46-480f-b17c-765239f37d7a,Can I hear a song by Diplo?,music-search
+music-4,dlg-01440f9a-99bf-496a-8258-e2450f2e43b1,Hello. I'd like to listen to some music by AC/DC.,music-search
+music-7,dlg-0164bd68-d4bc-4b68-b4b3-ca460b3e3511,"Hi, I would like to listen to some music.",music-search
+music-6,dlg-020ce3d1-20d4-4376-b459-373e92661e20,I would like some help browsing some music on YouTube from Florence and the Machine.,music-search
+music-7,dlg-02165c6f-c081-4ff3-afd7-28c4486a749b,"I'd like help discovering some new music, please.",music-search
+music-3,dlg-022c9cd5-ac39-40c9-a627-dda3b30f83de,"Hello. Can you play something from The Cure, please?",music-search
+music-2,dlg-02426869-9323-446c-91f0-46a6aec6b287,Please play something else by Daft Punk.,music-search
+music-6,dlg-0242d167-3de8-4220-8d29-ae47332f2d57,Hi. I was wondering if you could play me some music. How about something by The Counting Crows?,music-search
+music-1,dlg-0254b1a9-cf62-4ce7-a767-2321011968e3,"Hi, Can I hear an Ariana Grande song?",music-search
+music-8,dlg-02cefa1c-4232-4568-9889-b2fdca3264a5,I'd like to listen something in the category that helps with studying.,music-search
+music-6,dlg-02dcd247-33ce-48f4-b3b5-7ad75fec9c20,"How about something from The Beatles, please?",music-search
+music-2,dlg-0300b764-6e70-42e0-9403-cda9a0711761,"Hi, Could you play me something by Katy Perry?",music-search
+music-6,dlg-032a0b65-9f12-4ddc-9d5c-5f244f48a65e,"Hello assistant. I would love to hear some music by Barry Manilow, please.",music-search
+music-7,dlg-033056a0-a119-4e7e-a71c-52297a102d7c,Hi. I'd like to listen to some music that's similar to Linkin Park.,music-search
+music-5,dlg-03454801-7e5a-4804-8ce0-0d6feb91128b,Hello. Can you play some music by August Burns Red?,music-search
+music-5,dlg-034a10d0-1b58-430c-bb4e-706e0c36d48a,Hi assistant. I'd like to hear some music by Billy Joel.,music-search
+music-6,dlg-0370cc86-87ec-4ac3-b992-dc0961e39607,Could you play me a song by Moan?,music-search
+music-6,dlg-03aedd11-6530-4dfe-941a-57f610aceec6,"Hi. Can you play a song by Wale, please?",music-search
+music-6,dlg-03bb559d-4852-406c-96f9-4e909d16c962,"Hi, play True Colors by Phil Collins.",music-search
+music-5,dlg-03c5a824-8a33-46c1-81fe-205a7e1261fd,I want to listen to some music from Hellyeah?,music-search
+music-2,dlg-03d90b3b-0581-402d-bf4c-5b3afd0e00fb,Would you play something for me by Kris Kristofferson?,music-search
+music-5,dlg-03ecd175-4020-43ad-a3a5-774bd95dfc75,"Hi, I'm trying to get a recommendation for a song.",music-search
+music-5,dlg-03faae4f-00df-4790-bc0d-de54a04ccd22,Can you play something by Frank Farrell?,music-search
+music-5,dlg-0413166d-d394-4eaa-b980-0fa9aaa3a2e3,"I am doing good, Thanks. I'd like to hear something from David Bowie.",music-search
+music-5,dlg-0426c97e-0182-4960-a292-1e52d6792927,"I'd like to hear something by Katy Perry, please.",music-search
+music-7,dlg-0432570c-307f-4246-8519-45d4cd246872,I would like to hear something that I've never heard before.,music-search
+music-2,dlg-04a2b858-c17a-40ef-a157-49d8ff206321,"Hi, I would like to hear a song by Korn.",music-search
+music-3,dlg-04ab5f13-2bf1-45b9-ba83-0672b3857fdc,I would like to hear something from the band Journey.,music-search
+music-6,dlg-04beca9a-c279-49b2-a5b2-8b8e9fbf73a4,Hi. I wanna listen to Opeth.,music-search
+music-2,dlg-04ca9fbb-b7ae-4a0e-a388-7952824ba58f,I'd like to hear some music by Biggie Smalls.,music-search
+music-5,dlg-04d02dba-cf03-4e2c-812c-401a03d780c1,Hi. I would like to hear something by Taylor Swift.,music-search
+music-5,dlg-052c1e8e-1865-4f90-bfd5-6c2e68fe5c01,Could you play Mumford & Sons?,music-search
+music-5,dlg-0548c8d0-1409-416f-a878-633edd367663,Play something by Rancid.,music-search
+music-6,dlg-05af4b3c-1ad7-40bd-8240-7f91a7de79c7,"Hello, I'd like some help. Rousing music, please.",music-search
+music-2,dlg-05ed5b58-3fc6-4811-95f5-c743c4b9a6b6,I would like to hear music from Nirvana.,music-search
+music-6,dlg-064127e3-1617-4bd2-a2e4-c4e2849c6d3f,Hello. Can I hear a song from Katy Perry?,music-search
+music-7,dlg-06491c87-55bc-414e-a37c-9bad2839b3ef,"Hi. I'd like to discover some new music for me, please.",music-search
+music-5,dlg-067f0e05-6569-4476-89c2-31d1ea27fae7,"Hi, can you find some music for me that's from Bob Dylan?",music-search
+music-6,dlg-06948b86-68c3-45f0-997f-9452bf16de6d,"Yes. Can you play something from the band Mötley Crüe, please?",music-search
+music-5,dlg-069e1672-2493-430b-9cbe-c5a95baa48b8,"I'd like some help browsing the music of The Beatles, please.",music-search
+music-6,dlg-06a44eb0-36df-4652-9c81-2062ce3e4e69,Could you play Dr. Dre?,music-search
+music-6,dlg-06b7d2f9-b938-48b6-9bb6-8e91ce4d0174,Can you play me a song by Taylor Swift?,music-search
+music-6,dlg-06da7231-8017-4a8c-a6b7-619543923383,"Hi, Can you play me a song by Taylor Swift?",music-search
+music-4,dlg-06f41553-e731-4307-bc8b-654e0ed8ad56,I'm interested in listening to the band The Who on YouTube.,music-search
+music-1,dlg-070bb8a3-fa36-40dc-9fc3-a597d08cb237,"Hi, I was interested in hearing some music by Radiohead.",music-search
+music-4,dlg-070c8a65-14ad-4b4b-921b-803346ff7627,I would like to hear music from the artist Skrillex.,music-search
+music-5,dlg-0713199a-cc36-420e-b95f-5723a232f032,"Hi. I was wondering if you could play something by Jordan Lucas, please.",music-search
+music-2,dlg-073f7039-1e2c-4b2f-a34d-277137c72027,Hi. Today I'm looking to hear some music. I'm hoping that you can find the song Spit Out the Bone by Metallica.,music-search
+music-8,dlg-075014a4-8472-4596-b812-206b9fd4e065,Can I hear something that's not so quiet and rock music?,music-search
+music-6,dlg-075e7692-8704-458d-8bab-0230ef37377d,I'd like to listen to some music by Kiss.,music-search
+music-7,dlg-077eb9dd-61b5-4c6a-a4d5-3b5f04585804,Can I hear some Screamo music?,music-search
+music-7,dlg-07d7b6cf-1835-437f-8894-6016f4889b77,I would like help finding new music to listen to.,music-search
+music-6,dlg-08988584-a4aa-48b0-9cfd-07da69844dbd,"Hello, I'd like to hear some music by the Bee Gees.",music-search
+music-6,dlg-08d121b5-d7a9-4e15-b743-e0b92ab21888,Can you play something by The Quick?,music-search
+music-8,dlg-08ff762c-d649-4256-bc5e-4a1c0887bd4a,"Hello, I'd like some help browsing blues music, please.",music-search
+music-4,dlg-09577ca1-cd7d-4676-9c96-bdd7d534eae2,Could you play songs from Little Mix?,music-search
+music-7,dlg-095f35ec-efab-4bae-bf7c-3766f21b3cb7,Can you help me find new music to listen to?,music-search
+music-8,dlg-09abd449-4640-4ac5-9032-3709eb3cfdf7,Play some hip hop.,music-search
+music-5,dlg-09bf7306-5809-4e50-93df-0704ccb8ca04,"Hi, Can you play My Love by Wale, Please?",music-search
+music-6,dlg-09ee312d-5d89-4b7d-9cd0-751862ca8344,I'd like to listen to some music by REO Speedwagon.,music-search
+music-4,dlg-0a17eac6-1c65-4341-b3f7-14cb25af5904,Hello. I'd like to hear a song by Joanna Newsom.,music-search
+music-2,dlg-0a310e1f-8731-4407-a025-228e023d4785,Hello. I'm looking for a song by Stone Sour. It's called Bother.,music-search
+music-4,dlg-0a373c79-1669-4080-a700-596cbc0a5638,"Hi, Could I hear something by Katy Perry, please?",music-search
+music-7,dlg-0a3f7be2-4e84-4820-b878-8bb737588e93,"Hi, could you help me find some new music to listen to?",music-search
+music-6,dlg-0a6163d1-d3c6-4605-b2de-50bc1dd16ea3,I'd like to hear some music by Linkin Park.,music-search
+music-5,dlg-0a78a495-b96a-43b5-b63a-8d73d4a964a8,Hello. Can you play some some Britney Spears?,music-search
+music-6,dlg-0ab4f6e1-72e6-4051-8437-ab8e02a8d107,I'd like to hear a song from the Australian band Midnight Oil.,music-search
+music-5,dlg-0ad01593-4079-4a23-ad36-8531cfde5c00,Hi. Can you play me a song by Selena Gomez?,music-search
+music-6,dlg-0ae8ee38-78d9-4c84-8fef-6fa40b2ec524,Hello. Can you play me some music by Of Monsters and Men?,music-search
+music-7,dlg-0b00d120-160b-4d6d-a4b0-14e5db9c5b6f,Hi. I need some help in finding some new music to listen to.,music-search
+music-2,dlg-0b1bb866-7e2e-4760-b2ce-9bd4b5571eee,"Hi, I want some music to listen to. How about something by The Police?",music-search
+music-4,dlg-0b38c9b9-442f-4238-81ee-d8475550f9d3,Please play something by Radiohead.,music-search
+music-5,dlg-0b4f76ed-d99e-4e5b-b0fa-fce696975abc,Can you play something by Neil Young?,music-search
+music-5,dlg-0b8ae3ca-1522-4079-a3d9-9f0c0ee7d136,Hi. Can I hear a song by J Cole?,music-search
+music-4,dlg-0ba9331b-2b62-4ed8-bafe-5dae1b2b76b2,Hi. Can you play me a song by OneRepublic?,music-search
+music-5,dlg-0bd4a20a-cbc3-4980-952d-c8dac6db05c9,I'd like to hear some music by Taylor Swift.,music-search
+music-5,dlg-0bfcdbe7-a3ba-4bd7-bb94-4fe475a1781a,Hi. Today I need your help finding a music to listen. I have an artist in mind. I'm looking for a song called Kiara by Bonobo.,music-search
+music-5,dlg-0c162b50-a858-4728-a0ac-d851aad26a9f,"Hi, can you play something by Drums & Tuba?",music-search
+music-8,dlg-0c2b80b8-86eb-4f0c-bc45-89850d5dacb9,"Hi, I'd really love to hear some rock music.",music-search
+music-5,dlg-0c84bacd-2109-4f09-a582-9b9e08127136,Hi. I was looking to try to find some music to listen to.,music-search
+music-5,dlg-0cbbddbc-6ef8-431f-9970-c449843575fa,"Hi assistant. I would like to hear some music by Queen, the band Queen. Can you help me?",music-search
+music-6,dlg-0d3b543b-a733-4928-aa5f-da593bf4d96c,"Can you play something from the band Creed, please?",music-search
+music-7,dlg-0d7ad96e-dd7f-402f-9b7e-76ed76af2327,I would like help to find new music to listen to.,music-search
+music-6,dlg-0dcf3aa4-2809-481e-953e-d6ad4ae7054b,I'd love to listen to some music by Eric Clapton.,music-search
+music-6,dlg-0e152b53-4a07-4504-889b-bacb052bf360,"Hi, I need help browsing for music to listen to. I'd like to hear Sara Bareilles.",music-search
+music-8,dlg-0e3816b4-ad3d-4f96-a122-2277f1b2df75,"Hi, can you help me find music? That's in the journal of Coffee House Type Music.",music-search
+music-6,dlg-0e5bdab8-c0e5-4379-9525-aada80423be6,I'd like to hear Wavves.,music-search
+music-7,dlg-0e7e1f47-92cc-4b8e-9b01-26372dc87ea7,"Hi. Can you help me find new artists two, please?",music-search
+music-6,dlg-0ed41228-0e68-418c-a374-54a665203c4b,"Yeah, could you play me some Counting Crows?",music-search
+music-7,dlg-0ee6659f-8aba-4346-a073-8a927b99ca0a,"I'm looking for some new music. I have my guitar here, And I really like Neil Young, So I'm wondering if you can find an artist kind of like Neil Young.",music-search
+music-1,dlg-0f001a51-2b00-4603-b611-388b7f099952,Browse for music to listen to.,music-search
+music-6,dlg-0f5275e8-a168-4aef-a4ec-731d6152a02d,Can you play me a song by Mumford & Sons?,music-search
+music-6,dlg-0f5e99b2-01fb-4582-ad9d-f39e37dc2385,"Hi. Today I need your help in finding music to listen. I have an artist in mind. I'm looking to hear a song by Oasis, the band Oasis. The song is called Who Feels Love?",music-search
+music-7,dlg-0f71fb45-f6be-4548-bb49-2924aba3ef91,"Hey, can you help me find some new music?",music-search
+music-5,dlg-0faed27e-d9c7-4e1f-be8e-ffd5e3e474eb,"Hi, today, I need your help finding music to listen to a song by Metallica. It's called Sad But True.",music-search
+music-6,dlg-0fc30f7b-eda8-464d-b79d-f436d4d9f9c9,"Yes. Could you play something from the band Exodus, please?",music-search
+music-6,dlg-0fc83d42-76c2-4b85-b9fc-584ac8523fe9,"Okay, let's listen to something by Drake something new.",music-search
+music-7,dlg-10283d44-58c2-4796-b5a2-37edf39490a6,Hi. I am looking for some new music to listen to.,music-search
+music-6,dlg-103f2f68-064b-44bd-8cf8-1d832f159d80,I would love to hear some music by Michael Buble.,music-search
+music-6,dlg-105fc26d-ff18-4648-add7-7c7b4cbbc0b2,I would like to hear something by Taylor Swift.,music-search
+music-5,dlg-106affdc-059d-439a-9de2-24e5bdfa9a39,Hi. Can you help me by playing  the Fifth Harmony?,music-search
+music-5,dlg-106cea92-22e9-4e46-a28e-5df90f7c2d58,I'd like to listen to some music from REO Speedwagon.,music-search
+music-2,dlg-107299df-4bc3-43d8-9a6c-b506407bc486,"Would you play something from the band ""The Band"" for me?",music-search
+music-7,dlg-1082f939-13df-4f0b-a06f-9ac0f70f81ea,"Hi, I was wanting to find some new music, like Edge of Sanity and Opeth.",music-search
+music-6,dlg-108e738a-ca67-4d0c-8d49-67695be21f91,I'd like to hear music by The Chainsmokers.,music-search
+music-6,dlg-10ba5db6-bb9b-464d-a2bb-6c94b03a2d78,"Hi, I want to listen to some music.",music-search
+music-3,dlg-10baee1d-9f38-4b43-b909-427f34fc9b2b,Hi. I want to listen to some music by Mumford & Sons.,music-search
+music-7,dlg-114082ae-fb1e-452d-997c-2365c72d0e97,"Hi, I would like some help discovering some new music.",music-search
+music-6,dlg-119746fb-abcb-4682-b65d-b21fa804b135,"Hello, I would love to hear some music by Billy Joel, please.",music-search
+music-5,dlg-11ef74e4-5252-4eb8-9eb5-2e1c03bba937,Yeah. Can you play me some music by the Rolling Stones?,music-search
+music-5,dlg-1201ea87-88ac-4850-96a4-432046194433,Hi. Can you play Colombia Heights by Wale ft. J Balvin?,music-search
+music-4,dlg-122ef00a-c3da-4ecf-8c0f-d3b0e4c89b31,I'm looking for some music by Beyond Creation.,music-search
+music-6,dlg-1262fa53-ba71-45db-95fa-aefe955d2ff7,Hi. I need help with browsing for some music to listen to. I'd like to have something from Justin Timberlake.,music-search
+music-4,dlg-12717895-58d3-4631-838c-ef0f39acebfa,"Hi, could you play me something by The Counting Crows?",music-search
+music-6,dlg-12d1f83c-e31e-4b4e-84d9-390f894c673a,How about some newer R.E.M. off of their Something off their last album that they put out.,music-search
+music-5,dlg-13138f74-ac9a-4a3c-8005-4266750101c9,Hi. I was trying to find some music and I was wondering if you'd be able to help me with that.,music-search
+music-4,dlg-1397b097-e11c-472d-bcd3-28c122ca335c,I'd like to hear something by Stevie Nicks.,music-search
+music-2,dlg-13a85a2d-be3e-4593-8c10-d631144dd8d8,Hello. I am trying to browse some music and I was looking for some stuff by Rick Astley.,music-search
+music-7,dlg-1473b9e3-6bfc-4576-bb9a-1fcf886cee20,I was looking to find some new music to listen to.,music-search
+music-8,dlg-1478de55-8e27-40f9-8fde-4717a6d522d3,"Hi assistant. I'd like to hear some rock music, please.",music-search
+music-5,dlg-1489795b-5f33-44b4-893e-e2848ee44a10,Hi. Could I hear a song by Adele?,music-search
+music-6,dlg-14f5124b-c601-4901-a5e1-00e4a5cb0efb,I'd like to hear something by Kiss.,music-search
+music-2,dlg-14fe5b18-c24d-423e-8e51-4f1550c5c3fa,Could you play me a song by Kelly Clarkson?,music-search
+music-7,dlg-1550c88c-4356-40dd-a6ac-7614259fd358,I'd like some help discovering some new to me music.,music-search
+music-4,dlg-156fbb97-c80f-44ed-9904-3333d5b94451,I'd like to listen to some music by Linkin Park.,music-search
+music-6,dlg-15be3d2b-3213-4205-afc9-bef905202430,"Hi. I'd like some help browsing the music of the Zac Brown Band, please.",music-search
+music-7,dlg-15d61947-5f2c-4f4c-8578-a921b080876d,Hi. Can you help me to find something new to listen?,music-search
+music-8,dlg-15f01605-5141-4df7-979a-2e5a126dddcf,Could you play me some R&B music?,music-search
+music-4,dlg-167624d7-97b9-4c54-8580-0d1869ab8927,Hello. Can you please play some August Burns Red for me?,music-search
+music-6,dlg-167a8caa-f961-41a5-9a14-7a3ff19ff52b,Hi. I'd like to hear something by Rise Against.,music-search
+music-7,dlg-1685ce65-b76c-4148-ba60-658baac1a3ac,"Hi, I would like to hear some music, similar to Madonna. Can you find me something?",music-search
+music-5,dlg-16a25ad8-57ab-4c17-8aed-37b852872e55,"Hi, today I need your help finding music to listen to. I'm looking for a song by the band Oasis. It's called Go Let It Out.",music-search
+music-7,dlg-16bd906e-0c23-4f6a-8d5f-3b6ab19f61e7,Hello assistant. I'd like to find some music to listen to that would be new to me.,music-search
+music-5,dlg-16cd01cf-9d2a-4ac4-ab3f-630ab4a4dcf8,"Hi, I wanted to here some music Little Mix to listen to.",music-search
+music-6,dlg-16dd0c90-8903-4be5-a477-7c55904ac38b,I am thinking something by Matchbox Twenty.,music-search
+music-6,dlg-1781ecd9-dc49-4d64-9e67-8a42de07cb8e,Could you play me maybe something by Fifth Harmony?,music-search
+music-6,dlg-1782ab2d-af93-4e55-891b-204d48a644d1,Hello. I'd like to hear a song by Waka Flocka Flame.,music-search
+music-8,dlg-17881703-a860-4598-b2ac-7786e7c963d4,"I'm in the mood for some Reggae music. Can I listen to that, please?",music-search
+music-8,dlg-17b32f11-c5dd-4b2a-97b1-91a580e4ae39,"Hey assistant, I would love to hear some coffeehouse music. Something kind of mellow, I guess.",music-search
+music-5,dlg-17df3cf1-ea08-457d-a756-e69d8c76193b,Hey. I'm a pretty big fan of the band Loop. Can you find something on YouTube by them?,music-search
+music-6,dlg-17e0df90-ab5b-4573-8bc4-74254ef41f07,I want to discover some music by Crazy Penis.,music-search
+music-4,dlg-17e96e65-eafe-4001-be0d-1d624e487276,Hi. Can I listen to a song by Shawn Mendes?,music-search
+music-7,dlg-17e9a02e-a9d8-4501-a2cd-cc25d144d27b,I wanted to hear a new music. Look up Lady Gaga so that you play me an artist like her.,music-search
+music-5,dlg-187ae1e0-e73d-4b03-b1a4-b0f7113a1a90,I need your help finding music to listen to. I'm looking to hear a song by the band Oasis. It's called Don't Look Back in Anger.,music-search
+music-7,dlg-190ce451-f73c-460e-9764-a6757476b21f,Hi. I was looking to try to find some new music to listen to today.,music-search
+music-5,dlg-193c2b02-2845-4f6d-8984-7d49ecd8a053,Could you find me a song by All Star - Smash Mouth.,music-search
+music-5,dlg-1970360a-bc67-46f3-9d1b-bea4f484e923,"Hi there, I wanna listen to some music by Quo Vadis.",music-search
+music-5,dlg-19727358-415b-42a1-a894-92d354c75315,"Hi, I would love to hear some music by Katy Perry. Can you help me?",music-search
+music-2,dlg-198df3bd-ed14-4ae0-bea6-ef3c8f334616,"Hi. Can I hear Nickelback, please?",music-search
+music-6,dlg-199342b9-e44a-44bd-9b89-1b75dd3f5698,Hello. Can you play something by August Burns Red?,music-search
+music-6,dlg-19f2f595-404b-421d-9dd9-0d730387f6a3,I like to listen to the band Kiss. Can you play a song by Kiss for me?,music-search
+music-7,dlg-1a1519ce-ed79-4d8d-88b7-9589a91ec122,Hi. I was wondering if you could help me in finding some new music to listen?,music-search
+music-8,dlg-1a20560a-e200-4bcb-a88b-f7c079152713,"Hello, I'd like to listen some Punk music.",music-search
+music-8-new,dlg-1a224477-a889-4ac2-9a0a-15898a7135ee,"Hi, I'd like to listen to some music. I'm looking for something in the classical category.",music-search
+music-6,dlg-1a820e49-d014-41d3-be1a-80896fa379d4,"Hi, can you play something by Asem Shama?",music-search
+music-6,dlg-1ac4601f-b132-49a5-ae8a-1faa1956e1da,Hi. I would like to hear some music by Katy Perry.,music-search
+music-7,dlg-1ac8e151-2e13-4d4d-a0a9-de7f4bda5b10,Hello Assistant. I'd like to hear some new music.,music-search
+music-6,dlg-1b0948dd-97ca-4563-a418-c597fae55de8,Hi. I'd like some help for browsing the music of The Beatles.,music-search
+music-7,dlg-1b2521d9-cd90-4f1a-be0b-cdac572e6537,"Hello, I'm looking for new music that's like Katy Perry.",music-search
+music-2,dlg-1b398946-d7ed-4f63-a9b9-6a2f4d5b9d3d,Can you play some music by Selena Gomez?,music-search
+music-5,dlg-1b41103d-7f62-4fd4-bf82-e837f8083f67,Hi. Can I hear a song by The Story So Far?,music-search
+music-6,dlg-1b497cf8-9879-4e82-a129-aeaea4b13edb,"Hi, can you play something by Joyner Lucas, please?",music-search
+music-5,dlg-1b4d01a1-6c14-48f3-8b09-d6292ac1b9e5,I'd like to hear some music by Blink-182.,music-search
+music-7,dlg-1b7dd2f9-2ca6-43cf-a44b-2474c1365db6,Hello. I'm looking for I don't know. Like a new band. Something like Indie. Something kind of popular. Could you help me with that?,music-search
+music-4,dlg-1b820e5d-c2d6-462f-b4b5-7cc640233711,I would like to hear music by Linkin Park.,music-search
+music-5,dlg-1ba0e110-1a96-4514-b494-f161896feeef,Can you play music by Tina Turner?,music-search
+music-5,dlg-1ba905bc-a325-4dce-bbd6-ff5f3be3cd9d,Play something by Radiohead.,music-search
+music-5,dlg-1bb856f6-4376-4a84-b0d8-264cb1f36057,Hi. I'd like some help in browsing the music of Florence and the Machine.,music-search
+music-6,dlg-1bbfd7e4-d001-45ce-a4a1-9c6bcfcfddbf,"Hello, I'd like to hear some music by Billy Joel.",music-search
+music-1,dlg-1bd5d7d4-079a-4f4f-a0e7-14980f702f39,I'd like to hear something by Beyoncé.,music-search
+music-6,dlg-1be0b15c-5348-4415-928b-8e5fa07035f4,Hello. I'd like some help browsing the music of Justin Timberlake.,music-search
+music-6,dlg-1bebbdb4-6bc4-4b98-8506-452be328467f,"Hello. Today, I need your help finding music to listen. I'm looking for the song Eyesdown by Bonobo.",music-search
+music-5,dlg-1c545ae4-7a05-4398-b0d0-42c859158345,Pretty good. I'm interested in hearing a song by The Police. Can you find something on YouTube for me?,music-search
+music-4,dlg-1c684c63-a220-4780-b960-c559be553a6a,"Hi. Today, I need some help to find some music. I'm looking for a song by the singer Lorde. It's called Sober.",music-search
+music-5,dlg-1c734002-eef6-4537-9f95-212eef8d7fc9,I'd love to hear a song by Bruce Springsteen.,music-search
+music-6,dlg-1c800587-9165-4fc2-8eb1-c6c1cb7b20da,"Hi. I'd like help browsing the music of Josh Groban, please.",music-search
+music-7,dlg-1ca9a7b0-a9b8-44db-92ae-25b949317d3c,Hi. Can you help me find an artist like Of Monsters and Men?,music-search
+music-5,dlg-1cc56d5d-34ea-4bbd-ba92-f0d8c3a406ab,"I'd like to hear something from The Beatles, please.",music-search
+music-6,dlg-1cc84566-3427-4ed4-bec0-d74c6b0d4194,Hi Assistant. Can I hear a song from The Knack?,music-search
+music-5,dlg-1cd31028-c80b-427c-a3de-418e71eb10c5,"Hello Assistant. I'd like to hear some music by Barry Manilow, please.",music-search
+music-7,dlg-1d0a6823-321a-4e02-ab38-611f1787224d,I like the band Lord Huron. Could you play me two new artists that are similar to them that I haven't heard before?,music-search
+music-6,dlg-1d716b38-7e6f-41f9-8a4b-ef3603791026,Hello. Can you play a song by Taylor Swift?,music-search
+music-7,dlg-1e06c1d8-aeb4-4431-b0a9-f349f8537146,Hello. Can you play some music similar to Logic?,music-search
+music-5,dlg-1e2a1151-efd4-43c6-8aa7-0750c386e212,Hi. Could you play me a song by Little Mix?,music-search
+music-7,dlg-1e356fb3-dc18-4a3d-b568-2d04045d4539,I'd like to listen to some Hank Williams.,music-search
+music-6,dlg-1e44a392-4f6c-485a-8d66-1a60b367dac6,Hey. Can you play something by James Taylor?,music-search
+music-5,dlg-1e58cfc6-c05f-4417-9420-699e1614ea4a,Hi. I'd like to listen to some music by blink-182. Can you help me?,music-search
+music-1,dlg-1e5cad57-6996-4a78-bb38-e7868b974d00,"Hi, I would like to hear something by the Zac Brown Band.",music-search
+music-6,dlg-1e77ad95-d401-4f56-93a0-5fada1876901,I was thinking about something from Mayer Hawthorne.,music-search
+music-4,dlg-1e8bc96f-c4df-4717-a12e-66e777007318,"Hi, I'm looking for a song by Usher.",music-search
+music-5,dlg-1e8e52ae-9ab2-4b14-891f-b6e9c9a6cf77,Hello. Could you play me some music by Taylor Swift?,music-search
+music-5,dlg-1ea02699-9b43-44cd-8cf0-c4344e908fb4,"Hello, I was wondering if you could play me something by Aerosmith?",music-search
+music-2,dlg-1eb3bb94-4e59-4734-ab9b-604f49bd1031,I would like to listen to some music from Skrillex.,music-search
+music-8,dlg-1ec82589-0bc5-4623-b542-c5c807dcb125,Hi. I'd like to listen to some music. I like some Latin music.,music-search
+music-5,dlg-1ecbf09c-3eae-487e-8243-3dc4e75f6ed6,"Hello, I'd like to hear a song by Taylor Swift.",music-search
+music-5,dlg-1eda109e-3122-4876-94cb-0eecc56ca8bb,"I'd like help browsing the music by Norah Jones, please.",music-search
+music-5,dlg-1ef9ccf0-53f8-4c91-9722-df4682e60949,"Can you play a John Lennon song called Starting Over, please?",music-search
+music-7,dlg-1f09a494-08ea-4bd3-b661-45ca648d540a,"Yeah, I was wondering if you could help me find some new music. Maybe something that sounds a little like Lenny Kravitz.",music-search
+music-1,dlg-1f3201df-105c-4eb2-9dda-f4afec8d7a1c,Can I hear some Nirvana?,music-search
+music-5,dlg-1f51f3bb-f8da-48ca-8451-dcc723845c6b,I was wanting to listen to something from Septicflesh.,music-search
+music-6,dlg-1f99514d-4555-460d-be3a-e94beed5e28a,Hi. I was wanting to listen to something by Opeth.,music-search
+music-4,dlg-1fb67207-3de0-46e5-9211-7533a1f16571,Hi. I'd like to hear some music by Duran Duran.,music-search
+music-5,dlg-20adeab5-9295-4d07-a3e1-e5d1e2e1e46b,I'm a big fan of the Grateful Dead. I'd like to hear a video of them on YouTube called A Touch of Grey.,music-search
+music-2,dlg-20d2a1a4-4df6-4d52-ac36-38f768ca5996,Can you find me something newer by Katy Perry?,music-search
+music-6,dlg-20e005c8-7e72-4aa5-adb5-26092f29f276,"Hi. Can you play music by 50 Cent, please?",music-search
+music-5,dlg-211f0e9b-015a-42d0-8a1b-60ade19c1312,I'd like to listen to some music by Foreigner.,music-search
+music-6,dlg-218116bb-7bee-4fce-a219-2d9c4b5bc838,"Hi, I'm looking to listen to some music by Beyond Creation.",music-search
+music-5,dlg-220244dc-cf43-4741-9217-c62ede71e43f,"Hey, I'm looking for some music to listen to. Can you play something by John Denver?",music-search
+music-4,dlg-220d7e3c-7442-4d16-a1a9-0f103fd72161,"Hi Assistant, I would love to hear a song by Macklemore.",music-search
+music-5,dlg-22215449-a9cc-49ef-aa4f-5031bc86074d,"Hi, I was wanting to listen to some music, I was thinking something by Confined.",music-search
+music-7,dlg-22232102-d9f6-4865-9a77-a9435600075d,"Hi Assistant, I need help finding new rap music, please.",music-search
+music-8,dlg-223f8028-81b8-40a3-baec-fa4dee2187d6,"Hi. I'm in the mood for some music, how about some holiday music?",music-search
+music-1,dlg-224954e1-94b5-482a-8776-a1f0f4b6b815,I like to hear something from the band Slayer.,music-search
+music-7,dlg-224a63cb-fa1a-45d8-8092-085652013852,"Hey, I'm a big Blur fan, can you find me someone like Blur to listen to?",music-search
+music-6,dlg-22715b3e-5dfa-4c54-9a98-fed00cde284a,Hi. I'd like some help browsing music on YouTube for the group Chicago.,music-search
+music-5,dlg-22bebd98-34c3-4077-a0a4-3846782aa99b,Hello assistant. Could I hear some music by Elton John?,music-search
+music-6,dlg-22d3be75-9a45-4e32-9829-ac0befd0b0c6,I want to hear something by Owl City.,music-search
+music-2,dlg-22fc5ca5-5562-4fb8-ac93-ce3b6f200b8c,Hi. I want to hear some music. Can you play something by Krist Novoselic?,music-search
+music-5,dlg-230aab5a-efd9-48c4-8f77-be2698019111,I wonder if you would play for me a song by The Psychedelic Furs.,music-search
+music-6,dlg-23429902-c87f-40d8-bfb3-7e2fd0dab55c,I'd like to browse for music to listen to.,music-search
+music-8,dlg-2353ad12-2d40-40ad-ad34-2b5c6e0dea1e,Hi. I would like to hear music that is classical.,music-search
+music-4,dlg-237020fb-5bf3-478f-b392-93da5967a218,I'd like to hear some music by Green Day.,music-search
+music-5,dlg-23a11c1f-5bf6-4075-93e5-de1e5bc70c22,"Awesome. Well, I'm looking to find a song by Pretty Lights. It's called Cold Feeling.",music-search
+music-6,dlg-2410b000-2223-4d47-bd5c-e09dadee4534,I'd like to hear something by Adele.,music-search
+music-5,dlg-24127be3-cd09-4a22-b3e7-b4300a3c38c1,Play me music by Little Mix.,music-search
+music-5,dlg-2482dc4d-2bbb-4a1b-a4e6-47afa7a5c403,Hi assistant. I'd like to hear some music by the Bee Gees.,music-search
+music-7,dlg-248ba63c-0940-4d83-99d9-493f682eb2fd,"Hey, I was looking for some new music to listen to. Can you help me?",music-search
+music-5,dlg-24b7444c-9187-48ce-b6ce-ef255ab103ae,Hi. I'm trying to get your help to listen to the music. Maybe something by Babymetal?,music-search
+music-5,dlg-24cb1a41-bdf4-4e2a-a327-1c1f06c04fad,I want to hear music by Little Mix.,music-search
+music-7,dlg-24f77872-8b22-4169-bb37-d60ca4b79aa1,I would like to be introduced to new music to listen to.,music-search
+music-8,dlg-251b38af-51b9-43bf-8683-4de7ecd998b4,"Hi. I'd like some help browsing music in the hiphop genre, please.",music-search
+music-7,dlg-25580a6e-a44e-4d35-b892-c29861c80c76,"Hi, I like Kelly Clarkson. Could you play me a new artist that' similar to him?",music-search
+music-5,dlg-25773cca-9957-47a1-9c98-13fa847a6a97,"Can I hear this same song by a different artist, please?",music-search
+music-7,dlg-25b1b2ae-1956-435d-bae8-5c71ce7b3f64,I'm looking to find new music to listen to.,music-search
+music-7,dlg-25c04843-b7ac-4e0c-9d5c-19668ccb1ec8,"Hi, I'm looking to find some new artists to listen to.",music-search
+music-7,dlg-25d59517-d45b-4136-b0f5-dab4241a5dc5,Can you play some music for me?,music-search
+music-2,dlg-25faefa9-c99c-45f0-bef3-e8f662d9a199,Yeah. Could I hear something by Christina Aguilera?,music-search
+music-1,dlg-25ff6af6-38b7-49a5-8de5-62a02219c02b,I want to hear something by Disturbed.,music-search
+music-4,dlg-26716119-d3d2-410a-b7d0-fde250bc4c20,"Hi. Today, I need your help finding music to listen to. I have a band in mind. It's by Oasis. The song I'm looking for is called Supersonic.",music-search
+music-6,dlg-267880d9-b151-439c-991b-d7ae9c8b69fb,Today I need your help finding music to listen to. I'm looking to hear a song by the band Oasis. It's called Going Nowhere.,music-search
+music-5,dlg-26b65a39-937a-4324-852b-1901fa3ed776,Play Adele.,music-search
+music-4,dlg-26b881e2-ac03-4666-9e7d-6d8bf9f778c3,Play a song by Alkaline Trio.,music-search
+music-7,dlg-26b89c64-2447-4dd3-b3c0-949ae957bc67,"Hi, I'd like some help in browsing new music.",music-search
+music-7,dlg-26d55f1a-7bda-47cc-a740-105ac115ba99,"Hey, I'm looking to find some new music. Can you help me with that?",music-search
+music-5,dlg-26d7d907-4aa4-4e54-ae65-c837191509dd,"Hello, can you play some music by Wage War?",music-search
+music-6,dlg-26fbb6b2-043d-4d85-ab7c-57967336c7d5,"Hi, I want to listen to something by Dying Fetus.",music-search
+music-1,dlg-271991d9-5e18-4e2c-bb6f-d5addbf89b05,I would like to hear a song from The Beatles.,music-search
+music-6,dlg-272ff01e-88e9-4d7e-bab8-41eb13111e6d,Hi. I would like to listen to a music.,music-search
+music-5,dlg-27cf6865-bdec-4f43-bf68-5dbdc39d9940,"Hello, I'd like some help browsing some music, please.",music-search
+music-5,dlg-286e7fed-c873-4dd4-b64e-b7aa6a79144f,"Hi, could you play some music by The White Buffalo?",music-search
+music-8,dlg-289de558-8523-4e12-9ca2-9b7bf71cb250,I'd like to listen to something in the category of Latin.,music-search
+music-7,dlg-28aa2dd4-b29d-4327-9718-ef517915893d,"Hi. I need help looking for new music, rap music.",music-search
+music-6,dlg-28c9286c-bece-40ff-b1c3-73c431691ffa,I'd like to hear a song by one of my all time favorite groups. I want to hear Run-D.M.C. Adidas.,music-search
+music-2,dlg-28db0b72-b544-4f0c-85ec-9b83da76ad03,Hello. I need some help browsing the music of the Zac Brown.,music-search
+music-7,dlg-28ec2456-b3fd-47e5-b6f8-093db55f0252,I would like to listen some music by George Jones.,music-search
+music-8,dlg-29083eda-dcf8-45aa-a35f-bf2b135ef467,"Hi. I'd like some help listening to jazz music, please.",music-search
+music-6,dlg-295010f4-f09e-4da3-9e74-914dc1cc614a,"Hi, can you play something by Wale, please?",music-search
+music-2,dlg-2976fd46-dcf0-499d-8e5a-087157e4d5fc,I would like to hear something by Joe Budden.,music-search
+music-3,dlg-29ba2788-84a9-4262-8f33-2e8ddd06a6e6,Hi. I'd like to look for some music to listen.,music-search
+music-5,dlg-2a0ca32b-ba43-4beb-bf95-cd940c7de142,"Hi, can I hear a song by Drake?",music-search
+music-7,dlg-2a516aca-06db-4e5e-9ffb-1baeb2d55701,Hello. I'm looking for some new music to listen to.,music-search
+music-7,dlg-2aa0cd3a-5ef3-44f9-a0eb-a34983e9bd91,Hello. Could you help me to find some new music?,music-search
+music-7,dlg-2ac58fd9-98e4-4dab-8d85-e0e16a1a7d55,"Hello, can you play some new artists that are similar to August Burns Red?",music-search
+music-6,dlg-2ac7f894-e721-4de8-ab98-cff42cd9c4a9,"Hi, I'd like some help browsing the music of the Zac Brown Band.",music-search
+music-5,dlg-2aeb2159-4335-4e4d-8818-612a27f9ea34,Hello. I'm looking for some music to browse.,music-search
+music-1,dlg-2b3f1c63-c9b8-4c23-984c-95fc4db912fb,"Hello assistant, I would like to ask you to play me something by U2.",music-search
+music-8,dlg-2bb38c7a-fc2a-4716-9eb3-0aaf80b81018,"I want to listen to some new some music. I'm into rock right now. So, Play me some.",music-search
+music-5,dlg-2be76374-178c-4bf9-8097-cd23330ccfac,"Hey, can you play something by Evergreen?",music-search
+music-2,dlg-2bf926b9-48ca-423a-a38c-0ee30de21d56,I'd like to hear some music by Paul McCartney.,music-search
+music-8,dlg-2c3415dd-2033-4f89-8cbf-2713a23566e6,Hi. Could you help me find some workout music?,music-search
+music-7,dlg-2c3a058a-3453-41e6-a3ae-79d62ddcba58,I want to listen to a new artist.,music-search
+music-6,dlg-2c79dea1-6786-47e8-b4d3-0bb46ba66939,Hello. Can you play some Katy Perry for me?,music-search
+music-5,dlg-2c82684d-49a0-449a-a850-f18a7cf6b1f8,"Hi, could you play me something by Guns N' Roses?",music-search
+music-5,dlg-2c9faadf-871d-4d38-967a-dc96673aacfd,I'd like to hear a song by Bon Jovi.,music-search
+music-6,dlg-2ca1f631-f9d1-4b98-9123-8b2711c1db85,Yes. Could I hear something by Led Zeppelin?,music-search
+music-7,dlg-2cdc91fc-994c-4de2-94d6-67a469e1ac86,"Hi, I need some new music to listen to.",music-search
+music-6,dlg-2cfe196b-61a9-4d27-bdda-81707cde9094,Hello. I'd like to hear some music by Kiss.,music-search
+music-5,dlg-2d2957b8-6e4f-4502-abff-8204f0790121,Hello. I'd like to hear some music by Katy Perry.,music-search
+music-2,dlg-2d3aa432-a884-46d2-a6a3-2bbaf78a9c3a,Yeah. I'd like to hear some music by Eminem.,music-search
+music-4,dlg-2d677219-7fa6-42d4-b912-5a8df2ee8046,Great. I'm thinking kind of folk Americana. You got anything like that?,music-search
+music-2,dlg-2d71a02c-1cf8-41ff-802b-62d9f3d09e8a,I need help finding music to listen to. I'm wondering if you can help me. There's a song by Rebelution called Safe and Sound. I'd like to hear.,music-search
+music-8,dlg-2d99686f-3e47-47c9-8e8f-3e41d26877be,"Play some rock music, Google.",music-search
+music-5,dlg-2daaf0d2-c4ef-4793-a337-7f3e6b931605,Hi. I'd like to hear something by Eminem.,music-search
+music-2,dlg-2dca540c-9a4a-4591-b3a2-379616ba93dd,"Hi, could I hear something by Elvis Presley?",music-search
+music-7,dlg-2e11635d-9fe1-4bc9-b79e-c614b09c4236,"George Jones, You Know who he is? He's a singer.",music-search
+music-5,dlg-2e3c9ad1-8076-4f99-8a2a-c9c4c3a1ed34,I'm interested in hearing a song by David Bowie.,music-search
+music-2,dlg-2e492d7c-3151-4b9d-aaf5-29a446477749,Can I get music from Breaking Benjamin?,music-search
+music-7,dlg-2ea00aa9-bb4e-4919-8477-5f7509263aa4,"Hi, I'm looking for some new music to listen to.",music-search
+music-2,dlg-2ed31a31-dcae-4efe-bb63-c4faafca2ba7,"Hi, can you help me listen to music of 'Monsters and Men'?",music-search
+music-3,dlg-2edec575-59fd-4006-bf1d-70d7c80757ac,"Can you play something by Metallica, please?",music-search
+music-6,dlg-2f06d783-92c7-4b07-85f9-d9fc76968912,"Hi. Can you play something by Joyner Lucas, please?",music-search
+music-1,dlg-2f724479-1ba6-4277-b728-a11751293b40,Hi. I would like to hear something by Claywood Mark.,music-search
+music-4,dlg-2f91af87-100f-42ee-9c79-2cba76c8d5b8,I'm interested in a David Bowie song. Is there something I can find right now?,music-search
+music-6,dlg-2f962028-fdab-4c2c-b8b9-46dbec5d968b,Yeah. Could you play me something by Sting off The Dream of the Blue Turtles soundtrack or album?,music-search
+music-2,dlg-2f9d0c33-dbb0-44d8-873c-02c531cae98b,I want to hear something by August Burns Red.,music-search
+music-6,dlg-2fe27293-0fe4-4ce0-a74e-49a09ba1a8e6,"Hello, can you play something by August Burns Red?",music-search
+music-5,dlg-2ff4752e-5f1a-4a60-b978-92d9c94c168c,Hey. Play something by J-Lo.,music-search
+music-7,dlg-300b8cd6-d683-4493-8a9d-96b4b4ccdbaa,"Hi, I'd like some help discovering new to me music.",music-search
+music-6,dlg-305c89ea-ffda-4072-8be7-7ff79daea740,"Hello, I'd like to hear a song by Bruce Springsteen, please.",music-search
+music-7,dlg-3069de40-3105-41a1-b34f-43eccce8944e,Hello. Can you play some music similar to Katy Perry?,music-search
+music-7,dlg-30b8a23e-6ad9-4ec2-b4bd-2154bb96a5ee,I'm trying to find new study music. Do you think you could help me?,music-search
+music-6,dlg-315f7b43-fd08-4235-a891-3948e7fc3dcb,"Hi, can I hear something by Sara Bareilles?",music-search
+music-7,dlg-3178ab26-d4bd-43a2-b93e-a04add8cc112,"Hi. Can you play new rap music for me, please?",music-search
+music-4,dlg-318996c1-4437-433c-8464-a602014829ba,Can you play some Third Eye Blind?,music-search
+music-6,dlg-31959ac0-c4d2-482f-9337-8982ca8b4543,Hi. Can I hear something by Adam Tell?,music-search
+music-5,dlg-31b577d7-b5da-45c5-a377-9593f2302374,Hi. Can you play me a song by Johnny Cash?,music-search
+music-5,dlg-31fbc50e-d7ac-446a-89cb-6f6a7d6a861a,"Hi, I want to listen to something by System of a Down.",music-search
+music-2,dlg-3258e5ea-dcf8-450e-ac32-acbdce153a0d,"Hi there, I need some help browsing music, please.",music-search
+music-8-new,dlg-325e6b6f-5438-44b7-ace3-7d0a3c69a6da,"I want to listen to some music, hip hop.",music-search
+music-5,dlg-329ade35-1357-4b29-929f-411d5a17fdb9,"Hi. Can you play music by Joyner Lucas, please?",music-search
+music-7,dlg-32a71684-8dc3-41b1-9fbb-b1d7a4e0074c,Hello. I'd like some help finding some new music to listen to.,music-search
+music-2,dlg-32e17974-dba6-4390-8934-2b9c912a1d9a,Can I listen to David Bowie ?,music-search
+music-5,dlg-32f8e108-82cd-4fbe-9d2c-14b57c774fa0,Hello. Can you play Invisible Enemy by August Burns Red?,music-search
+music-5,dlg-3342523e-809c-444d-9f2d-b2dcde00c3b9,Hello I would like to hear some music by Bruno Mars.,music-search
+music-2,dlg-33b8a909-0edd-463c-b50c-9b931f072db9,"Hi. Today, I need help in finding music to listen. I'm looking for a Rage Against the Machine song. It's called Sleep Now in the Fire.",music-search
+music-5,dlg-33c46192-1d17-4dc2-8519-8eb34d64d14a,"Hi. Today, I need some help finding music to listen to. Right now, I'm looking for a song by Yung Lean. It's called Hurt.",music-search
+music-6,dlg-33c89625-9f6b-4310-9302-8e9c573179a0,Can you play me a song by Madelyn Bailey?,music-search
+music-4,dlg-34220b41-7bd6-4de4-a878-833477c54f94,"Hello, Could you play me some older U2?",music-search
+music-8,dlg-3459bc0f-6d30-4452-9854-57ac45759fee,I want to listen to some reggae music.,music-search
+music-6,dlg-346483d9-5a8c-42fd-872b-24f848654ad4,"Hi, I was hoping you could play me some music by Bob Dylan. Some of his older music.",music-search
+music-1,dlg-3479151b-178f-4a17-a3d5-59b6db646c44,I'd like to hear Lil Wayne.,music-search
+music-6,dlg-349cbd06-f539-45f6-9e9d-0c2e8ab255df,"Hi, I'd like to hear some music by Barry Manilow.",music-search
+music-6,dlg-349e5572-750b-479b-b72e-d8fdd6dbcec9,"Can you find some YouTube music videos for me to play, listen to while I drive home?",music-search
+music-6,dlg-34df3f9e-841a-4431-88a9-42d730ff16ca,I'd like to hear some music by Katy Perry.,music-search
+music-6,dlg-34ec6fe7-8f7f-40a6-9f24-1dc29881e07a,Hi. I would like to hear something by Katy Perry.,music-search
+music-8,dlg-3532caba-6a18-45ba-8c4b-0baf44f90259,Hi Assistant. Could you help me to find some pop music on YouTube?,music-search
+music-6,dlg-353d2925-0097-4214-9e35-a6d9c5d8d241,"Hi, I'm looking for music to listen to. Can you help me find Sia on Letterman?",music-search
+music-5,dlg-353d9060-ec0b-4d1a-b44f-f7343e92cc3d,Hello. Can you play something by Slayer.,music-search
+music-5,dlg-3542a494-9ecd-4c64-aab5-8bdcf2e4c90d,"Hello, I'd like to hear some music by Michael Buble.",music-search
+music-2,dlg-355fbbe2-9fd7-4dd7-ae8d-39ca50f9bd09,I'd like to hear some music by Justin Bieber.,music-search
+music-6,dlg-35ab2f5c-910b-4c9d-b402-24e07a550a6d,Could you play me a song by Fifth Harmony?,music-search
+music-2,dlg-35ed9e86-3926-490c-9fc6-7667037aac12,Time After Time. That's one of my favorites.,music-search
+music-6,dlg-35eff0a7-8aa7-4bb4-a8ac-6b6bb3fa7392,Can you play something by Fiona Apple?,music-search
+music-2,dlg-360c2b99-a078-4093-a138-338fc3d4f0dc,I'd like to listen to music from Linkin Park.,music-search
+music-7,dlg-361dd07a-6a06-4f19-84a9-2dbb2b2e481c,"Hi, I'd like you to help me find new music to listen to, please.",music-search
+music-5,dlg-365be3a9-36f4-403b-8a12-f29e2c54dbf8,"Hey, I want to get something by Paul Chambers. Can you find that, some music?",music-search
+music-7,dlg-36a73d8f-8051-4f0a-b11d-2126c620f610,Hi. I'm looking to find some new music.,music-search
+music-7,dlg-36b7d6ce-96d3-443f-98ad-c1c1351b7ed4,"Hello, I'm looking to hear some new music. I really like Michael Bublé and I'd like to hear something new.",music-search
+music-7,dlg-36bd63ac-6526-4517-976d-498cfaf67380,"Hi, I'd like to hear some music by Bruno Mars.",music-search
+music-5,dlg-371de0c3-a08e-469c-968e-417de90559ab,I'm having a party and I want to listen to music by the band Little Mix.,music-search
+music-7,dlg-379f0436-ad37-45a4-bde2-1fadcf27ab92,Hi. I'm looking for some new music to listen to.,music-search
+music-1,dlg-380c6b71-d930-4e51-b068-c706afed6cd3,"Hi, I'd like to hear something by Katy Perry.",music-search
+music-7,dlg-38643236-a75f-4629-876d-7177a9752366,"Hi, Can you play some new artists that are similar to Katy Perry?",music-search
+music-6,dlg-3879824f-8419-4d68-9618-3f3dd11bdd78,I want to listen to some music by Little Mix.,music-search
+music-5,dlg-38f60d3b-ed49-450b-978c-d759b3961191,"Hi, I would like to hear some music by Bruno Mars.",music-search
+music-4,dlg-390643f4-3ebb-4d55-bec7-7634c6077042,"Yeah, can you play me something by the Counting Crows?",music-search
+music-6,dlg-390da6c4-788e-4c46-bd42-83bab6d1b9bd,"Hi, Today I need your help finding music to listen to by Rapper Bones.",music-search
+music-6,dlg-391b1482-b9d0-43a6-a208-a4fc5b4fa9fd,Hello Assistant. Can I hear a song by Peter Gabriel?,music-search
+music-6,dlg-3935d673-9343-44ec-8e0c-208305522118,I'd like to hear some music by Fall Out Boy.,music-search
+music-5,dlg-39414292-bced-4414-8664-5fd560fd14f5,"Hello, I'd like to hear some music by Duran Duran.",music-search
+music-2,dlg-39a45443-031c-4717-b379-0cc8dea1f424,Could you play me a song by Bruno Mars?,music-search
+music-7,dlg-39e84341-fecd-4636-8128-7338fe0f6229,Yes. I'd like some help finding something new to listen.,music-search
+music-7,dlg-3a1081d7-996f-4389-8763-5a39ee5304bb,Hi. Can you help me find a new musician like Rhett & Link?,music-search
+music-5,dlg-3a1705df-69dc-435b-94b3-8cb3da7599cf,Hi. Can you play me something by the Counting Crows off their latest album?,music-search
+music-6,dlg-3a45413e-676f-43ff-ac96-5947b62400d3,"Hello, I'd like to help listening the music of Lady Antebellum, please.",music-search
+music-4,dlg-3a5bff81-2d28-4f40-a048-5b2bcbaa3ad0,I would like to hear something by Tina Turner.,music-search
+music-5,dlg-3b4b8cee-6fe6-49d7-9119-f83557d74075,"Hi, I'm looking for a song from the K-pop group Sistar.",music-search
+music-7,dlg-3b5b4eae-3356-4c4e-b457-1fe09bf16705,"I need help looking for new artist to listen to, please.",music-search
+music-6,dlg-3babbdd1-222f-4897-afbf-fa1e3a686bd8,Hi. Let me hear something by Taylor Swift.,music-search
+music-6,dlg-3bb26979-7c42-46a1-98cf-f2fcbfb127c8,I am looking for music by Jacob Banks. Can you help me find some music by him? Great.,music-search
+music-7,dlg-3bbc45ef-bb3c-49a5-8dde-b076a4b5a60f,"Hello. I'd like some help finding some new music, Please.",music-search
+music-7,dlg-3bd457bc-5f6f-46e1-a1e9-e598bb28fe42,"I'd like some help discovering some new music, please.",music-search
+music-5,dlg-3be540fd-d3eb-4a67-955f-2b117f4606fe,Can you play a song by Muse?,music-search
+music-6,dlg-3bec7cd8-9fb4-4851-959b-cbda967e61a4,Can you play something by Elder?,music-search
+music-1,dlg-3c0b1387-5b4b-45ce-8778-9242395dbb27,I like to hear some music from weather report.,music-search
+music-7,dlg-3c23ce86-8d66-48ff-824f-daf851b26ff2,"Hello assistant, I would like to hear some music by Bon Jovi.",music-search
+music-5,dlg-3c314693-1568-4f3e-acbf-3471919f824e,I want to listen to Little Mix.,music-search
+music-6,dlg-3c37cd6f-9252-48fe-b465-c475ce88db93,Hello! Can you play something by My Chemical Romance?,music-search
+music-5,dlg-3c9579ec-c94a-4584-8cd9-5da258e1c713,"Hi, I would like to hear a song by Michael Jackson.",music-search
+music-6,dlg-3cd4ff39-5388-4a22-a593-5477694ebbd2,Hi. I'd like to find some music by Johnny Cash.,music-search
+music-2,dlg-3d7919d0-c7c8-4a15-a444-5190b60b3733,"Hi. Today, I'm looking to hear some music. I'm hoping you can find it for me. I'm looking for a song by the band Tool. The name of the song is called 10000 Days Wings for Marie Part 2.",music-search
+music-6,dlg-3d8d945e-6ec8-4734-9a1b-1b2e0d38c6e4,"Can you play me some music by Kiss, the rock band?",music-search
+music-5,dlg-3da3192f-3b1b-4892-a969-9ed7e72d71d8,Can you help me with playing some music by The Mamas & the Papas?,music-search
+music-5,dlg-3e238163-b518-4cb6-818a-4a0830b7b392,Hey there. I was wondering if you would play some music by Joni Mitchell for me.,music-search
+music-5,dlg-3ede27f8-a2df-4157-b801-fa5a6a3728ce,"Hi, can you look for music by J.R. Writer, please?",music-search
+music-5,dlg-3f13ebaf-b85b-44e4-9df6-96ef1c5120f1,I'd like to listen a song by Alkaline Trio.,music-search
+music-4,dlg-3f622a9d-5edf-4216-93a7-2fa7c42a6971,I want to hear some music by Alessia Cara.,music-search
+music-1,dlg-3f8fd5e0-6aec-42b1-9ed6-252fdef41f65,"Hi, Play me a song by Queen.",music-search
+music-1,dlg-404a632e-e892-49e2-a0af-b216f4e95fde,"Hi, please play some music from Nas.",music-search
+music-7,dlg-408649a7-d05e-4344-a706-cea8ac0959a4,"Hi, I was looking to find some new music to listen to.",music-search
+music-5,dlg-40d8d8a9-292f-4f2d-94c2-c2603815bacd,"Hi, I need some help browsing some music.",music-search
+music-7,dlg-40efae1c-c19c-450e-884b-4ef3d0565e5f,"Hello, I'd like to find some new music to listen to.",music-search
+music-6,dlg-41454288-564d-4666-b708-5fb219aa6e48,Hi. Can you play me some music by Prince?,music-search
+music-5,dlg-41677389-1fd5-40ed-b3eb-cc7ef6736463,"Hi, I'm trying to get your suggestion for something to listen, and I'm looking for something by the band Linkin Park.",music-search
+music-8,dlg-4183980d-67d6-4410-b211-a3bc3b10d5f0,"Hello, I'd like to listen to something in the holiday music category, please.",music-search
+music-1,dlg-418af9ef-cab0-4e72-aeb8-ef93436cb69c,"Hi, I want to hear music something in the pop world. I really like the group Little Mix. Do you know them?",music-search
+music-7,dlg-418d03fe-c01d-48f4-b55d-8f8ca64771a8,"Hello Assistant, I'd like to hear some new music.",music-search
+music-1,dlg-419c03bf-2349-45cf-bdf8-fb28f8586b95,"Hi, I need to hear something from Mötley Crüe, please.",music-search
+music-6,dlg-41b6b245-344e-4bae-b361-c3787c7f9e5a,Hi Assistant. I'd like to hear some music by Celine Dion.,music-search
+music-5,dlg-41ba2bc1-f643-4da7-8b4b-0b5d89ea7a00,"Hi, I'm trying to get a song from the group Powerwolf.",music-search
+music-5,dlg-41d65e88-f602-47c4-a7b8-a34b2afb073d,Hello Assistant. I would like to hear something from the artist Tom Petty.,music-search
+music-6,dlg-42237864-7a92-4145-8fb9-d5f188ddff99,Could you play a song by Fifth Harmony?,music-search
+music-7,dlg-42446cef-dea5-4a04-a19e-1d0b8841865f,I'd like help discovering some new music.,music-search
+music-5,dlg-424f5dfe-ea9f-4fb6-ac3f-7785d2f49fc9,I'd like to listen to Nirvana.,music-search
+music-8,dlg-427695c5-ca4d-4dc9-bf06-121350cda398,Hi. Can I listen to party music?,music-search
+music-5,dlg-42bbda4d-0aa0-4f4b-985a-aea6d8d6b638,"Hi, I want you to suggest a song for me from the artist My Chemical Romance.",music-search
+music-2,dlg-42d9a779-5f76-46ea-a9fa-dda71f741208,"Can you help me find All Along the Watchtower by? Oh, god! I forgot his name, Jimi Hendrix, gracious brain fart.",music-search
+music-5,dlg-42e7b2ed-8c53-4e69-ab6d-ad7a28cf147e,Hi. Can you play a song by The Beatles?,music-search
+music-2,dlg-431027ca-fdad-43ce-baf9-a78cfd5c553a,"Yeah, can I hear something by Katy Perry, please?",music-search
+music-2,dlg-43964599-f13e-4486-a242-ee4feda5f524,I would like to listen to some music by Nickelback.,music-search
+music-6,dlg-43aef6b6-c400-499e-a16e-4588de0931db,"Hi, today I need your help finding music to listen to. Right now I have an artist in mind. I'm looking to hear the song Sleepy Seven by Bonobo.",music-search
+music-6,dlg-43b72d3d-36a0-41c8-846c-275869297397,Can you play some something new by Katy Perry?,music-search
+music-7,dlg-43ef54be-0378-4240-b2ed-8b65384f2c85,"Hi, can you help me find new music to listen to? I like the artist Flurry.",music-search
+music-5,dlg-448346c1-01f9-4e5d-ba44-93cf450d2d11,Hi. Can you help me find some music to listen to?,music-search
+music-5,dlg-44a73450-60d8-4e7a-9890-9f26a8488700,"Hello. I'd like some help browsing music, please.",music-search
+music-7,dlg-44f10c8a-ab56-4082-af53-e64800855bfc,I would like to hear some music by an artist similar to Katy Perry. Can you help me?,music-search
+music-7,dlg-45480212-b33f-42a8-86c8-6a5553c9847c,"Hello, I'm looking for music to listen to. Can you play something similar to August Burns Red?",music-search
+music-5,dlg-455284f0-b9f8-4a2f-bd2b-b7ab5ff5f37a,I'd like to listen to George Jones.,music-search
+music-5,dlg-456e0fdc-f0ea-4c06-b9b6-8a98b02d379a,Can you help me browse some music to listen to?,music-search
+music-8,dlg-45833501-133b-4ac9-a3e7-34f453437444,Hello. I'm in the mood for some acoustic covers.,music-search
+music-6,dlg-45bc0b2b-2ab1-498c-843a-1ae06d344fd9,Hi. I'd like some help in browsing the music by Josh Groban.,music-search
+music-2,dlg-45cd3df0-3fe5-4e18-bc07-9d736ed87183,Hi. Can you play music by Demi Lovato?,music-search
+music-6,dlg-45cf1b86-c041-4516-b336-4e7e841bf431,"Hi, today I need your help finding music to listen. I have a song in mind and some others. I'm looking to hear the song Underwater by Bassnectar.",music-search
+music-7,dlg-45e20ce6-7a5b-40b7-b429-d99bf5d66fd6,"Hello, I would like help finding new music to listen to.",music-search
+music-6,dlg-4613ccb4-f889-4b44-8721-648083235db9,I would like to hear some music by Linkin Park.,music-search
+music-5,dlg-4636cfdc-0f7b-481b-a37e-85fab67d248e,I'd like to listen to some music from Creed.,music-search
+music-6,dlg-466ddbe0-453d-4caa-bdcf-293a1dccad6b,"Hi, can you play me some music by Guns and Roses?",music-search
+music-7,dlg-46892158-949f-4649-b8ad-ec6437d01656,I like Beyoncé. Could you play me two new artists that are similar to Beyoncé?,music-search
+music-2,dlg-468c37fd-3d3f-46ba-a0c2-c8b986f60c47,Hey. I wonder if you would play me something by Janis Joplin.,music-search
+music-6,dlg-469a1052-97ae-4a80-90fb-bcff4e2413fe,"Hi there, I was wanting to listen to some music from Beyond Creation.",music-search
+music-5,dlg-46a91f57-c6f9-4124-bcb0-096cf1d28470,Hi. I'd like some help in browsing music Michael Buble.,music-search
+music-2,dlg-46b8d600-b6e8-485e-a1f9-b349961f61a0,Can you play Linkin Park In The end?,music-search
+music-6,dlg-46c17d9e-9c8b-4fb4-9e98-0b6c2a6e24b8,"Hi, could you play some music for me? I really kind of wanted to hear Idea Fire Company right now.",music-search
+music-7,dlg-46c7c665-6c52-4586-aa9b-4e1e25316707,Hi. I'm looking for something new music to listen to.,music-search
+music-7,dlg-46e685ad-4185-4f99-be9b-7521e2c8f9fc,"Hi, I was looking to find some new music to listen.",music-search
+music-7,dlg-46f3d10b-ec8c-4619-b563-9801aab53141,"Hi, could you help me discovering some new music, please?",music-search
+music-5,dlg-46f71662-a64f-4907-b807-08e5017cc23a,"Yeah, can you play me some R.E.M.?",music-search
+music-5,dlg-472ddf4d-4d55-4ff6-ad58-b05aea8e9d32,I'm looking for some music to listen to. Can you find some music by NYCC?,music-search
+music-7,dlg-4771e452-0c16-464f-805c-10e1f8bf60d2,"Well, I've heard of Bloodbath. I haven't heard of Amorphis.",music-search
+music-8,dlg-479a8c44-6649-488c-bffb-809e09e3c297,Hi. Can you find me some holiday music to listen to?,music-search
+music-6,dlg-47cb8031-13fe-460a-bac9-80bec80a96ce,"Hi Assistant, Can you play something by Wale, please?",music-search
+music-2,dlg-47f0704f-e600-49db-b609-aae98f85a25e,"Hi. I'm looking for some music to listen to. I was thinking about the Counting Crows, Maybe.",music-search
+music-8,dlg-4835722b-342c-498f-8be0-cfb34d17a39d,I want to hear pop songs.,music-search
+music-5,dlg-483e5a79-439b-466a-8f83-33f4c4a17d55,"Hello. Can you play Invisible Enemy by August Burns Red, please?",music-search
+music-8,dlg-485a4fdd-3f82-48ab-96ae-ad91be2a2596,I'd like to listen to R&B.,music-search
+music-7,dlg-485c04a9-cf43-452b-ace7-9aa0511de103,"Hi, Can you help me find some new tunes to listen to?",music-search
+music-6,dlg-485c53fc-9528-46ab-b34f-1fb37ac88cf2,"Hi. Could you play me some U2, please? Maybe something from one of their first albums.",music-search
+music-8,dlg-485ff7ad-db12-4dcc-9416-48930f375230,"Hi. I'd like to listen to some acoustic covers, please.",music-search
+music-5,dlg-486f5e17-af22-4cc6-b917-b7ddbcfae2e8,Can you play a song by Hans Zimmer?,music-search
+music-6,dlg-4891351e-be92-4bac-9384-df93ed50547c,Hello assistant. I would like to hear some music by Cyndi Lauper.,music-search
+music-7,dlg-48ee87ef-1bd6-4565-bcad-024acd661289,"Yes, I've heard of both of those. I'd like Noel Gallagher's High Flying Birds. Is there any music from them, like any new stuff? That'd be cool to hear.",music-search
+music-5,dlg-48f32b9e-4d00-4b57-a5fd-d1c8f97a262e,Hello. I hope that you'd be able to help me to find some music to listen to or browse for music.,music-search
+music-5,dlg-4919eef4-3cb0-4cd9-a098-651a56b71a89,"Assistant, I'd like to hear some music by Duran Duran.",music-search
+music-6,dlg-496d5b04-b940-4603-8ce1-f73229c654dd,Can you play me a song by Christina Perri?,music-search
+music-2,dlg-49dc9300-8e6e-40ab-ba83-0a9f4818daa9,I'd like to hear something by Pat Benatar.,music-search
+music-8,dlg-49f86012-0cc4-46df-909e-c1e262cee13a,"Hi. I'd like some help in browsing music in the pop genre, please.",music-search
+music-5,dlg-4a0426af-2df1-4509-aed0-85d9fb1eea54,I would like to hear a song by Justin Timberlake.,music-search
+music-7,dlg-4a25fc46-d3b3-4e04-8eb4-4e1b4d7a2845,Hi. I'm trying to find new artists to listen to. Do you think you could help me?,music-search
+music-8,dlg-4abc6c87-03f0-4c10-9754-47871dfcdbe6,"Hi, can you play me some classical music, please?",music-search
+music-5,dlg-4ac4c269-6a7e-4864-b2c6-f4c158a6a422,"Hi, I'm looking for music by Slaughterhouse.",music-search
+music-6,dlg-4ad71e5a-36bb-48b4-b91d-cca4a72c4412,Hi. Can you find me something by New Edition?,music-search
+music-2,dlg-4ad8492d-ff05-4299-be12-510e529a2d92,Hi. I want to hear something by the Beatles.,music-search
+music-5,dlg-4b2493a1-0e04-471d-9891-ea6e976457b9,Hello. Could you play me some music by Johnny Cash?,music-search
+music-7,dlg-4b4e2a86-9c2c-4383-8251-2c9e9943722f,Hi. I'm looking for new music to listen to.,music-search
+music-6,dlg-4b76f534-8a6a-43c6-8d99-815bfc201d80,"Hi. Today, I need your help finding music to listen to. I have some music in mind. I'm looking for a song called Flutter by Bonobo.",music-search
+music-6,dlg-4b76f7f7-6ea5-4c72-85e9-6bf5bf0bd5b6,Can you help me find some music on YouTube to play? I want to hear something by Sérgio Mendes.,music-search
+music-5,dlg-4b7a48dd-17a3-4359-a609-aeb07586fee3,I would like to hear some music by the Red Hot Chili Peppers.,music-search
+music-8,dlg-4b96b5ae-3353-4b63-801d-1ada38476d20,Play some coffee house music for me.,music-search
+music-2,dlg-4becba0b-d435-43db-b807-6230b134e4a9,"Get me something from ""The Beatles"".",music-search
+music-7,dlg-4c05e482-a586-4bf4-a033-7e579eb5ee2f,"Hi, I need help finding new music to listen to, please.",music-search
+music-5,dlg-4c29453d-36c6-4d5f-9a3b-4fb7633f768d,I would like to hear a Janis Joplin song.,music-search
+music-5,dlg-4c336191-86eb-46df-9295-3c5c54d9fc2d,Can you play another version?,music-search
+music-6,dlg-4c622655-b013-4e6a-a0e8-b4c0ab80c799,Hello! I would like to listen to some music from Coldplay. Can you find something for me?,music-search
+music-2,dlg-4cd8e99c-ccb2-4425-be9d-fce19ded1ce7,Would you mind playing me something by the artist Beck?,music-search
+music-8,dlg-4cf0dbee-d529-43ec-92c3-f8fc1eabadcd,I would like to listen to reggae music.,music-search
+music-6,dlg-4cfc71e3-87f8-471e-99c8-4d869bda3d86,"Hello, I'd like to browse the music of Chicago, please.",music-search
+music-6,dlg-4d373165-9e56-4afd-b709-2cc11de8833f,Let me hear something from Black Sabbath.,music-search
+music-5,dlg-4d6fd29e-919b-4a7b-b3bb-59918d1fc071,Hi Assistant. I would like to hear some from the Guess Who.,music-search
+music-6,dlg-4dd546fc-134a-4f32-b2bb-5a9f6a642098,Hello. Can you play some music by Katy Perry?,music-search
+music-5,dlg-4e6ecfb2-cdeb-4bb6-8753-3b47ecbc3c75,I was wondering if you could play some music for me.,music-search
+music-5,dlg-4e935edc-2057-4841-9de2-ed8ba8c05afb,Hello. Can you play some August Burns Red?,music-search
+music-6,dlg-4ea0b85f-8599-444b-a599-9d1fe15b89c2,Hi. Yeah. Can I hear a song by J. Cole?,music-search
+music-6,dlg-4eb279ad-320f-4216-ac76-2583b5def2c4,I'd like to listen to Johnny Cash.,music-search
+music-6,dlg-4f4d1b51-5c5c-4617-a448-9f3a0619a66a,Can you play something by The Vaselines?,music-search
+music-2,dlg-4f757e87-b775-404c-a1f6-3450813c992b,I would like to hear Shanice I Love Your Smile.,music-search
+music-6,dlg-4f7ff013-7650-4fc0-ab61-ed3bb05f80bf,"Hi. I'd like help listening to the music of Blake Shelton, please.",music-search
+music-5,dlg-4fbf1f46-c5fe-4e14-8e7e-b3313bce0154,Hello. Could you play me songs by One Direction?,music-search
+music-2,dlg-4fc356a6-52c9-4a7e-b444-4e4cc056c201,"Hi. Could I hear something by Katy Perry, please?",music-search
+music-6,dlg-4fd65559-3e41-433d-a50b-39130d3ce905,"Hi, could you help me find some music to listen to?",music-search
+music-5,dlg-4fe779b0-a491-47b3-bb52-87fccff4eae5,I'd like to hear some music by Linkin Park. Similar song by a different artist.,music-search
+music-6,dlg-5005d903-b862-4191-883b-5b194c3cd026,Hi. Could I listen to Fall Out Boy?,music-search
+music-6,dlg-50122574-cd6a-48b4-b468-6ceb66f090bb,"Yes, Can you play something from the band Megadeth, please?",music-search
+music-4,dlg-501a9a17-4d38-4fca-a85d-74d7743c9506,Can you play me a song by Jewel Vera?,music-search
+music-7,dlg-50388e22-59cb-4a62-a577-7e2af556f3b4,"Hi. I'm looking for a new artist to listen to, please.",music-search
+music-5,dlg-5067e261-4e92-46c2-811e-e016f8c27b9d,"Hi, I'd like to browse the music of Adele, please.",music-search
+music-7,dlg-5073205d-7d88-43d2-ad9f-6e5357b32130,Hi. I was looking for some new music to listen. I was kind of hoping for like Mudvayne and God Forbid.,music-search
+music-4,dlg-50a70ee2-ffee-4068-81ab-1b9fbbcefba3,"Hi, can you play some music by Wale?",music-search
+music-7,dlg-510f0f9b-8f2d-476e-ac11-28b1f5d1ccdc,"Hi, I'm looking for some new music.",music-search
+music-8,dlg-513401b7-52f6-47ff-b039-943c55be5374,Can I listen to Coffee House Music?,music-search
+music-2,dlg-515bdff2-f24b-4a38-8826-7064be2c8702,Hello. I'd like to hear some music by Billy Joel.,music-search
+music-6,dlg-516d9149-99a0-475d-845e-fd0d02d57bf7,"Hi, I'd like to listen to some music by Kiss.",music-search
+music-7,dlg-518a806f-129b-4a51-bfca-c825ef6e68ed,"Hi, I'd like to hear something based on Steely Dan.",music-search
+music-5,dlg-51924dac-017c-4433-a041-a2b44361a54f,I'm a big fan of the music group called The Mamas & the Papas. I'd like to hear a song by them called San Francisco.,music-search
+music-8,dlg-51a65804-4980-494a-8d7b-23a35e6bae09,Can you play something by Katy Perry? Or wait. Can you play something pop for me?,music-search
+music-2,dlg-51c51fde-7570-422b-95ae-0eb8b62efdca,Play a song by The Deer Hunter.,music-search
+music-2,dlg-51d91c57-b3c4-4292-9c75-f5ff9ada3967,I'd like to hear a song by John Lennon.,music-search
+music-6,dlg-51faa1d3-7730-47ea-8211-2da617ae8a7a,Hello. Can I listen to music by Lorde?,music-search
+music-7,dlg-51fae9bf-9614-4a53-8abc-92da21b7adb7,Hello. I need to find some new music to listen to that's similar to August Burns Red.,music-search
+music-7,dlg-520a31ea-2d3d-4183-a447-ed515b105eb6,Hi. Today I need your help in finding a new music to listen to. I'm looking for a song by the band Oasis. It's called Let It Out. Go Let It Out.,music-search
+music-8,dlg-526604f0-253d-4a99-ae5e-b4d4a771534a,"Hello. I'd like some help browsing classical music, please.",music-search
+music-5,dlg-5270531d-28d4-4fe8-92f7-455652393c74,"Hi, I'd like to hear something by Slayer, please.",music-search
+music-4,dlg-527b3aac-1349-413b-ba7e-813a28dc2a2b,Hi. Can you play me some older music from The Cure?,music-search
+music-4,dlg-52b3e148-681d-4fcc-9699-2f63fc7aa187,"Hi. I'd love to hear some Barry Manilow song. Can you find me a really good, fun Barry Manilow song?",music-search
+music-7,dlg-533008ef-ccb5-4cb9-ab31-6c66b48a93b8,"Hi, I would love to hear some music. There's a great song from '80's called My Sharona, something similar to that.",music-search
+music-6,dlg-535c0c10-6edd-4a0a-bd93-e0873e5fa667,"Hi, I'd like to hear some music by the B-52's.",music-search
+music-5,dlg-536e4528-4f98-457c-8ecf-5e57dca238ba,Hi. Could you play me a song by the band Fifth Harmony?,music-search
+music-7,dlg-53ec996e-5cbd-4749-9dfd-a51b741b7b1a,"I'd like to hear new music, please.",music-search
+music-7,dlg-53f53a1e-4031-4814-a394-f363392346b2,Hi. I was hoping to find some new music that's similar to Mumford & Sons.,music-search
+music-6,dlg-54336154-2938-454e-b2aa-fc382a12b2cd,"Hi. Today, I need your help to find some music. I'm looking for a song by Bonobo. It's called 1009.",music-search
+music-1,dlg-54355dd2-1c17-40ec-b686-6a631d333f3e,Hello. I want to hear a song by Prince.,music-search
+music-5,dlg-54389694-f127-44c9-a835-8c00e178c4b4,Yes. I would like to listen to Dave Hollister.,music-search
+music-2,dlg-5445566d-5a42-4c55-81b2-1c2bda0fd7fc,"Hi, can you help me find music by Mumford & Sons?",music-search
+music-5,dlg-546fffed-4008-4d71-a596-0d3b140c0e76,Hi! Could you play me something from Guns N' Roses maybe? How about something of Appetite For Destruction?,music-search
+music-4,dlg-54b4eb1d-bdea-439d-9d1d-e1d839a1b114,"Hi, I'd like to listen to some music by Twenty One Pilots.",music-search
+music-6,dlg-550db8be-c94b-45a4-9959-66d7cfc9a06a,Hi. I was wanting to listen something from Deadboy & the Elephantmen.,music-search
+music-6,dlg-554331cf-c84c-4192-9680-4c35f2fd2e2f,Can you play me something by the band Creed?,music-search
+music-5,dlg-554635ad-9093-4c87-8c38-a0c63b60e3cf,Hi. I need help to find music to listen to.,music-search
+music-5,dlg-55a1d981-1de2-4b6e-b229-9a7d042e1391,Hi. I'm trying to find some music to listen.,music-search
+music-6,dlg-55aaafac-da9a-4851-9f4d-eb029a137d39,"Hi. I'm looking for music from Huey Lewis and the News. Specifically, could you play I Want a New Drug?",music-search
+music-2,dlg-55e53a68-8a7f-4f9c-b3fd-9fec95fcf86d,I want to listen to August Burns Red Composure.,music-search
+music-8,dlg-5624c724-3f36-42f9-b6f6-c92cc1548a99,"I want to listen to some pop music, please.",music-search
+music-5,dlg-5681c939-060e-496f-bc11-dde5f033588f,"I'd like some help browsing music of The Beatles, please.",music-search
+music-6,dlg-56a56066-a56c-4a65-bad4-124dd52acb8c,"Hi, could you play me some Guns 'N Roses?",music-search
+music-6,dlg-56ca254a-9bab-47d4-833d-913395056815,I wanted to listen to some music by Septicflesh.,music-search
+music-7,dlg-5709df35-d5d2-4b6c-8281-ca9aced7f198,Hi. Today I need your help finding music to listen to. I'm looking to find something that's similar to Metallica. Maybe some musicians that are similar to them.,music-search
+music-7,dlg-570cbb07-a67f-472d-a8fa-4033213a127e,I'd like to listen to new music that I haven't listened to before.,music-search
+music-7,dlg-57136ab9-7167-45b2-b6a2-4fde9c151e31,I was looking for new music to listen to.,music-search
+music-8,dlg-57285a78-2847-4bee-bb7a-6e1493c585b7,Could you play me a pop song?,music-search
+music-5,dlg-574292b9-d55b-49c0-bc48-65c4136704a6,Hello. Can you play me something by The Cure?,music-search
+music-5,dlg-57505799-870d-453b-9993-c8d2a0bf1a1b,I'd like to listen to a song by NOFX.,music-search
+music-7,dlg-57c9be7f-cbdc-418f-adfa-8ed11ba23d07,I'd like some help discovering some new music.,music-search
+music-5,dlg-5834b772-9ed8-47ed-bf8d-c67cd851553a,Hello. I'd like to hear something by David Bowie.,music-search
+music-7,dlg-58353f98-a826-4d16-977e-6404e851f579,"Hi, I'd like to find some new music to listen tonight.",music-search
+music-6,dlg-5885d85d-cb6c-4f5a-99d6-2cf2c2013b2f,Hello. Today I need your help finding music to listen to. I'm looking to hear songs by the rapper Bones. I'm looking for the song Useless.,music-search
+music-7,dlg-588769e4-f5d6-4738-ad5d-1163a6d3765a,I'd like to listen to some music by George Jones.,music-search
+music-5,dlg-589a2563-b166-4cd6-a150-47c4a63780f4,Hey. I'm looking for some music. Can you play something by Demy?,music-search
+music-5,dlg-591e0a2c-364d-43b7-9206-7795aab7288a,I'm looking for some music to listen. I'm thinking something by Our Lady Peace.,music-search
+music-7,dlg-5926a818-fcca-453c-8486-4915033ede27,"I want to hear some music that's kind of like Mariah Carey, so I need to hear somebody I haven't heard before. Can you help me?",music-search
+music-3,dlg-5951d51a-99ef-43d2-aff2-d1dd74819252,"I'd like to hear a song by Rise Against, please.",music-search
+music-6,dlg-5962735d-4640-45d3-8136-3e9b0453ed71,Hi Assistant. I would love to hear some music by Katy Perry today.,music-search
+music-7,dlg-59c5efad-8dba-40d8-90bd-5a0c54f684d4,I need to find a new artist. My favorite is Kelly Clarkson. Could you play me two new artists that are like her?,music-search
+music-5,dlg-59dfc243-6e3f-4192-99fd-7f022bb79651,Could you play me a song by Mumford & Sons?,music-search
+music-7,dlg-5a4d2a98-8306-4c9b-aefc-fcb2985c5466,Could you help me find something to listen to? Something new to me. Something I haven't heard before.,music-search
+music-3,dlg-5a882a44-fbd1-4ce0-a2e9-fcd3a5984a07,Hello. I'd like to listen to a song from A Day to Remember.,music-search
+music-1,dlg-5aa18d01-aef6-4462-a5a7-25496a1cf4d2,I would like to hear something by Tupac.,music-search
+music-7,dlg-5af66681-cb16-4bc2-bae8-6cfc54c237d4,"Hi, I'd like to hear some new music today.",music-search
+music-5,dlg-5b05998e-5fa9-497b-ac11-1286448541ac,I am browsing for music to listen to.,music-search
+music-6,dlg-5b17b663-89d3-4e62-9a75-ed754276d94b,"Hi, I'd like to hear some music by Linkin Park.",music-search
+music-6,dlg-5b354e1d-2e89-4247-9bd1-e862fd8d67fa,Hi. Could you play me the newest Little Mix song?,music-search
+music-5,dlg-5b381804-3e0f-46ed-828b-6cadb7965334,"Hi. I'd like to browse the music of The Beatles, please.",music-search
+music-8,dlg-5bad3e11-7683-402a-82ea-0498e64da242,"Hi Assistant, can I hear some R&B music?",music-search
+music-8,dlg-5bc6e80b-0e6b-4316-aebf-c7d24c636336,Hello. I would love to hear some holiday music today.,music-search
+music-6,dlg-5be2cd4b-334c-41e2-8b4d-e329010e6c7f,I'd like to hear some music by blink-182.,music-search
+music-3,dlg-5c037573-280f-46db-8ed8-7c1322690d42,"Hi, can you play something by Creed for me, please?",music-search
+music-5,dlg-5c1e8ef4-32cf-41bf-bd3b-f5c293e55e64,"Hi, can I hear a song by Kendrick Lamar?",music-search
+music-2,dlg-5c21c103-5d20-4d86-8793-6361f78b908c,Hi. Can you play something by Slayer for me?,music-search
+music-7,dlg-5c2f10f9-5b84-422c-8881-1dd391a7c448,Hi. Can I listen to a new song by Green Day?,music-search
+music-5,dlg-5c4beb06-3d99-400a-abff-27bbf2e50cbe,Hi. I was wondering if you could play me some music. How about something by Led Zeppelin?,music-search
+music-6,dlg-5c9e0ffd-98ed-4ee4-a042-b27d38c2a8eb,"Hi, yeah. Can I hear a song by Drake?",music-search
+music-7,dlg-5d08dd03-8988-473d-8e89-c2a60e169b14,"Hi, I'd like to find some new music to listen.",music-search
+music-5,dlg-5dd2d4d7-aaf9-43a1-9397-949a0a35223f,Could I listen to Say Yes by Elliott Smith?,music-search
+music-7,dlg-5e155983-132d-4524-820b-96dfe0b93c4b,"Hi. Today, I need your help finding music to listen to that's new. I'm looking to find something that's similar to the Foo Fighters.",music-search
+music-1,dlg-5e3e1c26-a324-4389-9d7e-7ccdcbfc3af9,Play something by The Who.,music-search
+music-6,dlg-5edebb2d-7b32-44df-aa98-62a04509e9b8,Hi. Can I please hear some song by Prince?,music-search
+music-8,dlg-5ef35d17-3661-4bc6-a004-f5f1f304cae9,"Hi. I'm looking for some country music. Can you play something for me, please?",music-search
+music-2,dlg-5ef47e97-5c2b-4829-aabc-b31d4b07511c,Hi. Can you play a song by Adele?,music-search
+music-2,dlg-5f11f4b1-14a4-47b8-8a18-f136d5e142c4,"Hi, I'm trying to find a song to listen to, and I'd like your help.",music-search
+music-3,dlg-5f33e45d-64af-4ad8-946b-5dcce7e0f810,"Hi, I wanted to listen to something by Fleetwood Mac.",music-search
+music-5,dlg-5f4b6453-a24d-4171-9643-f7544cc55431,"Hi, can you play music by Wale, please?",music-search
+music-3,dlg-5f700c22-6168-4400-8349-21726382f319,"Hey, I want to hear Pearl Jam.",music-search
+music-4,dlg-6024a8e0-33f2-4476-aca0-a74c463f118d,I want to hear something by Nirvana.,music-search
+music-5,dlg-607070d4-e990-42c1-8d67-d91aec937130,Hello. I would like to hear music by Justin Bieber.,music-search
+music-5,dlg-608de517-df2d-4765-bcd2-33fb4e009dcc,"Hi, Assistant. Can I hear some music by Bruno Mars?",music-search
+music-6,dlg-60bcbf0f-02cc-4149-8273-7155e3dd4d6b,"Hello Assistant, I would love to hear some music by Michael Buble.",music-search
+music-2,dlg-60dc778f-a246-44a0-8c9e-db5979dceea6,"Hi, can you help me to find All Along The Watchtower by Jimi Hendrix?",music-search
+music-2,dlg-60dc79aa-6bca-428a-94b4-7e33d40ce7e2,"Hi, I'm looking to hear songs by the band Little Mix.",music-search
+music-5,dlg-611afc4d-7e9a-40ef-b2fc-22803da1a02e,"Hi, I am looking for some music to listen to.",music-search
+music-6,dlg-6153750b-5912-4f57-bc86-a922330be8df,"Yeah, I was wondering if you could play me some music, how about some R. E. M.?",music-search
+music-8,dlg-6162b880-d62d-48ca-816c-a4dbb3b35993,I want to listen to some country music.,music-search
+music-1,dlg-616c7973-c678-4acb-ab5a-3f0af92d6866,Show me a Nirvana song.,music-search
+music-6,dlg-61dba22f-1d88-456f-89c2-7ad7baf61aa6,Hello. Can you play some Linkin Park?,music-search
+music-5,dlg-61e46ac2-4832-4e48-85c6-dbc30156199d,"Hello. Can you play something from the band Altered Bridge for me, please?",music-search
+music-5,dlg-623c186e-ffb5-40d2-b58b-f459c93c7e25,Hi. Can you play something by Noah Guthrie?,music-search
+music-6,dlg-627257fd-c487-41bc-8a7a-702ca0bdf855,I'd like to listen to some music maybe by R.E.M.,music-search
+music-1,dlg-627fca42-6a1d-43c7-818e-63b006e3097b,Looking for music today. I'm looking into Drake the rapper.,music-search
+music-8,dlg-6282280e-fb51-470d-b72b-219033ff28e3,Hello Assistant. I'd like to hear some coffee house music.,music-search
+music-5,dlg-62a03c3c-79b9-42f8-b73a-8bb89e604e80,"Hi, could you play me some music? How about Little Red Corvette by Prince?",music-search
+music-5,dlg-62ac24f1-fef2-4fe0-a13c-3f591f2b7070,"Hello Assistant, I'd like to hear some music by Jackson Brown.",music-search
+music-6,dlg-62b7be30-6e4c-49ee-bed3-56b0e5fb4686,Could you play me a song by Lord Huron?,music-search
+music-6,dlg-63279ef1-d7bb-4a96-bd9c-6e72bc54430a,I'm looking to listen some music by Aerosmith.,music-search
+music-8,dlg-638f60ca-7afe-4586-b5c5-258b8de6d312,I would like to listen to some country music.,music-search
+music-6,dlg-63bba322-f7a9-4a49-be11-fb6da8396e45,"Hi, can you play me something by Metallica?",music-search
+music-5,dlg-63d3eb95-d936-4a3a-a8bc-b931b8c7d65d,"Hi. I'm looking for music by Joyner Lucas, please.",music-search
+music-5,dlg-63d8dc9f-46b3-4ceb-b32f-57965dcd63e0,Hello. Can you please play the song Johnny Cash by Wage War?,music-search
+music-7,dlg-63e66ad9-5b34-4c71-9325-bc4bc684e553,Hello Assistant. I would like to hear some new music similar to Michael Bublé.,music-search
+music-7,dlg-641b5bf0-1c20-4d07-8d4f-4273bcdad434,"Hi, I like to hear brand new music from Odyssey. I've never had before.",music-search
+music-8,dlg-647f6f7c-e59d-4f38-a043-c663ff39ee9a,"Okay. I think I'd like one more party song. This time something that's sung by a woman, a female artist.",music-search
+music-4,dlg-64b5042c-78c7-4d2f-b1a8-1ac2dc48124a,Can you play a song by Sabrina Carpenter?,music-search
+music-6,dlg-64d8f5fa-7b8c-4b6f-99b0-9283b750fd08,I'd like to listen to some music from the band Kiss.,music-search
+music-8,dlg-64dbb292-3d58-4a50-b70a-8e2b40363851,I would like to listen to some music.,music-search
+music-6,dlg-65297ef9-47f5-42a8-9485-0ab4d495b4b3,Can you play me a song by Arcadian Wild?,music-search
+music-7,dlg-65921428-a777-4807-8157-c28fb8d099dd,I need help finding new music to listen please.,music-search
+music-5,dlg-65b74d12-f3d7-4c05-b1de-0acbdf04422f,Hello. I'd like some help in browsing the music of Chicago.,music-search
+music-4,dlg-66160f88-6719-4fad-a17b-212f1f3073a5,Hi. Today I need help finding music to listen to. I'm hoping that you can help me find some. I'm looking for a song called Rock N' Roll Star by Oasis.,music-search
+music-2,dlg-6665ef55-1bff-48e6-8481-76e1ecc8f4f5,I would like to listen to a song by Maroon 5. Can you help me with that?,music-search
+music-2,dlg-668f8eaa-3831-4d2f-ab6e-a6d0c2e20a62,I would like to listen to music by blink-182.,music-search
+music-5,dlg-669d9bb1-6802-4bef-bceb-3bc211838a50,Hello. Can you play It's So Easy by Guns N' Roses?,music-search
+music-8,dlg-66a190b4-7839-423b-8920-42adbb7ea771,"Hi, can you play me some R&B music?",music-search
+music-7,dlg-66f67c6c-b412-4ab4-ba74-88856cf131b3,I want new music to listen to.,music-search
+music-5,dlg-6726bad9-1983-4482-b333-407f087510b5,I'd like to hear a song by The Doors called Light My Fire.,music-search
+music-6,dlg-67421206-59af-4854-b147-96ce9ba20475,Hello. Today I need your help finding music to listen to. I have an artist in mind. I'm looking to hear music from Bonobo.  I'm looking to hear the song Kiara .,music-search
+music-4,dlg-6789212c-2134-4652-b9ad-99ee6a086069,Hi. Can you play me a song by Martin Garrix?,music-search
+music-4,dlg-679cb809-b6f2-4585-8178-84015d8816f7,Hi. Can you Show me music by AC/DC.,music-search
+music-7,dlg-67c54483-27af-4535-bd4a-032ca13b0906,Hello. Can you play some music similar to Parkway Drive?,music-search
+music-8,dlg-681c10d9-11d5-441a-8015-49e062c1deda,"Hello Assistant, I'd like to listen to some rock music.",music-search
+music-6,dlg-6826b3cc-2c8e-4793-b8a3-294f5bcfd44f,Can I hear a song from Chime & Adam.,music-search
+music-6,dlg-6834f7b3-9e7d-406f-9923-aaf86d745b7d,Hi. Can I hear a song by Bruno Mars?,music-search
+music-6,dlg-685c6ae4-9b2f-4e4a-8def-8de0efd5ea9a,Hello. I want to hear some music by August Burns Red.,music-search
+music-6,dlg-68de3be9-633a-453a-b8b2-489143ec6486,Play me something by Metallica.,music-search
+music-6,dlg-691d5aaa-72fb-4dea-90e3-327f585dc1ed,"Hi. Today, I need your help finding music to listen to. I'm looking to listen to a song by Bonobo. It's called Dinosaurs.",music-search
+music-7,dlg-69584d67-3738-416d-a8ce-4ecf584c5a63,I would like to hear some music by The B-52's.,music-search
+music-4,dlg-69b894b2-2308-424f-ab16-560fe70aac30,"Hi, I'm looking for music to listen. I want to hear something by Black Crown Initiate.",music-search
+music-4,dlg-69bed519-4169-4045-b05c-d410b8434fe7,I would like to listen to the Calms Casino.,music-search
+music-5,dlg-6a2643ca-3417-4836-8553-89abbbb4bed8,Today I need some help in listening to music. I hope you can find a song for me. The song is called Congratulations by Post Malone.,music-search
+music-5,dlg-6a37eb2f-3781-4cf2-a8c0-4eb9b2b6be01,I would like to hear music from Stevie Wonder.,music-search
+music-5,dlg-6aaae761-886c-489b-878c-857cb70f36d0,"Hi, I would like to listen to Beyond Creation.",music-search
+music-7,dlg-6aeeafa0-60f4-4362-b5c7-b4c415d52fc0,"Hello, I would like to hear some new music, please.",music-search
+music-5,dlg-6b1678d2-dd45-4749-9c2b-3f114e28c655,Hi. Can you play me a song by Dua Lipa?,music-search
+music-5,dlg-6b2363c7-04b2-450e-9fa8-45883d191355,Hi. I'd like to hear some disco music today. I want to hear The Bee Gees Stayin Alive.,music-search
+music-6,dlg-6b4bcc47-58e9-4cc8-bea3-6049f810501b,"Hi, I'd like to here some music by Counting Crows, please.",music-search
+music-4,dlg-6b7ccc85-57b9-41ba-aa83-08a4c69eaae1,I Would like to listen to Ice Cube.,music-search
+music-8,dlg-6b8b4f1c-9364-417b-8c58-bcba28216b06,"I need some music to be played like now. I'm in such an awful mood, I really need you to play some R&B music.",music-search
+music-2,dlg-6b91ff8a-6fbe-4ade-aba2-d8d394139c5d,Can I hear So Emotional by Whitney Houston?,music-search
+music-5,dlg-6bb328dd-2603-4cdb-9b1d-db85eea7785a,I'd like to hear a video from Kiss.,music-search
+music-5,dlg-6bf4a9d8-022f-4247-aad1-33d29c7daf50,"I'd like some help browsing the music of Michael Bolton, please.",music-search
+music-6,dlg-6c158550-6841-466d-b8bf-21b1e13d128e,Hi. I'd like to hear some music by Billy Joel.,music-search
+music-5,dlg-6c46ff15-d88e-47bf-9412-99e49aa113a9,"Hi, can you play me music by Taylor Swift?",music-search
+music-5,dlg-6c72c6d5-d43c-4aa5-a0ae-215c6e2c04e2,Hi. Can you play me some music by Fleetwood Mac?,music-search
+music-6,dlg-6cb0d22a-dfd8-49ba-abc8-ecf034486618,I need to listen to music from Little Mix. Can you play Little Mix?,music-search
+music-6,dlg-6cc0c392-e917-43bf-9040-4b17383248cc,I would like to hear a song by the artist P!nk.,music-search
+music-2,dlg-6ccd1817-f17b-465e-b33e-bf3ea4686741,Hey there. I was wondering if you would play be a song by Young Thug.,music-search
+music-7,dlg-6d764456-c433-4504-a240-f5150872a1f4,How long has this been? I'd like to listen to some new music.,music-search
+music-6,dlg-6da67ebb-b45f-4928-b283-fcf6df425c3d,I would like to hear a song by Bruno Mars.,music-search
+music-7,dlg-6e136d67-ec2d-43f1-b034-63b6c787ba0e,I'm looking to listen to some George Jones.,music-search
+music-6,dlg-6e1d1d9e-7f43-4832-b7d0-eca507f7ab20,I'd like to hear something by Prince.,music-search
+music-7,dlg-6e34b22b-03b1-4182-aef6-2848ac8068d5,Could you help me find some new music to listen to?,music-search
+music-7,dlg-6e580cf7-0c70-464c-85ec-c7aa716d7fd0,"Hey, i'm looking for some new music to listen to. Can you help me with that?",music-search
+music-6,dlg-6e59ce42-0faa-4f8b-9278-3d1f5b5933f7,I would like to hear songs by Travis Scott.,music-search
+music-6,dlg-6e8025d9-0c06-46f4-b11d-12d96ec1f942,I just wanted to listen some music. I was thinking by Beyond Creation.,music-search
+music-8,dlg-6ebac318-1f6a-44a4-8409-a6f68bac0c16,"Hi, I'm Can you help me find some music in the category of pop?",music-search
+music-7,dlg-6f007c68-c2b6-407a-b227-e9289668474e,Play me a new artist.,music-search
+music-5,dlg-6f2cc90f-f99b-4a74-9cb5-9ac744c18000,Hi. I'd like to listen to music by Selena Gomez.,music-search
+music-6,dlg-6f5349cc-78d2-49c2-899a-d88eec51baf8,Hi assistant. I'd like to listen to a song by Big Bang.,music-search
+music-8-new,dlg-6f6bcffa-ee73-4cfe-a6c7-d91d491c738b,I'm interested in listening to some music. I want to listen to some party music.,music-search
+music-6,dlg-6f893194-928e-4462-8115-ae625f67f086,"Hi. Can you play music by 50 Cent for me, please?",music-search
+music-2,dlg-6fa6d436-4a7d-41f3-80d5-b420f1cc57de,Hi. Can I listen to music by Lady Gaga?,music-search
+music-6,dlg-6fbd0f3c-f43a-42cf-9bf0-d8f5518ab0cd,I'd like to hear music by Taylor Swift.,music-search
+music-2,dlg-705a7b1c-f1a2-4bd2-bf08-7dd265cb5577,I'd like to listen to some music by Nickelback?,music-search
+music-7,dlg-7076ee84-31da-4bca-801d-67a9d9ad02e5,I was waiting to listen to some new music.,music-search
+music-6,dlg-70b0dc83-65f9-4545-8171-3453437aeacd,"Hey, can you play something by Keith Moon?",music-search
+music-7,dlg-7118e430-f17b-49e9-839f-c64ffa6faeb4,Could you play me music by an artist that's similar to Little Mix?,music-search
+music-8,dlg-71338db6-9825-4440-a746-f07984bc32d3,I'd like to listen to some pop music.,music-search
+music-7,dlg-71531711-3a08-478e-a088-306b263c7d09,Hello. I'm looking for new music to listen to.,music-search
+music-6,dlg-7191e6b8-9e99-4556-bc9b-3b1a620d7fa7,"Hi. Can you help me find music, please?",music-search
+music-1,dlg-71d13a12-f6c4-491e-ac35-4872ae9f84c4,I would like to hear some songs by Kanye West.,music-search
+music-7,dlg-7224eb54-9c15-4012-bac1-91bbc8a04021,"Hey, I wanted to find some new music to listen to.",music-search
+music-4,dlg-725cc017-b503-4240-9a8a-6005bce5bde8,Hi. Today I need help finding music to listen. I'm looking for a Metallica song. It's called One.,music-search
+music-6,dlg-728db16b-a2c5-44b9-a95c-ea9d63ab2412,"Hi. I'd like some help browsing the music of Chicago, please.",music-search
+music-5,dlg-728fd096-a956-48ee-9c76-fc4eb6379127,Hi. Today I need some help finding music to listen to. I'm looking for a song by the band Oasis. It's called Don't Look Back in Anger.,music-search
+music-7,dlg-72a3e798-8fdb-4cdb-9681-5e7ec702d5a6,"Hey, I like music, so I'm wondering if you could find something kind of David. Do you know David Courtney? If you could find like an artist that was kind of like David Courtney and play some songs by them, that would be great.",music-search
+music-6,dlg-72b51fcb-853f-4cc7-9659-ab19bba24293,"Hi, I'd like to hear a song by Taylor Swift.",music-search
+music-7,dlg-72bfa257-7698-48c1-b00e-a411cfb2c80b,Hello. Can you please play music similar to August Burns Red?,music-search
+music-7,dlg-7314bada-a07d-49f6-b347-5dd68f947a0b,"Hi, I need help in finding new music, please.",music-search
+music-5,dlg-733c3525-d554-44d7-b9b5-5de0dfd3fcb1,Hi. I'd like to hear some music from Michael Bublé. Can you help me?,music-search
+music-7,dlg-735e648f-fbc8-4517-959d-93e1c52d7d65,Could you find me some new music to listen to?,music-search
+music-2,dlg-73845b61-10ac-43ed-8839-914941ba1916,Hi. Could you play me something by the Counting Crows?,music-search
+music-5,dlg-738cc53b-ef8a-4eb4-9111-1270ffa9b452,"Hello, can you please play something by August Burns Red?",music-search
+music-5,dlg-73cbf4cf-19d3-4a9f-bb60-1aab8a314377,Hi Assistant. I'd like to hear some music by Billy Joel.,music-search
+music-6,dlg-73fa6d75-6d0e-44c8-8233-ca29612e76ba,"I was wondering if you could play me some music from The Pixies, something off the album Doolittle?",music-search
+music-6,dlg-74654081-2fbe-4f03-bdca-297b73a6c496,Play me something by Def Leppard.,music-search
+music-8,dlg-7506b413-ff5c-4a08-a2ac-eaa0bd153bf7,Play some rock music.,music-search
+music-7,dlg-75354d18-29ca-448a-9f29-db77a695af40,"Hi, could you help me to find some new music to listen to?",music-search
+music-5,dlg-7599285d-49fb-41ba-ac22-cff4dc98e5d6,Hi. Could you play me something by R.E.M.?,music-search
+music-1,dlg-759ce3e1-6b36-4f37-9ea7-c364b7eca2d1,I would like to hear something from Linkin Park.,music-search
+music-2,dlg-75a28cc2-f4f4-4e56-96f5-d3a3cbfbf2a9,Hi. Can I listen to music from Diplo?,music-search
+music-7,dlg-75d77e9c-53cf-4b67-bdef-4a36b89a94ce,I would love to hear a song by somebody like Tom Petty.,music-search
+music-6,dlg-75f206e6-3427-4ff4-a87e-5c2e8df7caed,Could you play Fifth Harmony for me?,music-search
+music-2,dlg-75fabd52-34a6-4a4a-bffa-08e52742f8d4,Can you play some music by REM?,music-search
+music-5,dlg-763df9f1-9931-420a-a804-178e465065c6,"Hi, Can you play me something by Wire?",music-search
+music-1,dlg-7677148c-f44a-40d6-b1d7-b4f69452991b,"Hi, I'd like to here something by Kottonmouth Kings.",music-search
+music-7,dlg-768a8b2f-b2f4-48ed-a4f9-6b7be630d664,Hello Assistant. I'd like to hear some music by the Bee Gees.,music-search
+music-5,dlg-76a3c878-e757-4cb6-b098-891d1315f647,I would like to hear some music by Nickelback.,music-search
+music-5,dlg-76e713f7-a31b-4cc5-b00a-7f4a9b30329d,"Hi. Can you play a song by Joyner Lucas, please?",music-search
+music-7,dlg-76fbe189-6f40-4a45-97b7-a1eafaa9fb8f,"Hi Google, so glad to talk to you. I'm having a little trouble finding a new music artist to listen to. I really like Marion Brown. I just can't come up with anything on my own. It's too much.",music-search
+music-5,dlg-771553e8-debb-41ae-815e-c6189a2a0934,Hi. I want to listen to some music by Beyond Creation.,music-search
+music-8-new,dlg-77ec4889-22fe-4aeb-8233-933c60007a4b,"Hi, I'd like to listen to some blues music. Can you play me some blues music on YouTube for me Assistant? Thank you.",music-search
+music-5,dlg-7820ccae-3bea-4d01-a67c-0b2b41e34a1a,I'd like to listen to some George Jones.,music-search
+music-4,dlg-782d4766-e89d-465e-8121-f26bbfa6f59c,Play me a song by the Dixie Chicks.,music-search
+music-6,dlg-784e2ce0-4b93-48ed-bf29-0ba93913eb33,I like to listen to some Tim Conway.,music-search
+music-2,dlg-7858ad5d-d54b-4a2e-b48c-c2e83255c0eb,Hi. I'm looking to hear a song today. I need help listening to the song Homemade Dynamite by Lorde.,music-search
+music-6,dlg-787f34bf-d48c-4c19-8f39-858a94e3e6b0,"Hi. Can you play something from the band Poison, please?",music-search
+music-5,dlg-7925d339-056b-42a6-b40a-3ad33e33320a,Hi. I'm looking for music to listen specifically to the artist Jacob Banks.,music-search
+music-8,dlg-79cdf226-af57-4559-b068-cebecd1a6ec8,"Hello. I'm interested in hearing some covers, acoustic covers. May be by some cool people on YouTube.",music-search
+music-5,dlg-79fad1fe-e4fd-4aaa-a1ac-e04d8d77479d,Play a song by Imagine Dragons.,music-search
+music-1,dlg-7a1cf598-094d-4c8b-b5e9-2c4b114dde13,I would like to hear something from The Police.,music-search
+music-6,dlg-7a6ed7d3-5dfb-4f57-baed-4b36f49f9623,"Hi, can you play a song by Rhett and Link.",music-search
+music-5,dlg-7a72b226-d93a-4fc7-ae74-fcdd2948dafd,"Hi, play something by Radiohead.",music-search
+music-6,dlg-7a7342e8-a09a-4afc-8721-2add85b37daa,"Hi, I'd like to hear some music by Taylor Swift.",music-search
+music-6,dlg-7abc5441-9f74-4f08-b69c-05b0f0eb2edc,"Hi, can you play something by Cardiac Necropsy?",music-search
+music-8-new,dlg-7add8128-80d2-44c0-a21a-d16fce4eea15,Play some classical music.,music-search
+music-2,dlg-7b0b4730-ed50-407f-a1c5-ce5b4def7153,Yeah. Could you play me something by Guns N' Roses?,music-search
+music-8,dlg-7b21a55c-abb6-4204-83f8-165fda1da520,I'd like to listen to to the Blues.,music-search
+music-7,dlg-7b329c78-816b-4ef6-a89c-4a52d712a745,Hello. Can you play some music similar to Wage War?,music-search
+music-6,dlg-7bc5ee6e-f096-4928-84d5-7af713cfb239,"Hi, I'd like to listen to some music like Bob Dylan.",music-search
+music-5,dlg-7bf846bb-2764-4e66-8837-ca21e4182629,"I need your help. I'm looking to listen music. Now, I'm looking to hear a song by Bonobo, it's called Pick Up.",music-search
+music-6,dlg-7c248fdf-dc21-448d-874e-0e6406584799,Hi. I'd like to hear some music by Linkin Park.,music-search
+music-2,dlg-7c377041-dfd3-45c9-8749-7dc7b4b0f88b,"Hi, could you play something by Willie Clarence?",music-search
+music-5,dlg-7c42c2ff-9ba4-43f2-856b-797607bc7eca,"Can you play something from the band Anthrax, please?",music-search
+music-6,dlg-7c44a302-96a1-42fb-b8bc-500a647e754a,Hi. I was wanting to hear a song by Drake.,music-search
+music-7,dlg-7c789766-df0b-46e7-8838-1b579838b0fa,This is kind of cool. Could you send me another song by them?,music-search
+music-2,dlg-7c9aec1f-efcf-4ab4-aa43-6595c189e033,"Hi, I would like to listen music by Shakira.",music-search
+music-7,dlg-7cb8ed6c-2f29-4f2e-bb1b-fc121c5b86f8,Hi. I would like to hear new music that I've never heard before.,music-search
+music-5,dlg-7cceb03b-e71c-4ed5-a8e5-47da484a7cc7,You play me a song by Taylor Swift.,music-search
+music-6,dlg-7ce1d844-8838-4b45-8df8-84c49d5da37c,"Hi. I'm trying to hear something by Wale, please.",music-search
+music-1,dlg-7d154bbc-1337-4514-b082-a1aa3c141ec7,Can you hear me a song from Linkin Park?,music-search
+music-5,dlg-7d193ea7-9d04-4e15-a097-615e856bcf47,Hi Assistant. I would like to music by Rihanna.,music-search
+music-7,dlg-7d23da26-c01b-4e8e-acf0-f57799bce00b,"Hi, I was wanting to find some new music to listen to.",music-search
+music-8,dlg-7d535c5b-9319-4120-ab25-cd4de0751225,"Hi, Can you play some party music for me?",music-search
+music-5,dlg-7d796158-fd9f-43cd-8c61-1c884de7c775,I'm looking for a song by Opeth.,music-search
+music-5,dlg-7d814fa9-237c-4d7a-8c4b-c4d057e5fd1e,"Hello! Today, I need your help finding music to listen. Now, I'm looking to hear a song by the band Tool. It's called harsh.",music-search
+music-1,dlg-7d9a5ecd-d84a-4e1c-baa2-7135c427ae65,I'm looking for a Beachy music.,music-search
+music-8,dlg-7dc77c39-f41d-47f9-aff1-0174ccdd9831,I'm in the mood for listening some holiday music.,music-search
+music-5,dlg-7e0b2eb4-db1c-4b51-8f3d-0e79bce96982,"Hi, could you play me some R.E.M.?",music-search
+music-5,dlg-7e4da772-15ac-4e91-a07f-333fd81043e3,"Yeah, I like that song. You got any something maybe from Merle Haggard?",music-search
+music-2,dlg-7e597c0c-c7df-4bfb-84a8-927583f97e8f,I'd like to hear something by The Rolling Stones.,music-search
+music-4,dlg-7e6a146e-244d-4be7-a556-bf41ea6c60f2,"Hi, today I need help finding music to listen. I'm looking for a song by Oasis. It's called Morning Glory.",music-search
+music-5,dlg-7eab90d0-afae-4e02-a319-fc0696400175,"Hi, I'd like to know if I can hear a song by Glen Campbell called Rhinestone Cowboy?",music-search
+music-5,dlg-7edfc3b3-b440-4553-9dde-27bea02e0530,"I'd like to hear some music by Cyndi Lauper, please.",music-search
+music-7,dlg-7f458c3c-b155-4141-8e27-dc963bd02ff5,"Hello assistant.I'd like something to listen to, something like a rock or something.",music-search
+music-2,dlg-7fa49cc0-a6ae-4e12-843c-548b8afb87fb,I wanna hear a song by KBB.,music-search
+music-6,dlg-7fc0a101-c919-41da-a501-c90e6fc38f3e,"Hey Assistant, I'd like to hear something by by David Boyle.",music-search
+music-6,dlg-7fe053bc-764d-4b6f-bf47-aaae4dc09abf,"Hello, can you play some music by Our Last Night?",music-search
+music-5,dlg-7fee41d0-f415-4ca5-9561-41c3f23551b9,I'd like to listen George Jones.,music-search
+music-4,dlg-7ffff154-d818-43ac-b96a-f3ed7d7aee0a,"Hi, Would you play me something by Hall and Oates?",music-search
+music-6,dlg-802c1d85-329b-466f-b7a6-27c9b31e2781,"Hi, can you send me a song by the artist Drake?",music-search
+music-7,dlg-803df580-a1c0-4f6a-8a74-dd82b1cbbdfa,Hello Assistant. I'd like to hear some music by Katy Perry.,music-search
+music-8-new,dlg-80c5b606-db48-476e-b1db-9ff87e27fb07,"Hi, I'd like some help browsing music in the pop genre, please.",music-search
+music-8-new,dlg-80fb0c9c-5287-4a30-bd5d-0fc4d57ffcb3,Hi. I would like to listen to jazz.,music-search
+music-3,dlg-81126ee8-b4a8-4033-9b08-a40abb5e781c,I'd like to hear music by Linkin Park.,music-search
+music-5,dlg-8146b4c7-ffb9-4b09-968a-22a3856b3fe0,Could you play something about The Connells?,music-search
+music-4,dlg-814e6d4d-0cdc-4cbe-b8e4-0ba9592dcabf,"I would like some help browsing on YouTube music from Florence and the Machine, please.",music-search
+music-2,dlg-814f64a3-cf1a-4b78-a684-7cdbfaf8e656,I'd like to listen to some music by Twenty One Pilots.,music-search
+music-7,dlg-8150c550-bfd0-49a8-b174-703f39e85dfc,I'd like to listen to some music.,music-search
+music-2,dlg-81c4a675-385b-4325-89c6-eb265c55888c,I would like to listen to music by Nickelback.,music-search
+music-4,dlg-823aef96-2189-4f89-a94d-4cd7156693d0,"Hi. Today, I need your help listening to music. I'm looking for a song by Oasis. It's called Gas Panic.",music-search
+music-6,dlg-827cd24a-42c5-43d5-b600-3188bb73f79e,"Hi, I need your help to finding some music to listen to. I have an artist in mind. It's the band Adema. I'm looking to hear the song Freaking Out.",music-search
+music-5,dlg-828f0164-633a-4319-a68c-2b6ab31d13ab,Hi. Can you find me a song by Charlie Puth?,music-search
+music-6,dlg-82ee0540-cfad-4c90-a146-44dd21fe4d52,Hi. Can you play me some music by Bob Dylan?,music-search
+music-7,dlg-8332a7ed-50a7-47d2-adb4-09835676a892,Hi. I'd like to hear some new music to listen.,music-search
+music-2,dlg-8364cdec-0987-4571-8fc3-4a006b83dc79,"Hi assistant, can you help me find a song Hurt by Nine Inch Nails.",music-search
+music-7,dlg-840f2d8e-ab88-49ea-8857-f465c95c644c,Hello Assistant. I really like the music of Bruno Mars. Could I hear some music from Bruno Mars?,music-search
+music-5,dlg-84569241-f8e8-4c1c-aa8c-d1918f0da5ba,"Hi, can I hear something by Katy Perry, please?",music-search
+music-7,dlg-84649538-7015-4ca4-8410-40c0e5926f51,"Hello, I would like to listen to something new music.",music-search
+music-5,dlg-8481e2e2-a9aa-4337-8025-80094e875ca1,Hi. I'm trying to get a song to listen by My Chemical Romance.,music-search
+music-5,dlg-848b289a-6f18-4651-a949-371b60b264c7,"I'd like some help browsing the music of Gary Allan, please.",music-search
+music-6,dlg-84f56fd0-61ec-4737-bdec-3b57d93464fa,"Hi, can I hear something about the Scorpions?",music-search
+music-7,dlg-84f80ac8-2860-4437-b5e8-e94959eabc33,Hello. I need to hear some music that's similar to August Burns Red.,music-search
+music-5,dlg-85022688-a79c-490c-b912-e93af82afe32,I was wondering if you could play me some music. How about the Counting Crows?,music-search
+music-2,dlg-852c3521-e18a-407e-b457-3d208324942a,Play something by Kendrick Lamar.,music-search
+music-7,dlg-8555cf6f-2656-4613-a001-ba0049b15102,"Hi, I need help to find new music to listen to, please.",music-search
+music-4,dlg-85ef0572-36a7-4a56-9ec6-e38d9ee23f8c,"Hi, could you play me something by The Police?",music-search
+music-7,dlg-86cc7079-69ae-465b-968f-af53b6277de3,"Hey, I'm looking for some new artists, musical artists to like expand my horizon.",music-search
+music-5,dlg-86f87700-3c88-4d05-a99f-6ba2f23ac062,Hi. I'd like to listen to some music by Paramore.,music-search
+music-5,dlg-86f89074-d177-4d1d-a77a-9bd762b42e5d,"Can I hear a song by Drake, please?",music-search
+music-8-new,dlg-87035e3d-f9b4-476b-bb61-e406fc67d0b4,"Hello Assistant, I would love to hear some Latin music. Can you help me with that?",music-search
+music-6,dlg-87087b07-baa3-4a55-85d7-cddeb44996ce,Hello. Can you play something by Aerosmith?,music-search
+music-6,dlg-87088bf7-f8d4-49ff-802f-c1d698d48e9b,I would like to listen to The Band Perry.,music-search
+music-5,dlg-873584fb-6b5c-4679-89d4-4220593e0b04,Hello. I'd like to listen to some Conway Twitty.,music-search
+music-6,dlg-87399695-dbfa-42d4-8a28-b4714f4b8a1a,Can you play something by George Jones?,music-search
+music-6,dlg-874c31be-5953-42b8-b7a2-c56e228e6836,Can you play a song by Neutral Milk Hotel?,music-search
+music-6,dlg-877092e4-2c02-4ce9-b17c-50cd2c84f788,I was wondering if you could play me some music. How about something by The Cure off the album Disintegration?,music-search
+music-6,dlg-8774c050-b1f8-4736-8c2f-4b3fd2bdf80f,"Hi, Can you play me Uptown Girl by Billy Joel?",music-search
+music-6,dlg-8783f631-828f-4f08-a5a5-c186214ad157,Play something by the band Blur.,music-search
+music-7,dlg-87cd59a9-8b34-4e30-8633-0bcd1d6bc1c0,"Hi, Could you help me find some new music to listen to?",music-search
+music-6,dlg-87dd93ed-34a6-40d7-a065-e449c36bceea,"Hello, can you play a song by Our Last Night?",music-search
+music-2,dlg-87e1e5f3-824d-41e1-a7f4-5699a347eda5,I would like help in browsing some music.,music-search
+music-6,dlg-881ab9b2-2aa4-4f98-b93b-4e2330c09c4f,"I'm looking for some new music to listen to, but could you play me some Lady Gaga?",music-search
+music-5,dlg-88385ce0-9955-4864-8942-f313f7b9e795,Hello. I'd like some help browsing the music by the artist Pink.,music-search
+music-2,dlg-883e0a42-99ae-4475-9bf4-1de53b9d72a8,"Hello, Play Black Beatles.",music-search
+music-7,dlg-88914db0-c121-457f-8993-e1572354121d,"Hi, today I need your help finding music to listen to. I'm looking for a song by Mark Tomoko. It's called Brother.",music-search
+music-5,dlg-889eac26-3231-484f-9e7d-709dbf8eea27,Hello Assistant. I would like to hear something by Peter Gabriel.,music-search
+music-6,dlg-88b1ad72-f156-49c6-b0f2-d03c67a0cc7b,Hello Assistant. I'd like to hear some music by Barry Manilow.,music-search
+music-2,dlg-88b2d19e-2565-4b30-bd6d-10b7699169b1,I would like to hear something from Prince.,music-search
+music-7,dlg-88b76254-5704-4f01-bc6b-ef956b16c08e,I'm looking for some new music to listen to.,music-search
+music-2,dlg-88f03537-6b1c-4181-9f12-464b6cab6002,"Hi, can I listen to a song by The Chainsmokers?",music-search
+music-5,dlg-88fe2995-946d-47f7-9e38-3c547ff0b3aa,"Hi, can you help me find some music to listen to?",music-search
+music-6,dlg-89174425-d57a-4db7-a92b-165c3bff6735,"Hey, can you play a song by Van Halen for me?",music-search
+music-6,dlg-89174425-d57a-4db7-a92b-165c3bff6735,"Hey, Can you play a song by Van Van Halen for me?",music-search
+music-4,dlg-89222671-d369-4471-811f-461fdf36f799,"Hi Assistant, I would like to hear a song by Katy.",music-search
+music-5,dlg-8946bf18-4b50-4ecf-9d48-2e6ab1952aec,Can you play songs by Bonnie Raitt?,music-search
+music-5,dlg-894e5c6f-3271-4388-9a8a-96388f3c3ca2,I'm looking for some music to listen to. Can you play something by Ramona Wulf?,music-search
+music-6,dlg-89678836-d29f-46ad-9731-0600bb7e20d1,Can you play me the Immigrant Song by Led Zeppelin?,music-search
+music-6,dlg-897791c3-a8a3-478f-af7f-112910e57563,I would like to browse music to listen to. I want to listen to Katy Perry.,music-search
+music-1,dlg-89bc0d70-693c-4b7c-821b-3e13976b8794,Hey. Could I listen to some Thrice?,music-search
+music-6,dlg-8a149901-4c99-4b56-8e57-a83392eea9a6,"Hello, please play a track by the artist Eminem so, I can listen to the music, please.",music-search
+music-6,dlg-8a7e714d-2808-46f8-8994-665541855c8a,"Hello, I'd like some help with rehearsing the music of the Backstreet Boys.",music-search
+music-5,dlg-8a86611c-7ea8-467f-a939-f0e2283e9698,I'd like to listen to Travis Scott.,music-search
+music-5,dlg-8a9ad286-dc36-4f26-83e3-c8cdba458333,"Hi, today I need some help finding music to listen to. I'm looking to listen to a song by Bonobo. It's called Change Down. And spell that, it's b o n o b o.",music-search
+music-6,dlg-8ae5a711-0a54-45f4-97d2-e177f39b25f8,"Hi, can I hear something from the Smashing Pumpkins?",music-search
+music-2,dlg-8aea41c0-a64d-4ec6-8712-e2b0dce5b9b7,"Hello, Can you play something from the band Creed?",music-search
+music-6,dlg-8aec6467-07a5-4836-bc8b-39e316818e73,"Hello Assistant. I would love to hear some music by Bruno Mars, please.",music-search
+music-7,dlg-8af4dab6-e0b3-4507-8e22-519739eb24de,Maybe somebody like David Bowie.,music-search
+music-8,dlg-8b15b37e-e687-480c-a256-3516811edeaf,"Hi, today I need your help finding music to listen to. I'm in the mood for holiday music to listen to. I'm looking for something that sounds kind of jazzy, probably like Jingle Bells, but as a jazz version of it.",music-search
+music-4,dlg-8b392567-f4b9-4bbc-8e8c-c16c45bb9586,Can you play August Burns Red's Composing?,music-search
+music-7,dlg-8b4ff377-957a-476e-9c86-928ffbf63c5c,"Hi. I'd like to browse some New-to-Me music, please.",music-search
+music-5,dlg-8b64b570-b648-4913-b0ed-d73bc03f7462,"Hi Assistant, I'd like to hear some music by Cyndi Lauper.",music-search
+music-7,dlg-8b9639b5-de51-49fc-a062-67b8fa32542f,Can you help me find artists like Peter Hollens?,music-search
+music-7,dlg-8b96ab68-3b8e-413e-91f1-1bb9b825cfe8,"Hi, I need help in finding new music.",music-search
+music-7,dlg-8b97b2dd-3ced-4785-b255-5bbdb1acacd0,"Hi, I'd like some help browsing a new music, please.",music-search
+music-7,dlg-8b9bce63-18c5-4c81-9a1e-25b2a264fcaf,"Hi, can you help me find an artist like Mumford & Sons?",music-search
+music-1,dlg-8bb3a003-8a4c-4792-a8e7-fe8004535647,Can I hear something by Florence and the Machine?,music-search
+music-6,dlg-8bf20376-22e7-4829-8287-1aa070247a77,Can I listen to 1975?,music-search
+music-4,dlg-8bf56e20-9c91-4c5c-9deb-e05053ffd786,Could you help me to find something by Jason Mraz?,music-search
+music-5,dlg-8c1c062e-a41c-4e99-bfe8-274fe1e9fe6d,"Hi, today I need your help in finding music to listen to. I'm looking for a song by the band Oasis, its called Supersonic.",music-search
+music-6,dlg-8c44a320-4ec8-4014-a9c3-38520da46908,"Hi, I would love to hear some music by Barry Manilow.",music-search
+music-6,dlg-8c462b87-9349-45e3-9126-c4cc2a430ee8,"Hi, can I hear a song by Weezer?",music-search
+music-4,dlg-8c47ad1d-8a9e-4f56-9d4d-c1400860cf56,Hi! Today I need some help finding music to listen. I'm looking for a song by Radiohead and it's called In Limbo.,music-search
+music-7,dlg-8c7401c7-6b7b-43fd-8051-73399d238c6e,Hello. I'm not feeling very creative right now. Could you please help me.,music-search
+music-5,dlg-8c8ea1e9-fe6a-4bb0-ab8d-0e7cc51ec397,"Hi, can you play some Metallica for me, please?",music-search
+music-2,dlg-8ca039d2-a5f9-4031-8556-8915c4456f84,I'm going to go browse for some music to listen to. How about something from Queen?,music-search
+music-4,dlg-8d007a7d-759a-457e-a57a-242f1a5a2e2e,Hi. Please play me something by Radiohead.,music-search
+music-1,dlg-8d060453-f966-4c18-9f9a-db08592bcb22,I'd like to hear something by Pink Floyd.,music-search
+music-8,dlg-8d188e2d-3e00-40eb-b65e-94d32409acb3,"I would like to listen to some R&B music, please.",music-search
+music-4,dlg-8d2d47cb-19ef-45a1-9b36-7273f9ec9be7,"Hey, I like to hear a song by The Beach Boys.",music-search
+music-7,dlg-8d56ca5b-bd94-4b68-9e11-2005a7e0a545,Could you play Little Mix song by Little Mix?,music-search
+music-8,dlg-8d72ee05-1372-4c3c-861d-31c29ccce338,"I would like to hear some rock music, please.",music-search
+music-5,dlg-8dab7c3a-27fe-4b0c-bc07-d327b8a687f9,"Hello. I need help in finding music to listen to, please.",music-search
+music-7,dlg-8e2178d4-6f11-459c-b7e0-ce2815a744fb,"Hi, I'm looking for some new musicians to get into. Can you help me with that?",music-search
+music-6,dlg-8e365768-0a65-41c0-8331-3462463e1a96,"Hi, Could you help me find some music to listen to?",music-search
+music-7,dlg-8e539b73-2a2a-494f-8a3b-04640b3bac7a,I'm looking for some music to play.,music-search
+music-7,dlg-8e56ac29-a3aa-48c5-b0d1-0e344ea7037e,I'd like to find some new music to listen.,music-search
+music-8,dlg-8e687851-64f0-4940-ab6e-7805151046a1,I like to listen to music. I need some relaxing music.,music-search
+music-8,dlg-8ee98b5e-78f2-44f8-b059-a152726e3e82,"Yeah, I was wondering if you could play me some pop music.",music-search
+music-7,dlg-8efd98bb-7914-443f-b76f-dd9a86df3d70,"Hi, I need help finding some new music that's related to an artist that sounds similar to Machine Gun Kelly.",music-search
+music-6,dlg-8f3d266a-044b-478a-ba58-5b35fe4166a2,Hello assistant. I'd like to hear some music by Barry Manilow.,music-search
+music-6,dlg-8f530db0-5cbd-4957-9b32-40c7f556aa5e,"I'd like some help browsing music, please.",music-search
+music-6,dlg-8f6d8501-c9ff-4310-b772-47f2da7feae4,Today I need your help finding music to listen to. I have some music in mind. I'm looking for a song called Kiara by Bonobo.,music-search
+music-6,dlg-8f70d106-0b7a-4c28-8126-bd3e1b6659fb,"Hi. I would like some help browsing the music of Gary Allan, please.",music-search
+music-6,dlg-8fa08c0d-68bc-4ee7-b709-d0c0b33a3479,"Hey, I'd like to listen to some songs by the Beastie Boys.",music-search
+music-6,dlg-8fd94892-0bcd-4b5d-ae31-4f07a8043f87,"I would like to hear something from Paul Simon, Please.",music-search
+music-1,dlg-8ff828fa-efb5-4218-b497-dcc949eda928,Hello Assistant. Browse me a music to listen.,music-search
+music-6,dlg-8ff8ff83-81fd-4627-a3ac-deb611ae728b,"Hi, I need help for finding music to listen to.",music-search
+music-3,dlg-9034fd31-3e65-4c89-aa3d-07b330b03399,"Hi, I want to hear a song of Ariana Grande called Every called.",music-search
+music-8,dlg-9074b3d6-d998-45d9-b44c-0764cc6e2972,"Hi, can you play me a song in the coffee house genre?",music-search
+music-7,dlg-907c8d0b-6217-4d23-9052-f635679b242d,Hello Assistant. I'd like to hear some music by Michael Buble.,music-search
+music-4,dlg-90ac58b2-3a0c-4f8b-8a3d-01387b20eeb2,I'd like to hear a song by Michael Jackson called Thriller. Can you help me with that?,music-search
+music-6,dlg-90b73525-64bc-43d7-ace7-2b7593a208ae,"Hey, can you help me find music by Bob Dylan?",music-search
+music-5,dlg-9118a058-a385-4a1d-bd9e-e4a71fb7d718,"Hi, could you play me something by Lenny Kravitz?",music-search
+music-7,dlg-913fe7ab-907a-4356-a2f9-f64199dbc5f3,Hello Assistant. I'd like to hear some music similar to the Bee Gees.,music-search
+music-7,dlg-91633ddd-940e-47dd-9c29-896fa25d54e0,"Hey, can you help me find some music to listen to that's similar to Bob Dylan.",music-search
+music-1,dlg-91712391-0cd2-477a-bf9e-52eb61fd5572,Can I hear something by Nirvana?,music-search
+music-6,dlg-9181cb49-3bbb-4f86-bf27-cccdae729838,"Hello, can you play some music by Katy Perry?",music-search
+music-5,dlg-91b194f7-d9ed-48ba-89ad-28ba4880ed9c,Hi. Play something by Red Hot Chili Peppers.,music-search
+music-2,dlg-91ea0766-e2b2-4587-a662-29862bee16e3,I'm looking for Buddy Holly by Weezer.,music-search
+music-5,dlg-91ffb4bd-6d93-4316-abe1-2915dcc48bce,"Hi, can I listen to a song by Chris Cordrey?",music-search
+music-6,dlg-92410d1b-4470-48a5-b12c-11f33f19bcbb,"Yeah, I'd like to hear something from Kendrick Lamar.",music-search
+music-6,dlg-924fa117-d805-485c-adc9-a01ef5b83311,Hi assistant. Could you play me a song by Lady Gaga?,music-search
+music-7,dlg-928dccf2-aa40-4ec9-8014-2c7354e71c7e,Hi. I'd like you to find some new music to listen to.,music-search
+music-8,dlg-929a4f4a-ded6-4ded-8fc4-b3e8397e9d68,"Hello. I'm in the mood to hear some reggae music, please.",music-search
+music-1,dlg-933a514b-f41e-432d-a31a-63147dc633b4,Can you help me in playing Twenty One Pilots song?,music-search
+music-6,dlg-9397c2bf-718c-46a6-b3dd-253bd1e08cc1,Hi. Play Counterparts Bouquet.,music-search
+music-7,dlg-93be539d-bc5b-4e6d-b8ea-4b84e14f2ae4,"Hi, can you play some new music?",music-search
+music-5,dlg-93c80506-b613-4bdb-be87-379724c2e291,"Hi, today I need your help in finding music to listen. I'm looking to hear music by Bonobo or Monoboo the song is called Days to Come.",music-search
+music-8,dlg-93d7196a-90bb-4cc5-92dc-a8173175a1fd,"Hi, could you help me to find some Latin music on YouTube?",music-search
+music-6,dlg-93fe4251-f7ce-4248-a0be-172216d1f7cd,"Hello, I was wondering if you could play me some You Too. I think I heard something about them having a new album out. If you could give me something off that would be great. If not, their last one would be good.",music-search
+music-7,dlg-9422b8c1-dac9-40e9-b203-a3f2cf947d3a,Hi Assistant. I'd like to hear some music by Taylor Swift.,music-search
+music-5,dlg-942304a5-1717-470f-8811-32f48f3e0c27,"Hello assistant, I'd like to hear some music by Mariah Carey.",music-search
+music-5,dlg-943b0f3f-a65a-4b77-823b-20f4216a57db,Hi. Can I hear a song by John Mayer?,music-search
+music-6,dlg-943e3387-99eb-4f5b-a3eb-83e7b8b7cb62,"Hi. I was wondering if you could play me some music, how about something by Katy Perry?",music-search
+music-7,dlg-94b6fcfb-2757-47d7-9e24-989e8013e3f0,"Hey, I'm looking for some new music to listen to. Can you play something by like kind of artist like Stevie Wonder?",music-search
+music-5,dlg-94efff6b-22fd-4f83-b15f-491f3109f877,"Hello, I would like to hear Florence and the Machine, please.",music-search
+music-6,dlg-94f46326-c3c5-4ab0-a389-3ab5bad4b52b,Can I listen to Portugal The Man?,music-search
+music-6,dlg-9533a779-bcb0-40c1-a712-018b614ddbe0,"Can you play something from Metallica, please?",music-search
+music-1,dlg-9557b3e6-1c6c-4813-8e26-540803e1a06c,Hello. I would like to hear something by Green Day.,music-search
+music-6,dlg-95ac6c50-6f00-4f85-ba73-8407100472b8,"Hi Assistant, I'd like to hear some music by Katy Perry.",music-search
+music-8,dlg-95c28417-47b6-4acd-b562-a2050021f670,Hi. I wanted to listen to some holiday music.,music-search
+music-6,dlg-95dc8a3e-23c4-4e2d-bfb9-34bf26c96fee,"Hi, Can I listen to Lil Uzi Vert?",music-search
+music-5,dlg-9622951e-af39-44fe-a5d0-8bac54461e41,"Hi, I want to hear some music from Black Crown Initiate.",music-search
+music-5,dlg-9625de76-8ece-4872-8294-550700583267,"Hi, I need your help to find some music. I have an artist in mind. I'm looking to hear music from Bonobo. The song is called The Fever.",music-search
+music-6,dlg-96343f7a-ec62-4458-aa87-d80de1cbe9b1,"Hello, I'd like to hear some music by Adele. Can you help me with that?",music-search
+music-5,dlg-9646ea9d-2491-4be5-b0b2-72dd555fbaa9,"Hi, I was wondering if you could play me Counting Cows maybe something off of UnderWater Sunshine.",music-search
+music-5,dlg-966f450a-2c18-41eb-a6e0-0ebb78a1015c,"Hello, I'd like to hear some music by Blink-182.",music-search
+music-6,dlg-96714bb4-1389-48d9-873f-e59477e0e2c5,I would like to hear a song sung by James Taylor.,music-search
+music-8,dlg-96867756-ec61-4767-aead-165825b80401,"Hi, could you help me to find some punk music to listen?",music-search
+music-5,dlg-96d4a37d-4baa-499b-9266-f20f79e45c87,"Awesome, I was wondering if you would find me some songs by Bob Dylan.",music-search
+music-6,dlg-96fb16dd-b618-4337-97e3-15e3ad807d87,"Can you play something from the band Metallica, please?",music-search
+music-5,dlg-973711c9-3cd1-487a-aaa5-a2cd6b405943,I like to hear something by NSYNC.,music-search
+music-7,dlg-9753eaf9-be92-48a3-ad99-59df3ce601be,I want to listen to some new music tonight.,music-search
+music-6,dlg-97883e4f-81e7-431c-98ef-e0297e4d6e82,Hey! Could you play any song of fifth harmony?,music-search
+music-3,dlg-9795c046-ed74-4e2a-9eee-6b6a3746f91e,Hi. Could I hear something by Pink Floyd?,music-search
+music-8,dlg-97a1e32c-8ec4-420d-84f6-cfeaafdc1fe6,Looking to listen to some party music right now.,music-search
+music-7,dlg-97cd988f-051a-4f45-a510-ca8c3fb25e6f,"Hello, I would like to hear some new music that I've never heard before.",music-search
+music-5,dlg-97daf65b-dcd2-4f9e-9893-a547219652c4,"Hello, play me something by Taylor Swift.",music-search
+music-1,dlg-97e9a0d3-eedb-45d9-88af-725a6bafd499,Play The Doors.,music-search
+music-4,dlg-97fc8bfb-120e-41d2-b421-fafd2268af06,"Hi, can you help me find some music by Maxwell?",music-search
+music-8,dlg-981cb945-14bc-445c-9146-9f8d02e496cc,"Hi, I'd like to help to find some music, please. I'd like to listen to something classical.",music-search
+music-6,dlg-982fc97d-2e8e-43d5-9dba-7a996286e5b5,Can you play me a song by Christina Grimmie?,music-search
+music-7,dlg-98d2a278-55a5-4576-9cb7-7ad434c0ad22,"I'd like to listen to some new music, please play something maybe some rock music.",music-search
+music-8,dlg-98d2be28-6e81-48f5-8682-af6cc750dbb5,I would like to hear some new music.,music-search
+music-5,dlg-98f129da-a2ef-4cce-a348-2b8223581cd8,Hi. Play me a song by Taylor Swift.,music-search
+music-5,dlg-9978537f-a204-43f3-ad32-5ee9426a4e70,"Hi, I was wondering if you would find me a song of your choice by Carly Simon.",music-search
+music-2,dlg-9a00261e-f3cf-4730-81f9-30ceab2beb29,I want to listen to a song by Little Mix.,music-search
+music-8,dlg-9b8e47b3-03de-4ecd-8b4c-39c13f02d00f,Can you play me an acoustic cover?,music-search
+music-7,dlg-9bde10c4-0082-4179-90c6-ea868b42a187,"Hello, can I listen to Lil Peep?",music-search
+music-8,dlg-9c045c4f-ca7c-400d-9108-9f3419cad4b5,"Hi, I'd like to listen to some jazz music, please.",music-search
+music-6,dlg-9c45fe74-7c89-4c74-a0d7-7b84c8234aed,Hello. Can you play some Breaking Benjamin?,music-search
+music-5,dlg-9c7f3f61-bed6-45cc-8c88-413c3d333b77,I'd like you to help me browse some music of Michael Bolton.,music-search
+music-6,dlg-9cabc5ed-c11b-4854-92c0-55e78df95f4f,"Hi, I would like to hear few songs by Katy Burno Mars, please.",music-search
+music-7,dlg-9cc34c07-985d-4adb-8a5d-49f82a20b53f,Hi. Can you show me a artist that sounds like Deadmau 5?,music-search
+music-7,dlg-9ce4b1fe-d165-4c30-9d45-8b33f5b541f9,I'm interested in hearing some music by Lord Huron or an artist that's kind of like Lord Huron. Could you suggest me any favorable artists?,music-search
+music-2,dlg-9d4623ae-6c81-4a48-a216-874052b31728,"Hi, I'd like to hear a song by Michael Buble.",music-search
+music-7,dlg-9d5e07bb-b17c-4f06-87e6-08e0b57f6be2,Hello. Could you play me a new artist that I don't know? I'm interested in R&B music.,music-search
+music-5,dlg-9d6f2dd8-a05d-41cf-bf42-384b8fd699a6,"Hi, I'm looking for a song by the artist Usher.",music-search
+music-6,dlg-9d8ba668-0e48-40c0-bece-36c236334017,"Can play something more of tempo by the same artist, please?",music-search
+music-3,dlg-9da8c97e-d814-4273-b90f-e8331142daae,"Hi Assistant, I want to hear something by Radio head.",music-search
+music-4,dlg-9dc76592-2fcc-4669-aac3-cf6faa0bb319,"Hi, I like to hear a song with The Beatles.",music-search
+music-4,dlg-9e1cfba1-9c1b-4ef5-a299-5d2d9479744f,I'd like to hear something by Lady Gaga.,music-search
+music-6,dlg-9e284713-a114-4ee8-86a0-7fafb02e9d6f,"Hello Assistant, I'd like to hear some music by Billy Joel.",music-search
+music-5,dlg-9e2bed69-c43d-40dd-888d-af3a79033cc4,"Hi, I'm big fan of David Bowie and I'd like to hear a good YouTube video called Star Van by the late David Bowie.",music-search
+music-6,dlg-9e4445c2-3795-49f1-91bb-e3c19fc8bd72,Can I hear a song by Flying Lotus?,music-search
+music-7,dlg-9ed2e0b5-db29-4301-9cbb-49855ea7ee98,"Hello, I need help listening to music.",music-search
+music-7,dlg-9ef5c9ff-8012-44a5-99ef-c632f12be7bf,"Hi, I was wondering if you can help me find some new artist to listen.",music-search
+music-6,dlg-9f0fe8a9-d736-4a92-8861-c4c033549690,"Yes, can I please hear something by Michael Jackson?",music-search
+music-6,dlg-9f92c78c-a436-487d-b576-47462d2ca131,"I'd like some music to listen, please. Looking to hear something from the band Motley Crue.",music-search
+music-7,dlg-9fbbca92-2b4b-45e2-b2b1-3007971da68f,I'd like to help find something you would listen to.,music-search
+music-6,dlg-a00360b5-c00e-4e35-9247-ee2d41c60797,I'd like to listen to something by the incredibly talented artist Hough Simon.,music-search
+music-5,dlg-a019912b-6655-4c1e-906c-5c63203e6179,Play something by Gucci Mane.,music-search
+music-6,dlg-a08ac197-b636-412a-8bee-227bdd184421,"Hello, I like some help browsing the music of Blake Shelton, please.",music-search
+music-7,dlg-a08d6cb5-3f0b-46b0-8cd9-73bae18a5041,"Yes, I want details of favorite artist.",music-search
+music-6,dlg-a08df1b0-ac93-45e2-be8e-b0814aa4bff0,Can you play something from Madonna?,music-search
+music-1,dlg-a0a8c8f8-6c7e-4ea8-8357-96ea05e91c50,"Hello, Can you play Bob Dylan Blonde on Blonde?",music-search
+music-8,dlg-a0fa675e-88b9-4ad7-bb5c-3865830b7cf7,"I'd like to listen to a track of music from the classical genre, please.",music-search
+music-4,dlg-a1302c5e-506c-412a-b53c-3a72150e6f97,"Hello Assistant, I'm interested in hearing a song by Peter Gabriel on YouTube.",music-search
+music-2,dlg-a14a0191-bae1-4bed-9897-438d22e57ca1,I wonder if you would play me something by Gucci Mane.,music-search
+music-6,dlg-a1c19b60-6275-4300-9ca1-686486e13394,Yes. I'd like to hear a song by James Taylor.,music-search
+music-7,dlg-a1e5c26c-8b0a-4a22-80c5-8b916d858720,"Hello. I'd like to discover some new Tom May music, please.",music-search
+music-6,dlg-a1e92906-582d-4b0c-91ae-a0ca00c12185,Can you play me a song by David Bowie?,music-search
+music-1,dlg-a242e700-d200-410f-979a-1c7a4c43fbbc,"Hi, I'd like to hear some music from Barry Manilow.",music-search
+music-7,dlg-a26db3dd-bfc0-4c5a-b35b-41eee09f11b2,Hi assistant. I would like to hear something new similar to Bruno Mars.,music-search
+music-7,dlg-a295acbd-1979-4726-b958-099955f126ac,"Hi, can you help in browsing new to me music?",music-search
+music-5,dlg-a2b44c38-5da9-45f7-a74c-340eab164888,I'd like to hear some music by Justine Timberlake.,music-search
+music-7,dlg-a2f5fd94-e3b0-4cb9-bcd2-3ee4af106063,"Hi there, I want to find some new music to listen.",music-search
+music-8,dlg-a3346174-bb27-4c92-9419-3af2ad3efc55,Can you play me a party song?,music-search
+music-6,dlg-a33a7bc2-c9c1-413b-b4cc-ac67d0f32ee8,Can you play me a song by Bruno Mars?,music-search
+music-7,dlg-a3b8461e-cfef-4a93-be1d-0963c885eeec,"Hi. I need help finding a new artist to listen to, please.",music-search
+music-6,dlg-a3c21568-cef2-4006-af99-c16e3401d034,"Hi, can I hear something by Justin Timberlake?",music-search
+music-6,dlg-a3cbc10f-54d3-4403-ae29-0e7bee55878d,I'd like to hear some music which is by Linkin Park.,music-search
+music-5,dlg-a3fbf0c7-29a8-4afa-98f7-93dc4f967f90,"Hi, I'd like to hear something by Lady Gaga.",music-search
+music-5,dlg-a4191469-2d98-433b-870c-d011521bd00f,"Hi, can you play me something by The Cure?",music-search
+music-2,dlg-a42200bb-1d8d-4f9c-9c07-b048b6e5b194,"Hi, I'd like to listen to some music by Childish Gambino.",music-search
+music-5,dlg-a4265392-bb71-4d03-8a20-1457a7cedd81,I'd like to hear a song by Katy Perry.,music-search
+music-6,dlg-a43a2ee6-3ce4-4a8e-b9a4-c0a69ec9f924,I want to hear something by Metallica.,music-search
+music-4,dlg-a43d404c-428a-4997-9bf5-df2deb5d8309,"Hi, I was wanting to listen to something by Dying Fetus.",music-search
+music-5,dlg-a44432dd-daf0-488b-adaf-17f5283ecb52,"Hi, I need help looking for music to listen to. Can you play something by Wale, please?",music-search
+music-4,dlg-a48ea512-338a-41fe-b630-5bf0ae9946cb,Hi. Let me hear something by Radiohead.,music-search
+music-5,dlg-a49d25c3-c4c1-4354-9f2a-faa17c6165c6,Could you play music by Fifth Harmony?,music-search
+music-1,dlg-a4e28d76-7bce-4e6f-a078-6d0ffb83029e,Hi. I'd like to hear something about Paramore.,music-search
+music-7,dlg-a4fcf9fc-c780-4d87-a0b7-87cce40ce032,"Hello, I'd like to take some help discovering new Tumi Music.",music-search
+music-5,dlg-a54ba391-5e2a-4c41-a2e0-8f3e426134e2,Hi. I was wondering if can play me something by Ed Sheeran.,music-search
+music-5,dlg-a56aee4f-1382-4d3e-b9ba-324ed47b3b6d,"Hello, I was wondering if you can play me some Mr. Brownstone by Guns N' Roses.",music-search
+music-5,dlg-a573d778-d93a-4164-af48-dac5b3429fff,"Well, I was wondering if you can help me browse some music of Toby Keith, please.",music-search
+music-4,dlg-a5aa2e36-f98e-44a3-8974-20a8cd7ba7de,"Hi, I want to hear some music to play. Can you play something by Jamie Weisner?",music-search
+music-6,dlg-a5ae1183-9333-4afa-ad8a-4c1954a1d1cb,"Hi, Can you play me something by Chris Stapleton?",music-search
+music-7,dlg-a5b564ae-d790-4944-91f7-04119392d1e3,"Hello, I need to find some new music similar to the artist As I Lay Dying.",music-search
+music-6,dlg-a642569d-ec03-4a8f-8a1e-bf0ffaa6245f,"Hi, can I hear a song by the band called Neck Deep?",music-search
+music-4,dlg-a6cae987-8d48-430b-9020-0063482ae180,"Hi, can I listen to a song by Taylor Swift?",music-search
+music-5,dlg-a7340472-2990-4f1f-a6ff-328bb93854d2,"Hi, I was looking for some music to listen.",music-search
+music-6,dlg-a768531d-a552-4850-97a8-abaf4515054b,"Hey, can you play something by Shampoo?",music-search
+music-6,dlg-a7a4e165-dbb8-401e-b56f-7de0c7e96512,"Hello. Can you please play something by Paul Simon, please?",music-search
+music-5,dlg-a7b032d5-cd46-4853-8e04-4d36eb136e0e,"Hi, I'd like to hear some music by Duran Duran.",music-search
+music-2,dlg-a7bb3365-c657-4383-a2a0-48da9e3fc705,"Hi, I'm looking for a song to listen to and I'd like to get your help.",music-search
+music-6,dlg-a7c077a3-c354-44dc-b481-5cd5bfa32783,"Hi, I want to listen to some music. Could you help me find something by Maroon 5?",music-search
+music-5,dlg-a7f8fa0b-64ac-4873-bcfd-e4dc8bf77a48,"Hi, today I need your help finding music to listen to. I'm looking for a song by Machine Head it's called Desire To Fire.",music-search
+music-7,dlg-a831f97b-6b7f-46cb-b0e0-113cb4247083,Hi. I'd like to listen to some music by Billie Joe. Can you help me with this?,music-search
+music-6,dlg-a85f32fe-f0fe-4589-bc85-1169380027d9,I'd like to listen to the song of Simple Minds.,music-search
+music-5,dlg-a89b7c49-4642-4414-a0af-9100e1b6b3fb,"Hi. Can you play something by Joe Budden, please?",music-search
+music-5,dlg-a9266841-5910-497f-b8cf-a1008f3d33ff,"Hello there. I'd like some help browsing the music of The Beatles, please.",music-search
+music-8,dlg-a94565a4-33ae-42df-9381-1272932af74d,Hi. I'm looking for music in the category of acoustic covers. Can you help me find that?,music-search
+music-6,dlg-a959d07c-e9c1-4968-8dde-172da0e1377b,Can you play me a song by Adele?,music-search
+music-8,dlg-a99c09d1-e7f4-49ea-a2e9-5bf8de96dd17,Hello. I need some music for when I'm studying.,music-search
+music-7,dlg-a9ad8d3c-568e-4810-a755-5611aa40055e,Hi. Can you help me to find music by Lindsey Sterling?,music-search
+music-7,dlg-aa0a2089-4ab1-4c91-b23e-533f1a960c5e,Hello Assistant. I would like to listen to a new musician.,music-search
+music-5,dlg-aa1a57ca-8a76-424e-a563-1e7f192ce904,Hello. I need to listen to some Katy Perry.,music-search
+music-6,dlg-aa4e74fb-8cf6-4a53-8e82-d36e4eef09a4,"I would like to listen to a song played by Neil Young, please.",music-search
+music-7,dlg-aa54de28-907f-4754-9967-cb0d30e9ac27,I'm looking for some different music to listen to.,music-search
+music-5,dlg-aa5579bc-82c0-47de-8cd3-147d8bdd6c48,"I would like some help browsing the music of Chicago, please.",music-search
+music-4,dlg-aa6d93b6-fe50-4bc9-9c50-fd5f9c10017d,"Hello, I would really love to hear some music by Michael Buble.",music-search
+music-7,dlg-aa91eb16-e9d4-43bf-8c28-0c074d04b85b,"Hello, I would love to listen to a new artist that is similar to David Bowie.",music-search
+music-5,dlg-aab972b2-e06a-400e-b596-a2b73661906a,"Hey, I'm looking for some music to play. Can you play something by all The Goo Goo Dolls?",music-search
+music-3,dlg-aac49de9-6908-4b98-9ba5-35b0826bf1bf,"Hi. I would like to hear stuff from Jay-Z, please.",music-search
+music-1,dlg-aadb9304-2eb1-4c4a-80a7-a32308ffda61,"Hello, I'd like to hear Metallica.",music-search
+music-5,dlg-aae13ef4-558e-4db3-afc1-9ec800eec4bd,I'd like to listen to some Kiss.,music-search
+music-7,dlg-aae7206a-08fb-4db4-98fe-5a01f63b1655,"Hi, Can you help me find can you help me find a new artist like Shawn Mendes?",music-search
+music-7,dlg-ab3a5b43-92e1-4445-90b3-b5872dd11194,"Hello, Hi, today I need your help finding music to listen to. I'm looking to find something that's similar to Cage The Elephant.",music-search
+music-7,dlg-abe4de73-04d4-4ffc-ad0b-afcf5f3507cf,"Hi Assistant, Today I need your help finding new music to listen to based on some music that I'm going to suggest. I'm looking for music that is related to Cage the Elephant, like similar bands. I would like to hear different songs that sound like them.",music-search
+music-2,dlg-ac0eac9b-1031-411a-8655-4965ee785d41,I would like to hear music by Twenty One Pilots.,music-search
+music-4,dlg-ac1a297d-b12a-4705-b775-9c70eab39b8d,Can you find something by SWA?,music-search
+music-6,dlg-ac4c7c14-27df-4123-9d8a-50a6a74e1bc6,"Hi, could you play Seas by Prawn?",music-search
+music-1,dlg-ac8e4b9e-045a-4679-aab3-f98cceaa7914,Play something by Emery?,music-search
+music-2,dlg-acacdc48-85f3-4173-83a5-f7433e1165b8,"Oh, I'm looking for something to play like Rise Against.",music-search
+music-8-new,dlg-acbf2fda-3e9c-4ab4-ad22-e8a14f6486ad,"Hi, can you play something from my work out playlist, please?",music-search
+music-6,dlg-acbf8387-84eb-447b-9575-2fde93a67c58,"Hi Assistant, I would like to hear some music by Katy Perry.",music-search
+music-8,dlg-acc17c01-9573-47b7-bad0-3c2dd0497711,I would like to listen to some coffee house type of music.,music-search
+music-6,dlg-acc9f2d0-a73b-4ad7-90d2-8b6949b542cd,Can you play me a song by Brand New?,music-search
+music-7,dlg-accb1335-35ea-4500-ba29-fb73eaef089c,"Hi, I need help with finding new artists to listen to, please.",music-search
+music-4,dlg-ad2cdd20-7dd5-4616-9c65-e6e77417d25f,I'd like to listen to a song by Natalie Merchant.,music-search
+music-6,dlg-ad41e4ac-376e-4555-9ebf-599af663e5bf,Hi Assistant. I'd like to hear some music by the Bee Gees.,music-search
+music-4,dlg-ad4e3b23-c66e-4b2a-9120-8b7debf888ee,I want to hear something today by the Grateful Dead.,music-search
+music-5,dlg-ad69528b-ea63-4271-9af1-b40399fc8766,"Today, I need some help finding music to listen to. I'm looking for a Red Hot Chili Pepper song called Backwards.",music-search
+music-6,dlg-adc0ec4c-2aa9-403c-b072-9a5e709f52ea,"Oh, play Let's see, could you play a song by Little Mix?",music-search
+music-7,dlg-adcaf6f3-33bf-42ce-bc9c-94d926a99268,Hi. I'm trying to listen to some music today.,music-search
+music-6,dlg-addaa71c-34bc-40f1-9281-8d7fc680c8c0,"Hi, I would like to listen to Lil Peep.",music-search
+music-4,dlg-adfb2b13-0307-4914-aaee-d332b165e6af,Hello. Could you Play Lumineers.,music-search
+music-6,dlg-ae87bebc-9346-4c08-b89d-89e55c6344a4,"Hi Assistant. I would like to hear some music by Katy Perry, please.",music-search
+music-5,dlg-ae98a8f4-f1ec-4b7f-9309-a7b3c4bd85cf,Hi. Can you play some songs of Lenny Kravitz?,music-search
+music-5,dlg-aea73f8d-0d03-43dc-8be5-791b24249eb0,I was wondering if you could play me some jams by Pete Seeger.,music-search
+music-7,dlg-aeeee780-150f-4fe6-b108-971ebf571573,I'd like to find something new in music to listen to. I'm looking for an artist similar to the great band Talking Heads. Maybe something a little more contemporary.,music-search
+music-2,dlg-af2fffd4-0954-414a-bf4b-ceaaac7746df,"All right, would you play me something by Beyonce, please?",music-search
+music-5,dlg-af46f618-1c03-4592-a7ce-8c77dd97dad4,"Hey, I'm a really big fan of the rap group Re-Up Gang, can you find something by them on YouTube?",music-search
+music-5,dlg-af8ee196-d017-46d6-8f77-72de0c044de7,Hello Assistant. I'd like to hear some music by Michael Bublé.,music-search
+music-2,dlg-b000a55b-1b2b-4061-9c51-4bb069a579dc,Play Pork Soda by Glass Animals.,music-search
+music-7,dlg-b0030258-4e60-45b6-bda0-c33c55324c5c,Hi. Can I hear a new artist that's similar to Madonna?,music-search
+music-6,dlg-b0297f66-38f9-47e6-a683-ca105507c9d7,Can you play me a track by Dodie?,music-search
+music-5,dlg-b067a555-4b13-4bb6-a005-68baad48097d,"Yes, I'd like to hear a song by Madonna. Can you play me a Madonna song?",music-search
+music-5,dlg-b0a61017-183a-48ed-a410-3c1fd857f825,"Hi, I'd like to listen to some Linkin Park.",music-search
+music-6,dlg-b0cf41fb-31c3-437a-89a6-31a26d094889,"Hi, today I need your help finding music to listen. I'm looking to hear a song by Bonobo. It's called Flutter.",music-search
+music-5,dlg-b0daafa0-bd4d-4971-9069-b687dcf37613,"Hi Assistant, Yeah, can you play me some Willie Kravitz, maybe something off the Circus album?",music-search
+music-8,dlg-b0f262a6-9425-411f-9345-89957c9443c7,"I want to play some music, but I want some music like not the original, maybe a cover of some sort, maybe a guitar cover, but not like an electric guitar cover. You know what I mean? I think there's a lot of them on YouTube like with an acoustic guitar and vocals.",music-search
+music-7,dlg-b1029255-b754-45f8-97a0-7fd19c83a637,"Hello, I'm trying to find some new music. And can you play some artists similar to August and Prince?",music-search
+music-5,dlg-b1558d65-3299-42fa-9b57-508a6794e071,Hi assistant. I want to hear a song by The Ataris.,music-search
+music-5,dlg-b16bbffe-3f39-4313-8cf3-8ae2543cfe4a,"I would like to hear something from James Taylor, please.",music-search
+music-6,dlg-b179db80-71dc-4138-956d-8bbeb00063d3,"Hello. I'd like some help in browsing the music of Chicago, please.",music-search
+music-6,dlg-b1901560-8eb8-4409-a280-84db751fdb0d,"Hey, can you play me a song by Green Day?",music-search
+music-5,dlg-b1bec1b2-9bc7-445b-a0d5-557f9ed05a39,"I would like to hear some music by Linkin Park. Older material. I  don't like what's playing, newer material? I really like the song. Okay, I'm finished.",music-search
+music-8,dlg-b1cd7f7c-39c9-426f-8fed-9597418debde,I want to listen some Latin music.,music-search
+music-7,dlg-b2192313-2c56-422a-ab55-1dd162e30bce,"Hello, can you play some music similar to Wage War?",music-search
+music-5,dlg-b2517926-c2bf-4d54-936f-6a0ffa6a11c6,I would like to listen to some music by Blink-182.,music-search
+music-6,dlg-b2816e01-4688-414b-9789-bddf8f114b27,"Hi there, I was looking to listen some music.",music-search
+music-6,dlg-b2c3a8e3-7ef8-4731-be5c-809bf3534641,"Hi, I want to hear a song from Joyner Lucas, please.",music-search
+music-8,dlg-b2c6046f-95f0-4925-957b-c83b6d25e39f,"Okay, that's not bad. But how about something more traditional belong to Bob Marley or something?",music-search
+music-6,dlg-b38911f0-9be5-471d-b8cc-1c3dc3b0b786,Could you play me some music by Rush?,music-search
+music-5,dlg-b3ba4752-3148-4d0f-b9b0-9c077c8fe9e2,"Hi, could you play me some music by Mumford & Sons?",music-search
+music-2,dlg-b40c18e1-704b-4517-9235-c8c4dd559663,Hello. Can I hear something from Method Man looking for Harrison?,music-search
+music-5,dlg-b41eebdf-b039-4b0f-92cd-cde16bfa0f76,I am looking for music from Taylor Swift.,music-search
+music-2,dlg-b42b3eea-339c-4f96-97cd-8ef9a3e32fa6,Hi. I'd like to listen to music by Sia.,music-search
+music-2,dlg-b4448abf-f814-4ce2-b274-8ee05b2f3509,Hi. I'm trying to get your help to find a song from a certain artist.,music-search
+music-2,dlg-b46c1692-3e61-481d-a3ab-efa28da8ebe0,Hi. Can you play Jeremy by Pearl Jam?,music-search
+music-5,dlg-b4edeb8c-7dc3-4020-b359-fb7b9fcf2d91,Hi. Could you play me something by Counting Crows?,music-search
+music-6,dlg-b51bee17-afc7-40e0-982f-2fa0ad906d88,"Hello, I'd like some help browsing the music of Darius Rucker, please.",music-search
+music-4,dlg-b531aea2-dabe-433a-a2f2-328b981cf478,I like to hear some music by Taylor Swift.,music-search
+music-8-new,dlg-b54ba8f8-5e41-499d-beef-d82a3e3ff1e0,"Hello Assistant, I'd like to hear some hip hop music.",music-search
+music-5,dlg-b5b1871c-330e-4822-83fa-101b6b088c1b,"Yeah, could you play me some music. How about some God Is In The Roses?",music-search
+music-8,dlg-b5bc8131-89d7-41df-94a9-174b7333030e,Hi assistant. I'd like to listen to some type of hip hop music.,music-search
+music-5,dlg-b5e8a221-5f14-4606-8526-99df8c4c8e62,"Hi, can you play me a song by Halsey?",music-search
+music-7,dlg-b60b9bd8-300c-4ce9-b45f-7d67bf45e210,"Hi, can you help me find new music like Selena Gomez?",music-search
+music-7,dlg-b64d2c7a-4707-4e5a-907a-f5ca8266e941,"I'd like help finding some new music to listen to, please.",music-search
+music-5,dlg-b692b1ba-ace9-4271-9954-79366b5b60f8,Do you think you could play a song by Sia?,music-search
+music-8,dlg-b69c7270-4ccb-4118-8450-588bf468a73d,Hi. Can you Play fitness music?,music-search
+music-4,dlg-b6ccb9ac-947b-48e9-a52c-1fd59405fcfa,What Duran Duran songs do you have?,music-search
+music-6,dlg-b6e25984-68cc-49db-a4ff-8bb0fae67c68,"Hi, Can you play me a song by Charlie Puth?",music-search
+music-6,dlg-b6f4836b-4bbd-4cf4-87c6-b8c3c2a3b8eb,I would love to hear some music by Bruno Mars. Can you find me some?,music-search
+music-5,dlg-b73d50bd-499f-4ebe-bf59-03bff302e41d,"Hi, I need help looking for some music.",music-search
+music-6,dlg-b73eda88-ab02-491f-9a06-994f4022af3b,I'd like to listen to some music by David Bowie.,music-search
+music-8,dlg-b76d5781-5f38-4705-a6ec-2c42dfd8a23c,"I'd like some help browsing rock music, please.",music-search
+music-6,dlg-b78236ac-47db-408d-a079-6502543c9c8b,I was thinking of something by Sara Bareilles.,music-search
+music-5,dlg-b7a1640b-a539-45c5-a377-b91a5000cf09,I would like to listen to some music by Linkin Park.,music-search
+music-2,dlg-b7c0b101-1b9f-4691-8b81-d0fedb66e04e,Hi. I would like to listen to some music by Linkin Park.,music-search
+music-2,dlg-b7e0f643-387e-49d0-a577-1a8734d65813,"Hello there, I'd like some help in browsing a music.",music-search
+music-6,dlg-b7e16dc2-f58d-4529-bc95-27a4f7b33def,Hello assistant. I'd like to hear some music by Michael Buble.,music-search
+music-6,dlg-b847e515-7b56-48e9-bb0d-173d6d43750e,"Hi. I want to listen some music, can I hear something by NSYNC?",music-search
+music-6,dlg-b848dd6f-5435-4985-a5a6-0242c4d81a55,"Hi, there. I was wanting to listen to some Dax Riggs.",music-search
+music-2,dlg-b8b1f7a8-298a-4c9e-9bfb-37a35dc44e72,"Hi, I would like to listen to something by Linkin Park.",music-search
+music-6,dlg-b8caa6bf-9814-4198-9970-00ae052cb654,Hello. Can you play some music by Dr. Dre?,music-search
+music-8,dlg-b8d1278d-e04f-46ae-9a9d-0b132c0c8ba5,"Hello assistant, I would like to hear some jazz music, please.",music-search
+music-1,dlg-b8d1ae47-77c1-432a-b73b-c1b539f2e9f5,Hello. I would like to listen some music. Can you play something from Run DMC.,music-search
+music-5,dlg-b8eb8f92-7236-48b4-b713-bffd876cc734,Can I listen to Crawling by Linkin Park?,music-search
+music-1,dlg-b8ef8693-fff5-4a2c-9048-0ef49df56b84,"Hi, I like to hear something from Wale.",music-search
+music-4,dlg-b8f5a413-7a1e-4444-a69f-9ea31b723804,I would like to hear Ghosts by August Burns Red.,music-search
+music-7,dlg-b8fe1f9c-bfb3-4b36-86c6-09c035eeee45,"I would like some help browsing new music, please.",music-search
+music-5,dlg-b90501b2-3313-42ab-b2f0-d80225938669,Can you play something by Dave Grohl.,music-search
+music-4,dlg-b91569b1-6858-4883-af33-c74955211e16,I'd like to listen to music by Eric Church.,music-search
+music-7,dlg-b928580b-2281-4042-beff-08c6ca7c3486,"Hi, I'm looking for some new music to listen to. Can you help me find that?",music-search
+music-5,dlg-b92a40c0-8f88-4380-9c83-796ee52cb87d,"Say a song by Muse,",music-search
+music-3,dlg-b9346684-2467-4a38-a25f-9edfd227e76d,"Today, I'm looking to listen to some music. I'm hoping that you can help me find some. I'm looking for a song by Lorde, the singer. It's called Royals.",music-search
+music-7,dlg-b955e634-5274-4f30-8518-0ce661e226bf,"Hey, I'm looking to get some new music to listen to, some new tunes today on Tuesday. Okay, can you find something by an artist like SoniBanno?",music-search
+music-6,dlg-b976ae8a-323f-415d-9626-5f2acc5b5769,Can I hear a song from Oingo Boingo?,music-search
+music-8,dlg-b97c7eec-04ec-41c3-8e6f-1af2df5b2251,"Hi, Can you play me some reggae music?",music-search
+music-7,dlg-b98a281e-e890-480b-ab95-b395813550ab,"Hi, I'd like to listen to new music. Can you help me find new music, please?",music-search
+music-1,dlg-b9cb833d-2208-468d-a5e6-be73cbe71b58,I'd like to listen Pink Floyd's Dark Side of the Moon.,music-search
+music-8,dlg-ba34a2d5-7ea5-4214-b93c-22d90a192d12,Hi. I'd like to listen to some Latin music today.,music-search
+music-7,dlg-ba40b4ac-d36c-4151-9adb-cfdbe9c398b9,"Hi, I'd like to find something different to listen today.",music-search
+music-7,dlg-ba68c5d5-b7d4-48da-a0cd-2b626800629c,Hi. I was wondering if you could help me find some new artists to listen.,music-search
+music-5,dlg-ba9f4977-28dc-46c0-8f98-6c4b7fb042cb,"Hi. I'd like some help browsing the music of Michael Jackson, please.",music-search
+music-7,dlg-bae9f692-8860-4b28-a3bb-a8b61b5fa69a,I'm looking to play some music by George Garant. Can you help me with that?,music-search
+music-8,dlg-bb01e27e-869e-4c63-ac36-8319293e10e1,Hi. I'm looking to play some music as I work out. Something that'll get me hyped up.,music-search
+music-5,dlg-bbcfd6b3-0715-492b-8e64-2a91dddd982d,Hi Assistant. I would like to hear some music.,music-search
+music-7,dlg-bc203b10-5185-4bba-9c6f-6abeb1237e2e,Hello. I would like help in finding new music to listen.,music-search
+music-7,dlg-bc732bdf-3eb5-48ae-a46f-189a891bc68a,"Hi, I need help finding new music to listen, please.",music-search
+music-7,dlg-bcd4f799-1842-4d53-bebd-e8dd0c8c2dad,Can you play something by new artists?,music-search
+music-7,dlg-bce21544-206d-4e8b-a0d4-a9edf12e8e32,"Hi, I'm looking for new music that is similar to the Dixie Chicks.",music-search
+music-5,dlg-bd17f811-55e8-480c-8ee4-745eeb3e28d4,I want to hear something by R.E.M.,music-search
+music-5,dlg-bd229ba4-6cd0-48ef-b531-2ac0825afb22,"Hi, I was wondering if you could play me some music today.",music-search
+music-5,dlg-bd3dff11-bf58-460f-bc88-b9c6fe4eec3b,I'm looking for some music to listen to that sounds like Sia.,music-search
+music-5,dlg-bd842a5a-8533-4eb6-a229-a637edfca4dc,Hello. Could you play some music by Little Mix?,music-search
+music-2,dlg-bd9cbde0-b5a8-4cd8-8960-94ca6c0ee3d7,Can I hear a song by David Bowie,music-search
+music-5,dlg-be05f185-8e31-4afa-9cba-94d11e564881,"Hi, can you play me a song by Ariana Grande?",music-search
+music-8,dlg-be35dc16-8aa5-4baf-9fa4-de3b0df0ed6d,"Hi Assistant, I'm in the mood for some party music, can you play me some, please?",music-search
+music-5,dlg-be531450-af4a-4457-8220-3baa42743012,"Hi Assistant, can I hear a song by Billy Joel?",music-search
+music-5,dlg-be725838-4556-44cc-a87c-a5deeac9bd65,"Can you play me a song by Earth, Wind & Fire?",music-search
+music-5,dlg-be8916b0-9268-439d-8a9c-418cf2514588,"Hi, Can I hear a song by Taylor Swift?",music-search
+music-6,dlg-bee52479-da70-4431-8bf3-1f569e2fd57f,Could you play us something by The Birds?,music-search
+music-5,dlg-beec91c5-e4fe-4ec1-836f-24d6c98b72de,"Oh, yeah. Could you play me something now, by Counting Crows?",music-search
+music-7,dlg-bfa00a6b-ab01-4a6e-bbe7-1c9b9caa8aa4,Can you help me find an artist like the Arcade in the world?,music-search
+music-7,dlg-bfe2b2a4-216e-4e23-9f94-183bc0d972fb,Can you find me some new music to listen?,music-search
+music-1,dlg-c0da3d3a-cc63-4bc9-b0e6-d33896ffcf34,Can I listen to the Electric Light Orchestra?,music-search
+music-7,dlg-c0fcb01a-7003-43ce-8b5d-b3972794f8b3,I'd like to listen to Alan Jackson.,music-search
+music-6,dlg-c1574866-3401-4981-933b-6e3aae13c7bd,Synchronicity from The Police.,music-search
+music-6,dlg-c16b3f41-9351-48a8-bb96-fa8d13dc9403,Hi assistant. I would love to hear a song by the great rock and roll singer Tom Petty.,music-search
+music-6,dlg-c1844814-253f-48bc-b021-b00da5e1ba0a,"You know, I was wondering if you can play me some music. How about something by Ed Sheeran?",music-search
+music-7,dlg-c195964e-7314-41aa-9e2c-c60d51a77360,"Hi, I was wondering if you help me find a couple of new artists that sound like some older artists.",music-search
+music-7,dlg-c1ef9674-91f5-444f-a34e-53cca1c23c7a,I'm looking to find some new music. Can you help me find some new music?,music-search
+music-6,dlg-c2051f82-7779-493d-ae13-c811a25a8555,"Hi, can I hear a song by Denzel Curry?",music-search
+music-6,dlg-c21d94ac-2fde-4f61-be82-a14a91de1a45,Hi. Can you play me a song by Demi Lovato?,music-search
+music-5,dlg-c26bdffa-f1ce-4238-ba1c-9d60ebbb2100,"Hello. Can you play something from Guns N' Roses for me, please?",music-search
+music-2,dlg-c26e8432-f88a-4acc-86ed-c938cee7532d,Would you play something by Bob Dylan?,music-search
+music-8,dlg-c271b643-f3fb-4985-8c0b-5e4c9ee0a712,I was wondering if you can play me some country music.,music-search
+music-1,dlg-c29fcacc-e46e-4b5f-aed7-8350eda11b2d,"Hi. Could I hear something by Richard Elliott, please?",music-search
+music-5,dlg-c2a0e6bc-d59f-42d4-946d-505bc8154a49,"Hi, I would like to browse some music by Lady Antebellum, please.",music-search
+music-8,dlg-c2a7c8dd-7ea8-4d93-ac2d-d5813c573470,"Yeah, they're wonderful, aren't they? I'd like to listen to some rock music.",music-search
+music-7,dlg-c36cdd7e-4c13-4c82-9b83-3ef46222d76d,"Hello, I would like to listen to some music.",music-search
+music-5,dlg-c4265bf0-f3c7-497c-967b-9a1640408df3,"Yeah, Can you play a song from Carney Cross first album?",music-search
+music-2,dlg-c429ce32-16bf-4bae-9053-3c446de26571,"Hi, Could I hear a song by Elvis Presley, please?",music-search
+music-8-new,dlg-c44b2aee-53d4-41df-a2de-8c19dc814b99,I'm looking for some music in the category of country. I was hoping you could help me find it.,music-search
+music-5,dlg-c4905537-2101-4771-a5be-c4867e993e21,"Hi, I was wondering if you could play me some Lenny Kravitz, maybe something off the album Mama Said?",music-search
+music-6,dlg-c4bb2f6a-abd0-4814-8f8b-a7d50bbf8f1c,"Hello, I like to hear something by the rapper XV.",music-search
+music-7,dlg-c4ea57a2-6937-426a-9d34-46889271d451,"Hi, Can you play a similar artist to Wage War? Can you play other song from the same?",music-search
+music-2,dlg-c4f40af1-1303-4c33-a9da-ebf5093d5257,"Hi, I wonder if you would play something by Van Morrison.",music-search
+music-5,dlg-c57b0740-055b-441d-9ea4-27cd5bea48d2,"Hi, I'm looking for some music preferably something by Mastodon.",music-search
+music-8,dlg-c5d6032a-2f44-4083-a7c8-e1aaed68afc9,"Hello, I'd like to listen to some music.",music-search
+music-8,dlg-c5f5a603-78ea-47c6-b110-8a0f816df969,Can you play a jazz music for me?,music-search
+music-5,dlg-c60d0d60-b8f1-41ff-8607-30bbc8d2d696,"Hello, Can you Play something Metallica for me, please.",music-search
+music-2,dlg-c687e368-c542-4857-8562-efbb06c4a6b1,"Yeah, I was wondering if you'd help me. I'm trying to find some music to listen to. I was thinking about The Rolling Stones.",music-search
+music-7,dlg-c699b4e1-63cf-4f1d-849a-6b5e447bb91b,Hi. I'd like to listen to some music that's similar to Blink-182.,music-search
+music-6,dlg-c6ab5cba-9ba8-4b42-bc9d-fa0f058d9f4e,"Hey Assistant, I'd like to hear some music by the Bee Gees.",music-search
+music-6,dlg-c6da6c67-aff2-4721-be01-d2fe4a2866e1,Hi assistant. Can you play me a song by Led Zeppelin?,music-search
+music-8,dlg-c735f92a-1dec-4c75-8982-29e59899a8a3,"Hey, I'm looking for some music in hip hop. Play some music in hip hop.",music-search
+music-2,dlg-c757e7d4-a0df-49c8-bcba-410b72240d6a,"Hi, could you find me something by Taylor Swift?",music-search
+music-3,dlg-c7761941-b006-4fbb-ad81-341543e6ca60,"Hi, Could you play something by Counting Crows?",music-search
+music-6,dlg-c7b17dc3-9337-4edf-8d38-d3632a2459f7,I'd like some help browsing the music of the Backstreet Boys.,music-search
+music-2,dlg-c7c048c3-e3d2-4edd-9c38-8137f0d564ca,"Hi Assistant, Could I hear something by Katy Perry?",music-search
+music-7,dlg-c7c45e24-da4e-471e-b592-f5d59af3f9c0,"Hi, I like some help discovering new to me music, please.",music-search
+music-8,dlg-c7d737cc-b8cb-436e-ba3a-7461c525c31e,Hello. I'm interested in listening to some music. How about listening to something in the jazz category?,music-search
+music-7,dlg-c84d4c43-63d5-4db4-a3b7-66a47b7294f5,I'd like help finding new music to listen to.,music-search
+music-4,dlg-c8546d7d-dc79-41b4-8eec-8da9c4b756e8,"Hi, can you guys do a song by French Montana, please?",music-search
+music-8-new,dlg-c8c52f51-7bd1-4bd8-90af-61f97c984a04,Can I listen to some Blues music?,music-search
+music-6,dlg-c8d6aa27-9a10-45e0-bacd-b0402eef3766,"Hello, I'd like some help browsing music of Lady Antebellum, please.",music-search
+music-6,dlg-c8f019ad-8cd9-4c1b-afdc-045962fe6faf,Hello. Can you play something from Led Zeppelin?,music-search
+music-6,dlg-c8f920ee-823b-491b-8e24-db8f317a7c12,"Hi Assistant, I would like to hear some music by Maroon 5. Can you help me?",music-search
+music-6,dlg-c90a3538-1907-465e-9d3f-a43c6281a1a8,I would like to listen to Rap God by Eminem.,music-search
+music-7,dlg-c91a9fc3-bed3-47f6-91f1-4bd534d71a02,"Hello, I'd like to hear some new music by Katy Perry. Can you help me find some new music?",music-search
+music-8,dlg-c94a7f11-d741-4894-97ac-69988909066c,"Hello, can you play me a party song?",music-search
+music-6,dlg-c9e4b72f-1a46-4919-84c0-3346610491e0,Hi. Can I please hear something from The Police?,music-search
+music-5,dlg-ca2f7844-b069-449a-ae6f-7ab476d81b88,"Hi, I'd like to hear some music by Michael Buble.",music-search
+music-6,dlg-ca3bb9e0-1573-49aa-976f-8e14dfe8f75e,Can you play me some music by Katy Perry?,music-search
+music-5,dlg-ca4d17c6-0fa8-45c0-a95c-4e6e814f1001,"Hi, can I hear a song by J. Cole?",music-search
+music-7,dlg-ca5e12f3-cd6c-44f5-894a-5787a9438588,"Hello, I'm looking for some new music. Could you play something kind of Joe Turner?",music-search
+music-2,dlg-ca6f183c-ee26-485b-8b18-de1a62abc5eb,I would like to hear a song by Olimpiyskiy.,music-search
+music-6,dlg-caa461f9-49c8-4a47-84fe-9863ef3ea718,"Hello, I'm wondering if you could find some music to play?",music-search
+music-4,dlg-caec1f60-8422-4084-8990-b2c33b1a9c46,"Hi Assistant, I'd love to hear a song by Barry Manilow.",music-search
+music-6,dlg-caf26d3c-2214-4b2d-bbcc-64634a20cb2c,"Hello, hi, today I need your help to find music to listen to. I have some music in mind. I'm wondering if you can find the song Blue Boy by Mac DeMarco.",music-search
+music-7,dlg-cb28fb77-7218-40a0-bfcb-62f41c3ab60b,"Yeah, I was wondering if you could help me some new artists to listen to.",music-search
+music-7,dlg-cb32127d-0122-4ba3-87ce-62c213632e4b,"Yes, can you play some music that I never heard. Some rock music?",music-search
+music-6,dlg-cb3a7ffc-f582-499d-80f9-739d0b4de8b0,"Yes, could you play me something by The Police?",music-search
+music-4,dlg-cb4ec782-55f3-4a17-bcf2-cdf459d92cc4,Hi. I want to listen to some music by Barren Earth.,music-search
+music-6,dlg-cb804c4e-a9d4-46b7-8124-fa8adfc580fb,"Hey, Could you play something by Noxious Fumes?",music-search
+music-6,dlg-cb8b767a-2e9e-45e5-a181-8ed1eedd86df,"Hi, I was wanting to listen to some music from Green Carnation.",music-search
+music-7,dlg-cbb7eef0-091a-4d5a-84c7-ef832961eda9,Hello. Can you play some music similar to Eminem?,music-search
+music-6,dlg-cbdb7ae8-c2c7-4827-ad67-f767836471a2,"Hi, I'd like to hear something from Band Creed, please.",music-search
+music-8-new,dlg-cc00d68b-7eba-40e1-8785-c07056f46807,"Hi, I'm looking for music to listen to, I'm thinking some country.",music-search
+music-6,dlg-cc18ccde-32c5-41bd-af90-4ebbb72ed203,Okay. Very good. Just had to make a little adjustment there. I'm interested in hearing some music from the great artist David Bowie. Can you help me with that today?,music-search
+music-8,dlg-cc55419c-fa2a-4a9e-9b69-e484a97327ea,Hi. I would like to listen to some pop music.,music-search
+music-8,dlg-cc9fb44d-5684-42cc-a2f7-6096d2ccc22b,I'd like to hear some R&B music.,music-search
+music-5,dlg-cca75364-ae9d-4481-ae81-cbb9a481215d,Hello. Can I hear something by the Minutemen?,music-search
+music-5,dlg-cce85a64-7a71-4dac-a265-cb58e64ea8e1,"Hi, can I help listen for Jay Z, please?",music-search
+music-6,dlg-cd63be5b-7955-4667-a681-3d366505cc48,Can I listen to Linkin Park?,music-search
+music-1,dlg-cd9eb1c6-cc2c-4d9d-9166-4f14348be6f6,I would like to hear music from the band Nirvana.,music-search
+music-4,dlg-cdbaba22-3b66-471d-bb0b-76577ae35af2,Could you play a song by Lord Huron?,music-search
+music-7,dlg-ce0457f2-f6b8-41d9-adf8-9edc6f2b141f,"Hi, I'd like to listen to some new music.",music-search
+music-7,dlg-ce09a34d-0e22-4620-a8d4-e6229861fd72,"Hi, can you send me a song that sounds like Josh Pan?",music-search
+music-6,dlg-ce796c8d-80bf-4e07-ad97-10d313660da3,I'd like to hear some music from Linkin Park.,music-search
+music-5,dlg-ced4aaa3-f700-425b-b4ca-65033329ecb1,"Hi, I'm looking for a suggestion on music, something from Waka Flocka Flame.",music-search
+music-4,dlg-cf99617d-dbfb-4c19-91eb-9142ac097b50,"Hi, I'm looking for something by Dax Riggs.",music-search
+music-4,dlg-cfc67845-fd0b-4994-9964-5d1af0b8e5e2,Hi. Can I listen to music by Ariana Grande?,music-search
+music-4,dlg-d01679f3-72f8-4f94-a61d-393cdd7497f5,"Hello, I would like to hear some music by Peter Frampton.",music-search
+music-6,dlg-d02de712-0972-4b24-9ff3-40a63938bed3,Play something by La Lupe.,music-search
+music-8,dlg-d036b4dc-ab6a-497f-8bd1-c8082a37a22d,"Hello Assistant, I'd like to hear some music that's going to help me with my studying.",music-search
+music-6,dlg-d06bc67a-6dc2-4d2e-afae-679f02d4ee13,Hi. Can you play a song by Johnny Cash?,music-search
+music-6,dlg-d091101a-9f2e-487a-a078-1ad85ab6c430,Yes. I would like to hear a recording from Stevie Wonder.,music-search
+music-6,dlg-d0c096f7-d112-4c16-95c1-79fe121df638,Hi. Today I need your help finding music to listen to. I have a song in mind and a couple of others by the band Oasis. I'm looking for the song All Around the World by Oasis.,music-search
+music-5,dlg-d0dd5880-2c79-40a8-b6b8-0d705efb8ae3,Could you play me a song by the band Imagine Dragons?,music-search
+music-4,dlg-d10d8be5-24f4-4879-860f-22b0c1f29ee0,I'd like to hear something by Eminem.,music-search
+music-8,dlg-d1334139-50ef-43a6-b1e1-19dd1b33695e,I want to listen to some pop music.,music-search
+music-6,dlg-d14f44f6-e91d-4219-85ab-5ea5d0638abd,"Hi Assistant, could you play me something by the Counting Crows?",music-search
+music-4,dlg-d15d68c1-11a9-4210-8aef-a5f83c78b4b8,"Hi, I'd like to listen to Radiohead, please.",music-search
+music-6,dlg-d1c0aa2a-4efe-4fb1-bfb2-7b8324e5d4bc,"I'd like to hear a song by Billy Joel, please.",music-search
+music-4,dlg-d1c3990f-6ade-43d3-88a4-974d364c9bca,I'd like to listen to some music by Blink-182.,music-search
+music-7,dlg-d1e167ec-ec35-4c4b-9c55-c481e750605e,"Hey Assistant, I'd like to hear some music by Barry Manilow.",music-search
+music-7,dlg-d1f00721-3763-46d5-ae31-b12260b3e1a9,I would like help finding a new music to listen to.,music-search
+music-1,dlg-d2083dd0-7e82-4529-bede-cad00e8253b1,I want to hear the Dirty Heads.,music-search
+music-6,dlg-d21e560f-0080-4723-b3ba-e4700a6154b8,Hi. I was wondering if you could play me something by the band Parliament.,music-search
+music-7,dlg-d23e29fa-0f51-479c-8e5a-5e37a3b20244,Hi. I'd like to listen to some music tonight.,music-search
+music-6,dlg-d2486d8a-acf0-4911-a0aa-8ac80ba81faf,"Hello, Assistant. I would like to hear some music by the Village People.",music-search
+music-6,dlg-d2537ff0-bcda-4af7-8f95-14d1d0ad0f9b,"Hello, I'd like to hear something by Bruno Mars.",music-search
+music-7,dlg-d25a5a4f-a790-48f2-8dd8-466afc85564f,"I need help in looking for new music to listen to, please.",music-search
+music-6,dlg-d2623eea-7d7b-4d96-8fcd-6669a837e998,Could you play me song by Dixie Chicks?,music-search
+music-5,dlg-d26dc671-8aee-44f4-af56-adb60d067678,"Yeah, Could you play me something by Wendy Grant? Maybe something off his first album. Let love rule.",music-search
+music-2,dlg-d27f04c2-66ab-408d-92d6-70ffcdb68897,Hi assistant. Can you help me find Tambourine Man by Bob Dylan?,music-search
+music-8,dlg-d286d4c3-39d0-437c-bd34-adbd2b458350,I'd like to hear some Lion music.,music-search
+music-5,dlg-d2921192-d08b-46f6-9e16-707d5201e318,Play something by The Waves.,music-search
+music-6,dlg-d29b7aee-62ab-4556-951c-087ffb976890,Hi. Can I hear a song by the band Missing Persons?,music-search
+music-2,dlg-d2a739c9-5ce3-4aa8-9201-bc3b78a6cef1,"Hi, can you play some Taylor Swift?",music-search
+music-1,dlg-d307460d-50fb-4010-bd2d-2c8a25f1add6,Hi. Could you help me find some music by Mumford & Sons?,music-search
+music-6,dlg-d30853ed-23d5-4f01-9453-d7f2c21bd2cb,"Hi, I was just looking to listen to some music.",music-search
+music-7,dlg-d33f1137-8933-4755-bf8d-97a706066e4f,Can you help me listen to some new music?,music-search
+music-8,dlg-d3720101-be1f-4341-8ed0-d82cb6e25650,"Hi, could you play me some coffee shop music coffee house music?",music-search
+music-4,dlg-d382094f-740d-4884-b162-f5765995f790,I want to hear some music from Bon Jovi.,music-search
+music-5,dlg-d3872ad5-c2ee-421f-971c-1abba3944014,"I wonder if you would play me some music, by Joni Mitchell?",music-search
+music-8,dlg-d3ced9c1-fa75-46cd-8817-0c9c3c2888a9,"Hi, can you put some R&B music for me, please?",music-search
+music-6,dlg-d4107666-7e43-4a37-9bb1-a5d928ce0ead,"Hi, can you play me a song by Ed Sheeran?",music-search
+music-5,dlg-d47b859a-d137-44c6-a4c7-3b9a0a15b33a,"Hi, I'd like to hear some music by Adele.",music-search
+music-5,dlg-d48b8e0b-3c09-4ace-afd2-25eae064be81,"Hi, Today I need help finding music to listen to. I'm looking for a song, By a person named Bones. It's called Tempo.",music-search
+music-6,dlg-d4a72769-a568-432e-81d9-c123a0d84699,I would like to listen to a song by Bruce Springsteen.,music-search
+music-7,dlg-d4e20683-ba68-429b-8e22-a7f8e3b15efe,"Hi Assistant, Can you help me find some new good music?",music-search
+music-7,dlg-d4f35995-1a5a-4970-8c23-c81c59de4a93,Can you play some songs for me? I like George Strait.,music-search
+music-6,dlg-d4f4d85b-bc21-4ef6-acb8-7bfe0c8e3e06,I would like to listen some music from Apocalypse Orchestra.,music-search
+music-5,dlg-d53b9ac0-c2b2-43f5-a8a9-e489d8114563,Can you play something of Paris Motley?,music-search
+music-6,dlg-d5940efc-b881-4fb3-9ae9-6450b0c13744,"Yeah, can you play something by Athlete?",music-search
+music-1,dlg-d5bb963d-ebe8-41b5-8528-4be68c807745,Okay. I'm looking for a song by Beyond Creation.,music-search
+music-7,dlg-d5caa60c-5684-4ef0-93a7-cada4efdf86b,"Hello Assistant, I would like to hear new music to listen.",music-search
+music-6,dlg-d6067da9-7822-4847-89cc-6d415bad4d4d,Yeah. Can you play something by Adam Powell?,music-search
+music-1,dlg-d63207fe-3a7d-4452-afe0-6c7a3c75786b,Can I hear about The Beatles?,music-search
+music-7,dlg-d687cdc1-6bc0-4ff7-8b86-7d25c8453233,"Hi, I need help finding new music to listen.",music-search
+music-7,dlg-d6e36d76-acc9-433e-823c-dfea2cd96784,Hello Assistant. I'd like to hear some music similar to Michael Bublé.,music-search
+music-7,dlg-d72d2caa-a7d5-45e1-9834-9af62d41e7fa,"Yeah, I like to find the latest songs by Pitbull.",music-search
+music-2,dlg-d7545c76-f6e8-402b-8635-bce54b5701b3,"Hi, today I need some help finding music to listen to. I'm looking for a song by Metallica. It's called One.",music-search
+music-7,dlg-d7b86df9-0761-4070-90b0-be0b91c54ea7,Hi. Can you help me find some new music to listen to?,music-search
+music-6,dlg-d7d18ab3-ce9c-46da-b063-747d026c35fe,"Hi, Can you play me a song by Alyson Stoner?",music-search
+music-5,dlg-d8689bc5-d0ce-43ac-8771-7fc2b16ca249,"Thanks. That was pretty terrible. I've never heard them that's in live YouTube videos, But never one. That was crazy.",music-search
+music-5,dlg-d8882059-4668-49f1-9c12-7bb12ae40b33,"Hi, I was asking to hear something by Robyn Hitchcock.",music-search
+music-7,dlg-d8b8aa9a-b18d-47f4-9ca4-934da54a7224,"Hello, I'd like to hear some music and one of my favorite artists is the Bee Gees. Can you find me something similar to the Bee Gees?",music-search
+music-2,dlg-d8c90868-d184-4741-ae92-a0fc3047d7c3,Would you find me something by The Cure?,music-search
+music-6,dlg-d8cc6dc0-abfe-40db-b87b-2a6df0ac4421,Hello. I'd like to hear some music by Linkin Park.,music-search
+music-6,dlg-d8f2b383-b2f9-4981-8902-50ed838fabfa,I want to listen to some music by Septicflesh.,music-search
+music-5,dlg-d90ea417-b24c-40ac-a861-11278c1d5d00,Hi. I'd like to listen to some music by Blink-182.,music-search
+music-6,dlg-d91a83fd-6bdb-4064-8b70-760be2460d66,"Hello. I would like some help browsing the music of The Beatles, please.",music-search
+music-5,dlg-d9395a12-ec4f-48cc-8906-a4cf04f152e6,"Hello, I want to listen to some music by Deicide. Can you help me with that?",music-search
+music-6,dlg-d98d6a5c-9913-487f-b422-e74182469d68,Can you please Play Composer by August Burns Red.,music-search
+music-7,dlg-d9cb9b53-2011-41a5-90fe-aaf225c17d58,"Hey, I'm a huge fan of Hi-Tek.",music-search
+music-6,dlg-da2d6816-30aa-4c7a-bb22-2a4fa6adc375,"Hi, I would like to hear music by Ed Sheeran.",music-search
+music-7,dlg-da5226c6-52a6-4d54-9857-db9bdcc822f1,I want to listen to some new rap by new artist. I really like Cardi B. Could you play me something similar?,music-search
+music-6,dlg-daf53993-8202-4f1f-ba45-e66db167f0a7,I was thinking Maxwell.,music-search
+music-6,dlg-db1ebfdf-09b1-4e37-b4ee-1274ac19f6e3,Hi. Today I need your help finding music to listen to. I'm looking to hear a song called Sleepy Seven by Bonobo.,music-search
+music-7,dlg-db37cc71-5ed4-4f11-b1fb-70ff41267b60,"Hello, I'd like to hear some new artist some new music that I haven't heard before and I like Madonna. Can I hear something similar to Madonna?",music-search
+music-2,dlg-db4c99bf-eb08-4776-892a-e6d6a03e1358,"Hi, can you find me One Week by Barenaked Ladies?",music-search
+music-6,dlg-dbb62b90-69d4-4c39-af19-136ef0897d68,Hello. Can you play songs for me by Whitney Houston.,music-search
+music-6,dlg-dbf73941-36fa-4090-b561-e63910ffc981,"Yeah, can you play me some by Taylor Swift?",music-search
+music-7,dlg-dc3fa2af-a118-44d4-b1ff-b08d0a6ac911,"Hi, I'd like some help discovering new music, please.",music-search
+music-7,dlg-dc6120be-15a5-4529-bc85-9b309af90a60,I am looking for new music.,music-search
+music-6,dlg-dcbd8e12-d100-4c2e-8d6d-047eeb55fc80,Hi. Can you help me to find some music?,music-search
+music-7,dlg-dcc8fc1f-e13c-4025-8de5-3584f2bd5794,"Hi, Could you play me a new Indie artist?",music-search
+music-7,dlg-dcd09c45-0271-49a7-96aa-e3e3e91693d1,"Hi. I would like to listen a latest music, that I've never heard before.",music-search
+music-7,dlg-dce58872-68dc-4efb-a3cf-b85460f476b4,"Hi. I need a new artist to listen to, please.",music-search
+music-5,dlg-dd14a479-9887-4c8a-8c52-c70014b72083,"I'd like some help browsing music from the band Chicago, please.",music-search
+music-8,dlg-dd2ae182-c708-40e7-a0f8-9955e4fee539,"Hi, can you play some Jazz music?",music-search
+music-6,dlg-dd4729f7-3d55-4292-be2d-24f94b5bc388,"Hello, today I need your help finding music to listen. Right now I have an artist in mind. I'm looking to hear the song Terrapin by Bonobo.",music-search
+music-6,dlg-dd69dbb4-33d4-4e22-b953-75ec41741925,Can you play something slow with a slow tempo by Stack Bundles that's an original song from him?,music-search
+music-7,dlg-dd845f1c-ce4f-4079-95d8-778b0db197b7,Hi. Can you help me to find some new music to listen to?,music-search
+music-6,dlg-dd9ea60a-469d-4afb-a911-ca68852f19cf,"Hi, Could you play a song by Little Mix?",music-search
+music-6,dlg-dd9f86b5-8ff2-4899-a89a-ee2aabefe418,Can you play me a song by Moore?,music-search
+music-6,dlg-ddb0a89e-206e-4f03-9c5e-4b719ffd27ad,"Hi, I want to listen to a song by Fifth Harmony.",music-search
+music-5,dlg-ddb551ea-bf59-46b4-96c4-ad495ffb49d0,Yeah. Could you play me some Guns N' Roses? Something off of Use Your Illusion I?,music-search
+music-6,dlg-de12070f-038f-41fb-a700-c6a59b58f0b5,Browse through music.,music-search
+music-7,dlg-de2e614e-9a41-4005-9065-362ae81f75ee,Can you play an artist similar to Katy Perry?,music-search
+music-6,dlg-dec7a54c-4712-4c8b-87d9-a07ee0e2cdd9,Hello. I would like to hear a song by Bruno Mars.,music-search
+music-1,dlg-df083734-8bbd-4b40-bbbb-6b2556bdf3b3,I'm looking for something by Rick Astley.,music-search
+music-7,dlg-df3743be-fc8d-4cc9-95cd-c9d010ab91c3,"Hi, I was wondering if you could help me find some new music to listen to.",music-search
+music-5,dlg-df5e1479-ec4e-4bc1-92c8-8eb9adc29037,"Hey, can you play something by Nirvana?",music-search
+music-5,dlg-df72f394-42e3-47a0-b15f-907795e380d7,"Okay, can you play something for my different album by August Springer child?",music-search
+music-1,dlg-df8e501b-031e-48d9-af97-dd10f7322ad1,Hi. I'd like to play hear some music by Led Zeppelin.,music-search
+music-6,dlg-dfae0711-a95a-4b0b-9403-c2d0918ea706,Can I hear something by Taylor Swift?,music-search
+music-6,dlg-dfdea46e-59cd-4bff-9be4-3f71b9dfc9cf,Can you play some music by The Waves?,music-search
+music-5,dlg-dfeb766f-4182-4cdd-9b10-8a98e47fb89f,Can you play something by Wage War?,music-search
+music-8,dlg-e01946cb-a3c8-4e66-8c0e-8bb8dc439050,I'd like to listen to some classical music.,music-search
+music-5,dlg-e01bea0e-07d5-4c12-9109-fec08438613d,"Hi, I want to listen to a song by Little Mix.",music-search
+music-5,dlg-e084c5fc-97b2-46ab-91af-2df9eb6351be,"Hi, could you help me find some music?",music-search
+music-5,dlg-e086d8d4-834c-414b-9991-0a8c62038abd,"I need help finding music to listen to. Can you play something by Joe Budden, please?",music-search
+music-7,dlg-e09fbd6c-fe36-494e-99ab-edb5ecb0476c,"Hi, I'm looking for some new music to listen to. I was hoping you could help.",music-search
+music-8,dlg-e0d34c1e-f45d-4245-b741-33fa59e0900c,"I would like to hear some pop music, please.",music-search
+music-7,dlg-e1056dfc-8a7e-4357-8846-49e026e9758f,"Hello, I'd like to hear some new music related to Michael Buble, please.",music-search
+music-4,dlg-e1b8d921-540b-4150-8c30-8301931f2c91,"Can you play something by Medicine Head, please?",music-search
+music-2,dlg-e2401dcd-90ec-469e-b7fc-b1a41e96c8e5,Hi. I'd like to hear some music by Madonna.,music-search
+music-6,dlg-e2a0d82f-ec85-4f3a-a538-26b86956509a,I'd like help with browsing the music of Vince Gill.,music-search
+music-7,dlg-e2e00b26-31c8-4463-b4c2-9f92aaa37950,"Hi, I'd like to find new music to listen.",music-search
+music-8,dlg-e2f7afa7-3954-4c6f-b9f9-8482be7e71c4,"Hi, could you help me find some pop music to listen to?",music-search
+music-6,dlg-e3207332-d47d-4399-800d-2428a73c31f6,"Hey, can you play something by Fleetwood Mac?",music-search
+music-2,dlg-e3341b92-9204-4791-b652-ed9c04cf35b8,Please play Katy Perry Dark Horse.,music-search
+music-5,dlg-e350d225-9a41-49f5-8683-699c0a1d1a5b,"Could you play me some songs, some new material, by Fifth Harmony?",music-search
+music-6,dlg-e38932eb-cce4-400d-9f0a-4381078d7f37,Hi. I'd like some help in browsing the music of the Backstreet Boys.,music-search
+music-6,dlg-e3c2732e-8ca9-4c52-a39f-7c02dd6bfafb,"Okay, great. Can you play me a cover by Our Last Night?",music-search
+music-1,dlg-e3dad012-5828-4c53-9108-fbafe69e24f6,"Can I hear a song by Rise Against, please?",music-search
+music-6,dlg-e42c108c-8997-44f3-bf6d-33a0a361597d,Hi. I'd like to hear some music by Taylor Swift.,music-search
+music-7,dlg-e431b15d-c52c-492f-9f8b-4f27a4da896b,Hello. I'd like you to find some music. Can you help me with that?,music-search
+music-5,dlg-e487c964-fb9e-4a70-b8ae-ff657bf1a350,"Hi, Today I need your help finding music listen to. I'm looking for a song by the band Oasis, It's called Be Here Now.",music-search
+music-5,dlg-e4c37f8e-3e8e-49bf-bab4-8c508de186d3,"Hi, can you play me a song by Joe Veras?",music-search
+music-6,dlg-e4da2772-526e-4938-8262-b807021061e8,Hi. Can you find me some music by James Brown?,music-search
+music-1,dlg-e4e80d9f-dd9c-49d7-8591-bf8a00dd5673,I want to hear There are things you don't know or Something For The weekend.,music-search
+music-5,dlg-e4f4704c-e114-4fa0-9374-2f635a3cfe73,I would like to listen to The Beatles.,music-search
+music-5,dlg-e4f6acfa-d4c0-4b75-9057-100b5e4713d3,"Hi, I'd like some help browsing the music of Kenny Chesney.",music-search
+music-7,dlg-e504154f-3478-478d-bf47-b1b3aa07b956,"Hi, I need help finding new artists to listen to please, can you help me out?",music-search
+music-5,dlg-e508c413-8de4-4bf6-a037-d990d13ecdab,"Hi, I was looking for some music by Edge of Sanity?",music-search
+music-6,dlg-e54b3be6-0c20-4af9-a21b-cfdad348494c,Hi. I'd love to play something by Kid Cudi.,music-search
+music-5,dlg-e5543e50-3478-4826-82c7-f990013815fa,"Hey Assistant, I would love to hear some music by Bruno Mars, can you help me?",music-search
+music-2,dlg-e56a15b4-94bc-44bc-b5fe-3eff0e948d1e,"Hey, I want to browse music to listen to. Can I hear something by Nirvana?",music-search
+music-6,dlg-e57058b6-0fdf-4d0d-a24c-307b43a1a84b,Can you play some music by Half Life?,music-search
+music-6,dlg-e57f28fa-c42d-490c-8f42-127f0f2cadbf,"Hi, Could you play me some of The White Buffalo, please, Maybe something off Sons of Anarchy soundtrack?",music-search
+music-5,dlg-e58a122a-92b2-41ed-b6b2-1573ba91adba,Hello. I'm trying to find some new music to work out to. Do you think you can help me with that?,music-search
+music-4,dlg-e58df35b-63ab-4cca-976e-1e813efe0ee7,"Could you play a song, by Demi Lovato?",music-search
+music-6,dlg-e5c4479a-fd44-42f0-879c-c8f1ba2b2a47,"Hello, can you play some something by Wage War?",music-search
+music-5,dlg-e5db5551-6d4c-4c0d-9702-e9e88596aebf,Play something by Mustard.,music-search
+music-6,dlg-e6a3d8ad-a9c8-4c8e-9050-d97a85bc3504,"Yes, I wonder if you can play me some music. How about some Guns N' Roses off their first album? I have time for distraction.",music-search
+music-7,dlg-e6aa97dd-ec08-4ef6-bc04-c93a97f205d4,"Hi, can you help me find an artist like Taylor Swift?",music-search
+music-5,dlg-e6ca54dc-c66c-42c1-9e09-cd4515efe603,"Hi, Today I need your help listening to music. I have a band in mind that I'd like to listen to and the artist Bonobo as well.  I'm looking to hear the song Wayward Bob.",music-search
+music-8,dlg-e7133065-50bf-4cc9-9643-1821f61b1803,"Hi, I would love to hear some Blues music. Can you help me?",music-search
+music-6,dlg-e73bfe0a-9423-4c2d-8125-547c7bf21642,"Hello Assistant, I want to listen a song from Maichael Buble.",music-search
+music-7,dlg-e761bd79-cf3e-497f-af83-4d46db107bb1,"Hi, I'd like to listen to some new music and I have a couple of artists in mind.",music-search
+music-2,dlg-e77d0b6e-4b5b-4c5f-a197-23c61b291beb,"Yeah. Could I hear something by Christina Aguilera, please?",music-search
+music-2,dlg-e78f646c-e43e-4c26-aca3-040747fcd398,Hi. I'd like to listen to some music by Jethro Tull.,music-search
+music-1,dlg-e7b2f472-c1a5-471d-ae69-fc62d49902dd,I would like to hear a song by Twenty One Pilots.,music-search
+music-6,dlg-e7eba849-3dcd-4e45-9103-fb80d9c2217c,"Yeah, can you play me some music by the Counting Crows?",music-search
+music-2,dlg-e7fd285a-5c49-4b87-950c-c48b6b54b850,"Hi. Today, I'm looking to listen to some songs by the band Tool. The song is called Prison Sex.",music-search
+music-7,dlg-e83b26c4-d65c-40ad-9eb3-eb559cf8918b,"Hi, can you put a music like August Burns Red?",music-search
+music-7,dlg-e851038b-5295-4019-8f18-d5683ca0518b,"Hi. I'd like to browse some new music, please.",music-search
+music-6,dlg-e8723cec-57ea-4a4a-96f2-cf9e38f80147,"I was wondering, could you play me some music? How about some Big Star?",music-search
+music-4,dlg-e88a29fc-fb7d-4277-9182-a5a5d02cba81,"Hello, can you play me a song by Tico?",music-search
+music-5,dlg-e88c727d-5c9b-4a10-ac63-81e299d4f638,"Hi, Today I need your help finding music to listen. I have a song in mind and a couple of other ones by the band Metallica. I'm looking for the song King Nothing.",music-search
+music-2,dlg-e8b90169-c13d-4bf9-b88f-1b33b7719d71,Hi. I'd like to hear some music by The Monkees.,music-search
+music-6,dlg-e8f01709-bea2-440e-8329-dd5a8a6e9692,Could you play a Drake song for me?,music-search
+music-7,dlg-e9529098-2e44-4a3a-b07f-819245099d47,Hello assistant. I'd like to hear some new music and I really like Adele. Could I hear music similar to Adele?,music-search
+music-5,dlg-e994ecd2-d7fa-40b2-b506-0e374aceef4a,Hey. Could you play something by Lil Skies?,music-search
+music-2,dlg-e9d5d126-0e64-46dd-b7f1-bb7d0b3d02d2,"Yeah, could you play me something by Lenny Kravitz?",music-search
+music-2,dlg-ea209326-3aab-4817-9832-6b849df425d3,"I'd like to hear something by Whitney Houston, please.",music-search
+music-7,dlg-ea38e639-9468-4105-bbb4-37714b637b76,"Hi. I'd like to hear some latest music, please.",music-search
+music-5,dlg-ea70ec7e-6505-4bf1-a57d-c51e3033842d,"Hi, I'm going to browse some music to listen to. I want to hear a song by the Rolling Stones.",music-search
+music-5,dlg-eae90fb2-429f-4490-aed7-2fd0bf9881fe,"Hey, could you play something by The Cranberries?",music-search
+music-7,dlg-eb1665e2-9fd8-4dc4-9af1-a291be2b244d,"Hi, I'd like to discover some new music, please.",music-search
+music-7,dlg-eb2a89e0-b006-4f3b-ac23-6ac631291685,Hi. I'd like some help discovering new music to me.,music-search
+music-6,dlg-eb2c0612-36fd-4539-a46e-c48dcd58e2cc,I want to listen some music by Rivers of Nihil.,music-search
+music-6,dlg-eb454745-3ecb-4c95-bdd4-2c9fae0e85a1,I would like to listen to something from Green Carnation. Can you help me with that?,music-search
+music-7,dlg-eb8ae47c-2c0a-49ca-aea8-716681001f85,"Hi, I'd like to find some new music to listen to.",music-search
+music-6,dlg-eb8fd8d0-3223-4afb-949d-9ea2bc2e23fd,Hi. Can you play me a song by Nirvana?,music-search
+music-2,dlg-ebf61eca-47b2-477c-8abe-0befc120e70d,I'm thinking rock a band I really like is Rise Against.,music-search
+music-5,dlg-ebfc817f-5a22-433d-9d02-7f8c18b89031,Could you play a song by Little Mix?,music-search
+music-1,dlg-ec67b4e4-3230-4aea-be70-6f74d4a5572c,"Hi Assistant, Can I hear something by Taylor Swift?",music-search
+music-2,dlg-ec969640-3f52-4d01-949e-7d5ed25495ea,I need help playing a song by As I Lay Dying.,music-search
+music-6,dlg-ecb196e8-673f-4e8f-9dae-0a12e9e899ca,"Hey, what's up I'm looking for some music to listen to.",music-search
+music-7,dlg-ecc76116-47e4-4026-a334-a3ea28885eaa,I would like help in finding new music to listen to.,music-search
+music-4,dlg-ecd740fb-32e1-4dc0-8a5d-2fcc4309f5ff,"Hi, could you play me something by Katy Perry?",music-search
+music-6,dlg-ed005627-108e-4bac-b022-ecc30812cc9e,I'd like some help in browsing the music of Darius Rucker.,music-search
+music-7,dlg-ed51fd06-c682-4257-8032-5304c067cae4,I am wanting to listen to new music. I like the artist Fifth Harmony.,music-search
+music-6,dlg-ed7858af-576e-4045-9492-f0af2428d9be,"Hello, can you play Composure August Burns Red?",music-search
+music-7,dlg-ed99d610-51cc-443f-9f50-ee6c2035e3cc,"Yes, I'd like to hear some new music that I haven't heard yet.",music-search
+music-5,dlg-eda2d0e0-04d7-4965-8b22-495b415391a0,Hello! I want to here Brand new songs.,music-search
+music-4,dlg-edaa8c12-a073-4de3-a8fd-41d59639a558,I would like to hear music from the band Korn.,music-search
+music-5,dlg-edb8e7ed-76e9-4b15-a676-8d75771ae274,"Hi. Can you play something by Creed, please?",music-search
+music-5,dlg-edc1d55b-a28c-40a2-babd-4cc5baaebd02,Can you play something by The Cars?,music-search
+music-6,dlg-edd78e76-36f8-4d57-a979-a9bb81f3386e,Can you play a song by George Strait?,music-search
+music-6,dlg-edf618fb-ada2-4db9-8111-a468b11d6643,Yeah. I'd like to hear a song by David Bowie,music-search
+music-7,dlg-ee38936c-49c5-4677-b9f8-4ebe1f4d685f,"Can you help me with that? I kind of like surf rock, I kind of like The Beach Boys but not The Beach Boys, you know?",music-search
+music-5,dlg-ee4cc788-6ff4-4656-8714-cc416a3671cf,I was wondering if you would play Tears for Fears.,music-search
+music-2,dlg-ee741f7b-e040-498a-b76e-e5ca88346272,I'd like to hear something by Third Eye Blind.,music-search
+music-7,dlg-ee7b1e0d-16ef-475d-9425-c66d8367345d,Hi. I'm looking for new music like Lorde.,music-search
+music-2,dlg-ee9ccf64-900e-45de-8407-16206bd9ad41,Hi. I would like to hear something by Lady Gaga.,music-search
+music-5,dlg-eee5509f-1baa-4fe4-a483-016bb020c65c,"Hi, I'd like to hear something by Katy Perry, please?",music-search
+music-2,dlg-ef15859e-e510-46b7-a353-5e902811c186,Hi. I'm trying to get your help to find a song to listen.,music-search
+music-6,dlg-ef229805-cc9f-4fca-8330-7ccd88392eea,"Hi, can you play something by August Burns Red, please?",music-search
+music-6,dlg-ef4c07e2-4f10-436f-a786-fdebbff95e66,"Hey, could you play something by The Offspring?",music-search
+music-4,dlg-ef7abe44-315d-47dd-b10d-7b7ce5eb45f8,Hi assistant. I'm trying to listen to a song from Epik High.,music-search
+music-7,dlg-ef944076-2f39-4d11-b4a8-d340b68ecc4b,"I'm a big hip hop, fan but I'm looking for some new music. Could you find me something like a kind of like Price Paul?",music-search
+music-6,dlg-ef9fa989-0acc-4b1c-a8ac-fd6fe62cced9,"Hi, I was wanting to find to listen to some music by I was looking to listen to some music by Beyond Creation.",music-search
+music-8,dlg-efa49b30-9af7-4fd9-8a0a-6974b6adace7,Play something more Lo-fi.,music-search
+music-6,dlg-efb9895a-7bb5-4c0e-acd2-f2119e8156b9,"Hey, Can you play some music by The Zombies?",music-search
+music-5,dlg-efc5face-da30-43f2-9624-3b7f86536ca9,I'd like to hear something by The Ramones.,music-search
+music-5,dlg-eff2637b-b923-4a7c-8781-7c9c65f88ba4,"Okay, that was a nice trail but I was looking for Camper Van Beethoven.",music-search
+music-5,dlg-eff59c28-c043-41b2-a5c6-7509ca43c96f,Hi. Can you play something by Nirvana?,music-search
+music-6,dlg-f021ffb5-b25a-4bd9-920e-57f43d9fafe8,"Hi, today I need your help finding music to listen to. I'm looking for a song by Bonobo. It's called All In Forms.",music-search
+music-6,dlg-f0575689-ce5f-444f-a440-c25f5d6030e8,"Hi Assistant, I'd like to hear some music by the temptations.",music-search
+music-7,dlg-f066ae14-c437-4ee7-addc-ea63bcec0e05,"Hi, can I hear a song similar to Tom Petty?",music-search
+music-4,dlg-f0cbbf59-4276-4bb7-b58d-67ba38322a05,"Hi, I'm a big fan of Owen Campbell. Could I hear Rhinestone Cowboy by him on YouTube?",music-search
+music-4,dlg-f0d0894b-2410-49ae-bacb-31784194e0ed,I'm looking for music to listen to. I'm looking for a Metallica song. It's called One.,music-search
+music-8,dlg-f0d26fae-1a98-4373-bd6f-7915bf4fbe70,Can you play some rap music for me?,music-search
+music-5,dlg-f0f3299b-9661-4870-a9f2-8647c850c402,"Hi, I'd like some help browsing the music by Chicago.",music-search
+music-7,dlg-f0f6f3d7-3015-4805-b4db-a312655396a6,I'd like some suggestions for new music.,music-search
+music-7,dlg-f1665094-c489-425b-a1ca-67bd5a389529,Could you play me all my new music two that I haven't heard before? I mean like good music.,music-search
+music-5,dlg-f1922ac5-162e-4e3b-9ffd-5f51839125b5,"Hi, today I need your help finding music to listen to. I might have some songs in mind. Now I'm looking for a song by the band Oasis.",music-search
+music-6,dlg-f1c1cf56-a5c0-45bb-9c43-e5cb7a0d2116,"Hi, can you play something by Cardi B, please?",music-search
+music-5,dlg-f1c5397b-537a-429d-929b-27eca8bf482a,"Hi, you recently played me Hotel California from the Eagles. Can you find me another song from the Eagles?",music-search
+music-6,dlg-f1f2ef0b-b3c6-4a69-b0b9-d7e40c6d89fa,Play a song by Mumford & Sons.,music-search
+music-6,dlg-f1feec78-5180-4060-9d4d-314f3ddc0779,I'm looking for some latest music to listen.,music-search
+music-2,dlg-f2070d97-518f-46c5-9f00-bdc49d3e9817,Will you play me a song by MC Chris?,music-search
+music-6,dlg-f220c59f-80fb-42b0-b66f-8283c47c5058,"Hey, can you play something by George Benson?",music-search
+music-6,dlg-f224c792-487a-44b5-b177-7f258632282a,I want to listen Little Mix. Could you play me some songs by them?,music-search
+music-4,dlg-f24f45e9-b348-4480-a2e8-b790529d2062,Hi. I'd like to hear something by Richard Marx.,music-search
+music-6,dlg-f2f8e9aa-2671-4fa2-9b12-c9f9cf636428,Hi. Today I need your help in finding a song called Supersonic by Oasis.,music-search
+music-2,dlg-f301cf8d-7fba-4ffa-a64d-eeb92d827ee9,"Hi, I'm looking for some music to listen to right now and browse for me songs to listen to.",music-search
+music-6,dlg-f32a9dac-18d7-43db-b898-b3ac25940aa9,Tom Petty.,music-search
+music-8,dlg-f32ee2e1-f52c-4a76-91e7-494e866a2fe8,"Yeah, I'd like to listen to some coffee house music. I'm in the mood for some coffee.",music-search
+music-5,dlg-f32fae04-18f6-4240-9914-e2198b0f4aba,"Hi, Can I listen to a song by James Arthur?",music-search
+music-5,dlg-f33be5aa-b9d0-4b0a-927e-887741df84e5,Hello. Can you please play The Frost by August Burns Red.,music-search
+music-5,dlg-f36db9a5-d6ab-4fe3-98ac-1083c68d519f,Play some Tool.,music-search
+music-5,dlg-f390918b-6eec-438f-9ee4-a59bca38b351,I would like to listen to some music. I like listening to some Reba McEntire's music.,music-search
+music-2,dlg-f39a7ed7-57d2-42a9-aaef-d63ba690ff8c,"Hello. May I hear Fall Out Boy - Sugar, We're Goin Down?",music-search
+music-6,dlg-f3ae353c-eaf6-4f51-9aab-dec359c6567f,Play me a song by Little Mix.,music-search
+music-6,dlg-f3cb35bf-867a-4b8a-8748-9e72867abc2f,Can you play me a song by Selena Gomez?,music-search
+music-6,dlg-f3dd86ac-a713-4d85-97a9-c2f31537d75f,I was thinking of something from Maroon 5.,music-search
+music-6,dlg-f3f344a9-0644-4c15-aa21-a2280c3aae6f,I was wanting to listen to some music by Nightingale.,music-search
+music-6,dlg-f416ae18-f33f-4bba-b3e1-de133271ae8d,"Hello, can you play a song by ""Our Last Night""?",music-search
+music-7,dlg-f43624ea-9b90-4029-8cf9-555be7696985,"I'd like some help finding some new music, please.",music-search
+music-6,dlg-f443c6f3-272a-4ab9-b80b-d07fec82bf51,"Hi, can I hear a song by J Cole?",music-search
+music-5,dlg-f455549e-1ba6-483d-9dca-af99e1ef3b00,Hi. I would like some help for browsing the music of the Zac Brown Band.,music-search
+music-6,dlg-f47d356a-e080-46f9-919a-703c9a4cf630,"Hi, can you play Joyner Lucas for me, please?",music-search
+music-6,dlg-f4912860-5d87-48c4-a0dd-86c94fcecb82,I'm interested in listening to some music. I want to listen to Fifth Harmony.,music-search
+music-7,dlg-f49e1c96-7058-43cd-8b08-3e3b7fc9390f,"Hi, can you play me some new artists songs? I'm really interested in Kelly Clarkson.",music-search
+music-7,dlg-f4a76dbc-d948-4f27-b197-d4a9bd0fb4d0,"Hi, I'd like some help discovering some new music, please.",music-search
+music-6,dlg-f4d799d0-f0d6-486e-a934-4692c8614e28,"Hello. I need your help finding music to listen to. I have an artist in mind, I'm looking to hear songs by Bonobo. I'm looking to hear the song Recurring.",music-search
+music-7,dlg-f5a2d1b6-bb3b-4c89-8469-79bbc14135ba,Could you play me some indie music?,music-search
+music-2,dlg-f63192bb-7da3-495c-a5fd-f0cb859ad82d,"Hi, could you play me a song by NOFX?",music-search
+music-2,dlg-f64dc10b-ed30-491a-8fff-2ef3df3d497a,Hi. Today I want to listen to some music. I'm hoping that you can find songs by Metallica. I'm looking for Sad But True to listen to.,music-search
+music-5,dlg-f6dfb247-06f3-4e58-a1c8-7fcc705528ee,"Hi, can you help me find music to listen to, please?",music-search
+music-6,dlg-f6e094c5-04a4-4fce-bbab-53685ec749f9,"Hi, I'd like to hear a song by Bruno Mars.",music-search
+music-7,dlg-f6f30644-5ded-4eaf-986d-6cdb4d00bc5e,I'm looking for some new music based on artists that I already like.,music-search
+music-2,dlg-f72d042b-ade5-43c8-98fa-6dad11e143ae,Play Ghost by August Burns Red.,music-search
+music-6,dlg-f7473a4f-7e58-4218-b4b6-717f613cf366,"How about Pop, hip hop, something in that area.",music-search
+music-8,dlg-f769e11c-aedb-45e2-8a4a-a3d14c7a91a8,I need to listen to some rock songs. Can you play some rock music?,music-search
+music-1,dlg-f79a6a96-6286-4db7-b29f-6d448677043d,Hi. Can I hear a song by Dashboard Confessional?,music-search
+music-7,dlg-f7aa3fff-676a-461e-85e2-cc6b69b1d5d5,Hello Assistant. I'd like to hear some music by Elton John.,music-search
+music-5,dlg-f8435420-db5f-4267-8c5b-a344ca36abd6,I'd like to hear something by Jesse McCartney.,music-search
+music-6,dlg-f8896465-2bc3-4078-a17e-2903546d8809,Could you play The Band Perry?,music-search
+music-6,dlg-f89d566c-0a43-4a4b-a3b5-fbc71baffc19,"Hi. I'd like to hear something by Katy Perry, please.",music-search
+music-2,dlg-f8a680c1-901a-4795-9fb6-9e48d4a5e397,"Good evening. I would like some help in browsing music, please.",music-search
+music-7,dlg-f8de510e-1858-4518-8bfe-682b992f5fa3,"Hi. I was wondering if you could help me find some new music to listen like ""The Police"" and ""Orion"".",music-search
+music-7,dlg-f92977a5-5da7-4855-862c-a1f9ef9b709c,I was wanting to find some new music to listen to.,music-search
+music-8,dlg-f948afd5-36a8-4fcb-bbc0-44c8883b1802,"Hello, I'd like some help browsing country music, please.",music-search
+music-2,dlg-f96fd3d0-5ab9-4ba8-b119-5a95d94211c5,Hi. I'd like to hear something by Whitney Houston.,music-search
+music-1,dlg-f9781f1f-975d-4a19-8681-3c293474e82a,"Hi, I would like to hear a song by Adele.",music-search
+music-5,dlg-f9dbee9b-7bc4-48d1-a8a5-1a9545e607fd,Can you play something by the Hospital Ships?,music-search
+music-8,dlg-fa2afe75-34f4-456b-91bc-a4e4ea9674ed,"Hi, can you help me find music in the category of workout music?",music-search
+music-5,dlg-fa5a4422-1923-47b7-bfd6-d6619cff20e2,"Hi, can I hear a song by Nicki Minaj?",music-search
+music-8,dlg-fa69dff7-e411-4d10-8e46-a9775654ae32,Can you play some work out music?,music-search
+music-5,dlg-fa6bb596-bf8a-449e-8eec-cae8b91b15a5,"Hi, I'd like to listen to something by Pink.",music-search
+music-7,dlg-fb7199ea-8f4e-42c7-9f95-671fe1d0c065,"Hi, can I hear some music that sounds like Turnstyle?",music-search
+music-5,dlg-fb79718e-96ee-47ea-8198-173bfde465e0,I'd like to listen something by Linkin Park.,music-search
+music-6,dlg-fba2f689-047c-45da-917f-9c9064ff06fa,I will like to hear something by Maroon 5.,music-search
+music-4,dlg-fbae636c-f198-402b-b507-f687628acb2d,Can you help me find some music? I was thinking of something R&B.,music-search
+music-5,dlg-fbbf0851-9147-4827-a971-d38fc69136fb,"Hello, Can you play music by August Burns Red?",music-search
+music-7,dlg-fbc1688d-8d3a-4d41-b1f2-3c55c440f9c2,Can you play me an artist that's like the Arcadian Wild?,music-search
+music-6,dlg-fbc4d1f2-fd3b-41bc-8c72-83c2157f12c8,Hi. Can you play a piece by the composer James Newton Howard?,music-search
+music-7,dlg-fbcf0a55-7096-4a31-abb6-2e81f4d2ede6,"Yes, I'd like to find some new music. Can you assist me?",music-search
+music-5,dlg-fbddb490-eb84-4c9a-bfcb-ac29dad3bdbb,"Hi, I'd like to hear a song by Sonny and Cher, called I Got You Babe, could I please hear that?",music-search
+music-8,dlg-fca0ff5a-49ce-484f-9fde-bc2de5e1b964,"Hi there, I was wanting to find some good workout music.",music-search
+music-6,dlg-fcc6c5f7-0130-4135-bba0-f2bfad90c751,Could you play me Little Mix?,music-search
+music-7,dlg-fd82c7dd-d498-424e-9e93-ddba422cb4ee,"I want some new artist, so play me a new artist. My favorite type of music is pop.",music-search
+music-6,dlg-fd907036-ba2e-40fe-8af6-e972b5c691ce,"I was wondering, if you could play me some music by Lenny Kravitz, maybe something off his first album Let Love Rule.",music-search
+music-7,dlg-fd9bf50d-7fc2-4b3c-8b69-957bff4b0841,"Hello, I need to hear some August Burns Red, please.",music-search
+music-8,dlg-fdc10ebd-86b4-453c-bcb5-358db20cbebd,I'm looking to listen some pop music. Can you help me with that?,music-search
+music-1,dlg-fde4f1fb-baaa-408c-9627-41d7bb483631,Browse music for me to listen.,music-search
+music-5,dlg-fe175a79-f93f-4d0b-9391-bb173c107d25,"Hey, Can you find some music by the Five Rivers Band?",music-search
+music-6,dlg-fe234d51-bd46-48d5-8681-0fbc5b5f8329,Can you play something by Destiny's Child?,music-search
+music-5,dlg-fe23f957-b823-46fc-a612-9679fbc91c40,"Hey Assistant, I'd like to hear a song by Katy Perry.",music-search
+music-7,dlg-fe87aa87-b86a-406a-b85f-21efad1b264c,I'm trying to look for some good music to listen by John Denver.,music-search
+music-1,dlg-feab74cf-7aaf-44dc-9bfb-1a442e843cb5,I would like to hear some music by Adele.,music-search
+music-8,dlg-feb73ad0-71b5-483d-a3ec-780c25d81433,Can you play me a blues song?,music-search
+music-6,dlg-feea3907-3819-4403-9d9a-20dac29a514e,"Hi, I'd like to listen to some music by blink-182.",music-search
+music-7,dlg-fef2f0c4-b547-44b7-9b3d-f6f82aa94ec0,Hello. I am looking for some new music that is familiar to me sort of like the artist Wage War or August Burns Red.,music-search
+music-5,dlg-ff398770-426a-4c87-9e8f-8be45c718361,I'd like to hear something by Pendulum.,music-search
+music-8,dlg-ff419756-5e23-4407-83d1-ddc3e92ea3a0,"Hello, can you play some holiday music?",music-search
+music-7,dlg-ffca3b1e-2729-41c5-a7c3-2b513925c887,"Hey, Yeah can you help me find some new music to listen to, Maybe some artist that I've never heard of?",music-search
+music-2,dlg-ffd31706-c8c4-4fe6-9746-b22db28d4795,"Yeah, I need a song by R.E.M.",music-search
+music-4,dlg-fffb1438-1269-4dd9-9e36-64da3f61690e,"Hello. Can you play something from Slayer, please?",music-search

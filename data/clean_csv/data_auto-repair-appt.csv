@@ -1,0 +1,1018 @@
+instruction_id,conversation_id,utterance,label
+auto-repair-appt-1,dlg-003677eb-20f8-4b1e-a396-c0f95a786543,"Hey, I'm driving and need you to set up an appointment for me at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-009f7c67-e349-443f-85f5-1fb784a3515d,"Hi, i'd like to schedule an mechanic appointment for my car. ",auto-repair-appt
+auto-repair-appt-1,dlg-0117d8f2-3519-4009-bfb5-a6f89b9aa4a6,I'd like to book an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-01944b14-87d9-498e-ad9f-57d4fe908888,"Hello, My tire pressure is starting to run low.",auto-repair-appt
+auto-repair-appt-1,dlg-01b48ef4-48f1-4c1e-81a1-1abd4776d0b9,"Hi, I have something wrong with my car and I need to make an appointment to fix it.",auto-repair-appt
+auto-repair-appt-1,dlg-028c3da3-4977-48fb-8ccc-16b41ca4d237,Good morning Bertha. Can you please schedule an appointment with Intelligent Auto Solutions? The power steering in my car seems off.,auto-repair-appt
+auto-repair-appt-1,dlg-02a81a3a-513a-4e64-aab8-1486fb1e536a,"Hey! I'm having car problems, can you make an appointment at the repair shop for me?",auto-repair-appt
+auto-repair-appt-1,dlg-0350eb2f-171f-4f96-8acf-88ddf977d56e,"I need help with my car, smoke is coming out of the engine now!",auto-repair-appt
+auto-repair-appt-1,dlg-03cce3b2-b801-4aec-b64d-0e16aa08869f,I want to book an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-03dcc9c8-135c-4ee5-97fe-d190c85f3d5c,I'd like to schedule a repair for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-0412252c-8b0a-4b49-9412-3493989b6809,Hi. I think I need to take my car into the shop.,auto-repair-appt
+auto-repair-appt-1,dlg-046b0bc3-8f2b-4e0e-ace8-47f3d0ddfd89,"Hello, I would like to make an appointment with a mechanic to check on my car. ",auto-repair-appt
+auto-repair-appt-1,dlg-04bd2fe4-0c64-4fad-8e7b-97ca1ed7a525,"My car seems off, please make an appointment for a mechanic.",auto-repair-appt
+auto-repair-appt-1,dlg-0533e90c-c87b-4409-b1cb-3ab24df106a1,this is mary at 8147896i need you to book the appointment for the auto shop called Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-053bd1c2-4250-4985-8a7d-116b7cc1abea,"Hello, while I am driving on the highway I feel my car start to shake as a I get to a higher speed.",auto-repair-appt
+auto-repair-appt-1,dlg-057bafc6-7b04-4b82-a96c-7e4792d83604,"Hi, could please make an appointment for my car at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-05cd8579-c2e5-48ff-bd08-3b86cc90f120,I need to make an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-05ed3673-5eaa-457e-ade8-477f5a6293b4,I need to schedule my car maintenance. ,auto-repair-appt
+auto-repair-appt-1,dlg-066170e0-80e3-4a51-af64-b92ebd4f3ea8,"Hey there, I need to make an appointment with a auto repair shop quick.",auto-repair-appt
+auto-repair-appt-1,dlg-06677282-59e2-4f04-a2b9-e40ccfd723d0,Could you make an appointment for me to get my car into Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-067b8a05-cff8-4e68-8dc1-1bcd6a8033e6,Get me an appointment to get my truck fixed please.,auto-repair-appt
+auto-repair-appt-1,dlg-068d45eb-6f2f-46c2-a4f8-22352613fb87,"Hello, I need to schedule an auto appointment",auto-repair-appt
+auto-repair-appt-1,dlg-069f776b-5ac5-49bb-bd6b-f92fe104c7a1,I'm having car trouble. Call a repair shop and make an appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-06ece8e4-7ea1-4779-9f63-6292e3a3da4a,I need to book an appointment at Intelligent Auto Solutions for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-078a0f20-4efc-4dde-b8c1-fbbd2d80e29d,I need you to call Intelligent Auto Solutions. I need an appointment for an oil change.,auto-repair-appt
+auto-repair-appt-1,dlg-078a64c4-ce1d-4520-9df4-9773b132634c,"Hello, I need to set an appointment with the Intelligent Auto Solutions for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-079aca33-7c4f-4b74-b93a-d62895244927,I need an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-07af3b88-d13d-4be8-96ca-a5eeeaf33132,My car is making a funny noise. Can you schedule an appointment with an auto repair shop,auto-repair-appt
+auto-repair-appt-1,dlg-08084b2b-5545-4879-81ea-5dbb66d984be,I need to have my car serviced tomorrow.,auto-repair-appt
+auto-repair-appt-1,dlg-0849d228-93f2-4a4e-a132-3dcd74893a8a,"Hello, I need to book an appointment for an auto repair shop.",auto-repair-appt
+auto-repair-appt-1,dlg-09344f45-d7ba-46ac-a77b-9d36498e8394,I would like to schedule an appointment to get my car's brakes checked.,auto-repair-appt
+auto-repair-appt-1,dlg-09439fb0-4c74-4854-85be-28d27e42d039,hi i need to make an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-095a3497-1c72-4a94-9310-2af6994b2527,"Jannet, I need you to set up an appointment to have my car taken into Intelligent Auto Solutions, please.",auto-repair-appt
+auto-repair-appt-1,dlg-098045f4-f66a-48d4-8d87-f4ea4d6e290f,Hey I need to schedule an appointment with intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-09a49e35-bf29-4b80-9daf-fbcee15f9ee9,"Hi, I have a car trouble...I need to take it to the shop to have it looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-09b0d053-ab19-4159-8bf2-0ba1eb796b76,"hey my lovely assistant, i need you to make me an appointment for my car please!",auto-repair-appt
+auto-repair-appt-1,dlg-09dbcedb-b7c5-48d2-9375-ce7379944b1a,"Hello, I need to get my car into the shop",auto-repair-appt
+auto-repair-appt-1,dlg-09ed00ca-c928-4246-9f08-66469848bf21,Hi Ashley. Can you do me a favor and log onto Intelligent Auto Solutions booking page?,auto-repair-appt
+auto-repair-appt-1,dlg-09fb1625-dbdc-42de-962a-57a5828e64c5,Call Intelligent Auto Solutions and schedule a repair estimate appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-0a247c2b-5018-4cc0-852c-fb359eb42fbf,"I want to make a reservation at ""Intelligent Auto Solutions"".",auto-repair-appt
+auto-repair-appt-1,dlg-0a3d0752-f82c-497a-8284-267298dc1c01,"Good morning! Can you help me, I am driving and my car is making this crazy clicking sound. Can you make me an appointment?",auto-repair-appt
+auto-repair-appt-1,dlg-0a5950bb-43fe-4659-a078-587c41b202cc,I need to book an appointment with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-0a946609-9910-4a57-a4c4-3b445a716409,"Hi, Shelley. Can you make an appointment with Intelligent Auto Solutions for me, please?",auto-repair-appt
+auto-repair-appt-1,dlg-0ad1e838-cba6-47ff-96b3-77345b4a3eea,My car is acting up,auto-repair-appt
+auto-repair-appt-1,dlg-0afd4663-d3de-4913-8a1b-2e496b0eea85,"Hi, please book me an appointment with Intelligent Auto Solutions to get my oil change and tires rotated.",auto-repair-appt
+auto-repair-appt-1,dlg-0b2b719b-2463-4131-b703-0dcacf7a10ed,I'd like to make an appointment for my car at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-0b5443a8-2c7c-4c88-80e9-140dc381a552,"Hey, I'm looking to get my car into the shop",auto-repair-appt
+auto-repair-appt-1,dlg-0c587bd8-9661-4143-8e33-da74f70008b0,"Hi, it’s me. I’m having car trouble.",auto-repair-appt
+auto-repair-appt-1,dlg-0d1a15db-113e-4a0e-8171-6ffa9c97321f,"hey, can you schedule an appointment to repair my car?",auto-repair-appt
+auto-repair-appt-1,dlg-0d27bdd5-3737-4535-bb4f-d9a9b4c7583a,"Hi, can you do me a favor since I am driving, and there is a number I cannot pull up?",auto-repair-appt
+auto-repair-appt-1,dlg-0d96895c-6e28-4ac1-aade-2be3298ef82d,There's something wrong with my car. Can you schedule an appointment to have it looked at?,auto-repair-appt
+auto-repair-appt-1,dlg-0db8af6b-ef20-44ad-9882-ada675b8015b,"Hi, I want an appointment at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-0f3a34da-7171-42eb-a8ff-b8f413edc8ce,Hello Google! I need to make an appointment with Intelligent Auto Solutions to have my car repaired.,auto-repair-appt
+auto-repair-appt-1,dlg-0f9fb69c-918e-4228-85fc-a1bd31a415d6,"Hey Sara, my car is starting to act up. I need you to find me a mechanic near home.",auto-repair-appt
+auto-repair-appt-1,dlg-0ff7cbe4-fc7f-4f30-b6f2-7da93a0af154,I need an appointment setup with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-104a729a-c5bd-4587-bc82-da613c962f3c,Hi. I need to make an appointment for my car at an auto repair shop called Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-107954f5-6e0a-4b36-8279-424fc3fde000,I need to make a car appointment at 9am.,auto-repair-appt
+auto-repair-appt-1,dlg-10fb0afa-5e48-4b75-881f-124138c0e5ef,"Hi, I need to schedule an appointment for my car",auto-repair-appt
+auto-repair-appt-1,dlg-111874cb-a1a4-4143-873f-2fb728059863,Hey. Will you please make an appointment with Intelligent Auto Solutions for my Versa. I'm having some issues with it.,auto-repair-appt
+auto-repair-appt-1,dlg-11420a73-4d5d-40fd-92c8-f82726766dee,"Hi, can you schedule an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-1159c3cf-a50e-4482-ad7b-eb6045802ee9,"Hey, Assistant. I want to bring my car into Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-11927019-e380-4146-bd1b-4d2470f2f8bf,Can you find me the nearest Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-11b0e2fb-d0b3-4779-9918-2f79c9828a19,Hi. I need to have you get online and help me schedule an appointment for my car to be checked out. Somethings wrong with it.,auto-repair-appt
+auto-repair-appt-1,dlg-11ca1ec0-86a5-46c5-a479-6cdea4076ac2,hi i would like to make an appointment,auto-repair-appt
+auto-repair-appt-1,dlg-125a5da5-18dd-428a-956a-05d8c69dce25,I need to bring my car in immediately.,auto-repair-appt
+auto-repair-appt-1,dlg-129ba6ca-444f-4f84-abef-a56b8a6f709e,Hi! I'm driving back from the airport and my truck is pulling hard to the right.,auto-repair-appt
+auto-repair-appt-1,dlg-12c6ab8c-1c67-4ca6-845f-a36bad1a1659,I NEED TO MAKE TO GET MY OIL DOING.,auto-repair-appt
+auto-repair-appt-1,dlg-12c898ed-10f0-4dd7-8348-04c3fdb472af,"Hey, my van is making that funny noise again, I think we need to get it looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-12c8c14a-0232-4077-91b1-6be8bd13e315,Hi I am having car issues,auto-repair-appt
+auto-repair-appt-1,dlg-12eae674-b7a8-474d-b25f-d1f0151c6b06,"Hello, can you help me schedule an appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-136f95ec-e309-4246-a6d9-2b4e8beaba7f,Hi I would like to book an appointment with an auto repair shop called Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-141adb0d-eb74-40e8-b100-29f73fcd1d25,I need to schedule an appointment for transmission service,auto-repair-appt
+auto-repair-appt-1,dlg-143a5137-960f-4908-a4f8-56dbdd40609e,Hello? I need to fix my car ASAP.,auto-repair-appt
+auto-repair-appt-1,dlg-14425678-4539-41af-946f-c8d87a34fb5f,"Good morning. I hope you are well. As I am driving, I want to ask if you can call Intelligent Auto Solutions for me?",auto-repair-appt
+auto-repair-appt-1,dlg-14ad06d3-e090-44da-940c-fb263cb64e34,"Hi, can you please schedule an appointment for me to bring my car into intelligent auto solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-14ae5e92-5083-4bc0-b743-cc3e88a7befb,"Hey Lori I'm driving to a meeting right now, can you schedule a car appointment for me at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-14d2c830-8b66-4465-ab0f-b3f59c4c2a33,make an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-14e5ec42-50b3-46f6-892e-16b576edff7a,I need to schedule an appointment with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-15113258-5a92-4078-bf91-38cf244bfe6e,Id like to schedule and appointment to have my brakes and oil changed.,auto-repair-appt
+auto-repair-appt-1,dlg-152e3844-fc25-486d-8c77-0099d779cbe6,Please book an appoinment for my car at the nearest Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-15be4271-3ab6-4d5d-86fa-1b64dc5b3fd8,"Hi Jim, could you send my car in for a tune up? Its kind of sluggish.",auto-repair-appt
+auto-repair-appt-1,dlg-15d14511-ec51-4a4a-8a74-599c519dc9d2,"My car has issues, can you arrange to get it into the shop?",auto-repair-appt
+auto-repair-appt-1,dlg-15edb33d-181d-4046-8e21-834d6aaec451,Need to schedule an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-16056783-9a8e-429a-b952-91d32bcde984,"Okay Google, can you book me an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-165d6468-f93b-4f81-b54b-d720b10dcfa3,"Steven, can you get me an appointment to get my car seen?",auto-repair-appt
+auto-repair-appt-1,dlg-1671146d-10be-460d-9f3a-ecb758f8078c,I need to have my car checked. ,auto-repair-appt
+auto-repair-appt-1,dlg-1676c692-e75b-43ee-852d-f62abca57b87,Hi. I'd like to book an appointment for my car at an auto repair shop called Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-168113ca-5dd8-4781-9f41-6a5d9a0fa8eb,Nancy I need an appointment at the shop to get my car fixed.,auto-repair-appt
+auto-repair-appt-1,dlg-169a66dc-4b43-4877-b3db-cb54f89a41e9,"Hi, I'm driving about three miles outside of town and my car is making strange noises",auto-repair-appt
+auto-repair-appt-1,dlg-16a72fae-9a9d-4394-8a7e-1167a408fbf9,Please book me an appointment for Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-1722dd95-5a9c-44b2-ba23-fe093727d65b,Hi. I'm having some car troubles and need to book an appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-17355105-6294-478b-95c8-287d9f4de8f6,"Hey there, I want you to make an online appointment at Intelligent Auto Solutions for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-17420eb9-65ab-46ae-9e6b-f0031d415ea7,Can you make an appointment for me at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-1767613a-3350-4000-a1a3-9fb8094f9a55,I need to bring my car to the mechanic,auto-repair-appt
+auto-repair-appt-1,dlg-17aaa808-b62a-45bb-9717-f2d60f78d56a,"Melinda, I am on my way to my 10am appointment and my car is making a noise",auto-repair-appt
+auto-repair-appt-1,dlg-1815f9df-4a8d-4e82-ae24-d3bb7d76243a,I'm having problems with my car and need to bring it in,auto-repair-appt
+auto-repair-appt-1,dlg-18725d09-fede-4f27-9195-c576bf28e4ed,"Hi, I'd like to make an appointment to have my car fixed.",auto-repair-appt
+auto-repair-appt-1,dlg-18acfc51-5974-4215-9abc-e90961a13b88,"Hi, I have an emergency and need to have my car looked at",auto-repair-appt
+auto-repair-appt-1,dlg-18b91783-ea95-492f-9cbc-4ed3628fe63a,"Hello, i need you to call and chedule me an appointment for my car..",auto-repair-appt
+auto-repair-appt-1,dlg-18bc21cc-6778-4e00-bcd0-0cdee20f0d6e,"Hello, I am having some problems with my car. ",auto-repair-appt
+auto-repair-appt-1,dlg-19aa97d8-2b54-4a07-a937-5d9cc792bbc3,I need to schedule a car repair at intelligent auto solutionss,auto-repair-appt
+auto-repair-appt-1,dlg-19bbdd7f-9e12-4a04-94a7-b4e224c79fc4,"Help, I need to make an appointment to have my car looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-19ed885d-3e79-4ef4-a9f2-2ffd02a1d808,"Hi, I need you to setup a appointment at a automechanic.",auto-repair-appt
+auto-repair-appt-1,dlg-1a3de44d-114c-4dfa-87bc-ffb6bd23ae2a,"Hey Tom, I'm driving to my 12 o'clock appointment and I need you to book me an appointment for the car at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-1a7bdd96-95d5-4b3a-a720-a2ecbae703eb,I'd like too schedule an appoint for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-1a8188d1-ac4d-429d-9cf1-a7e3bc81d9ba,I need to schedule with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-1a9e57e0-7616-44d1-8a02-266aaa3b57c8,Hey. I need you to set me up an appointment at Intelligent Auto Solutions for tomorrow morning please.,auto-repair-appt
+auto-repair-appt-1,dlg-1b5d22c6-7755-4364-bbd1-61530a28f1e1,"Hello, I think I need to make an appointment with Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-1c124f8e-db5d-4c3d-948e-cd1f5030a87c,"hello Amy, I need to book an appointment to get my car checked out.",auto-repair-appt
+auto-repair-appt-1,dlg-1c4dad3e-f9b9-4dfe-be88-fd43d88cc167,I need to make an appointment at Intelligent Auto Solutions repair shop.,auto-repair-appt
+auto-repair-appt-1,dlg-1cb967b1-3aef-43b2-a5f2-0407bf29d42f,I need to schedule a repair for my car at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-1ce9b799-23a7-4da2-8195-a78ed63d9a65,"Hey Kim, Can you call Intelligent Auto Solutions to get my car fixed? Im driving and cant go online right now.",auto-repair-appt
+auto-repair-appt-1,dlg-1d74e400-8f7e-493a-b5b2-abfd6bc80f86,Can you make me an appointment to have my car looked at,auto-repair-appt
+auto-repair-appt-1,dlg-1dd9830f-cc62-4afd-a40e-5967628eb56a,"Hi, I'm driving right now and my truck is pulling pretty hard to the right.",auto-repair-appt
+auto-repair-appt-1,dlg-1df021cf-857e-40e1-bdc4-dc5e073b2219,"Hi, I am interested in setting an appointment to get my car looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-1e954022-dafa-4290-bc19-13749c30b5df,I am in dire need of a car appointment !!,auto-repair-appt
+auto-repair-appt-1,dlg-1ee24ab5-ce88-4d66-a41a-7258e8682dc0,Hey Jan I need you to book an appointment at the shop for my car for me.,auto-repair-appt
+auto-repair-appt-1,dlg-1eec7ca7-2281-47a9-a477-44b5218abf9d,"Hi, can you give me a hand setting up an appointment to bring my car in to see a mechanic.",auto-repair-appt
+auto-repair-appt-1,dlg-1f94d9a4-30d4-4e5a-a4af-bd80f813f1f1,my car is messed up. you need to sort me out.,auto-repair-appt
+auto-repair-appt-1,dlg-1fe13650-486b-4849-9174-fb44a2bbf602,"Hi, I need to book an appointment for an oil change, please.",auto-repair-appt
+auto-repair-appt-1,dlg-1ff1817f-7a66-46d1-b340-99dd22ec5d0b,Something is wrong with my car. I need to have it looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-1ff31a92-768b-4a23-b477-029a8cb358d7,HEY. CAN YOU SCHEDULE AN APPOINTMENT FOR ME?,auto-repair-appt
+auto-repair-appt-1,dlg-200482b2-cbdb-49e0-b84a-d60d5135099f,I need a favor. Will you please set me up an appointment at the mechanic shop called Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-202a05ef-c14b-4686-9a8b-a9d91949f444,Can you find out about a car repair appointment for me at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-203edcf7-f6cc-4dfe-a836-f380e8ee0480,My car keeps overheating when it idles - can you book an appointment to get my car fixed?,auto-repair-appt
+auto-repair-appt-1,dlg-2043f34f-0896-4836-a893-d8f204da46fc,could you make an appointment at an Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-209792a9-1891-4673-aea0-1cd40c50be27,Hey can you schedule an appointment for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-20b97e53-ca8a-4df0-b770-bd6798cdd02c,"Hey, I need to get my car looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-2160790c-1cb6-4c99-90d4-e56b06b9b6a0,"Hello Jackson, what's up? I need you to book an appointment for the next 3 hours, I'm in a tunnel and I have one of the deflated tires",auto-repair-appt
+auto-repair-appt-1,dlg-2176b69a-28de-4155-9aa6-ce0ec705af92,I need to bring my car in and have someone take a look at it. I feel a slight loss in power and want to have someone check it out.,auto-repair-appt
+auto-repair-appt-1,dlg-21890843-f16a-4a24-8391-e803ccc59f51,Hi! I need to schedule an appointment to take my car in; can you help me?,auto-repair-appt
+auto-repair-appt-1,dlg-219b7944-1626-4b10-b7c9-7aa2b58a1944,hey its jeff do you mind making me an appointment at Intelligent Auto Solutions for me?,auto-repair-appt
+auto-repair-appt-1,dlg-229484cf-c3aa-48ef-ae29-020753787b8d,I need to schedule an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-22aec629-7af0-4068-a5d1-27823cc7533a,"Hi, I need to book an appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-22d87f2f-583e-4364-b097-00330e4cee79,"Hello Google, please make me an appointment with Intelligent Auto Solutions. My car is leaking oil since my last appointment, so it is quite urgent.",auto-repair-appt
+auto-repair-appt-1,dlg-2350d8c0-54b3-4df3-b51d-35d75f702bef,I really need to get my car in to get serviced at Intelligent Auto Solution,auto-repair-appt
+auto-repair-appt-1,dlg-2397d361-35e6-46f6-b6c2-c0f8c185bd94,"Hi, this is super short notice, but I need an appointment for my car today. It's overdue for an oil change and tire rotation.",auto-repair-appt
+auto-repair-appt-1,dlg-23e7cdea-f4e6-40b0-9ed1-9b5f1a38102e,"Hi, can you call the auto repair shop for me please?",auto-repair-appt
+auto-repair-appt-1,dlg-23f3acd6-b8bb-4653-aa03-8d42a1a1d53f,I need to find an auto repair shop,auto-repair-appt
+auto-repair-appt-1,dlg-242a2a4a-8369-4d41-bc5c-34a597790989,I need to schedule an appointment for my car at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-2453c125-a936-401d-9489-7e538b952564,I need you to schedule a car appointment for me ASAP. I'm having serious car issues right now.,auto-repair-appt
+auto-repair-appt-1,dlg-246286dc-ff72-4fc1-b2e7-d1621710eca2,Hi I have a car issue,auto-repair-appt
+auto-repair-appt-1,dlg-248d428c-6f20-4ada-8616-076d9e55213d,"Hey assistant. I'm driving, so I need you to make an appointment for me.",auto-repair-appt
+auto-repair-appt-1,dlg-24abce5e-79c9-48bf-a4eb-6ad69ceafccc,Hi! Do you have a minute to help me schedule an appointment for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-25081e31-2510-4b38-8a26-5c132b91ca81,"Hi, Jenna, I have to make an appointment for servicing my car.",auto-repair-appt
+auto-repair-appt-1,dlg-2535c3e9-ebb4-49c5-8260-2080153e1d9d,"Hey there, I need to take my car to the shop again, can you get an appointment scheduled?",auto-repair-appt
+auto-repair-appt-1,dlg-25a4ab0a-29f2-4d8a-b5df-570a773b7701,I need to get an appointment for my car asap,auto-repair-appt
+auto-repair-appt-1,dlg-265e8747-20ea-49c3-870b-5925349548e1,I need to make an appointment for someone to look at my brakes.,auto-repair-appt
+auto-repair-appt-1,dlg-27566e19-6405-4c98-89a3-0c86409e6ac8,I would like to schedule for my car to get checked at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-2782c4b2-1d7e-43d6-8992-9acca8f5f7e2,"Hello, I am calling to schedule an appointment for my car",auto-repair-appt
+auto-repair-appt-1,dlg-278c1964-6935-4897-8a9a-fdce0fc67f86,"Hi, Levi, I'm having some car trouble, can you help me book an appointment?",auto-repair-appt
+auto-repair-appt-1,dlg-2796b66a-412d-4c64-acb6-ebd6b91bf306,"Hello PA, can you get me to Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-27bd0c60-ba4f-46d6-8d4c-304ee38eb996,I need a car repair appointment made.,auto-repair-appt
+auto-repair-appt-1,dlg-27f3c1fc-d617-4bf1-ba74-e60447783e96,"Hey, I need to book an appointment for my car at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-285b678e-61d8-41f8-86e9-500730cd9eb4,"Hello, I think I need to schedule ANOTHER appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-285bd629-9712-40f5-857a-00ee1e2ea5d0,I need to make an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-286b9ef9-19be-4408-9813-5077495c6e15,I'd like to schedule an appointment for my car at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-28c440f6-6120-4cbc-b45e-fd26eedaecb6,"Hi, can you book me an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-2940a813-ed94-44ae-9aa0-8898a06ffc52,Hey! I need to go to the auto shop. My car keeps acting like it's going to cut off when I'm waiting at a stop light. Can you help me out? I'm driving right now.,auto-repair-appt
+auto-repair-appt-1,dlg-29aebabe-8ace-48ae-be53-a106bba5c83e,"Hi Ben, could you schedule my car to get serviced. It has been sluggish and has been making weird noises.",auto-repair-appt
+auto-repair-appt-1,dlg-29f37e32-23e0-4f19-aab7-916a40861608,"Hi, I need to get my car checked out.",auto-repair-appt
+auto-repair-appt-1,dlg-2a818e2c-b6e8-4a6d-990c-3dae5eeba36f,I want to take my car in to Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-2b3646b0-dbc6-4aab-be14-7f3b66fba6db,I need to get an appointment to get my car fixed.,auto-repair-appt
+auto-repair-appt-1,dlg-2c1fe5ec-26ef-4296-8525-d2dde53004ce,I need to schedule to bring my car for repair.,auto-repair-appt
+auto-repair-appt-1,dlg-2ca5cefc-df56-406d-aefd-43b51138a884,"Hello, I am having car trouble.",auto-repair-appt
+auto-repair-appt-1,dlg-2d4ce3a1-0224-4680-b822-eba783978347,"Hello, I need to have my vehicle serviced.",auto-repair-appt
+auto-repair-appt-1,dlg-2d51cd4d-718e-4c7c-aa15-9f3a7e34e05d,Can you make me an appointment with Intelligent Auto Solution?,auto-repair-appt
+auto-repair-appt-1,dlg-2deb7cce-7d0b-4f4e-ac51-1f52d65752af,Please make an appointment for service at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-2df23d9a-58c7-4e65-a3ce-6ed58f49d852,Call Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-2ee81c91-cad5-459e-b392-deae16bf6bef,I need to get my car in tomorrow for repair.,auto-repair-appt
+auto-repair-appt-1,dlg-2f06494a-98c3-4857-b550-36fde11a3b00,I want to schedule an appointment for a car repair at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-2f0c7171-3cc9-4f47-aeca-a1ef93e4a6b3,I need to set an appointment to get a check up for my car. ,auto-repair-appt
+auto-repair-appt-1,dlg-2f2a9912-19fc-48c7-99b5-141bec8231b4,"Hey John (assistant), I am currently driving and wondering if you can schedule my car in for an appointment. ",auto-repair-appt
+auto-repair-appt-1,dlg-2f436572-181e-4cb3-b05f-946c3f8f0d42,I need to set up an appointment for a car inspection as soon as possible,auto-repair-appt
+auto-repair-appt-1,dlg-2f85376d-e5ad-45c4-a512-a9fad1716782,"Hi, are you busy? Great, I need you to call Intelligent Auto Solutions and get me a time to bring in my car.",auto-repair-appt
+auto-repair-appt-1,dlg-2f92dd4c-439f-4117-aee4-5eb4b958e798,My sunroof is not opening right I need an appointment to get it fixed,auto-repair-appt
+auto-repair-appt-1,dlg-2fa48791-d2c6-4840-973b-ef2250ac08c5,Gail I need your help. can you schedule an appointment at Intelligent Auto Solutions for my car,auto-repair-appt
+auto-repair-appt-1,dlg-301ac020-7f86-4b33-9d47-cb81390d480a,"Hi Liz, I'm having problems with my car.",auto-repair-appt
+auto-repair-appt-1,dlg-301d881b-db5c-4ea8-bdcc-e578ce8a7194,Can I schedule a car appointment?,auto-repair-appt
+auto-repair-appt-1,dlg-303a6bc3-8bfe-491f-9c0c-dde880cd468a,"Hi, I need to set up an appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-304071c9-6301-4328-ac45-564167a18163,Can I bring my car in?,auto-repair-appt
+auto-repair-appt-1,dlg-3096d032-1edb-4a1b-99da-ee380bcba0c4,I need some auto service,auto-repair-appt
+auto-repair-appt-1,dlg-30aee350-26af-494c-acd3-b8cbead681f2,"Hi Jane, there's something wrong with my car, I'm going to need to bring it into an auto repair shop as soon as possible.",auto-repair-appt
+auto-repair-appt-1,dlg-30bfc0d8-af88-4f07-9af6-620c00fe5ac8,Set up appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-30ca7835-4283-4ca6-a52f-871d6a610b61,"Hey, can you get me an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-30e0d992-2cee-469e-bebb-deabdc252b74,I need to make an appointment for an oil change.,auto-repair-appt
+auto-repair-appt-1,dlg-30f82396-0dd7-461d-af8d-1ab9f59ddf1c,Hi there. I need to schedule an appointment to have my car looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-318f06a2-50d5-4453-8da3-ef5c5c724f19,"Hey, I need to get my car checked",auto-repair-appt
+auto-repair-appt-1,dlg-31eaa338-922a-4a20-bdfa-9e7e76182113,"Hi, can you schedule an appointment at the auto repair shop for me please?",auto-repair-appt
+auto-repair-appt-1,dlg-323edd26-4ec7-42d0-820f-9e68de7803c7,I need you to call Intelligent Auto Solutions right now to schedule me an appointment!,auto-repair-appt
+auto-repair-appt-1,dlg-32bf865a-cbe5-4fc1-b7df-068399c2ed28,I need to book an automobile appointment ,auto-repair-appt
+auto-repair-appt-1,dlg-3370fcc4-8914-434d-994d-9e741c0707b2,"Hello Pam, I need you to make an appointment for me to get some repairs done on my vehicle.",auto-repair-appt
+auto-repair-appt-1,dlg-33a0ae76-0781-4da9-b039-bbcb8eea5778,Please schedule an appointment with the repair shop for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-33feb957-1e83-47f4-909a-95560363bb9d,Hello Stephanie. I need you to schedule me an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-340071af-0b78-46f3-9559-ee3263252554,i need to try and get my car in to Intelligent Auto Solutions asap,auto-repair-appt
+auto-repair-appt-1,dlg-3418819b-904d-4c12-b743-bbd505b08c25,can i bring my car for oil service around 12pm today?,auto-repair-appt
+auto-repair-appt-1,dlg-34b8e45b-e7d4-4a0e-aeac-1981b78f439b,"Hi, I need to bring my car in for a check, there is a light on on my dash.",auto-repair-appt
+auto-repair-appt-1,dlg-34bec158-cb99-430e-98c1-c5ae7bd16e34,"Hello, my power steering seems to be failing. I need to make an appointment with my car to see what's up.",auto-repair-appt
+auto-repair-appt-1,dlg-34cf9600-30b6-49c0-b9a6-6d2d818ee911,"Hey, can I schedule an appointment at the mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-34d33248-a2d7-4465-9bfe-6f3b53f2c543,Can you help me schedule an appointment to have my car repaired?,auto-repair-appt
+auto-repair-appt-1,dlg-351f0413-8363-48d2-9f1b-5a9fc678b1b6,"Gary, I need to make an appointment for an auto repair shop as soon as possible.",auto-repair-appt
+auto-repair-appt-1,dlg-353bde34-6339-43a2-969c-0fa5907fb4a7,"Hey Jen, it's me. I am gonna need you to book me an appointment at the car shop. There is some sort of funny noise.",auto-repair-appt
+auto-repair-appt-1,dlg-358f37c1-ff58-4a0b-baba-e13d2fd7e91a,"Hi, I need you to make an appointment to take my car to the mechanic at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-35ccf1b2-272b-415b-b977-35a9b3b41f1d,"Hi, I need you to make me an appointment at Intelligent Auto Solutions as soon as possible.",auto-repair-appt
+auto-repair-appt-1,dlg-36644485-b9ef-42ac-bf0e-e3405c368c69,Hi there. I need to make an appointment to bring my car in.,auto-repair-appt
+auto-repair-appt-1,dlg-36d59fcd-5a62-4932-a142-16790a464eba,I need you to make me an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-36f9a787-bfc5-4b1d-ba85-d616041ccac4,Hey Betty! I need a favor. Can you schedule me an appointment to have my car looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-37a802e7-8aa9-4e0c-8645-801bed09a42c,I need to schedule a appointment for my car please at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-37cb4a21-03af-4b33-a95f-20a849f58bea,"Hi, I need to schedule an appointment to get my tires rotated, please.",auto-repair-appt
+auto-repair-appt-1,dlg-37d19052-1c80-46c0-a453-1e0235ba7f21,Hi. Can you schedule me an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-3864d5ce-cff0-41b2-a984-de1845535ea8,"Hello, I need help getting an appointment for my car!",auto-repair-appt
+auto-repair-appt-1,dlg-3878cb6e-4b71-42a7-8d08-be883e573b14,"Hello assistant, I am currently driving and I need you to schedule an appointment for an autoshop for me.",auto-repair-appt
+auto-repair-appt-1,dlg-389e55f6-da81-4b15-9e9e-496a6108ef7e,Help! My car is smoking under the hood and I need to get if fixed today at Intelligent Auto Solutions! Help me schedule an appointment ASAP!,auto-repair-appt
+auto-repair-appt-1,dlg-38c22a9c-e9a6-43f7-92f5-81d4c5bf250a,"Hi, I need to schedule an appointment for a car tune up.",auto-repair-appt
+auto-repair-appt-1,dlg-3947e899-7542-48ce-ba04-85f04ff2d7a2,I need you to call Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-39aac751-3073-41d5-8518-9a530a757583,Schedule an appointment with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-39bd34f1-c475-4d5c-8dcf-2236a5e3a990,Hey could you check with Intelligent Auto Solutions and see if I can bring in my car ?,auto-repair-appt
+auto-repair-appt-1,dlg-39d8827b-aff0-4ed5-9f36-ee7324504622,"Hey, my car is due for its 50k mile check up. Can you make an appointment for me?",auto-repair-appt
+auto-repair-appt-1,dlg-3aba25bc-b8cd-4a94-9957-3da3ee9b9ded,"Hey, I need to schedule an appointment at Intelligent Auto Solutions for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-3ac44085-e4cf-4e5f-822d-b3a7d3374c3e,I think I need to have my car to check up with a mechanics.,auto-repair-appt
+auto-repair-appt-1,dlg-3ae0455d-d529-422c-ba27-84ee31c543c1,"Hi, I'd like to book an appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-3b0b52ff-3a48-409f-bbab-78af2de7c985,Hello! I need to take my car to the mechanic for repair immediately.,auto-repair-appt
+auto-repair-appt-1,dlg-3b1da583-73ab-4996-8bd9-1eee7084e74c,"Hey, is there any way you could make an appointment at the mechanic for me? I'm driving right now so I can't look up the number.",auto-repair-appt
+auto-repair-appt-1,dlg-3b512314-e8dd-4eeb-9afb-897fa0008252,I would like to make an appointment to have my car checked at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-3b59dd33-b692-463e-b860-b71be60cfd25,Hello I am needing to get an appointment to see my car,auto-repair-appt
+auto-repair-appt-1,dlg-3b9b3c4d-ef9c-434a-bf61-8287c42241eb,I want to schedule an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-3ba1bb8b-b579-4d29-ab96-d187420e02e3,"Hey, Assistant. I have a blinker out.",auto-repair-appt
+auto-repair-appt-1,dlg-3bb79e15-5ea8-4c21-a7fa-217e3ad12dcb,"Hi, I need to set up an appointment because my car squeals in the morning. I have a 1997 Ford F-150. My name is Bill Andenton and my number is (817) 867-5309",auto-repair-appt
+auto-repair-appt-1,dlg-3c055726-e36f-4cad-b526-9e46f995aa2f,"Hello Jim , Could you schedule a mechanic appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-3ce5c3e9-b00a-412c-85f6-db974095143c,"Hi, I need work done on my vehicle.",auto-repair-appt
+auto-repair-appt-1,dlg-3d00c7a6-6556-4954-adcf-97ca7a4f6b77,"Hey Jane, I need you to schedule an oil change for my car",auto-repair-appt
+auto-repair-appt-1,dlg-3d62f3a8-18c7-4d02-9f6b-17e69b5567d4,"Hi, Can you help me get an appointment to get my car looked at?",auto-repair-appt
+auto-repair-appt-1,dlg-3d7ad94f-7eb3-4030-9656-00d58ccf632d,I need to take my car to the shop as soon as possible.,auto-repair-appt
+auto-repair-appt-1,dlg-3d8b0c75-3384-4b0d-bf8d-7946b8d3594c,I need to book an apointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-3db88c17-b171-4f7c-a82d-1c75cce81989,Please set appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-3e28119e-d3de-4343-b545-c96999191ff4,I would like to see if I can bring my car in for a tire check.,auto-repair-appt
+auto-repair-appt-1,dlg-3e505347-584b-4c6e-aebc-edb721d564ad,"Hi, I'd like to make an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-3ed862ce-5d7e-4fb4-948d-34279d74c42e,"Hey, I need to make an appointment for car ASAP!",auto-repair-appt
+auto-repair-appt-1,dlg-3edffa2f-16f5-4f98-88d3-5d2d80e320cd,"OK Google, please schedule an appointment with Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-3f4a6342-fb96-413c-aff6-eae956b2e3ed,"Hey, Josh? I need an appointment for my car by this week. I'm driving home from work right now, but I rather not go.",auto-repair-appt
+auto-repair-appt-1,dlg-3f7b03a6-ad0e-4737-89d6-9222b08ea93f,"I would like to have an appointment at an auto repair shop, please.",auto-repair-appt
+auto-repair-appt-1,dlg-40327ffd-4c23-482e-8af8-8513e0f67c0f,"Assistant, I need you to schedule an appointment for my car, a 2008 ford expedition",auto-repair-appt
+auto-repair-appt-1,dlg-403a71ef-0027-4ab0-a59e-46e5855ed582,"Hello Norman, I need you to schedule a car repair appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-40ab7ab4-9341-440b-b26e-444888574581,"Hi, my car is acting up, I need to book an appointment to get it repaired.",auto-repair-appt
+auto-repair-appt-1,dlg-411be713-ad14-4a9c-a546-e3731b4f61a6,"Hey bot, can you make an appointment at Intelligent Auto Solutions for me?",auto-repair-appt
+auto-repair-appt-1,dlg-413ec85f-33b4-41a4-ac04-5a3a495e5fa9,"Hi, I am having a problem with my car, can you get me an appointment to bring it in?",auto-repair-appt
+auto-repair-appt-1,dlg-4142d9b7-cc29-4263-b5ce-98f0252d6625,"Assistant, I need to schedule an appointment for vehicle repair.",auto-repair-appt
+auto-repair-appt-1,dlg-41644cbd-337d-48b0-b1f3-0b3493f2270a,"Hello there, I need you to make an appointment for me.",auto-repair-appt
+auto-repair-appt-1,dlg-417668b3-d80e-4c77-82e0-feb995671aa7,"Hello my personal assistant, can you contact an auto repair shop by the name of Intelligent Auto solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-41884ed5-2c96-4207-bb4c-74549fcbaba9,"Hello, I'm calling to make a car appointment at ""Intelligent Auto Solutions"" to get some repairs done on my car.",auto-repair-appt
+auto-repair-appt-1,dlg-41ad67ca-f861-4ec9-8d9e-e7acacd88f47,I need to schedule an appointment for my vehicle Intelligent auto solutions,auto-repair-appt
+auto-repair-appt-1,dlg-41ebe3c0-839f-4454-85ad-b032b493fe25,"Hello, I need to schedule an appointment for car repair.",auto-repair-appt
+auto-repair-appt-1,dlg-41f12c8f-136e-4561-8de7-955f94b48c87,"Hey, I need a car checkup.",auto-repair-appt
+auto-repair-appt-1,dlg-42bb24b8-3414-4cab-baa0-8a0a502022f3,"I think something is wrong with my car, steam is coming from under the hood. Can you make me an appointment at the repair shop.",auto-repair-appt
+auto-repair-appt-1,dlg-42bdc0d1-a511-4ca9-8fab-7023b1bf4303,How possible is it for you to make me an appointment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-42be3d48-db29-4b00-b7cc-1502fcfd025c,"Hi, I need to to book my car in for some work.",auto-repair-appt
+auto-repair-appt-1,dlg-433b44e9-c9b3-4608-a7c6-f7d15d64ceb2,I'd like to book an appoint at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-43538e4f-47e2-4dc8-94c0-58be7e4eace4,I need to book an appointment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-4354efa8-95be-4312-b794-640dacdbde85,"Assistant, my car has a problem. I need it repaired.",auto-repair-appt
+auto-repair-appt-1,dlg-43640716-0776-4264-b3d0-19c1671d3a80,"Hi there, I'll need to schedule an appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-438e2f87-0c78-47e2-83ef-f932cbad2bf4,I need to get my car fixed ASAP.,auto-repair-appt
+auto-repair-appt-1,dlg-4396091b-667a-4a3a-bad1-a4d7ab3e556e,"Hey, it’s me. Can you make an appointment with my auto mechanic for me?",auto-repair-appt
+auto-repair-appt-1,dlg-43d9e3aa-442b-49f3-a213-1148d6445514,"Hi Stella, can you book me an appointment at the auto repair shop Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-43e6da6e-a78e-4dfa-a9cd-114d34c42471,"Good morning, I would like to make an appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-4402613e-8145-41d2-ad7c-0f2243d77940,This is Mary Hayes. I need you to call Intelligent Auto Solutions to make an appointment for my 2019 Chevy lumina,auto-repair-appt
+auto-repair-appt-1,dlg-444de00b-1adf-4281-b92f-6793549af2c8,Hello i would like some information on getting a tune up for my 2017 chevy cruise.,auto-repair-appt
+auto-repair-appt-1,dlg-445ebab5-d0fb-4826-ac10-849066c010bd,"Hi, I'd like to make an auto appointment at Intelligent Auto Solutions, please",auto-repair-appt
+auto-repair-appt-1,dlg-445f6f0d-9619-4fe5-896f-83d04d51e79a,"Hello, I need an appointment booked for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-45750571-4a25-44f6-a3b8-749905e3dd59,I forgot to schedule a mechanic appointment. Can you do that for me?,auto-repair-appt
+auto-repair-appt-1,dlg-458d385e-0c60-4c5f-9f11-40ca26ef4719,"Hey, can you schedule an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-45b8e6b4-1841-46f8-8c7a-735288665e72,"Diedre, I need you to book an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-460243f3-11d7-46f1-950f-34b496ca4b9a,Hello. I need to schedule a shop appointment for my vehicle.,auto-repair-appt
+auto-repair-appt-1,dlg-46061fdb-e29d-440a-9c82-6c22d5e2e7d8,"Hey, can you make an appointment right now for me to take in my car to the auto shop, Intelligent Auto Solutions? Maybe book online?",auto-repair-appt
+auto-repair-appt-1,dlg-4682a2ea-1eb5-450c-ba17-1b959ede380d,I would like to schedule a car appointment,auto-repair-appt
+auto-repair-appt-1,dlg-46dc56e7-6dac-40aa-a777-85f333619743,Can you set up an auto appointment for me,auto-repair-appt
+auto-repair-appt-1,dlg-46e462e7-75a2-4cbe-b8de-efd2dafed275,Can you schedule a car repair appointment for me? My steering is locking up.,auto-repair-appt
+auto-repair-appt-1,dlg-470e43bd-ed91-498b-a652-4cce992012fb,Hello? I need an urgent appointment for my car at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-475fd288-9cae-4d41-bdd0-ed8971b028dd,I need an appointment to Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-478cdee9-00d0-4ced-b7a2-94ae0189c7e6,"Hi, I need to schedule an appointment with a mechanic.",auto-repair-appt
+auto-repair-appt-1,dlg-47bba4fc-3062-4eb3-aeff-88024086a266,Does Intelligent Auto Solutions have any openings this week?,auto-repair-appt
+auto-repair-appt-1,dlg-47d12456-d1f3-4157-b33b-90b9a57e41dc,"Good morning! I need for you to please set up an appointment with a mechanic at ""Intelligent Auto Solutions"", for tomorrow morning if at all possible.",auto-repair-appt
+auto-repair-appt-1,dlg-47fd2248-5f08-46e8-adf5-9c684239fb7d,"Hi, I need you to book an appointment for me at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-4822dbba-2e4e-4c46-8b8e-c4420122c463,Hey cindy I need you to book an appoitment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-489aa91e-4d50-45d9-847f-aad55952e6d4,Hi Stacy. Can you make an appointment for me at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-48e4237b-2e4a-435e-a7dc-cb68d47d61ed,Hey! I need an appointment to take my car in to the mechanic. ,auto-repair-appt
+auto-repair-appt-1,dlg-490a676e-bb28-4578-8b88-f01bc315a672,I need to book an appointment for my truck at the garage,auto-repair-appt
+auto-repair-appt-1,dlg-490bae36-5fcf-448e-9a3a-e05a1a0a2724,"John, it's Mr. Smith, I need you to call and make an appointment for some auto diagnostics please.",auto-repair-appt
+auto-repair-appt-1,dlg-49174870-cf34-4cc9-908e-e89ede4dde41,Hello. Please schedule an appointment to have my car checked.,auto-repair-appt
+auto-repair-appt-1,dlg-4944f5d5-6e69-40e7-94a4-8d72f4d89490,"Hello, I need help with my car.",auto-repair-appt
+auto-repair-appt-1,dlg-49d99a8e-5dbd-41d5-b475-b9f808dec012,"Hey there, I need two new tires for my car, pretty urgently. I'm going on a road trip tomorrow.",auto-repair-appt
+auto-repair-appt-1,dlg-4a0d67f5-238a-485a-98ee-a204e2ab43d2,"Hey, Assistant, I need to schedule an appointment at a car repair shop.",auto-repair-appt
+auto-repair-appt-1,dlg-4a26097b-5653-4091-8e69-b7c6644b2cfe,Hi my name is Sue I need to get my car in for an appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-4a2bf797-78be-4847-a540-02b25170fb5c,I need you to book a car repair appointment for me at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-4a366c18-704c-4422-86a7-61cf6cc72fce,"Hey Shela, I'm on the road right now and the ABS light just came on in my car. I'm concerned because it made a pop when I applied my brakes at the last stop light. Are you busy right now?",auto-repair-appt
+auto-repair-appt-1,dlg-4a4e405d-0e9f-46ba-b9b9-ab165ca952ae,This car is acting up and I need to have it seen by the mechanic. I need you to contact Intellignet Auto Solutions and make an appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-4a53b193-3034-4692-97dd-554a55b3e840,"Hi there, will you schedule an appointment with my mechanic please?",auto-repair-appt
+auto-repair-appt-1,dlg-4a6b0e32-8f24-4e76-9bfb-aafac4d8cc91,"Hello, I need to make an appointment to have my car looked at, it has a warning light on",auto-repair-appt
+auto-repair-appt-1,dlg-4aaf42d7-1658-4945-8968-8c7a699cb1ba,I need to schedule an appointment now for my car,auto-repair-appt
+auto-repair-appt-1,dlg-4ab8baca-33e0-48c5-9e40-697baa9b6abf,I need you to make an appointment at intelligent auto solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-4aed5ea0-2f9b-4e38-8e85-df3f459a9876,Hello I need you to schedule a appointment for me at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-4b4af037-c017-4799-a44b-fdecb11724ce,I am leaking a liquid from the bottom of my car.,auto-repair-appt
+auto-repair-appt-1,dlg-4b6cd553-7b7d-46e6-a59b-e0cc076a19c5,"Hi, I am driving down the road and my truck sounds like it needs some help, can you schedule an auto repair appoint for me?",auto-repair-appt
+auto-repair-appt-1,dlg-4b76ded0-297b-4f26-8e2d-7d47fb0e56f6,"Hey Rebecca, I need for you to go to the website for Intelligent Auto Solutions to see how soon I can bring the van in to get checked out.",auto-repair-appt
+auto-repair-appt-1,dlg-4b9c7860-5de3-40ea-a210-57ecbca80427,"Hello, Assistant, I want to make an appointment for an oil change.",auto-repair-appt
+auto-repair-appt-1,dlg-4ba56fcd-b82e-4f6a-b5dd-e7e8dbc65686,"Hi, I would like to schedule a car service.",auto-repair-appt
+auto-repair-appt-1,dlg-4bc419f7-0a09-4d7e-a612-d0ceaa8c4dc4,Hi I am having car trouble,auto-repair-appt
+auto-repair-appt-1,dlg-4c06348c-b448-4e0e-8adc-3ccdad43c1a9,Hey I'm driving right now could you make me an appointmenet with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-4c0e7fc0-b02d-4389-8559-22abaf7636f1,I need to take my car in to Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-4c13583f-f009-49bf-99c0-2b5b6b73746f,"Hi, Connie, I need you to schedule an appointment at Intelligent Auto Solutions for my car ASAP please.",auto-repair-appt
+auto-repair-appt-1,dlg-4c1b1f8d-ff81-460a-8af8-d1bdaf1da170,"Hey, I need an appointment made for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-4c690081-5f7c-4f04-a5f1-63e36867021f,"Hey, can you make an appointment to me to take my car to the mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-4c980e78-674f-4f10-8845-b5c5d35640bd,"Hello, I need to make an appointment with Intelligent Auto Solutions to get some work done on my car.",auto-repair-appt
+auto-repair-appt-1,dlg-4cb01cd8-9952-449b-bf58-5136277a1ec0,"Google, call my car mechanic to schedule an appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-4cfaf26b-0bde-40a9-a5e5-abf954cea083,I need to make an auto appointment for inspection on my truck,auto-repair-appt
+auto-repair-appt-1,dlg-4d24bdd1-adc3-4db2-af26-cd6cb41c8370,Hi I need an appointment at Intelligent Auto Solutions for my car please.,auto-repair-appt
+auto-repair-appt-1,dlg-4d557e96-9941-4043-a326-0bd96de649e8,Hi. Can you schedule an appointment for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-4d788eff-b81a-4011-816f-08ece7885e15,I'd like to book an appointment for Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-4d931390-de2a-495e-ad44-be5e6aea0b4d,Create an appointment for Intelligent Auto Solutions for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-4dda927c-7a49-4fc1-800b-7aa721625ab7,I need to make an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-4dfbe08d-dc8b-49a9-b154-e9608e510476,"Hello, I need to make an appointment to bring my car in",auto-repair-appt
+auto-repair-appt-1,dlg-4e0e7398-29be-4011-9d5b-9b14281bbd73,Im having some car issues and I would like you to make an appointment for me. ,auto-repair-appt
+auto-repair-appt-1,dlg-4e1b4dea-5ec4-4410-b12f-dbb60215c0d5,"Hey, do you mind booking an appointment for me at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-4e85f559-42ad-44e7-a835-e21afaaa5563,Hello I need to make an appointment to have my car taken in to be serviced.,auto-repair-appt
+auto-repair-appt-1,dlg-4e8c33d2-0113-4f13-a8a4-2c4561bac1f3,I need to bring my car in to get looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-4ebc6c62-8065-46ec-ba02-0766a86bcb8a,"Google, can you schedule an appointment for me with a mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-4ed13153-87de-47f7-858d-0adfaa6bdc90,Can you book me an auto appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-4ef87962-c502-4b89-bff6-0eff28b89ae6,Hi I need to make a car appointment ,auto-repair-appt
+auto-repair-appt-1,dlg-4f2dd6b4-ed75-4c66-8148-2c005ca46244,I need to take my car into Intelligent Auto Solutions as soon as possible.,auto-repair-appt
+auto-repair-appt-1,dlg-515d0c0d-0a1a-43c2-9e43-6be098131d1f,I need you to make me an appointment for car repair.,auto-repair-appt
+auto-repair-appt-1,dlg-515e9095-2f23-401d-abe6-cfacff005015,Hi Mary. I’m driving right now and the check engine light in my car just came on.,auto-repair-appt
+auto-repair-appt-1,dlg-519deb48-9623-46a9-a8d4-26c88be38630,"Assistant, I need to get my brakes checked at the mechanic",auto-repair-appt
+auto-repair-appt-1,dlg-51dce666-789c-4fee-9c5f-b4e6da1e0c0f,I need to get my Subaru in to the shop as soon as possible.,auto-repair-appt
+auto-repair-appt-1,dlg-51eea484-3702-499c-93ed-feaf228939a9,"Hey, I need you to make me an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-52d07c42-a2ef-4eca-a780-a10a89b1399e,Hey I'm going to need to get my truck repaired since it seem's as though it's not running properly.,auto-repair-appt
+auto-repair-appt-1,dlg-534aec2c-fdc9-46ea-9f88-be896657b504,"Hi, Could I get an appointment for my car at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-53cfb4bd-089b-4d88-9497-e928a7d4eb8c,"Hi, looks like my car ""maintenance"" light is on again.",auto-repair-appt
+auto-repair-appt-1,dlg-541578d3-640e-42c2-894a-e01656f8d662,"Hi there, I need to schedule an appointment to repair my boss's car.",auto-repair-appt
+auto-repair-appt-1,dlg-54214666-5cac-4423-b75a-fd6277d43f6d,Hello! I'm driving right now and need you to make an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-54516e41-cedd-4fcb-856a-280103dbc66b,"Hi Jen, could you schedule me an appointment at a car repair shop?",auto-repair-appt
+auto-repair-appt-1,dlg-54b56b38-7759-4c8c-8008-cd6575bf35ba,I'm calling to make an appointment for my car. It needs looked at and repaired. ,auto-repair-appt
+auto-repair-appt-1,dlg-55249623-ca8a-4f73-8a03-1695365d9fbb,Make me an appointment for Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-55c9146e-6c7e-4ec0-b29d-fd270d02c344,Hello. I'd like to book an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-55f3b0a9-3c25-42d2-acb2-70b71e968988,"Ok Google, make an appointment for me at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-567d941b-63c4-47ac-9d9e-48aaff9de9b0,I want to make an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-56c1f747-bc2c-4569-a911-659159d28c47,"Susan, would you please schedule an appointment for me at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-56cd7293-d063-4121-aa9c-e8f7a341bb49,Can you set up an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-574a372c-4226-407e-bc62-5f42af1e3b69,Schedule an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-576254e6-3eed-4c04-9152-588c7cb049cd,I need you to make me an appointment to get my car worked on.,auto-repair-appt
+auto-repair-appt-1,dlg-579e157d-bd8f-47fc-9533-d06c929a6dc2,"Hey Alexa, get me an urgent appointment at ""Intelligent Auto Solutions"".",auto-repair-appt
+auto-repair-appt-1,dlg-57e1553d-9477-4f5d-9311-ccffca93ac16,I would like to change my tires,auto-repair-appt
+auto-repair-appt-1,dlg-58095eee-6729-4135-a762-17e89af2c8a9,I need a car appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-58bed34b-8598-4a8a-bbaf-f15e3c186c5f,"Hi, I need you to book me an appointment at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-5931b427-2a17-452a-b193-b122f86aa5c0,"Assistant, please schedule car maintence with Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-59356fc3-b351-4881-ad72-9cbb21c43004,I need to make an appointment to have my car fixed,auto-repair-appt
+auto-repair-appt-1,dlg-59b3eb21-a59c-4af5-a644-b2198cf59676,I need to make a car repair appointment with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-5aa9afd4-8115-43ed-8669-ce3dfb17b684,"Hey, I'm having some problems with my car on my way to work right now. Can you call and make an appointment with the mechanic for me?",auto-repair-appt
+auto-repair-appt-1,dlg-5ad99e9d-2381-4b3a-bd61-9e91c49b32c9,Hey Could you make me an appointment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-5b1899f5-9760-4e57-8564-818e1acf667d,"Hey, I'm beginning to have problems with my car.",auto-repair-appt
+auto-repair-appt-1,dlg-5b7a7c28-de6e-449f-9d8c-4120fd107388,I need to get a mechanic to look at my car.,auto-repair-appt
+auto-repair-appt-1,dlg-5badaf7d-e719-481b-a292-bef85d069305,I would like to schedule a car appointment please,auto-repair-appt
+auto-repair-appt-1,dlg-5bbc359b-b014-43db-bd06-ab5f331af09d,"Hi, I'll need to schedule an appointment to repair my car.",auto-repair-appt
+auto-repair-appt-1,dlg-5bdc5a93-a7e2-4fa8-b70a-9fd46ebb499c,"Hi, I need to bring my car in for repair.",auto-repair-appt
+auto-repair-appt-1,dlg-5c4020f2-76c0-48e7-8cc4-c7ae02331f78,hi im having an issue with my vehicle and need to bring it in to be seen,auto-repair-appt
+auto-repair-appt-1,dlg-5c48d5f8-4130-4793-bfd6-eaf4719ffe67,"Hey Google, I need to make an appointment with a repair shop quick.",auto-repair-appt
+auto-repair-appt-1,dlg-5c736bdc-1281-4bab-b0a8-2c875591272d,I have some car issues and need to make an appointment,auto-repair-appt
+auto-repair-appt-1,dlg-5cb6cabb-e801-4c8a-bff7-0cc0ad92bb87,My car engine light just came on telling me I need to have my car scheduled for an appointment. Can you schedule the appointment with Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-5cee1163-92d2-431b-9cb9-9006b3de9b8c,"Hello, I need to make a car appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-5d1a2f2e-63eb-45a4-b18e-71035ef62e8e,I want you to make me an appointment at my regular auto repair shop. ,auto-repair-appt
+auto-repair-appt-1,dlg-5d87f00e-411f-47ff-9e41-6abea5f38c81,"Hey Joe, I need to get my Civic looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-5dbd320c-7627-4200-891e-3017b55edb49,"Alexa, I need you to make me an appointment for my car as soon as possible under Herman Munster from 1313 Mockingbird Lane, Hollywood CA and 235 206 1313.",auto-repair-appt
+auto-repair-appt-1,dlg-5dddea9b-7fb6-4fce-878a-12cf069c7e55,Hi. I need to make an appointment for a car repair.,auto-repair-appt
+auto-repair-appt-1,dlg-5e486563-4428-4b2d-a926-1f3e3828c4b4,I need you to make me an appointment with an auto mechanic for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-5e650689-a553-47b5-a978-a0ddc13071ae,"Hello, please make me an appointment at Intelligent Auto Solutions to bring my car in.",auto-repair-appt
+auto-repair-appt-1,dlg-5e965336-0449-491a-b052-fc61f3b06a6c,"I'm calling so you can make me an appointment for a few car repairs at my regular dealers shop at ""Intelligent Auto Solutions"".",auto-repair-appt
+auto-repair-appt-1,dlg-5ebb9bb5-90ea-472c-a469-b4ad6059784a,"Hi, I have some problem with my car. Can you schedule an appointment at Intelligent Auto Solutions for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-5ec7ce10-6e02-46f6-af67-69f9e5715948,I need to make an auto repair appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-5ed672bd-a388-4c8c-90e2-8cebb2646269,I need to schedule an appointment with a mechanic.,auto-repair-appt
+auto-repair-appt-1,dlg-5f5c5834-3ca2-4955-8c36-688cf55a95fc,HI I need to book an appointment with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-5fcda5d5-83de-4d04-9bb7-b277dcabcbb3,My car is squealing when I come to stop at a stoplight. I need to have the car looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-5fe8c3f8-0701-4d90-9150-3d84be8632db,Please book me an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-60108edc-efd4-4233-9955-37ceefe461f0,"Hey Angie, I need you to set an appointment with intelligent Auto solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-60648546-00f9-4cbd-ba58-7a7c93c90727,Hi! can you please order me an appointment at intelligent auto solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-608f914f-282e-4423-b445-16e205313170,"Hi There, there is some noise under the hood of my car. I need to get it in the shop. Can you hel[?",auto-repair-appt
+auto-repair-appt-1,dlg-60cbbc7a-3261-480e-9943-9543ce1bcf09,"hi sally i need you to make an appointment to get the headlight fixed on my 2006 hyundai sonata, it failed inspection",auto-repair-appt
+auto-repair-appt-1,dlg-60cceb98-f3d4-4f4c-8340-a5760dd79e46,I need to get an oil change next week.,auto-repair-appt
+auto-repair-appt-1,dlg-60fcb9d2-40b0-4cd6-b319-e6daae871337,Need to schedule a car appointment,auto-repair-appt
+auto-repair-appt-1,dlg-610053e0-571b-4cd0-ae15-e9a106a982a3,Hi I need to schedule an appointment for my car at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-610bd3fd-2db0-4403-8c2d-f4fbbc7f42ff,Hi. Will you schedule me an appointment with a mechanic.,auto-repair-appt
+auto-repair-appt-1,dlg-61ea2936-0555-43a3-927b-3c10901c2bf4,Hey assistant I need to schedule an appointment at the auto shop.,auto-repair-appt
+auto-repair-appt-1,dlg-62517f51-00fc-4b69-88d4-9826aef1e6f3,Hi I want to schedule an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-62b6c960-397b-49ff-a97d-1d4b9fd55b9a,"Hello, anybody there mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-6329e165-5e6d-47b5-889c-c603c3ed5688,"Mark, I need to schedule an appointment to find out why the check engine light is on in the Fiesta.",auto-repair-appt
+auto-repair-appt-1,dlg-63589fc6-7936-4fb4-8d60-af802b01fcad,I would like to schedule an appointment with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-637131eb-4848-4bb7-99e8-05d5e4012b28,"Hi, can you schedule an appointment for me at the auto repair shop.",auto-repair-appt
+auto-repair-appt-1,dlg-637284f2-6cbf-47b8-af1f-12511b16b042,Hi I would like to schedule an auto appt ,auto-repair-appt
+auto-repair-appt-1,dlg-64e22ba7-3e24-4961-a53e-a30e6f2eae77,I need to take my car to get it fixed. Can you get me an appointment?,auto-repair-appt
+auto-repair-appt-1,dlg-64e60840-589b-4dd9-b438-d64a5f11eb55,I want to schedule a meeting at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-652ccb04-a8fe-41e1-959d-8f127cf48d61,"hello, i wanted to make an appointment for the car",auto-repair-appt
+auto-repair-appt-1,dlg-653d1ba6-aaf5-4a2e-a15e-c0e6f8ff59e3,My stupid car is making that noise again. I need to get it looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-654b9b10-f203-4668-8b85-5699e49e8399,I need to make an appointment with a mechanic.,auto-repair-appt
+auto-repair-appt-1,dlg-65958f69-c7c0-4dd9-931e-eb0497091f50,Hey! Could you go online and make an appointment for me to take my car to Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-65c8c7c5-e2c3-4fdf-a478-7622955c8428,Hey! Can you call Intelligent Auto Solutions and make an appointment for me?,auto-repair-appt
+auto-repair-appt-1,dlg-65dec7b0-4b73-438f-ad68-8385964e1325,Hello I would like to schedule an appointment with ace mechanical for my car,auto-repair-appt
+auto-repair-appt-1,dlg-6629e2af-0c4b-4b3c-af40-39ade8fab6ed,"Hey, I need an oil change.",auto-repair-appt
+auto-repair-appt-1,dlg-663b7e77-35de-4444-8f8c-39157983fbef,I need to make an appointment to bring my car in,auto-repair-appt
+auto-repair-appt-1,dlg-66c6b5b1-b41e-441c-bc3f-76e7edb7e5ac,"Hi, I'd like to get an oil change",auto-repair-appt
+auto-repair-appt-1,dlg-66d3e9b9-ab51-4c19-8b8d-e7d32356464a,"Hey Jackie, can you look up available appointments at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-67393f0f-6744-47ee-b723-1dd6e68dc8ae,"Hi, I'd like to schedule an appointment to make an appointment to take my car to a mechanic to get checked out",auto-repair-appt
+auto-repair-appt-1,dlg-678c9aa9-a93d-438b-b27f-c29fb8ea605a,Set up a car inspection appointment for me,auto-repair-appt
+auto-repair-appt-1,dlg-679d74b5-d592-4791-bf84-a56c9962783c,Can I make an appointment for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-67b6af37-477a-4689-b2c1-ad7a79676f28,"Hi, please make an appointment with my mechanic to check my car.",auto-repair-appt
+auto-repair-appt-1,dlg-67c7053a-ffa4-435b-8077-69836e3895de,Could you please schedule an appointment for my car at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-67f3ea27-4137-4557-a748-fa8d5101e721,"Hello, could you please call Tom's Cadillac Service to book an appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-67f43687-4046-4d25-93f5-4b13e22d1f83,I need to make an appointment to have my car serviced,auto-repair-appt
+auto-repair-appt-1,dlg-68115329-8284-426a-a52e-42a668512531,"My car is making strange noises, I think I need to go to the auto repair shop.",auto-repair-appt
+auto-repair-appt-1,dlg-6876d018-8164-4401-904e-add8212a3cc9,I need an appointment with Intelligent Auto Solution,auto-repair-appt
+auto-repair-appt-1,dlg-68a09502-f5ef-43a7-a663-237890d8b268,"Hello, I need to book an appointment with Intelligent Auto Solutions to have my car checked out please",auto-repair-appt
+auto-repair-appt-1,dlg-68aa3d01-7e4c-41ed-8ef0-c3518aa1e910,Can I schedule an appointment to look at my car?,auto-repair-appt
+auto-repair-appt-1,dlg-68ac05d7-75d0-4482-8a3b-cc1370963c50,I need to get some car repairs done. Can I get an appointment into Intelligent Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-68c0dcc9-8d7a-452a-9b96-56951c4ff598,"Haley, the Lexus is not letting me close all doors with the autolock. Can you please get me an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-69163831-a3ab-4b4a-9cfe-9ee218092c22,"I need you to call Intelligent Auto Solutions for an appointment with my name, Shiloh Jones and phone number for call back, 775230556.",auto-repair-appt
+auto-repair-appt-1,dlg-692ea95f-c949-41d3-ab74-69165af60c88,I need to get my car fix please.,auto-repair-appt
+auto-repair-appt-1,dlg-6947c6b2-2e7e-43e2-a63d-d5b521125be8,I have a car that needs help.,auto-repair-appt
+auto-repair-appt-1,dlg-69ed0851-1585-4490-92b4-6d3f5f5ced1e,I need to make an appointment for my car at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-6a0771b4-c4e3-448e-9957-52afe446cc69,I need to take my car into Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-6a52487a-8bbf-46d3-9221-e1b8c4e8aa2f,"Hello, Could I get an appointment for my car at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-6a67018c-7b94-4825-a750-e5f37fec2445,"Hi, I need to book an appointment for repairing my car.",auto-repair-appt
+auto-repair-appt-1,dlg-6a9fdef8-8bce-4d35-99bb-da2ec8af7bdf,I want to make an appointment at an auto repair shop called Intelligent Auto Solutions ?,auto-repair-appt
+auto-repair-appt-1,dlg-6acb0594-518c-45d1-8268-eecea69c1bfc,I'd like to book an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-6afdfba5-c047-4399-b1da-42e649b78b80,Hi. Will you make me an appointment with Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-6b8daf9b-d4c6-4d74-84dc-6fe71d3ac535,Can you schedule an appointment to have my car looked at?,auto-repair-appt
+auto-repair-appt-1,dlg-6b9a9ba6-52ec-40f5-98f1-36237f13463c,"Hi, Jeff. Could you make a car appointment for me?",auto-repair-appt
+auto-repair-appt-1,dlg-6d1a74e4-a2c6-4039-8ad9-ef6c3fcb02c8,I need to see if I can get in right away. It sounds like I ran over something big and metal. ,auto-repair-appt
+auto-repair-appt-1,dlg-6d1df0ce-2923-4c67-a0c2-a27a757e5980,"Hello, I would like to schedule an appointment to get an oil change?",auto-repair-appt
+auto-repair-appt-1,dlg-6d2f42bd-bb1a-4611-a89f-415d5188c609,Hey! Can you book me an appointment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-6d67ad63-0ae1-426f-84b6-1e787595e002,"Hey Donna, I'm driving right now can you make me a car appointment?",auto-repair-appt
+auto-repair-appt-1,dlg-6d833f43-0f22-4549-aff6-96e12ca8195a,Hi Joe - I need you to make an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-6da09a0f-22eb-4842-952e-92cad2da6eae,"Hello Jane, I hope your day is going fabulous. I need my car serviced.",auto-repair-appt
+auto-repair-appt-1,dlg-6daef065-8c20-4df6-8658-830bef82aa3e,"Hi Selena, looks like my car is going to need service again.",auto-repair-appt
+auto-repair-appt-1,dlg-6de347d1-a750-4878-9482-11f1b35ebcf3,"Hello, can you please make me an appointment with the mechanic for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-6df75563-af00-407d-af24-d59f13fbcefd,Hey I need to take my truck in ASAP. Could you get me an appointment at Intelligent Auto?,auto-repair-appt
+auto-repair-appt-1,dlg-6e377175-bcfc-4496-9db8-a30a39e6e944,I need to schedule an appointment to take my car in to Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-6e4790ab-d294-478c-8096-2482ddfe9b99,Hi can you book me an appointment with Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-6e752c38-1a6a-4551-8a0d-feba47f4b974,"Hey, can you please make an appointment with a shop for me for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-6e82b398-208c-4367-9454-3b253fab9153,"Hello, I want to make an appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-6ecd270e-b8e6-4816-9f3f-8eeecf0f14b9,"Hello, I have an oil leak and need assistance.",auto-repair-appt
+auto-repair-appt-1,dlg-6ed46876-a739-486f-bc29-0757f3e7c8af,I need to set up an appointment to get my brakes looked at,auto-repair-appt
+auto-repair-appt-1,dlg-6efdd835-2de3-4654-84b9-05cebd5f9da8,"Hey, can you arrange an appointment with a car mechanic for me?",auto-repair-appt
+auto-repair-appt-1,dlg-6f1cc5a1-5cdd-44bb-af41-ae3d5aea7931,"Google, I need to book an appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-6f4f5456-53d7-4133-b22c-450683fa7d4f,"Hi, I need to make an appointment for my car please.",auto-repair-appt
+auto-repair-appt-1,dlg-6f62537b-c78b-4628-9670-9be9a200b2a5,Hey I need to get my car into the mechanic ASAP!,auto-repair-appt
+auto-repair-appt-1,dlg-6f8e1eb0-9c9b-4698-b674-1563e74bd14d,I need to schedule an appointment for my vehicle,auto-repair-appt
+auto-repair-appt-1,dlg-6fc16af7-a5c1-42e1-af53-ee564a8df64a,"My car has had a hard time starting lately, Can you make me a car appointment?",auto-repair-appt
+auto-repair-appt-1,dlg-6fede710-16c7-4a97-a56f-3248d3a41e87,"Hey there! My car is making a funny noise, can you schedule to have it looked at?",auto-repair-appt
+auto-repair-appt-1,dlg-7038bd84-fc52-4731-b40f-58caeb3d3e14,Please go to the Intelligent Auto Solutions website and book an appointment for me.,auto-repair-appt
+auto-repair-appt-1,dlg-70700edd-0650-429a-80e2-28166ae63889,"Hey, can you call Intelligent Auto Solutions and setup an appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-70bc0cb6-d391-4f7e-bf11-bcc65e3363f3,"Hey. My car is messed up, can I bring it in sometime soon?",auto-repair-appt
+auto-repair-appt-1,dlg-70be65e1-83d8-4e91-9939-2ddd4faaf19c,"Hi, my car is having a problem. Can you schedule an appointment for my car with Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-70d8600d-a106-4a0e-9e92-4cebc72a986e,Hey can you make me an appointment with Intelligence Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-70dfec1f-f71b-4903-a209-590e75c15a5c,"Hi, can you set up an appointment for me at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-716429c3-04ef-494b-889a-75e3cbcc4714,"Hi. I'm having a problem with my car. Can you schedule an appointment with a mechanic for me, please?",auto-repair-appt
+auto-repair-appt-1,dlg-7169d74e-48ba-4f33-bc90-09825f06d46b,"Hello, my car is having problems as I speak and I need you to make me an appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-716e17e5-821f-4dc4-86d5-8c6872b3408a,"Hi, Angela? I need to make an appointment to get my car checked out as soon as possible.",auto-repair-appt
+auto-repair-appt-1,dlg-71bbb89a-2ed7-46bf-a20d-bf7963e0509a,"Oh my gosh! Someone hit the side of my car last night, I'm so angry! Can you book me an appointment with an auto repair shop?",auto-repair-appt
+auto-repair-appt-1,dlg-71cbe988-8a26-4217-b466-db33a1840d46,"Hello, I would like to for you call Intelligent Auto Solutions to schedule an appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-72d036dc-e85f-4ee2-87a5-84be7e6c1516,"Hello, I need you to call Intelligent Auto Solutions and make me an appointment as soon as possible.",auto-repair-appt
+auto-repair-appt-1,dlg-732fcca5-cf19-41d4-b8ac-35cf5ed79d11,"Hey, I need you to make an appointment to get my car looked at",auto-repair-appt
+auto-repair-appt-1,dlg-73604c5d-f5d0-4799-abe1-d825854d253d,"Hello Sam, can you please help me make an appointment with an auto mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-73b0e503-42ec-49e8-839a-1104907f686e,"Hello, I need to take my car to get it repaired.",auto-repair-appt
+auto-repair-appt-1,dlg-73b3c9da-0df2-4bfc-b217-2612ab4fd1ef,"I am looking for an appointment, when you can have me scheduled? ",auto-repair-appt
+auto-repair-appt-1,dlg-740a4e67-4f4b-4cfa-880c-8f378068d943,Can you schedule a mechanic appointment for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-746e12bd-5e2b-4090-ad14-cdd1df69732a,Hey Google..I think i need to service my car. Of late i hear some noise while driving,auto-repair-appt
+auto-repair-appt-1,dlg-749e90f3-3de6-4680-a277-fc3848315ccc,"Hi there, I need to make an appointment with an auto repair shop.",auto-repair-appt
+auto-repair-appt-1,dlg-74e4f12b-458f-4f51-b98a-96080c7504d8,Hey! I need to take my car into a mechanic ASAP.,auto-repair-appt
+auto-repair-appt-1,dlg-754f2e6e-a982-4457-97a6-1d49fa115ee1,Can you schedule a car repair for me?,auto-repair-appt
+auto-repair-appt-1,dlg-7569f215-7857-468b-ac03-d955a429cf3e,My clutch is sticking. I need to take it in to the shop.,auto-repair-appt
+auto-repair-appt-1,dlg-758d5161-72e0-479f-90e1-b44001840088,Please make an appointment with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-7592fdc6-3d2f-41c1-b343-c1b244a02494,Hi I need to make an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-75a0eae9-d562-445e-b29d-55d160e6ff20,"Hi, I want to schedule an appointment for my car",auto-repair-appt
+auto-repair-appt-1,dlg-75da4599-84d7-42ec-ab29-a34c4ac5faa0,Hey can you make an appointment with Intelligent Auto Solutions for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-77023983-32be-426d-b120-5d36cbb268ba,Schedule an appointment to get my brakes changed at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-77459acd-cf89-4b3e-b2fa-78e55596b9ce,"Hello, can you help me schedule an auto appontment?",auto-repair-appt
+auto-repair-appt-1,dlg-7752f2e2-e2fa-4b03-a904-e40ed1643bde,"Hey Mark, can you make me an appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-778ebef1-7b8d-44fb-99ef-6f6640d14e1c,Please schedule me an appointment to get my car fixed. ,auto-repair-appt
+auto-repair-appt-1,dlg-788884e2-fb30-4d93-827e-26b72e5666f9,Hey can you set up an appointment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-78fe13eb-84cf-4f57-bbfd-f4f9c16a3260,"Hi, my car has an issue, can you schedule an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-793b2e3d-2aa2-4593-b051-c5e0953b7a3a,"Hello Cynthia, I need you to schedule an appointment for my car at an auto repair shop called, ""Intelligent Auto Solutions"".",auto-repair-appt
+auto-repair-appt-1,dlg-79cb71a2-beaa-4338-a3fd-8565a7ec82f5,Hello.I need you to make me an appointment for for car.,auto-repair-appt
+auto-repair-appt-1,dlg-7a674368-778b-430d-b532-fdec3b31218e,"Assistant, Please pull up Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-7a6bb4db-8227-4e2c-a86f-6c4f17ee7826,Can you find me an appointment today at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-7a8274ab-8a70-44f3-80df-197601afc7d6,Hey Kate! I'm calling to see if you can set up an appointment to have my car looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-7aae6e5d-f2af-4d4d-9cac-37de7a8573d9,Hi I have an AB123 light going off on my car,auto-repair-appt
+auto-repair-appt-1,dlg-7b12e7da-41ba-406a-9f6b-798c396e1200,I need you to book an appointment for my car to go to the mechanic.,auto-repair-appt
+auto-repair-appt-1,dlg-7bccb5fa-0397-4107-9848-2e2b7f455180,I need to take my car in to get checked out by a mechanic,auto-repair-appt
+auto-repair-appt-1,dlg-7bceb16d-8d8e-49d5-90a9-b0d8ee2d29df,Yo man I need to get my car in,auto-repair-appt
+auto-repair-appt-1,dlg-7be8d776-50c8-4ef1-9ec3-dca8167b2c32,"Hi Louise, can you help me out by scheduling an appointment with the mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-7bf738a0-b4a2-408c-b82f-15a33098d3a9,Hi I need to bring my car in to the shop,auto-repair-appt
+auto-repair-appt-1,dlg-7c202435-b0d5-4e45-a5d7-2b06362bad50,"Hi, I need to make an appointmen at an auto repair shop ""intelligent Auto Solutions""",auto-repair-appt
+auto-repair-appt-1,dlg-7c21ff7e-3470-4d35-95bc-5848a0d3e087,Please book an appointment for me at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-7c24ea73-b103-40fa-87cc-9adc21ebfb1c,"Hello, I need to book an appointment to have my car looked at, it's driving funny",auto-repair-appt
+auto-repair-appt-1,dlg-7c27b0c2-b6be-4904-848b-e7fddb3d7f7c,Hi I am having problems with my car. Could you book a repair shop for me for my 2017 Honda Civic,auto-repair-appt
+auto-repair-appt-1,dlg-7c6983b8-46e4-4765-aeab-bc139bc6f3a2,"Stella, hi, can you get me an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-7c76afc0-7bb1-472a-8113-2013a6a1ae30,"Hey, Carlos. I need you to schedule an appointment with Intelligent Auto Solutions. My back bumper got wrecked.",auto-repair-appt
+auto-repair-appt-1,dlg-7cd80407-3955-4444-83d0-b19b1cbda6fb,"Hey, can you set up an appointment for me to have my car looked at this week?",auto-repair-appt
+auto-repair-appt-1,dlg-7d031579-cbab-47ca-bb55-f493d8685849,I need to schedule an appointment to get my car repaired.,auto-repair-appt
+auto-repair-appt-1,dlg-7d1a0913-8046-4c00-ad34-5e968cf7df57,"Hello James, I need a mechanic to look at my car.",auto-repair-appt
+auto-repair-appt-1,dlg-7d43d2ba-a625-4006-a375-79f589070740,I need to schedule a repair appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-7d8938e9-0979-4838-9d32-ac65a7ba4fcf,"Hi, sorry if I don't sound the clearest, I'm driving. I've been noticing a jerking sensation from my car when braking; I think it may be the transmission. Can you please make an appointment to see the mechanic for me?",auto-repair-appt
+auto-repair-appt-1,dlg-7dc24ce9-4969-4313-a8f5-c2ccf1f41e10,"Hello, can you book an appointment for me at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-7dc580aa-22eb-49c8-ac91-c0709b76d7ef,"Hi, I'd like to set up an appointment for my car",auto-repair-appt
+auto-repair-appt-1,dlg-7df0bb12-929a-4bfa-9a32-bd65dce7fd18,Hi I need an appt for repairs to my car.,auto-repair-appt
+auto-repair-appt-1,dlg-7df9d3f6-81e5-45d1-874a-315f953a6c7b,Can you get me an appointment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-7e26a29f-8d6e-4b02-af8a-96f0bf1fe851,"Hi, I'd like to schedule an appointment to bring my car in",auto-repair-appt
+auto-repair-appt-1,dlg-7e8acc96-6d11-4ade-bf9b-f4c4a8d9f99b,"Hi, I'd like to get my car checked out at intelligent auto imports",auto-repair-appt
+auto-repair-appt-1,dlg-7f2bb8f6-8f5f-4e82-b915-d900a1828821,Hello Google! I need for you to book me an appointment with Intelligent Auto Solutions quickly! My car is overheating.,auto-repair-appt
+auto-repair-appt-1,dlg-7f771330-3d82-40ee-b4c4-79b90949b700,Hello I would like to schedule an appointment for my vehicle. ,auto-repair-appt
+auto-repair-appt-1,dlg-7f7f9724-83db-4092-8d15-527763c74d0c,Can I get an appoinment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-7fbdcf1c-7592-4922-a44e-91391c13cebd,"Hey, assistant. I need car to be serviced. Could you book an appointment at Intelligent Auto Solutions for me?",auto-repair-appt
+auto-repair-appt-1,dlg-806e14f3-8f7f-410e-9a7a-a2685d936bc7,"Mary, something is wrong with my car. It's pulling to the left when I'm driving it. Can you schedule an appointment at Intelligent Auto Solutions tomorrow?",auto-repair-appt
+auto-repair-appt-1,dlg-80a024e8-2ed4-4d79-b750-911d5785c279,"Hello, I would like to make an appointment for 10 am Weds Please.",auto-repair-appt
+auto-repair-appt-1,dlg-80ebcb64-d2de-4a32-a4c1-b755db817054,"Sally, I need to get my car in the shop.",auto-repair-appt
+auto-repair-appt-1,dlg-81a6f9b8-be20-45fc-82e6-7810fb4672bc,"Hello, can you please schedule an appointment for me?",auto-repair-appt
+auto-repair-appt-1,dlg-81d8d194-f795-4831-bca1-c41c6241af9c,"Joel, Do me a favor and schedule a car repair appointment for me at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-822072fe-a016-4780-9777-51239db20ae1,Hello assistant. My truck is making a terrible noise and I need to take it to the mechanic right away.,auto-repair-appt
+auto-repair-appt-1,dlg-829cc68a-ded8-4e4c-863c-2467ddb6b057,can you get me into intelligent auto solutions today?,auto-repair-appt
+auto-repair-appt-1,dlg-829fddda-71d6-47da-918f-135a8dd998d2,"Hey, I need to get my car brought into the mechanics.",auto-repair-appt
+auto-repair-appt-1,dlg-839c598b-8c66-4019-8dc2-2eb29911df47,"Hi, I need to book an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-83f0f3c9-b843-4858-aeec-e7e916ae2a7a,"Hi, this is Bob Nash. Can you please schedule an appointment to have my car looked at and possibly repaired?",auto-repair-appt
+auto-repair-appt-1,dlg-840db8d1-532c-4497-859b-e98e364b8527,"Assistant, can you book me an appointment for the car?",auto-repair-appt
+auto-repair-appt-1,dlg-843b2367-4f12-4179-90b1-bde2c6e5c16a,"Hi, it's Annie. Can you please call the repair shop and schedule an appointment to have my car looked at?",auto-repair-appt
+auto-repair-appt-1,dlg-8453d5e8-f0b5-4223-9107-35b4b7ad2daa,Want to schedule a car appointment,auto-repair-appt
+auto-repair-appt-1,dlg-849479da-06f0-47cc-b77b-796a6241220a,"Hi, I need to make an appointment with Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-84f12472-1bb8-481b-bb6a-1802600efc8b,"Hey assistant, I have a minor emergency with my car and need to have it looked at, I want to schedule an appointment at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-84f9b2b9-386a-4d4e-a35b-60db7e2b551d,Hey I need an appointment please.,auto-repair-appt
+auto-repair-appt-1,dlg-851343d2-28ca-4d3f-8b65-197c3a66b1e7,"Hi, I'd like to make an appointment to get my Astro Van looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-85d4f5d6-9797-4761-a225-4bf8168575bd,"Hi, I need to make an appointment to have my car looked at",auto-repair-appt
+auto-repair-appt-1,dlg-85edb1cf-4a27-44d7-9f1d-812d4e6f980c,Hi I need to get my car into the repair shop,auto-repair-appt
+auto-repair-appt-1,dlg-85edec21-80ef-4c2c-aa8f-42018e384320,"hello , is this Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-8612355d-e806-48d4-baf4-a278acfb60d8,"Hi, I really need to make an appointment for car repair.",auto-repair-appt
+auto-repair-appt-1,dlg-8615ea61-e904-470e-ae51-7b7aeedbc71c,When you get a chance can you please make an appointment for me to bring my car to the mechanic.,auto-repair-appt
+auto-repair-appt-1,dlg-862a5e34-9ce2-43dd-9899-f3871b62c1b4,"Hey, can I schedule an appointment for my car to be looked at?",auto-repair-appt
+auto-repair-appt-1,dlg-863dc8ef-a8ca-450f-af68-e5b9bc235c49,I need an appointment to fix my car.,auto-repair-appt
+auto-repair-appt-1,dlg-864e6660-c6f6-4aaf-8176-36d170355e6b,"Hey Jack, my car is acting funky. I think I need to take it in",auto-repair-appt
+auto-repair-appt-1,dlg-87241861-9f89-4eab-bd2c-8de61f5a8c27,"Hello, can you book me an appoint for for a repair shop?",auto-repair-appt
+auto-repair-appt-1,dlg-87377579-5aaa-439e-9979-016be72a9330,"Hey, I need to set up an appointment to get my car into the shop",auto-repair-appt
+auto-repair-appt-1,dlg-873d6a80-71e9-4355-b6fc-fd3dcc00a76e,"Hey, set up an auto appointment for me.",auto-repair-appt
+auto-repair-appt-1,dlg-87484a2b-afe9-4d39-8b24-6118576737a9,Hello I need a appointment made at Intelligent Auto Solutions please.,auto-repair-appt
+auto-repair-appt-1,dlg-87c5d407-716b-48a4-b8e2-f8b6293cf039,Could you get my car into the shop please? It needs some attention.,auto-repair-appt
+auto-repair-appt-1,dlg-87da5af3-b4d3-49b5-b82b-a1cacae8c18f,Hi assistant. My car was damaged when I drove over a pothole. The steering wheel is turning weird. I need to have it repaired.,auto-repair-appt
+auto-repair-appt-1,dlg-8805d624-3190-4e8f-a99d-a08caaf88866,"Hey Susie, my car's been acting weird. Can you set an appointment for me with Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-88947ea1-000c-4583-8ee6-4b1bb92751b5,Can you schedule an appointment for service on my car?,auto-repair-appt
+auto-repair-appt-1,dlg-88c5b3df-3a64-48a0-b504-9d7a8b955a77,Please connect me with Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-88d14c21-306d-4c51-ac2d-1062cb64536e,Hey I need to book an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-88ee44dd-b16e-4313-b8a1-ff570a0b0c5d,"Assistant, please schedule a service appointment for my car at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-890f7b1f-c24c-4e54-921b-cfc3eaeadf52,"Hi Joan, can you please get with Intelligent Auto Solutions to schedule me an appointment?",auto-repair-appt
+auto-repair-appt-1,dlg-89365f6b-5507-4ca6-bf08-10c40253ea9e,"Hi, it's Maggie. Can you please call the repair shop and schedule an appointment to have my car looked at?",auto-repair-appt
+auto-repair-appt-1,dlg-89821756-0008-4450-b78e-5158c226a6bd,I need to get my car in for servicing.,auto-repair-appt
+auto-repair-appt-1,dlg-89fb2360-8a49-4993-bf8a-493a142681fa,I need to make an appointment at Intelligent Auto Imports.,auto-repair-appt
+auto-repair-appt-1,dlg-8a8eefe7-98e8-4cbe-a3fb-d8511e599e08,Hi i'm driving and my car is acting funny can you make an appointment for me to take it in,auto-repair-appt
+auto-repair-appt-1,dlg-8af87921-fdc8-4a73-ad43-38b51740eff8,"Hello, I need an appointment for a review of my vehicle?",auto-repair-appt
+auto-repair-appt-1,dlg-8b281717-c392-4fb6-aeb6-b49599b83a47,I am having issues with my car can you make an appointment for me?,auto-repair-appt
+auto-repair-appt-1,dlg-8bf072e5-434e-4213-9786-ec3cf952d648,I need my flat tire fixed at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-8c2f16c0-825e-448b-8fc7-0d6f23d5e355,"Hi, could you book an appointment for my car",auto-repair-appt
+auto-repair-appt-1,dlg-8cc0a6cb-bc31-466a-a9d1-28304a3483c7,"Hi Roy. I need you to call my auto repair shop ""Intelligent Auto Solutions"", and make an appointment for me.",auto-repair-appt
+auto-repair-appt-1,dlg-8ce34766-a8ec-48b4-b76c-fe63c7adfdd1,I need to book an appointment with Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-8ce8bf85-d145-4951-bc2a-768be827a108,"Hey, I keep forgetting that I have a headlight out and I need to get in and get it fixed. Do you think you could help me out with that, I am driving right now.",auto-repair-appt
+auto-repair-appt-1,dlg-8ce8fbcf-81c1-4084-a429-62ca53c0ace6,"Hey there, I need to take the van into the shop.",auto-repair-appt
+auto-repair-appt-1,dlg-8d0bf978-3008-4e5a-99a4-47e98fc928ab,Jessica? I need to bring my car in for a repair somewhere. Do you know any good places?,auto-repair-appt
+auto-repair-appt-1,dlg-8d3b6c89-1392-4fe6-b879-302192326f02,Make an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-8dcfca19-ade4-48c8-b9ae-1b8fe58fc7d7,"Hello, I need to make an appointment for my car to be looked at ",auto-repair-appt
+auto-repair-appt-1,dlg-8de8e7f2-c723-44c5-b9b4-5024915ab415,"Hey Sean, It's Marcus. Can you get me an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-8deb91cd-4317-4b75-8534-4a83ec3ea759,I need you to book an appointment with Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-8df7a5ec-0755-4d1c-9987-dbfb509daa22,Make an appointment tomorrow with Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-8df9bae6-4064-4b04-ad80-6acb415357af,"Hi, I need to book an appointment to get my car windshield replaced.",auto-repair-appt
+auto-repair-appt-1,dlg-8e3522af-9e99-405b-baa4-737eefbd2c4f,"Hey, Lauren look I need to have my car looked at today. Schedule an appointment at Intelligent Auto Solutions for me would you?",auto-repair-appt
+auto-repair-appt-1,dlg-8ed325ce-4daf-4f4c-a6b7-a2ce287c0ed1,"I was thinking about buying this used car, and was wondering if you would take a look at it for me to see if it has any problems ",auto-repair-appt
+auto-repair-appt-1,dlg-8ee276d2-11f8-43ac-931f-652c2f1a200b,I need an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-8f5118c5-dcda-4f52-ad58-df7cb0810b19,"Hi Alexa, I need you to set up an appointment for a car repair.",auto-repair-appt
+auto-repair-appt-1,dlg-8f5505b1-549a-4220-9171-663c2ff6f36f,Panda I'm having issues with my truck I need to set up an appointment to have it looked at,auto-repair-appt
+auto-repair-appt-1,dlg-8f67a496-7c34-4c40-ad9a-f4601de0da2e,Hi I need to book an appointment for my car to get repaired.,auto-repair-appt
+auto-repair-appt-1,dlg-8fa101de-d3a8-4e28-a8a7-32fab3cb7c04,Would you make an appointment to take our car in to be repaired?,auto-repair-appt
+auto-repair-appt-1,dlg-8ff75c5d-8e34-4d71-a4be-60ad1f817ffe,"Hey, my cars acting funny can you schedule an appointment at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-9001c89d-d35f-47f8-a1a7-1b701970e763,"Hi, I'm having a problem with my car, and it doesn't seem to run right. I mean every time I start it up, the engine runs for a minute or so, sputters like it isn't getting enough gas, and then dies.",auto-repair-appt
+auto-repair-appt-1,dlg-90680853-62a6-4e3b-8407-0457ff7abddd,I need some vehicle repairs and I was wondering if you could help me out setting up an appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-90d873d5-6c7b-4c01-a05e-dada6cfc5888,"HI, JANE CAN YOU KINDLY MAKE AN APPOINTMENT FOR MY CAR? ",auto-repair-appt
+auto-repair-appt-1,dlg-90ef9c75-c53a-4367-954c-600b637516e1,I need you to book an appointment to get some work done on my car.,auto-repair-appt
+auto-repair-appt-1,dlg-9164175a-98c1-40fc-b812-742d7819bb04,Find the nearest Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-92975e16-5436-4179-9f4c-e680c623271e,"Hello assistant. I think my car is in need of some servicing, can you set up an appointment for me? ",auto-repair-appt
+auto-repair-appt-1,dlg-9299db1b-2746-4ee1-b225-bc2112874e2d,"Hi, can I schedule an appointment for my car to get fixed?",auto-repair-appt
+auto-repair-appt-1,dlg-929b59a3-ebdd-4d57-9033-a185cc211359,I'd like to schedule a car repair at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-92a902bc-e1a6-4090-b840-dbc908bc2f45,"Hey Erin, I need you to book an appoint with the mechanic for me",auto-repair-appt
+auto-repair-appt-1,dlg-92b76914-58c7-4de0-a4a0-75d4bc8328da,I need to make an appointment with Intelligent Auto Solutions asap.,auto-repair-appt
+auto-repair-appt-1,dlg-930955d6-69a1-4720-b6bf-abcd3ae6fd3a,"Hey Robert, can you book me an appointment at the auto repair shop Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-9324f679-9917-4b72-b4af-102be4f1d8ba,Hi Cindy. I just got a hole in my muffler and get to get my car in as soon as possible.,auto-repair-appt
+auto-repair-appt-1,dlg-934bd996-d1fe-46a6-aece-32e24a5c67a5,"Hi, I am looking to have my 2010 Jeep Liberty checking for an oil leak at Intelligent Auto Solutions tomorrow at 9:00 AM.",auto-repair-appt
+auto-repair-appt-1,dlg-946a29d8-7228-44a7-8b18-a782dc747c97,Hi there! My brakes need to be looked at asap. Can you call Intelligent Auto Solutions to get a quote on bakes?,auto-repair-appt
+auto-repair-appt-1,dlg-953a571f-378c-485f-aa10-62151efd7d23,"Hello, I need to make an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-956f1660-6270-4180-96d2-f90e0eb5be78,Can you please set an appointment to get the van looked at?,auto-repair-appt
+auto-repair-appt-1,dlg-9579fc19-e529-4bef-96c6-1a343846a321,Could you please make an appointment for me at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-95ad17b9-6237-4ffb-8f2c-4515f45f5423,I need to schedule maintenance on my vehicle.,auto-repair-appt
+auto-repair-appt-1,dlg-965b0360-4c3f-4886-82b7-086cd4efcd72,I would like to change my 12V battery,auto-repair-appt
+auto-repair-appt-1,dlg-967c8dd0-a7df-451e-834c-dac7aacf5ae2,"I need to schedule a tune up for my car, something's wrong.",auto-repair-appt
+auto-repair-appt-1,dlg-96f974a5-dc55-4d69-8edb-7f2b73eca029,I really am having some issues with my 2016 Buick Enclave.,auto-repair-appt
+auto-repair-appt-1,dlg-9726136e-9158-4d0d-9b56-ab49ce4d392b,"David. How are you? Listen, I really need to get the car in quick, I'm having some trouble on the road.",auto-repair-appt
+auto-repair-appt-1,dlg-9742e500-71b9-48a0-ba15-54b915c23f84,I need to schedule an appointment with a car mechanic.,auto-repair-appt
+auto-repair-appt-1,dlg-976a8d8c-5449-49df-8a2b-429f02b90662,I need to book an appointment at the auto repair shop called Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-98265331-c74d-4b0e-9bc1-81a75d2607bc,I need to setup and appointment for my car. ,auto-repair-appt
+auto-repair-appt-1,dlg-9866a215-322f-4e22-8f6d-d5c046bfeaa5,"Hey, Cheryl, my taillight is out. I need a mechanic.",auto-repair-appt
+auto-repair-appt-1,dlg-98ef5194-4fc5-4cb8-9902-c6aae9dae3c7,"Hey, Suzanne. I need to take my car to the mechanics. Can you make an appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-99886053-ea94-4848-88bf-76b5639c4044,"Hi, I'd like to book an appointment for my car",auto-repair-appt
+auto-repair-appt-1,dlg-99dabd16-1f85-44e4-b484-50028ce86efd,"Hi, Sam. Do you still have access to Intelligent Auto Solutions scheduling system?",auto-repair-appt
+auto-repair-appt-1,dlg-99fa6b46-4b23-4b66-a3a8-bdaf651c9bff,"Hello, I need to set up an appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-9a7723f1-6fd0-4222-865d-a0ad452e79fe,"Hi, I have a problem with my car. Can you make an appointment for fixing my car with Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-9a7bdda3-887b-484b-ac6e-a00916087f9c,hello can you please make me an appointment for auto repair?,auto-repair-appt
+auto-repair-appt-1,dlg-9a8bac5f-75c6-47c3-b22f-cec5a398e178,I would like to change my headlight,auto-repair-appt
+auto-repair-appt-1,dlg-9ad93ab2-af85-4266-906c-09095512aeb4,I need you to make an appointment for me please.,auto-repair-appt
+auto-repair-appt-1,dlg-9b1f864d-e7a0-4298-ae0d-ef290e7ab52c,Can you make me an appointment with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-9b512401-1023-4a43-a212-8113b025fe58,Hi i need to get to a a good mechanic?,auto-repair-appt
+auto-repair-appt-1,dlg-9b6ee6f9-077a-44fb-88c6-850a4b6be59a,"Good morning, can you make an appointment for me to get my oil changed?",auto-repair-appt
+auto-repair-appt-1,dlg-9b86bd17-4b6c-46d2-ab7d-36b30d46d510,"Hi, I'd like to book an appointment for my car to get looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-9ba340b8-f43a-4c0c-8a55-1ebc9dd15295,"Hey, can you make an appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-9bb1b243-d7c3-463d-8800-d5e94f13e627,I'd like to make a car appointment today,auto-repair-appt
+auto-repair-appt-1,dlg-9bda90f1-88d9-4d58-8ed8-8818c68587f3,i need to get a tune up on my car.,auto-repair-appt
+auto-repair-appt-1,dlg-9c248ff1-1af3-4dcd-ae70-b0817c0c8240,"Hi Lisa, I need you to book an auto repair appointment for me.",auto-repair-appt
+auto-repair-appt-1,dlg-9c371499-a129-4b90-9e30-8bc5893e946d,"Hey, I need to get my car in to the shop. Can you schedule it for me?",auto-repair-appt
+auto-repair-appt-1,dlg-9c4a4c43-ac74-4851-baec-4f7f986cf967,"Cherrie, I need to schedule an appointment for my car at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-9c8b2187-bb39-43f6-bf6e-cbef8b3af145,"hello I have a 2010 ford fusion and I need to get it repaired, can you help?",auto-repair-appt
+auto-repair-appt-1,dlg-9d02c40a-f99c-453d-9390-3e5cd8522e45,I need a appointment for my car asap.,auto-repair-appt
+auto-repair-appt-1,dlg-9d0f6350-b77d-4472-9bb7-78968397b124,Hey can you schedule an appointment for my car check,auto-repair-appt
+auto-repair-appt-1,dlg-9d3d9391-c244-4d38-9f73-c8c4f6fa96b8,"Hello, I need to take my car to a mechanic.",auto-repair-appt
+auto-repair-appt-1,dlg-9d3ff996-7fdd-4b04-9710-90d43da736cc,"Hey, I'm driving and need you to book an appointment with a mechanic for me.",auto-repair-appt
+auto-repair-appt-1,dlg-9d758964-243a-441f-95c7-240a3be7ed0e,I need to schedule an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-9e0c4167-e4e2-499d-8635-d62302186a75,"Hi, I need to schedule an appointment with an auto mechanic.",auto-repair-appt
+auto-repair-appt-1,dlg-9e1bc6e0-d9be-49ba-bcd6-4e5777747e76,I want to book an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-9ec2d6c8-0679-4e14-a4f2-c38b48236a67,Can you book me an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-9ef84a68-7963-481c-8c58-e32e4bb5fd9f,"Hey, I need to schedule an appointment at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-9efc5def-40a9-4bda-84f2-aa7f841b0e17,"Hello, I need to make a car appointment please.",auto-repair-appt
+auto-repair-appt-1,dlg-9f10de2f-deb2-4af9-85f0-5bc22cd0248b,"Hello, I would like you to book an appointment to have my car repaired",auto-repair-appt
+auto-repair-appt-1,dlg-9f14839c-07cf-42da-8c8b-b46727c24f59,Hey! Could you book an appointment at the auto repair shop for my car? ,auto-repair-appt
+auto-repair-appt-1,dlg-9f50ff0c-2a17-4f31-a512-9535e648ead5,"Hi, my car is having car troubles, can you schedule an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-9f67b33c-4074-4acf-9b9d-17f69bc00073,"Hello, I'm calling to make a car appointment at ""Intelligent Auto Solutions"".",auto-repair-appt
+auto-repair-appt-1,dlg-a048b8c2-8ec2-47ff-bf35-883ba47907e3,I would like to schedule a car service at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-a084bae9-27b6-45c9-a962-ff6fec4df492,Hey Sally. I just got to work and my car is making an awful sound when I turn. I am afraid to drive it home!,auto-repair-appt
+auto-repair-appt-1,dlg-a0ab2c6b-e463-4287-9fa0-f1ed16176a6b,"Hi, I would like to set an appointment for my car with ""Intelligent Auto Solutions"".",auto-repair-appt
+auto-repair-appt-1,dlg-a0d22e81-519e-4b4e-aa06-278feaa18b63,"I need you to make an appointment for service on my car, tell them it is feeling sluggish when I am entering the highway or trying to pick up speed.",auto-repair-appt
+auto-repair-appt-1,dlg-a13ee26d-169f-4511-834c-cb27de5dea6f,"Good morning, my car is making some strange noises can you help me make an appointment?",auto-repair-appt
+auto-repair-appt-1,dlg-a1c85dc0-ceee-43c1-bea7-9cd0ab9ae358,Hi. Can you please book me an appointment with a mechanic. ,auto-repair-appt
+auto-repair-appt-1,dlg-a1ebb3c8-58a1-4fbc-b2ac-47f1d5559524,I need to schedule an appointment for my car to perform its brakes.,auto-repair-appt
+auto-repair-appt-1,dlg-a1fdea22-afc1-49cf-ba83-76907b408564,Hey! I need to go to the auto shop. Can you help me out to book an appointment?,auto-repair-appt
+auto-repair-appt-1,dlg-a208b247-821e-434c-b066-df97054e0469,Can you send my car to Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-a24f63ec-eb99-48e7-9ffa-92f63abec8fb,"Hi there Personal Assistant, it's Liana. I need you to help me set up an appointment for my car at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-a2508243-61f3-4a9f-9511-2626476a2ee3,"Hey, can you make an appointment for my vehicle?",auto-repair-appt
+auto-repair-appt-1,dlg-a25790cd-2c12-4a4d-b85e-1318e9e78c9d,"Hello, I need to book a car repair job please.",auto-repair-appt
+auto-repair-appt-1,dlg-a3007272-4c2e-4751-8205-e70d6ca1db60,Hi! I need to have an appointment set for my car at Intelligent Auto Solutions today please.,auto-repair-appt
+auto-repair-appt-1,dlg-a3b8286c-d5e8-4e28-b2b4-ed22e094142e,Hi assistant! Need to get my car into Intelligent Auto Solutions asap,auto-repair-appt
+auto-repair-appt-1,dlg-a485af01-2528-473a-9c78-3fc5334cc412,"Hey Emily, can you set up an appointment at a local auto repair shop?",auto-repair-appt
+auto-repair-appt-1,dlg-a4a42d31-7a85-4b96-b169-500b2b8578ef,I need you to call Intelligent Auto Solutions and see when I can get them to look at my car.,auto-repair-appt
+auto-repair-appt-1,dlg-a4b77ccf-c5c2-4913-a761-6589cdb53972,Hey assistant will you schedule an appointment with intelligent auto solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-a51e4198-0545-4d86-90cc-76a99d957385,I need to make an appointment to get my car serviced at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-a6cb212b-4d17-4228-bf5a-d7979d924392,"Hey, Assistant, could you schedule an auto shop appointment for me?",auto-repair-appt
+auto-repair-appt-1,dlg-a6e26f93-28e3-4580-8eb0-09374583a825,I would like to book an appointment for my car to be repaired.,auto-repair-appt
+auto-repair-appt-1,dlg-a7ae61d6-3bd0-470e-8a4d-be7b325ce0e0,"Hi Sarah, can you get in touch with Auto Intelligent Solutions. I need an appointment urgently.",auto-repair-appt
+auto-repair-appt-1,dlg-a7c7b98e-607d-47aa-8ff3-af57689d9142,I'd like to make an appointment for a check-up.,auto-repair-appt
+auto-repair-appt-1,dlg-a7d97c13-de27-4cc2-afd3-a43641454323,Hi can you book me an appointment to get my car fixed?,auto-repair-appt
+auto-repair-appt-1,dlg-a7db23f4-52b9-4a98-8770-d085c49d07b4,Can you book me an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-a8210861-b7ed-48fc-993b-a9e5d266e032,Hello Jim! Could you book an appointment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-a8533b60-f82c-464c-877a-51150ae0bb77,I need an appointment for tomorrow morning for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-a86ef13c-edcf-409a-a912-c2dac52549b3,"Hi, I'm calling for a car appointment at ""Intelligent Auto Solutions"".",auto-repair-appt
+auto-repair-appt-1,dlg-a87b349b-d10d-4041-9eec-d0ac6d3d7689,I would like to schedule an appointment with a car mechanic at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-a8838204-82bc-4f49-bcdd-9e2c4166ccfe,"Hi, I want to schedule an appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-a8bc61cc-8c40-4908-b5bd-84c75c4f2626,"Hi, I need you to get online appointment set up to get my car checked out as soon as possible. ",auto-repair-appt
+auto-repair-appt-1,dlg-a8f7dddd-48a5-447f-a0cf-43940148def4,Hi. Can you please help me book an appointment to get my car fixed?,auto-repair-appt
+auto-repair-appt-1,dlg-a92a61ce-99d4-48cf-b3d9-2392c0abb181,"Hey, I need to book an appointment with Intelligent Auto Solutions for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-a96ec2a8-e6e1-493d-8dfb-40f655a2072a,Hey Billy my car is acting funny. Could you jump online and see when Intelligent Auto Solutions can get me in?,auto-repair-appt
+auto-repair-appt-1,dlg-a9a0f522-dd34-40ca-80a0-7a147e9672ba,I need to schedule an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-a9a221e6-733b-40c7-b008-52c318b6e19b,I need to get a car book appointment please,auto-repair-appt
+auto-repair-appt-1,dlg-aabffbb2-6466-45dc-ba9f-bba62340998d,"Hi, I'd like you to schedule an appointment for me at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-aac0e3ec-4e7a-4b58-88b5-073df067b690,I need my 2012 Kia Forte worked on by a professional at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-aac6d42d-bc79-4b56-ab4a-0510f527e454,"Hey, Johnny, I need you to book an appointment for me at ""Intelligent Auto Solutions""",auto-repair-appt
+auto-repair-appt-1,dlg-aaee5bde-f5b1-4634-9540-9bfbe2deb6f1,"Hi, I would like to schedule an appointment with Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-abb466a6-e025-42ae-9171-d59b1057bf29,"Hi, I was trying to schedule a tow and appointment to get my car looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-abe2e775-5665-449f-a500-265eaadedb1a,"i need to take my car into the shop, its being kinda weird",auto-repair-appt
+auto-repair-appt-1,dlg-ac1b7157-a577-4fb3-84d4-1a92e88efac9,"Hello, Karri .. I need you to make an appointment for servicing my car at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-acf16f41-2a7d-4d43-916c-15311269388d,Hey! I was wondering if you could set me up an appointment with Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-acf2e623-44d7-47b8-883b-e328dcdf1308,Hey can you see if i can get my car checked,auto-repair-appt
+auto-repair-appt-1,dlg-ad36e616-908c-4fcb-84c3-2a0ce8045973,Hey Julie can you set up an appointment for me at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-ad4c3976-6046-4ea7-8599-98821ba176cb,i want to schedule an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-ae11be86-f066-4390-a69b-db26f0791df5,"Hello, I need you to schedule an auto repair appointment ",auto-repair-appt
+auto-repair-appt-1,dlg-aefbc046-4c4b-45c3-bde8-0731b4f69a89,"Hello, I need an auto repair appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-af401076-7b14-476c-924c-9a6332a23eee,"Hi, I would like to make an appointment for my 2016 Nissan Maxima",auto-repair-appt
+auto-repair-appt-1,dlg-af90252b-a322-4ba8-8e01-161815009911,"Hello Siri, I’m having car issues so I need you to book me an appointment at an auto repair shop",auto-repair-appt
+auto-repair-appt-1,dlg-af995355-e7bd-41f8-9a64-124de723a413,Hey I need to bring my truck to the shop.,auto-repair-appt
+auto-repair-appt-1,dlg-afadfdd6-9b8a-46cf-b49b-c7ea4f57c545,Hi I'd like to get my car checked,auto-repair-appt
+auto-repair-appt-1,dlg-afb91fba-9b3f-4bc2-80da-ef3c6ebc0643,Hey I need to get my car into the garage. The undercarriage is making a really bad noise.,auto-repair-appt
+auto-repair-appt-1,dlg-afd39fc4-3e51-4306-a894-b680362ede62,"Hi Nancy, I need you to do me a huge favor",auto-repair-appt
+auto-repair-appt-1,dlg-aff2c054-f376-4a44-80d4-e8f0a21392b9,Good morning Renee. I need you to schedule an appointment for my vehicle?,auto-repair-appt
+auto-repair-appt-1,dlg-b02bec5f-ed89-4f02-8dad-9f060c3437e8,"Hi Sheila, can you book me an appointment at the auto repair shop Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-b03a4693-dcb4-4e92-949f-4c4e81a0a1a9,"Hey, can I schedule an appointment for a mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-b0833aef-d258-4e18-9fda-da1e0ea45cde,Can you make me a car appointment at an auto shop,auto-repair-appt
+auto-repair-appt-1,dlg-b0dd3f9a-e2e6-42f6-9497-4870511e2381,"Hi, can you please schedule an auto appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-b0ee601b-6c9c-42c7-846f-61a0d13dda5c,"Hey, can you setup a appointment in getting my car fixed at a automechanic.",auto-repair-appt
+auto-repair-appt-1,dlg-b14ddca8-5b9d-4efb-b396-81bfa02ef249,"Hi, I need an appointment scheduled at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-b1598bdc-3ffc-4ebc-ba08-8aaa61393b02,"Hey Joe, I need you to help be out, can you get online at the Intelligent Auto Solutions web site? I need an appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-b17db45a-c1f0-4e2e-b9df-be3cfe678115,Book an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-b19ea166-f734-48be-a585-1963b37f41c7,"Hello, will you schedule an appointment for my car to be looked at? ",auto-repair-appt
+auto-repair-appt-1,dlg-b1f361b3-fa54-47ec-9311-2b9389626028,Somethin's wrong with my car. It needs to be repaired immediately,auto-repair-appt
+auto-repair-appt-1,dlg-b1fbcf4f-0e7d-4eef-a88c-421352c5f193,I need to make an appointment at Intelligent Auto Imports this week.,auto-repair-appt
+auto-repair-appt-1,dlg-b203fc6c-89f8-4961-b34f-89618d56e881,"Hey, I need to get my car into the shop relatively soon.",auto-repair-appt
+auto-repair-appt-1,dlg-b21d6d1b-a358-477c-92f9-fa72816d400f,Hey I need to make an appointment at the dealership for my Jeep.,auto-repair-appt
+auto-repair-appt-1,dlg-b2483b2c-7fd5-4a1b-a119-5d1b79fe26a4,I need my car fixed,auto-repair-appt
+auto-repair-appt-1,dlg-b278d2ce-cb23-4b26-b73d-0d5cad043c64,Hey I think my transmission is starting to go out. Will you get on Intelligent Auto Solutions website and see if you can make me an appointment immediately?,auto-repair-appt
+auto-repair-appt-1,dlg-b2da0e9a-5cdf-4499-af76-59a015da4032,I need to schedule a car appointment,auto-repair-appt
+auto-repair-appt-1,dlg-b3470bfb-31b0-43bc-a1d3-d8c2d66233fc,I need to set an appointment to get my car checked.,auto-repair-appt
+auto-repair-appt-1,dlg-b34ba59a-f941-4789-b11f-1f22cf8393d3,Can you call Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-b37b7819-b5e4-4cfb-9662-046bf558afc4,"Hey, Tim. Can you schedule me an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-b394b4c0-bf7e-4663-8e96-b14d1705647f,Hi there. I need you to help me get my car into the shop ASAP.,auto-repair-appt
+auto-repair-appt-1,dlg-b3b910c4-a5c0-4ce1-80b0-43094f493fec,"Hey Google, Can you schedule a repair appointment for my car? I think my oil might be leaking.",auto-repair-appt
+auto-repair-appt-1,dlg-b3d850d2-ac61-4f67-8b7f-082e877058b4,I need to schedule an appointment for auto repairs.,auto-repair-appt
+auto-repair-appt-1,dlg-b3defac9-b938-47a3-beb8-6f09a5ff1978,Can you look online to schedule an appointment with Intelligent Auto Solutions? I need to get my car in there.,auto-repair-appt
+auto-repair-appt-1,dlg-b3e0d73c-bf99-4838-bf9f-794785ee767c,"Hi Gloria, I'm calling from the car on my way to the meeting. I would like to make an appointment to get my car into the shop. ",auto-repair-appt
+auto-repair-appt-1,dlg-b426a90e-67d5-4f89-b481-dbd33b44b58b,"Hi, Greg. I need to make an auto repair appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-b435e065-423b-4f78-836e-5bfaba01a3aa,"Hi, I'd like to set up an appointment to get my car checked out.",auto-repair-appt
+auto-repair-appt-1,dlg-b43be64c-7f61-430c-a94e-c88ef4afa814,Hi Stephanie can you set up an appoint to take care of my car?,auto-repair-appt
+auto-repair-appt-1,dlg-b4639074-ff9f-4275-8586-76fa30b4e72e,"Hi, I need to get my car into the shop ASAP! It is backfiring all of the sudden.",auto-repair-appt
+auto-repair-appt-1,dlg-b469fee8-15b6-4392-8194-40cf9d67d8a9,I would like to make an appoint with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-b50d81f8-3409-4753-acd3-3aa624fc2ead,Do you have time today to call about making an auto repair appoint for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-b5299b86-e192-4e29-a382-a9777309d8b1,I want to schedule an appointment for my car at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-b57d1308-1ce1-4642-8173-deba264862f5,"My steering wheel is shaking when I make turns, can you make an appointment to have it checked?",auto-repair-appt
+auto-repair-appt-1,dlg-b6707808-7825-4f46-bcef-f61a841ae407,I need to make an appointment to have my car looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-b6cdf858-bd1c-4fd8-a80d-886af786ec8e,"Hey, I need you to schedule an appointment for my car to be fixed.",auto-repair-appt
+auto-repair-appt-1,dlg-b6da4fcb-b2ab-4656-a8e5-a85dc3d6ce42,I would like to schedule an appointment for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-b6dd86fe-a7d2-466c-acd2-a5fb0c7db6d9,I need to schedule my vehicle for maintenance,auto-repair-appt
+auto-repair-appt-1,dlg-b767ec89-4913-4944-9546-79cc3a4a55d9,Hey. Will you go to the website for Intelligent Auto Solutions and make an appointment for me?,auto-repair-appt
+auto-repair-appt-1,dlg-b797e144-773e-4087-8aad-d43c87d3787c,"Haley, I was driving the company's Chevy Traverse and the check engine light started flashing. It's a new car. Can you make an appointment at the Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-b7989973-9160-4d94-82be-9f4b9c155e7b,I think I need to schedule a check up for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-b7d04669-e551-43e4-b967-8a39535c34f3,Hi I am having car trouble. Could you make an appointment for me,auto-repair-appt
+auto-repair-appt-1,dlg-b819fdc6-5d01-410e-89d1-dd170de83ada,"Hello, I would like some information on getting a tune up for my 2017 Chevy Cruise.",auto-repair-appt
+auto-repair-appt-1,dlg-b8d69eeb-9d02-437b-9bf8-816e08db89f0,"Hey, I'm having a bit of car trouble right now. Could you book me an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-b8dd79fe-b42d-47b2-acd7-50aeb3ff457e,I need to take my car to the car repair shop.,auto-repair-appt
+auto-repair-appt-1,dlg-b8e7ed8c-d671-45f5-8e68-1077faee3528,"Hello, I'd like to have you book an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-b9999f6e-14e0-4c45-aa7a-3efb48842acb,Hey Sue. I need to get an appointment with an auto mechanic. My car is having problems. ,auto-repair-appt
+auto-repair-appt-1,dlg-b99f07a2-d17c-4da0-8830-35d5e5985866,Hi. I'd like to schedule an appointment for my car to get looked at. ,auto-repair-appt
+auto-repair-appt-1,dlg-ba12fc04-f1d4-4ebc-ae2d-7824775dab7c,"Hey, Assistant. I need to get my car fixed.",auto-repair-appt
+auto-repair-appt-1,dlg-ba39e66b-2e44-4c67-998d-61640e8ebba8,I need to get my car repaired.,auto-repair-appt
+auto-repair-appt-1,dlg-ba416e97-03ac-48a8-8871-e0cbf1c26f0a,Id like to bring my car in for an appointment. ,auto-repair-appt
+auto-repair-appt-1,dlg-ba4d4798-de3e-4c6b-933a-ead026089d23,I need to book an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-bb0a0a48-359c-41b5-a7f5-01079c5f0b20,i need oil change,auto-repair-appt
+auto-repair-appt-1,dlg-bb4e6e70-309e-4f19-85b8-9674a07c78d7,Hello. I am Mary and I’m having a problem with my car.,auto-repair-appt
+auto-repair-appt-1,dlg-bba0e13a-afca-4b3f-a4d7-128fb480bb5f,"Hello, yes I need to have my turck seviced.",auto-repair-appt
+auto-repair-appt-1,dlg-bbafe75e-c644-4182-8a73-ea0c1f25ead0,"Hello, my car is kind of messed up, do you think you can set up a appointment for me to get it fixed?",auto-repair-appt
+auto-repair-appt-1,dlg-bc73c989-734d-46ac-9cfc-240912b5422a,Hey assistant. Can you book me an appointment to have my car looked at?,auto-repair-appt
+auto-repair-appt-1,dlg-bcf4f50b-3fbc-4d32-b9fc-2f377013f161,"Hello again! We are now traveling in Georgia, beautiful state!",auto-repair-appt
+auto-repair-appt-1,dlg-bcf69ddb-c8f2-438a-a0a2-399b6497e87c,can you schedule my car at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-bd0e7edf-8dae-4dff-8e6b-40dc9d39e496,"Linda, I need to get my car looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-bd32a365-0f53-4348-9d97-e65ed07c6b90,"Hello Carmen, How are you? Can you call Intelligent Auto Solutions and try to get my car in the shop tomorrow afternoon? My 2014 Honda Pilot is making crazy noises when it is in park?",auto-repair-appt
+auto-repair-appt-1,dlg-bd92b5e0-8b72-4368-9542-c531e34b7f89,I need to get my car looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-bdc7ae25-2da5-489f-99ac-fc129612a7af,Can you make an appointment with Intelligent Auto Solutions ASAP?,auto-repair-appt
+auto-repair-appt-1,dlg-bdd0c996-4fe7-4cf4-9a76-29e600530e1b,"Hi, I was wondering if you could help me set up appointment to get my car looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-bdf6adfb-69bd-4662-8c00-1751fcaad85a,"Hello, I need to schedule some maintenance on my car. ",auto-repair-appt
+auto-repair-appt-1,dlg-be0aefd8-594e-474f-b73b-1f0b679ec0cf,Please make an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-bf141730-3916-4c0f-b4b9-6808743735b8,I wanna schedule a car appointment,auto-repair-appt
+auto-repair-appt-1,dlg-c00fb02b-546d-4de5-9499-72e69f786cb3,Hello I'd like to make an appointment to get my car looked at today,auto-repair-appt
+auto-repair-appt-1,dlg-c0150204-db2e-449f-baab-e31ba3aa7311,I need to make an appointment to have my car looked at,auto-repair-appt
+auto-repair-appt-1,dlg-c15b4a59-f407-459b-834a-832f709ba287,I need to book an appointment to get my car looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-c18afff8-b643-4b9f-af3e-dfb29d148e7c,Need to get my breaks looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-c2085ac1-ee53-485f-a7ba-66404659e9e5,"Hi, can you make an appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-c22ab2dd-1d21-4b86-a674-0ba4743bd872,I need to schedule a mechanic appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-c249a3a3-4f96-4228-8fc3-0f75f4af7803,"Hello, I'm looking to get a tune up on my car.",auto-repair-appt
+auto-repair-appt-1,dlg-c26929d4-700a-4b28-8186-9f7ce222f702,I need an appointment with Intelligent Auto Solutions for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-c27a7d78-eea6-4911-8ec6-c511ee1a8cf9,"Hi, can you help me set up an appointment to take my car to the mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-c2a8cdb4-ac13-4614-9ebd-95c1bdce5340,"Hey, Susan. Sorry to bother you but I need you to set up an appointment for me to take my car in. ",auto-repair-appt
+auto-repair-appt-1,dlg-c2e6e3ce-4e78-4dfc-bbf9-267012934b4f,Hi I need to schedule an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-c3b088ad-f811-490b-b40a-a1c2ed1de021,Oh dear! I think my car is leaking oil. I need to make an appointment with Intelligent Auto Solutions ASAP I guess.,auto-repair-appt
+auto-repair-appt-1,dlg-c3fb3180-1a7e-419c-a0ec-02fb6fa3f5ba,Hey! I need you to schedule an appointment for me to have my car looked at. ,auto-repair-appt
+auto-repair-appt-1,dlg-c40acc2f-9f42-4a8b-a43b-0e950cc2d40c,Hey my steering wheel is suddenly shaking. Can you please call a mechanic and see if I can bring it in?,auto-repair-appt
+auto-repair-appt-1,dlg-c4a1ea89-9651-4aed-9452-449fe46df8d2,I would like you to call Intelligent Auto solutions for me please.,auto-repair-appt
+auto-repair-appt-1,dlg-c55e41ac-8c89-44fa-b5e4-4ec38f317604,Hey! Can you help me out? I need to quickly make an auto care appointment. ,auto-repair-appt
+auto-repair-appt-1,dlg-c563a586-846e-4e5c-9275-008b84a513f5,"Assistant, I need to make a service appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-c5a12cbf-ab9e-4d8d-8733-6dd12befb4aa,"Hi, I need to book an appointment to get my car looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-c5ab4d0d-9c82-47dc-a730-eebf3fc23f4d,Schedule appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-c5ff1f83-c410-4cb9-9c9d-c1a3686c1397,"Hey, I would like to schedule an appointment for getting my car repaired at Intelligent Auto Solutions please!",auto-repair-appt
+auto-repair-appt-1,dlg-c6f104b8-9f0b-4cb8-ae49-149c892bfcf7,"Hey, can you call over to the auto shop? I need an appointment made.",auto-repair-appt
+auto-repair-appt-1,dlg-c7243aef-839a-402d-8c22-1fffcb9fe482,"Hello Assistant, This is Kenny Imes, I am driving and my car is making a squealing noise under the hood every time I turn. I need to get into Intelligent Auto Solutions as soon as possible.",auto-repair-appt
+auto-repair-appt-1,dlg-c973839b-5090-48b5-9db6-f950fee32f58,I would like to schedule an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-c9b29d19-6663-4bc0-a1cb-699b8b70130d,"Hi Christine, I would like you to book for me an appointment with the mechanic",auto-repair-appt
+auto-repair-appt-1,dlg-c9b3805c-1ed5-43f5-94d7-ebc62d9e572d,"Hello, I need to get my car repaired?",auto-repair-appt
+auto-repair-appt-1,dlg-c9da148a-367f-459f-809f-3eff40f63f36,Make an appointment for me at Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-c9e56dfe-ac50-490d-a008-18ff9e675c5e,"Hello, I am having a problem with my vehicle and it sounds like it's getting worse, can you book me an appointment with my mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-ca594514-c91f-462b-bf35-fb5596bf3f04,I want to make an appointment for my vehicle.,auto-repair-appt
+auto-repair-appt-1,dlg-ca5c5e07-d3c8-4f63-9b37-4f42f107fe45,"Hi, I want to get someone to look at my car. Can you help?",auto-repair-appt
+auto-repair-appt-1,dlg-ca883083-d022-4919-a1cd-e9f12c8e9610,"Hi, I'd like to have my car looked at because it's making a grinding noise",auto-repair-appt
+auto-repair-appt-1,dlg-cb4f95c4-18b7-4041-b041-f045ff9f3f4a,I want to make an appointment to get my car worked on at Intelligent Auto Solutions..,auto-repair-appt
+auto-repair-appt-1,dlg-cb6612a0-50a1-4002-8a90-2beb646ae4c8,"Hello, I have some problems with my car and would like to set up an appointment. ",auto-repair-appt
+auto-repair-appt-1,dlg-cbce0a3f-ec10-4677-a121-b86e06ea7597,I need you to schedule an appointment to get my car fixed please,auto-repair-appt
+auto-repair-appt-1,dlg-cbd949b7-6de0-4435-a1ef-791266d0df2c,"Hey, can you make an appointment for me at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-cbe2c7a0-6289-4ca9-9784-fa655b48bf4f,Hey there. I need to get my car in to the shop to get it looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-cbff19fa-e567-4d4c-a4df-7084bdd137b8,"Hello, I need to make an appointment at a mechanic shop. My car is making a funny noise when I turn on the air conditioner.",auto-repair-appt
+auto-repair-appt-1,dlg-cc3d0e82-0ca8-4256-aefc-ed0ca2845fd2,"Hey, my car is acting up and I need you to contact the shop to see if they can get it in.",auto-repair-appt
+auto-repair-appt-1,dlg-cc822d1c-29db-42f8-88b2-13fb57732f0f,Hi! I need an appointment for my car at Intelligent Auto Solutions stat!,auto-repair-appt
+auto-repair-appt-1,dlg-cd043e17-6056-4c10-9153-883d56a4ff76,"Hi, I need to book an appointment for a tune up for my car, please.",auto-repair-appt
+auto-repair-appt-1,dlg-cd2957c2-30e6-4c05-b50d-ede1658f9ab9,I'd like to create an appointment to see Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-cd5ac487-9306-4e49-9b1d-b5953426a1fc,I'd like to schedule a car repair appointment,auto-repair-appt
+auto-repair-appt-1,dlg-cd60864a-31d1-4bac-8a4a-3bf1ce94f4c4,I need to make an appointment to have my Jeep looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-cd81941a-6be2-4c9e-9c86-c21f08753e3b,"Hi, I have to schedule an appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-cdb4a0a2-5a4b-4dbd-b1ef-0bffed2f8ac2,Hello I need to schedule a appointment at ASAP at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-cdb8ae9a-8cfd-4ac2-bb9f-262fb3ef1cc5,Sandy! I know I just called but I forgot to ask if you could schedule me a tune up for as early as possible today. I want it done at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-cde71832-7dd8-4181-b3d1-af916f6560e4,Hello i need you to schedule me a appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-ce13f01b-249c-43d9-9876-80d8626c8b9b,"Hi, Amy, I need you to set up an appointment for me to get car looked at",auto-repair-appt
+auto-repair-appt-1,dlg-cebd3ab8-0a80-4826-baf1-47b20ea65c77,"Hello, I'd like to schedule an appointment for repairs.",auto-repair-appt
+auto-repair-appt-1,dlg-ced38316-ce84-4986-8c61-45a041ee0758,"Hi, I need to have my car serviced at the dealership. ",auto-repair-appt
+auto-repair-appt-1,dlg-cef7cd80-a769-4dd4-b89e-5f4926abb7bf,"Hello, I need to schedule an appointment at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-cf0690d9-d850-4809-8f3a-af376a10d55e,"Hey, my car keeps stalling at long traffic lights, can you order an auto repair appointment for me?",auto-repair-appt
+auto-repair-appt-1,dlg-cf23cef5-82dd-4c6e-93a2-7a68cbfbdcf7,"Hello, Chelsea? I'm driving right now but could you make an appointment for my car?",auto-repair-appt
+auto-repair-appt-1,dlg-cf4fb77e-4ab1-4df9-b9ee-f85ad0a67e85,I need to make an appointment to get my car fixed at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-cf6e2966-35d8-4732-b73f-ece9d694be17,Hey John I need you book me an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-cfbcc75c-8a63-4517-ab39-36c47e1e9b19,Hey I need to make an appointment to get my car fixed,auto-repair-appt
+auto-repair-appt-1,dlg-d04c20c9-f455-4d59-ab58-f33d173a8c85,Please book car appointment at intelligent car solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-d13efbcc-080e-4f2c-993e-7a9ebbdb4905,Hello I wanto to book an appointment to an auto repair shop,auto-repair-appt
+auto-repair-appt-1,dlg-d15f7465-b89a-4bd1-b1ab-950222714b84,My car isn't acting right. I need you to call a mechanic.,auto-repair-appt
+auto-repair-appt-1,dlg-d1adf889-1abb-40b9-9478-49ecae7e6b33,Hi! I need to schedule an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-d1c5aee2-956c-497d-b4f9-85b3bb86616f,"Hello, I need to bring my car in for some work.",auto-repair-appt
+auto-repair-appt-1,dlg-d1fd71e6-3a27-48f5-933e-50b783f6910c,Hey Ted my cars acting up can u book me a repair at itellegent auto solutions,auto-repair-appt
+auto-repair-appt-1,dlg-d2019494-5d43-42e7-8efd-50a88fdd8a5d,I would like you schedule an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-d25d7dc9-013f-4a0a-8521-09d0730280ca,"Hello John, I need you to book a service appointment for my car at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-d2a35975-48f9-4bcd-a8ee-20244bfae899,Hi. Can you please help me make an appointment at the mechanic?,auto-repair-appt
+auto-repair-appt-1,dlg-d2b83308-1f72-4260-95f2-58dbf175162f,"Hello, can you please schedule an auto repair for me?",auto-repair-appt
+auto-repair-appt-1,dlg-d2cc69ee-d33d-43bc-952b-cb543973f0d7,I have alot of warning lights on including my check engine light. I need to take it in for service,auto-repair-appt
+auto-repair-appt-1,dlg-d2e00103-3336-4700-bd4e-987223b4f6ac,Hi I need to make an appointment with Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-d304f4db-841f-469a-b5e5-0bab96f88961,"Beck, I cant handle this car situation anymore. Im dying. ",auto-repair-appt
+auto-repair-appt-1,dlg-d3197d68-7dc6-48af-b6ec-ccf05c087549,hey i need you to schedule me an appointment at a repair shop,auto-repair-appt
+auto-repair-appt-1,dlg-d349f58d-989a-445b-86ec-36792c834946,"assistant, can you schedule an auto repair appointment for my car",auto-repair-appt
+auto-repair-appt-1,dlg-d370d8d1-2ccd-4a6a-b143-89c8485ec01d,hey tom its me dick,auto-repair-appt
+auto-repair-appt-1,dlg-d409b0c2-d75b-4059-ab34-fc7eb7ab4345,"Hi, can you get on the website for Intelligent Auto solutions?? I need to get my car in the shop.",auto-repair-appt
+auto-repair-appt-1,dlg-d471f70d-0c17-47db-bf7f-ee857aae267a,"Hello is this, ""Intelligent Auto Solutions""",auto-repair-appt
+auto-repair-appt-1,dlg-d49faac6-7658-496f-8413-fc9603bd108b,hi I'm driving and my car is making a weird noise can you make a repair appointment for me,auto-repair-appt
+auto-repair-appt-1,dlg-d4e74a9a-d624-43a3-9fed-7fb3c04acdb3,"Hi, I would like to schedule an appointment for an oil change.",auto-repair-appt
+auto-repair-appt-1,dlg-d4e7e701-385c-44cb-b4fc-0144b57512d7,I would like to schedule a diagnostic test on my car.,auto-repair-appt
+auto-repair-appt-1,dlg-d4f7286e-872a-4a15-8ada-54a5ed0518c6,"Hey Roxanne, Can you call Intelligent Auto Solutions to get my car fixed?",auto-repair-appt
+auto-repair-appt-1,dlg-d50f1a07-00bf-459c-8923-88ecdff8d48e,"Hi Doris, can you call Intelligent Auto Solutions on the phone and see when they can get my car in for some repair work?",auto-repair-appt
+auto-repair-appt-1,dlg-d51e1a44-fcfb-4ff1-8b5c-aca617b9a765,Hey! I'm driving and I need you to make an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-d576c475-624c-4571-afc5-f5737a0f1943,"Haley, our Honda Civic is making a noise. Can you please get me an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-d5f71b18-0008-4fe4-94a0-a15f1a4e3d93,I need to make an appointment for my car at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-d614fa03-c284-4883-805e-085849c47495,My wife called me that her car acting weird i'm on the road can you make an appointment for me to get her in,auto-repair-appt
+auto-repair-appt-1,dlg-d66fd189-3453-4690-960d-700b70f48725,My car was driving a bit weird this morning. Can you set up an appointment for me?,auto-repair-appt
+auto-repair-appt-1,dlg-d7dd41ca-244f-4377-b860-857f0ff5f49f,"If possible, I would like to schedule an appointment for my car, as it is making a sharp noise seemingly coming from the engine.",auto-repair-appt
+auto-repair-appt-1,dlg-d84e2b8d-599e-4377-8930-581e6cc437bc,I would like to schedule an appointment with Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-d88ccfb0-e4f1-4b60-b846-87546bbfe869,"I need to repair my car's AC, any places around that can do that?",auto-repair-appt
+auto-repair-appt-1,dlg-d8e1d807-1782-406e-91a2-4336e64bbf8b,I need you to book me an appointment to have my car worked on.,auto-repair-appt
+auto-repair-appt-1,dlg-d968cf5c-153f-4603-bd7a-e0c3b8f70fa1,I need to schedule an appointment very soon.  ,auto-repair-appt
+auto-repair-appt-1,dlg-d981cfa9-65db-45f5-afc4-5bd9faef581e,"Hey, can you book an appointment for me at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-d9904009-8c5c-4495-8dd5-8aa453809d6f,"Hello, my name is Jim Cunningham, phone number 717-495-999 and I'm calling to make an appointment with Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-d99d8b5e-d4b2-4173-9565-39fe2793f141,I need an appointment at Intelligent Auto Solution,auto-repair-appt
+auto-repair-appt-1,dlg-d99fce54-8d5f-4856-807b-5cd90a47be7f,Can you make me an appointment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-d9c4eb53-75f6-4bca-a3f2-42d1fd848001,Hi Nona. I need your help.,auto-repair-appt
+auto-repair-appt-1,dlg-da1f9385-22d8-461f-a866-6c444b821134,I'd like to schedule an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-da2f3e45-5d76-4e15-8ae9-d7cafe2873b7,I need to schedule an appointment at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-da3cfe2b-0fc4-4aee-aad6-9b5106841087,I need you to schedule an appointment at the repair shop for me.,auto-repair-appt
+auto-repair-appt-1,dlg-da89aafd-9a64-47b9-8a9a-176b060adc23,"Hello, I am wondering if there are any available appointments to get my car in today?",auto-repair-appt
+auto-repair-appt-1,dlg-dac7f493-1359-49f1-afcf-7a1f7ca29c9d,"Hey, can you schedule me an appointment at Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-dacf67f9-6a0a-45dc-bbd4-ff7921f651cc,Hi Brad! Can you do me a huge favor?,auto-repair-appt
+auto-repair-appt-1,dlg-db02658a-e254-4b8a-949e-7cb7ca04800c,I was wondering how much an oil change would cost me?,auto-repair-appt
+auto-repair-appt-1,dlg-db077a80-d97c-4817-a225-339c06b83fbc,"Hi, I need to get my car repaired.",auto-repair-appt
+auto-repair-appt-1,dlg-db19363a-89b3-4a40-9ed9-35719cc30fc3,"Hello, Katie are you at the office?",auto-repair-appt
+auto-repair-appt-1,dlg-db314b78-48e6-41df-b30c-e4dbd64b6f65,Can I get an appointment today at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-db73c3cd-8cf9-4693-9a03-a31653bbd832,Hi Diane.,auto-repair-appt
+auto-repair-appt-1,dlg-db86ed01-6160-46f0-9d22-47dfee01a5f6,"Good morning, assistant.",auto-repair-appt
+auto-repair-appt-1,dlg-db8effbe-5fc1-42d0-9c5a-c61f53819e01,"Hi, I need to set up an appointment to take my car into the shop.",auto-repair-appt
+auto-repair-appt-1,dlg-db92c05c-d3ec-4782-a724-4bf446cad956,"Hi, this is super random, but I need you to call Intelligent Auto Solutions right now and make me an appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-dbc7be82-5ff6-4f7b-bd6f-7cb9c3063fe7,Hi I want a car appointment,auto-repair-appt
+auto-repair-appt-1,dlg-dc40549e-f111-4a5f-8653-31b84a60a57f,can you make an appointment for me at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-dcc09ae1-3eb7-4630-9f0e-413b3a3ee579,"Hey Carrie, I need you to check the availability at Intelligent Auto Solutions for me; there is something not right with my car.",auto-repair-appt
+auto-repair-appt-1,dlg-dcf8b6be-64e8-4d25-a469-882b6c756a2b,I need to make a car service appointment with Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-dd123386-8c5d-47a4-af8b-1591283a9361,I need to book an appointment for my truck.,auto-repair-appt
+auto-repair-appt-1,dlg-dd1c7768-3d9c-40d6-851c-66fc1f0d3d7d,"Hello, I need to schedule an appointment to have my car repaired.",auto-repair-appt
+auto-repair-appt-1,dlg-dd388509-7fc8-463c-ab07-0e40d1fa2c65,I need to schedule an appointment to get my car looked at.,auto-repair-appt
+auto-repair-appt-1,dlg-dd490ff1-3b70-4d31-a182-a897e007a983,"Hey, it's me. I'm in a bind and I really need your help.",auto-repair-appt
+auto-repair-appt-1,dlg-dd85237f-971d-4e65-a6ce-3a2c279a4cf2,Hey! I think I need to go to the auto shop. The check engine light keeps coming on and I hear a sputter. Can you help me out? I'm currently driving.,auto-repair-appt
+auto-repair-appt-1,dlg-ddd5f3f2-162b-4309-a56f-f818665fe2af,A light is on on my car's dashboard. I think there is something wrong.,auto-repair-appt
+auto-repair-appt-1,dlg-de3d7d92-81c4-40c8-9287-e404ca29a0f8,"Hi, can you make appointment with Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-de548611-c486-4d11-b051-ec3fc20547ec,"Hi Jane, I need you to make me a car service appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-de5da7d6-2ff5-4083-ad27-9725ab20d230,"Hello PA, can you get me to a good mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-de665533-7d13-4a3e-9da7-68ed0d13e9de,I need to make an auto repair appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-df49a23e-8e8a-426f-99dc-075b3990c598,Hi I would like to send my car to Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-df64e7fb-af60-4437-ba0d-3e6ec09dc6e4,"Hi, I need to schedule an appointment for car repairs",auto-repair-appt
+auto-repair-appt-1,dlg-df6ed060-41b8-4e3f-8adc-37ef56f48994,I would like to come in to have someone look at my car.,auto-repair-appt
+auto-repair-appt-1,dlg-df7c6865-0a72-4f07-b5a2-9f062c561be9,I need to bring the car into the shop.,auto-repair-appt
+auto-repair-appt-1,dlg-df814bdd-d0c3-4bcf-aa62-6f54776dfdb5,"Hey, can you book an appointment for me to bring my car in? I need to see a mechanic.",auto-repair-appt
+auto-repair-appt-1,dlg-df96b23c-7066-42e1-9da9-4e364907891e,Hi. I would like to bring in my car for a tune up.,auto-repair-appt
+auto-repair-appt-1,dlg-dfdd1553-31e0-42be-96d3-2b0548d10d8f,"Hello, I'm in need of auto repair service, and would like to make an appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-dfdeb026-b07b-4625-aa23-d2de737114aa,I need to make an appointment of Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-e01cda54-83e7-427b-816a-960063fedfcc,"Hey, personal assistant, can you call the auto repair shop called ""Intelligent Auto Solutions"" for me?",auto-repair-appt
+auto-repair-appt-1,dlg-e05a16bc-e165-410a-bdb3-ee835af7c6ef,"Hi, I need you to make an appointment for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-e05d87d4-fd5c-41db-b905-62bd13b1d0de,Hey Rebecca can you please schedule me for an appointment at intelligent auto solutions to get my car fixed?,auto-repair-appt
+auto-repair-appt-1,dlg-e0a60506-5c3f-4308-a716-34f02f27e273,"I need an appointment at an auto repair shop, please.",auto-repair-appt
+auto-repair-appt-1,dlg-e0bf587c-b8d6-4759-b2bb-7d1ed01f4237,Good Morning I need an appointment at a auto mechanic shop.,auto-repair-appt
+auto-repair-appt-1,dlg-e0f39965-e4c1-4055-b663-de31316cf642,"Hi, I need you to make a service appointment for me at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-e106f8d8-cee7-441b-b03e-0820ed8146ed,Hi I'd like to book an appointment at my local mechanic,auto-repair-appt
+auto-repair-appt-1,dlg-e150cac4-0b40-4879-a0d3-6723343a4c09,"Hey Tina, Can you make me an appointment with Intelligent Auto Solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-e1d94686-209c-4d7d-ae38-acdf6d2ee0f4,"Hi, I would like to schedule an appointment for my car for an oil change.",auto-repair-appt
+auto-repair-appt-1,dlg-e22bf1e0-64d7-4e80-822a-524250042fc8,"Hi there, I'm hoping to book an appointment for car repair.",auto-repair-appt
+auto-repair-appt-1,dlg-e260d2bd-c289-45b5-b3d1-20901b2330ad,"I'd like to schedule an appointment with Intelligent Auto Solutions, please.",auto-repair-appt
+auto-repair-appt-1,dlg-e262f75e-b044-4e75-831f-3d75e902046f,I need to schedule a repair of my car's brakes.,auto-repair-appt
+auto-repair-appt-1,dlg-e26ac885-5ece-4ce9-8ce3-9e8d396d50ce,"Hi Monica, can you help me set up an appointment with a mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-e2792105-3284-4466-a6d9-32bb0dee121c,Mandy do me a favor can you schedule an appointment for my car for me,auto-repair-appt
+auto-repair-appt-1,dlg-e30f3230-1a84-468b-935a-bbfb47ce7614,Do I have an opening in this afternoon's appointments?,auto-repair-appt
+auto-repair-appt-1,dlg-e31c6a18-1754-4ded-bdad-d670ba0ac3a1,my car is due for an oil change,auto-repair-appt
+auto-repair-appt-1,dlg-e32859b3-88ca-4617-b7ce-1bc9cd4d42cb,"Hi, I'm wondering if I can schedule an appointment for an oil change and tune up?",auto-repair-appt
+auto-repair-appt-1,dlg-e3ed9d2f-aea9-4538-9e36-c468918719f3,Hey my car is having a stutter call the mechanic for me.,auto-repair-appt
+auto-repair-appt-1,dlg-e4382352-60a7-40c4-80ad-596e9f82be34,I need to take my car to the mechanic.,auto-repair-appt
+auto-repair-appt-1,dlg-e4524665-93d1-4680-a330-ae922e295b77,Hello. I need to bring my car in for service.,auto-repair-appt
+auto-repair-appt-1,dlg-e4d2cb8d-dc04-46d2-9eff-ad1159ea89d9,I NEED TO BRING MY CAR IN FOR SERVICE.,auto-repair-appt
+auto-repair-appt-1,dlg-e5ba94fa-4a92-49af-978d-9c01194b68de,Good afternoon. Could you please schedule an appointment for a mechanic to fix my car at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-e5bc1625-db49-406f-b798-c7d0c054f674,Can you make an auto repair appointment,auto-repair-appt
+auto-repair-appt-1,dlg-e5bf605b-dcb2-40fc-90ba-d867e8a703c9,Hey I need to get my car fixed,auto-repair-appt
+auto-repair-appt-1,dlg-e5df84da-143a-4b15-a93a-52d1ad2a7648,"How are you Grace today, I would like you to make me an urgent appointment with the Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-e6255d6a-9e1f-485e-b0fe-87c841565b12,I need to get my car into a mechanic as soon as possible.,auto-repair-appt
+auto-repair-appt-1,dlg-e705c887-a392-4ae8-8e94-e1b6d3e89b8c,"Hi, I need to bring my car to the shop asap!",auto-repair-appt
+auto-repair-appt-1,dlg-e73112a7-5818-4cc4-8caa-37ff182a0eef,I need to make an appointment with Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-e77db153-fadc-4590-921b-83c5914be817,I need some helping booking a repair appointment for my car. ,auto-repair-appt
+auto-repair-appt-1,dlg-e8043514-a649-4161-9d27-821a900d9d8a,Can I schedule a time to rotate my tires?,auto-repair-appt
+auto-repair-appt-1,dlg-e80c4fa8-024d-4c1f-b75c-9d487542bb70,Hi Sara. I am driving right now but my car is acting up. Would you be able to contact the auto store and get me in as soon as possible?,auto-repair-appt
+auto-repair-appt-1,dlg-e8889463-51ba-4b0f-b751-9870a4fb93e5,"Hey Ken, how are you doing today?",auto-repair-appt
+auto-repair-appt-1,dlg-e8a7aa75-ceaa-4738-bdfa-f52c10cc731d,I need to make an appointment for my car. ,auto-repair-appt
+auto-repair-appt-1,dlg-e9148d58-1c4f-42c5-9e9a-c4e17fa4fcd3,I need an appointment to check the brakes.,auto-repair-appt
+auto-repair-appt-1,dlg-e927cf02-f506-45a7-b45f-30895826c968,Hi I'd like to schedule an appointment at intelligent auto solutions,auto-repair-appt
+auto-repair-appt-1,dlg-e931f5e0-b0f0-4d87-be9c-cdd68b98c90f,I need to bring my car into the shop. Begin booking.,auto-repair-appt
+auto-repair-appt-1,dlg-e9842275-fc5f-4f80-a84d-ee4ec3aee551,"Yo, I need you to make me an appointment at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-e9dc5e34-6aac-468f-a238-360e9acf0033,hi there i need to make an appointment for my car,auto-repair-appt
+auto-repair-appt-1,dlg-ea4ccd52-4e4a-43fe-a9ac-ae1d171bbc25,Hi! I need to see if you can schedule me an appointment at Intelligent Auto Solutions?,auto-repair-appt
+auto-repair-appt-1,dlg-ea70a087-bd56-4ab8-833f-05473b880c77,"hi, can you call intelligent Auto Solutions about my car please",auto-repair-appt
+auto-repair-appt-1,dlg-ead5560d-ff13-4276-ae6c-f4a939d502c7,Siri call my assist please. ,auto-repair-appt
+auto-repair-appt-1,dlg-eaef826e-f6fa-4189-919e-a2892719f049,"hey, I need to book an appointment at Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-eb0a7fb5-e4d5-4f87-8ad9-aaaa60f1555e,I need to make an appointment to get my car fixed.,auto-repair-appt
+auto-repair-appt-1,dlg-ebc7f57a-7965-4c14-a85d-04c52d4f5774,Hi. I need to take my truck in to be serviced.,auto-repair-appt
+auto-repair-appt-1,dlg-ebe02eda-5819-491f-83d7-b5851aeb59ad,"Hello, I am having some issues with my car that needs to be checked.",auto-repair-appt
+auto-repair-appt-1,dlg-ebf069e4-8609-4c01-9ed2-90491c40c0f5,"Hey assistant, I need to schedule an appoint at an auto repair shop.",auto-repair-appt
+auto-repair-appt-1,dlg-ec007416-18b7-4e98-8220-49a07afc5b8f,Hey I need to make an appointment to get my car fixed.,auto-repair-appt
+auto-repair-appt-1,dlg-ec109d89-cdd2-4baa-bc24-21f2c2e8f165,"Hey, my car is making a scary noice when I break - I think I need to get it checked out.",auto-repair-appt
+auto-repair-appt-1,dlg-ecaf249f-c21b-4f6d-a8b2-9e3014d93e45,"Hey Laura, I'm in my car right now and I'm having some issues with it stalling.",auto-repair-appt
+auto-repair-appt-1,dlg-ecd4f45c-e2bc-48d2-92fd-dc08b75a89be,"Hello, I need an appointment for my car at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-ed0d1f84-ab0c-437a-b109-5265924c051f,"Hi Shelly, I need you to schedule me an appointment with Intelligent Auto Solutions",auto-repair-appt
+auto-repair-appt-1,dlg-ed15f5f3-d342-40ef-a8bb-df9890022290,This is Susie. I want to know if you would schedule an appointment for me at the auto shop?,auto-repair-appt
+auto-repair-appt-1,dlg-ed21ab3d-55f7-449c-9c82-d35696b75e7c,"Hi, I'm having an issue with my car can you help?",auto-repair-appt
+auto-repair-appt-1,dlg-ed235496-2895-4d98-84d2-2414deb29184,"Hi, I need to make an appointment with the mechanic",auto-repair-appt
+auto-repair-appt-1,dlg-ed3077ec-6895-4766-a0c2-ebb0356835a3,Hey! Have a favor to ask.,auto-repair-appt
+auto-repair-appt-1,dlg-ed473d4e-fb3a-4d19-91ba-7fa3d7c8a8bd,"Hello, I need to set up an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-ed576b53-03b5-4877-b667-47db14dffdd3,I need to make an appointment for my car. The fan isn't working when I turn on the A/C. Can you go to Intelligent Auto Solutions site and set up a time for me?,auto-repair-appt
+auto-repair-appt-1,dlg-ed65bb8c-9017-4546-86ef-79cfabc089ce,Hi I am having a car problem,auto-repair-appt
+auto-repair-appt-1,dlg-eda7862b-e0ec-4ca2-8e39-498fdc25f1f8,My 2005 Ford F-150 needs new sparkplugs I think. Can you schedule an appointment for me?,auto-repair-appt
+auto-repair-appt-1,dlg-edd46f74-3970-48d8-abfb-e39929da64cf,I need to schedule an auto appointment ,auto-repair-appt
+auto-repair-appt-1,dlg-eddc1f2e-2023-4cff-97a7-3462f9b7b54c,"Hello, Could you take my car to the mechanic need to get an appointment scheduled.",auto-repair-appt
+auto-repair-appt-1,dlg-ee0a147f-026b-42b1-a9fe-2962c742b674,I want to schedule an auto repair appointment.,auto-repair-appt
+auto-repair-appt-1,dlg-ee240f9c-6175-4efe-be72-9b3aa07993c6,Can you call Intelligent Auto Solutions and make an appointment for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-ee3196f0-9177-48f3-8d52-27a32a8d3d5a,"I just remembered that I'm due for a tune-up since I reached 50,000 miles on my car. I don't want to risk it getting messed up.",auto-repair-appt
+auto-repair-appt-1,dlg-ee6b1f12-bc8a-48cd-907d-c4b577f6370f,hello can you please request a appointment for me for a care repair,auto-repair-appt
+auto-repair-appt-1,dlg-eeab7866-7076-4d70-9e3c-5fa95e2e13e4,Please book an appointment for my car to get fixed at Intelligient Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-ef265fdd-2630-416e-bdce-e95e1160c1c9,"Hi, I need to book an appointment to get my tires rotated, please.",auto-repair-appt
+auto-repair-appt-1,dlg-ef2d6b9d-4f69-4143-9bda-01be84a3ccc6,"I have been having car problems and want to see the mechanic, can you help me make an appointment?",auto-repair-appt
+auto-repair-appt-1,dlg-ef906df6-e943-438f-b59e-b206d4bbb1bc,I need you to book an appointment for me at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-efdd0d36-2ffc-4b4a-9d0c-80a88920c4e2,"Hey Tina, I need you to call Intelligent Auto Solutions and schedule a time for me to bring my car in for them to check.",auto-repair-appt
+auto-repair-appt-1,dlg-efe18997-cbae-4902-8f4e-2e4b23e9e432,"Hey, can you book an appointment for me?",auto-repair-appt
+auto-repair-appt-1,dlg-f050324d-4a82-4bbd-9713-30a2dc65d66f,"Assistant, I need to get my car serviced today, can you help me?",auto-repair-appt
+auto-repair-appt-1,dlg-f0566783-3ea2-4604-a1d6-51b56821ea1c,Hey set me up for a repair day at Intelligent Auto Solution,auto-repair-appt
+auto-repair-appt-1,dlg-f0a3edae-85ed-437f-89b6-cbe1ad2aaab5,"Hi, My air conditioner in my 2017 Honda Civic isnt working, please make me an appointment at Intelligent Auto Solutions.",auto-repair-appt
+auto-repair-appt-1,dlg-f0c8dd9e-27aa-4392-9e60-5c1604e5363d,"Hi, this is Jamie Doe. My car is having problems. It needs to be looked at.",auto-repair-appt
+auto-repair-appt-1,dlg-f131de4f-d047-4ef3-8876-83f054aa82a0,"Hello, is this the on the road assistance? I need to set an appointment with the Intelligent Auto Solutions for my car.",auto-repair-appt
+auto-repair-appt-1,dlg-f19d2023-e016-4894-9976-dc8a120396a9,My car isn't acting right. Call a mechanic for me.,auto-repair-appt
+auto-repair-appt-1,dlg-f214c007-d082-49aa-aa41-69b974eb0743,I would like to schedule an appointment to have my 2015 Chevy Malibu towed to you to be serviced,auto-repair-appt
+auto-repair-appt-1,dlg-f22f4ec7-3382-4f4a-a064-a91052b98d54,"Can you schedule an appointment for my car to get checked? I'm driving right now, and it's behaving oddly.",auto-repair-appt
+auto-repair-appt-1,dlg-f2610dac-a6dc-470b-b2de-0e379a2435ea,Hi I'm trying to get my car checked out at INtelligent auto solutions,auto-repair-appt
+auto-repair-appt-1,dlg-f2a637dd-a35b-4fbf-8090-70f84dea86dd,I need you to get me an appointment with Intelligent Auto Solution,auto-repair-appt
+auto-repair-appt-1,dlg-f34eb945-02a0-450a-b187-50f4955903f3,"Hello, I need to make an auto appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-f3572348-0e70-4009-9fa5-ab40b781d17a,"Hi Alex, how are you?",auto-repair-appt
+auto-repair-appt-1,dlg-f3686f48-1689-4351-be6d-e250a2f58082,Hello? I think I need to get my car fixed.,auto-repair-appt
+auto-repair-appt-1,dlg-f36cd313-7ec3-4c6d-a7e2-2463cb99bb62,I need to schedule an an appointment for intelligent auto solutions,auto-repair-appt
+auto-repair-appt-1,dlg-f3815c0e-0d37-4b05-acb9-25eaf2f80ce5,"Hey Amanda, I'm having some issues with my car on my way to work today can you make me an appointment with the shop?",auto-repair-appt
+auto-repair-appt-1,dlg-f3aa2a8d-5520-4059-8e99-5ea7b4f07d1c,I'd like to book an appointment for my car at Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-f3b59423-ddee-4941-8c90-6c3f23b01f9a,"Assistant, I want to schedule an appointment with the mechanic to get my car checked out.",auto-repair-appt
+auto-repair-appt-1,dlg-f3da1a4b-c6f5-4836-befa-a25825b30b19,"My brakes are making strange noises, I think I need to go to the auto repair shop.",auto-repair-appt
+auto-repair-appt-1,dlg-f4d902c5-fe01-401d-b60b-766dfe4a4ddc,Schedule an appointment to get my car checked out,auto-repair-appt
+auto-repair-appt-1,dlg-f50993c6-8585-41ed-97de-fb27982c19b5,Id like you to set up and appointment for my car at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-f51a6c72-90a6-4263-abb3-05247e6d11f1,Hello Tom this is urgent! I need you to make an appointment at Intelligent Auto Solutions this morning as my car check engine light has came on.,auto-repair-appt
+auto-repair-appt-1,dlg-f553a803-07f7-4b50-9c9d-2c129aecbfd1,Please book me an appointment with an auto shop.,auto-repair-appt
+auto-repair-appt-1,dlg-f58cf414-92ac-4b29-9756-73df580c06f3,"Hi Tracey, I have a favor",auto-repair-appt
+auto-repair-appt-1,dlg-f5d8d411-7110-4776-bdf3-25111f68ee50,Hey Anne I'm having trouble with the alignment of my front tires. I need you to schedule an appointment for me.,auto-repair-appt
+auto-repair-appt-1,dlg-f606d970-4fea-4171-b471-185d8da9e196,I'd like to book an appointment at Intelligent Auto Solutions for my vehicle,auto-repair-appt
+auto-repair-appt-1,dlg-f65a0452-d92d-4c96-9d0b-b4d33c4a8f6e,i would like to bring my ford escape in please.,auto-repair-appt
+auto-repair-appt-1,dlg-f6705b58-e6db-4137-acbd-edd2df8a6d05,"Hi, Sara. I need you to make an appointment to get my car fixed, today if possible.",auto-repair-appt
+auto-repair-appt-1,dlg-f6ab14d1-3ec8-4eb5-9994-92796a92fc89,Hi Mindy. I need you to make me an appointment with the car shop.,auto-repair-appt
+auto-repair-appt-1,dlg-f7611ad9-6483-4b09-a2e7-5cd1f9aed74b,"Kelly, there's something wrong with my car.",auto-repair-appt
+auto-repair-appt-1,dlg-f7835857-e387-45f3-a73d-ffae242b41f1,"Olivia, can you help me schedule an appointment for my car? The dang thing is acting up again.",auto-repair-appt
+auto-repair-appt-1,dlg-f78ba729-e9b3-4eb9-8eec-78619897fb1e,I need to make an appointment for Intelligent Auto Solutions,auto-repair-appt
+auto-repair-appt-1,dlg-f7af9e78-c9bd-4882-9425-dec8acc6d32a,I need to book an appointment for my truck at the garage ,auto-repair-appt
+auto-repair-appt-1,dlg-f7b9ec66-1ac4-488c-af38-3325f7bcd1db,"Good morning, I am going to need a favor regarding my car.",auto-repair-appt
+auto-repair-appt-1,dlg-f7f36c71-a8c4-4056-b5a2-9d33df803fcf,I will need a service appt. scheduled for the inspection,auto-repair-appt
+auto-repair-appt-1,dlg-f8406bff-e35f-4c47-9e95-29ea5d7f748f,I need you to contact Intelligent Auto Soluntions for an appointment for my car?,auto-repair-appt
+auto-repair-appt-1,dlg-f867de31-9b07-472e-8575-2609429e94f9,"Hi, could you book me an appointment at Intelligent Auto solutions?",auto-repair-appt
+auto-repair-appt-1,dlg-f893e311-b296-4830-a962-e0f03a92db35,"Hi, I am having issues with my car and like to book an appointment.",auto-repair-appt
+auto-repair-appt-1,dlg-f8987035-6c5d-4d3a-9801-d5317054240e,I think I need to see someone about my car. Can you schedule an appointment for me?,auto-repair-appt
+auto-repair-appt-1,dlg-f94ab1e1-1f67-46e4-a34e-ce8271fa695f,"Siri please open up ""Intelligent Auto Soluitions"" web page",auto-repair-appt
+auto-repair-appt-1,dlg-f9dd9e74-d53a-4263-bb85-90cd4bc09ea4,"This is urgent, I need to bring my car in!",auto-repair-appt
+auto-repair-appt-1,dlg-f9f962df-392e-4cfd-a9c0-484eaffe69bf,"Hi, I need to make an appointment for my mini-van.",auto-repair-appt
+auto-repair-appt-1,dlg-faa0d567-cf14-460c-8c99-58fb6bba43fd,Can you book an appointment for me to go to the auto repair shop?,auto-repair-appt
+auto-repair-appt-1,dlg-faa31398-45e6-4cb6-a6b8-580623c31873,"Google, can you make an appointment for me with the mechanic?",auto-repair-appt
+auto-repair-appt-1,dlg-fb4fd218-c430-4487-90f9-138399246baf,Hello. I think I need to make an appointment for my car.,auto-repair-appt
+auto-repair-appt-1,dlg-fb94ca41-758f-48c3-a6ab-023e963b9737,I want to book an appointment at Intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-fbb1de3c-e9f5-4ae8-89d6-702dfc033969,Hi. I'd like to make an appointment for my car to go in for repairs.,auto-repair-appt
+auto-repair-appt-1,dlg-fbb81b7a-bc73-4cd1-a311-744e2f264cb7,I need you to send my car to the shop. can you make an appointment with intelligent Auto Solutions.,auto-repair-appt
+auto-repair-appt-1,dlg-fbb8240d-364d-4f9b-b677-368041503bae,I need to make an appointment for my car to get checked.,auto-repair-appt
+auto-repair-appt-1,dlg-fbedd3e9-e3f4-4262-a445-3d80c2d9dca0,I need to get an appointment at Intelligent Auto Solutions can you help me?,auto-repair-appt
+auto-repair-appt-1,dlg-fc864292-87b1-41d0-b3f6-1955c50e1426,Can you please schedule an appointment for me to get my car looked at?,auto-repair-appt
+auto-repair-appt-1,dlg-fc86cede-6622-4b6c-8be2-ac0981a53021,Hi I need some help getting an appointment about my car.,auto-repair-appt
+auto-repair-appt-1,dlg-fdaec635-d466-4d84-b1cc-d599d778ac2f,"Hi, Amy, I need you to set up an appointment for me.",auto-repair-appt
+auto-repair-appt-1,dlg-feb73c04-034c-4116-942e-e637c9a3d7cb,Can you make me an appointment to bring my car to the mechanic's?,auto-repair-appt
+auto-repair-appt-1,dlg-ff22dbfa-32d6-4ace-9360-b73714ae522f,"Hi, My brakes are squeeling real bad.",auto-repair-appt
+auto-repair-appt-1,dlg-ff2cab5b-a3a8-46ea-8366-57b8b127ca98,I need you to make a service appoint for me ,auto-repair-appt
+auto-repair-appt-1,dlg-ff818404-a700-4031-993b-726ac337e259,I need to schedule a service appointment for my car.,auto-repair-appt

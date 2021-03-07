@@ -1,0 +1,991 @@
+instruction_id,conversation_id,utterance,label
+food-ordering-3,dlg-00d882a3-255d-4e15-99cb-f068046d6eb2,"Oh, that's right. Can I order takeout for two people, please, for Italian?",food-order
+food-ordering-2,dlg-0132dd67-ad75-4d59-83de-5cdadf9cd830,Hi. I'd like to order a sandwich takeout order for one.,food-order
+food-ordering-2,dlg-01765acc-b2cf-46b9-8961-7f259645b414,"Hi, I'm in this really like super three-way relationship, and we are looking to buy some sandwiches. Can you help me with that?",food-order
+food-ordering-2,dlg-01839744-e367-4b7d-b8c4-42a40974c310,"Yes, I'd like to order hot dogs for three people, please.",food-order
+food-ordering-4,dlg-025a1022-3f81-4266-b4a9-da0b7deb3d24,That's correct but I'd like to add two iced teas if you don't mind.,food-order
+food-ordering-2,dlg-02a11af8-646b-4376-b86f-a25ac8fbb6eb,Hi assistant. I would like to order some food.,food-order
+food-ordering-2,dlg-02e2f90f-746c-414f-99fd-cc5178ae60a6,Hi. I'd like to order a hot dog.,food-order
+food-ordering-1,dlg-03084b5a-1cf3-40d2-a2f6-4d3d1488532f,"Hi. Today I need to find a restaurant for take-out for one person, and I'm looking for burritos to eat.",food-order
+food-ordering-1,dlg-0354e60a-4747-408a-9d1b-6c981d4d579f,"Hi, I would like to place an order of Mexican food for one person.",food-order
+food-ordering-1,dlg-0419f6a2-94d8-43d0-8182-4ea7802de061,I'd like to take out some food.,food-order
+food-ordering-1,dlg-0432d350-ff4f-4fd8-82c3-4a50c88b0888,"Hello. I would like to place an order for takeout. I would like pizza, please.",food-order
+food-ordering-2,dlg-0460c70c-34cb-43c5-affb-952f7365be73,"Hello, I need to order food takeout food for three people, and I need to order some soup.",food-order
+food-ordering-2,dlg-05a3965e-312b-429c-be3c-6c2d1c42c6d0,"Hi assistant, I'm looking to order some food for takeout for two people, and I'd like to order some soup, please.",food-order
+food-ordering-4,dlg-061066f5-b9d3-4537-9d77-a94233473558,Hello. I need to reorder something I ordered last weekend for takeout.,food-order
+food-ordering-1,dlg-06800509-feaf-4411-a260-9a358abe5f32,"Yeah, I need to place an order for pickup on burritos.",food-order
+food-ordering-2,dlg-0685c410-3ff3-4ca7-ba16-0c5171de3933,"Hello, I need to order takeout food for three people. I'm looking for Breakfast burritos.",food-order
+food-ordering-1,dlg-06a169dc-2913-4346-bd15-190ce5fb6559,I want to order some take-out for two. I want some poke.,food-order
+food-ordering-1,dlg-06af4900-e9c9-4526-9621-7f4c102cf662,"Hi, I would like to order Chinese food to take-out for two people.",food-order
+food-ordering-1,dlg-06e5677b-6e83-41db-bea2-16cab53f1d47,I'd like to order takeout for two people.,food-order
+food-ordering-1,dlg-06e78062-2747-476f-b04a-2e76a458e238,I'd like to order takeout for one person.,food-order
+food-ordering-2,dlg-072b3156-9fab-408c-b5da-0c22c2721724,"Yes, I'm ordering food for three people. We would like to order Greek, please. We are ordering three Gyros, extra sour cream, large fries on the side with packets of ketchup and three large ice tea.",food-order
+food-ordering-2,dlg-0788c23a-40e2-42d0-b46b-dc06f2ded94b,Hi. I'd like to order some takeout today for two people. I like sandwiches.,food-order
+food-ordering-1,dlg-07a5eb77-8852-41f7-a885-bf6c2c9404d1,"Yeah, I'd like to place an order for some Indian food.",food-order
+food-ordering-2,dlg-07f6fe6a-5cf4-40f5-bd91-c0f400a0e146,I just need three hot dogs for three people with chili and cheese.,food-order
+food-ordering-1,dlg-08075f28-b2dc-4ebc-bfd7-08b2b4abd91b,"Hi. I'd like to order a pizza with half mushroom, half olives and also, I'd like to get a Caesar salad on the side.",food-order
+food-ordering-2,dlg-080ad2ae-5f07-4cbd-88ed-bb0893898f5c,"Hi, I'd like to order one sandwich for myself.",food-order
+food-ordering-1,dlg-08287da0-9b1e-4471-8f01-7e3a47958987,I need to order take-out food.,food-order
+food-ordering-2,dlg-082d002c-82b7-4aa7-82fe-e19394fc7ea3,Can you take an order for pasta?,food-order
+food-ordering-1,dlg-085061db-95af-4dd9-9b0b-a05755678873,Hi. I need help finding a burger joint to order from.,food-order
+food-ordering-4,dlg-0923d68b-08ce-4992-85d5-3933c7deddc8,I'd like to place a reorder a meal for takeout. Could you help me with my last order from Sarah's Pizza?,food-order
+food-ordering-2,dlg-093836e0-30d0-4014-80f5-e7112e064779,Hello Assistant. I would like to order some Italian food for three people for takeout.,food-order
+food-ordering-2,dlg-0993ea3a-b656-4222-bb14-127dc06113ff,I want to order takeout.,food-order
+food-ordering-2,dlg-0999a44a-d59d-4644-a297-b8196a1b2e65,"Hi. I need help ordering takeout for three people, please.",food-order
+food-ordering-1,dlg-09a7ebae-784c-4da8-840f-272d9af53b1c,I was looking to order some pizza for takeout?,food-order
+food-ordering-1,dlg-09cccabc-a782-4d4a-b85a-220bad47cca9,"Hello, I'd like to order Mexican food for three people, please.",food-order
+food-ordering-2,dlg-09f9b8d3-9154-475f-b73d-9d6d4349e23f,I'd like to place an order for takeout for two people.,food-order
+food-ordering-1,dlg-0a2187ca-7e7e-4f03-8c42-bc6235d35477,"Hi, I need to order burgers for take-out.",food-order
+food-ordering-1,dlg-0a2acdf0-a71d-42b4-a01e-8e2c8cf40d86,"Hi, I wanted to get some takeout burgers just for me. Can you help me with that?",food-order
+food-ordering-1,dlg-0a5f5ba3-9431-4509-a9f5-d29656b8daeb,I was trying to order some gyros for three people from a take-out place.,food-order
+food-ordering-1,dlg-0abfc7fd-a878-42f1-bb35-351623c5eec4,Hello assistant. I'd like to order takeout food for myself.,food-order
+food-ordering-2,dlg-0adc24d6-bfa2-478e-80d1-5605779803a4,I'd like to order pasta for take out for three people.,food-order
+food-ordering-1,dlg-0b6045c5-c1e7-47d5-999f-3829b454f884,Hello. I need to order takeout for three people. I need to order some pizza.,food-order
+food-ordering-4,dlg-0b7f79b9-753c-45b3-a46b-7f0170b0b3db,"Hello, I'd like to place an order at a restaurant that I ordered from last week.",food-order
+food-ordering-2,dlg-0bb76f70-aa2a-4ec3-9b38-a784af270063,"I'd like to order some chicken fettuccine Alfredo, some garlic bread and 2-liter of Mountain Dew. That'll be it.",food-order
+food-ordering-1,dlg-0bef419d-8baa-4fe9-a238-cb56f93c8cc7,"Hi, I'm looking for take-out food tonight for two people. Looking for some good burgers.",food-order
+food-ordering-1,dlg-0c66117b-8113-4f69-9592-528c4c4d9e37,"I'd like to order two pizzas for three people, please.",food-order
+food-ordering-4,dlg-0c7b4e1f-eeb6-4036-9d93-3ebbee1d6253,Hello. I am looking to reorder something that I ordered last weekend for takeout.,food-order
+food-ordering-1,dlg-0c7f55fb-2503-4d10-943d-e91484821635,I was want to order some barbecue for two people.,food-order
+food-ordering-1,dlg-0d3ecb86-e098-40b6-bd74-69d3f7bc9c76,I'd like to order take out Mexican for two people.,food-order
+food-ordering-2,dlg-0d4b50d3-9db7-449d-856c-1061ce25b225,"Hi, I need to order some food for takeout for three people and I want to order some pasta, please.",food-order
+food-ordering-1,dlg-0d81af4c-88f1-48ba-91db-f85f7b1c7f02,Hello. I need to order takeout burritos for one person.,food-order
+food-ordering-1,dlg-0e1de864-2661-4ec1-a7a5-5486d66b4498,"Hi, I would like to order takeout food for three people and the type of food I'm looking at is burgers.",food-order
+food-ordering-2,dlg-0eb40d10-eee9-417e-8cfb-0622a890c85b,I want some soup for myself. Can you take a the order?,food-order
+food-ordering-1,dlg-0f125ba2-5385-4434-a5ea-76c495729915,Hello. I need to order takeout for two people.,food-order
+food-ordering-2,dlg-0f3cb363-5f4f-4d15-b7de-b526ec34e526,"Hi, I need to order a takeout pasta for two people, please.",food-order
+food-ordering-1,dlg-0f54528d-a535-44c8-bd7f-1c04bfdf7fe6,"Hello, I would like to order takeout.",food-order
+food-ordering-1,dlg-0f909662-6a8d-451d-9fe7-66ceac817cc2,"Hi, I would like to order take away Thai food for one person.",food-order
+food-ordering-1,dlg-0f9a67ed-b4ea-4f70-beb8-cce6169d879b,Hi. I wanted to order takeout.,food-order
+food-ordering-1,dlg-1034d4a2-6369-42f1-8d48-89b953daabc8,Hello. I'm looking for pork take-out food for one person.,food-order
+food-ordering-1,dlg-104812d4-b522-4ad9-b1c3-9e43e096dac8,Hi. I would like to order Chinese take-out for three people.,food-order
+food-ordering-1,dlg-10be1bdd-6b4f-4b0f-94f3-10ec3a3b6f89,I'd like to order some burritos for take-out.,food-order
+food-ordering-1,dlg-10dd22f0-9c9f-4c32-868f-79ffd1a66830,"Hello, I would like to place an order for Indian food, please, for three people.",food-order
+food-ordering-1,dlg-110874f6-515b-4f86-bd46-74cbc377ea10,Yeah. I was wondering could you help me order some Thai food for takeout?,food-order
+food-ordering-2,dlg-1123f1b9-5410-472b-a202-3c2926ae7038,"Hi, could you help me order takeout for three people?",food-order
+food-ordering-1,dlg-115273a2-deac-4cbc-9964-7ec6e6602c9e,My brother and me want to order Thai food. Can you take our order?,food-order
+food-ordering-2,dlg-11a0a8a2-cf70-48a5-aa52-bba36edb9196,Hi. Can you help me order takeout for three people?,food-order
+food-ordering-1,dlg-11ec0f40-cc09-4418-a20c-e1d793314ac3,I need your help finding food for takeout for three people. I'm looking to order some burgers.,food-order
+food-ordering-2,dlg-12b106e0-37f5-4546-9798-726eb2856b53,"Hi Assistant. I would like to order some takeout food for three people. And I would like to order some hot dogs, please.",food-order
+food-ordering-1,dlg-12f0e7aa-9e65-40ba-8bd5-3602316b1ba4,I would like to order food for takeout for three people. And the type of food I'm looking at is burritos.,food-order
+food-ordering-2,dlg-12fa13a5-805c-46f5-936c-592b1e39265b,"Hi, could you help me order take-out food for two people?",food-order
+food-ordering-1,dlg-13d6d90b-a06b-42bb-b226-4e05ed3d17bf,"Hello. I want to order takeout pizza for two people, please.",food-order
+food-ordering-1,dlg-14edb1c2-e057-467e-86bb-f3312fcc924f,I actually want to get some pizza for my girlfriend and I want a medium with large anchovies and bell peppers. Can I get a six-piece side of wings with that?,food-order
+food-ordering-1,dlg-15cce30a-ea62-4c48-8e45-d6bc080a8ad4,"Hello, I need to order some takeout gyro food.",food-order
+food-ordering-1,dlg-15e47b61-038f-4b7e-ac78-8b1a0f76772e,"Hi, I need some help ordering some takeout.",food-order
+food-ordering-2,dlg-15f8db6a-85dd-47a8-b477-6034b2d4f088,I'd like to order Italian takeout for two.,food-order
+food-ordering-2,dlg-1693e916-e6f9-4956-80da-b5ebc257dc03,"Hi, I'd like to get a breakfast burrito for take-out.",food-order
+food-ordering-3,dlg-16a8f851-d4c4-47f8-a9e6-daca87aaea73,"Hi, we were just talking a couple moments ago, and I'm just trying to get back to that conversation. And I would like to order a two soups for two people. And I would like the first soup to be a lentil soup and the second soup to be a Mexican chicken lime soup.",food-order
+food-ordering-1,dlg-16b0e9f1-454b-4ab1-9069-9ab39546ccac,Hi. Today I'm looking to get food for takeout for a couple of people. I'm looking to get Chinese food and I'm looking for a four star rated restaurant to go to.,food-order
+food-ordering-1,dlg-16d19580-7d82-4a6c-9579-b9296d98ef2b,Hello. I'm looking to order takeout food for three people. I need to order some burgers.,food-order
+food-ordering-2,dlg-1706fc96-3d87-4874-8bf8-cce4a2bdb8fc,"Hi, I wanted to order breakfast burritos for take out.",food-order
+food-ordering-1,dlg-1711a87d-0169-485f-a606-19b577fbe583,"I want to order some Thai food for takeout, please.",food-order
+food-ordering-1,dlg-174bde2f-052d-4b9a-8913-39bbc546dd65,"Yes, takeout for myself, please. Mexican food.",food-order
+food-ordering-1,dlg-1811108a-bcc7-4bdb-8e6d-423f801b710a,Just planning to pick up some food for dinner. I'm really in the mood for burgers.,food-order
+food-ordering-1,dlg-1844d373-b934-45fa-b512-d8bdaaa68d7d,"Hi, I'm looking to order some Indian food for takeout for one person.",food-order
+food-ordering-2,dlg-185d3005-5216-442a-b398-abff73713f79,"Hi. I need to order takeout pasta for one person, please.",food-order
+food-ordering-1,dlg-1860e83e-b218-47a8-9c21-b7e0307e8628,"Hi, I'd like to order takeout for three people, barbecue.",food-order
+food-ordering-1,dlg-192b753f-d9b5-4929-86d6-27fbdca0f9d4,"Hi, I would love to get some Chinese food. I want to get chicken lo mein, spare ribs and two servings of tastu ramen.",food-order
+food-ordering-1,dlg-19b41692-b7d2-489b-a77e-7c6ff13a5b3a,"Hi, I like to order burgers for one person.",food-order
+food-ordering-2,dlg-19e6818a-1f8b-4636-a57a-5d0254c183b2,"Hi. I'd like to order a vegetable sandwich for takeout, please.",food-order
+food-ordering-2,dlg-19eb943d-80a2-4ebe-809f-b472b11b064d,Hello. I need to order takeout for three people. I need to order some Greek food.,food-order
+food-ordering-1,dlg-1a98170b-36fc-46dc-9313-e119ec4c6b69,Hi. I'm looking for burgers for takeout.,food-order
+food-ordering-2,dlg-1ae1917c-7c88-4207-9f79-93e7da8f6cd3,"Hi, I was wondering if you could help me place an order for some food.",food-order
+food-ordering-1,dlg-1b0c2229-6434-4e4f-a003-c613ef507912,"Hello, I need to make a carry out order for a poke salad.",food-order
+food-ordering-1,dlg-1b17e5ce-3f4e-4be5-86f1-04e3e37fc87b,Hello. I'd like to order takeout food for three people. I want to get some burgers.,food-order
+food-ordering-1,dlg-1b21a56a-66be-4586-9560-427bd537f2d6,Hi. I was wondering if you could help me order some take-out for a couple of people.,food-order
+food-ordering-2,dlg-1b2a9551-5b42-453f-a82c-35c148cbff67,"I would like to order sandwiches for takeout, Please.",food-order
+food-ordering-1,dlg-1b4d1b2b-0aed-4dd4-b6c7-8341559825aa,"Hi. I'm going to takeout for three people, would like to order burgers tonight.",food-order
+food-ordering-2,dlg-1c7b1f54-e826-48bb-9ae7-e0479acfa120,"Hi, I'd like to order Greek takeout for one person.",food-order
+food-ordering-1,dlg-1cc3da6d-80d2-4258-9ef0-772850463c07,"Hello, I'd like to order some barbecue for one person.",food-order
+food-ordering-1,dlg-1dafe01a-bfa8-4d97-bfdc-c25071794e79,Hi. I want to order some Mexican food for takeout.,food-order
+food-ordering-2,dlg-1db69492-e3eb-4618-9f6c-240dcad1b10e,Hi. Today I need your help finding some food to eat. I'm looking to get some hot dogs for one person.,food-order
+food-ordering-2,dlg-1dcfac27-20e9-41d3-b0d2-b15916ec45ba,I'd like to order takeout for three people.,food-order
+food-ordering-2,dlg-1e84b109-2218-472e-877f-8ae112a08dd2,I'd like to order an Italian takeout for three.,food-order
+food-ordering-2,dlg-1f4bf36a-2881-4db3-834f-8b55e502e300,Hi. I want to order breakfast burritos for two.,food-order
+food-ordering-1,dlg-1f8539d4-68e5-40b1-bc55-2a56dca1856a,"Hi. I wanted to place an order for Chinese food takeout tonight, please.",food-order
+food-ordering-1,dlg-1fc6ac23-1e3a-427d-b520-adadcf92c6e7,"Yeah, I'd like to place an order for pizza.",food-order
+food-ordering-2,dlg-209b0f15-f389-4b14-9415-58ffb21e203c,"Yeah, I was wanting to order some hot dogs for takeout.",food-order
+food-ordering-1,dlg-20df7277-300f-4b76-92cd-302f2052f59e,"Hi Assistant, I'd like to order some food for takeout for just one person. And I need some Thai food.",food-order
+food-ordering-4,dlg-20e2a71d-9422-4acf-8913-c822f630f95a,Hi Assistant. Can you help me with a takeout order from Casa Sanchez?,food-order
+food-ordering-2,dlg-20e5c785-b83d-4195-8e4d-707d735525cd,"Yes, I'd like to order Greek food for two people, please.",food-order
+food-ordering-2,dlg-21106cbc-ea4a-4bf6-97db-a02f1ee33fc9,I would like to order some food.,food-order
+food-ordering-1,dlg-214d31dd-c5f4-4ca7-9178-3a4d782d6f75,"Hi, I need to order Basil Chicken from the Thai restaurant for a takeout.",food-order
+food-ordering-2,dlg-2203cd63-7602-4be7-87c5-6c11f46b7ae6,"Hi. I'd like to order takeout, please.",food-order
+food-ordering-1,dlg-22192b1b-808e-44aa-a848-b6c74a624598,"Hi, I would like to place an order for Indian food for takeout for three people, please.",food-order
+food-ordering-2,dlg-221b9935-0321-406a-9376-95297bbf9625,Hi. I'd like to order takeout for two people.,food-order
+food-ordering-2,dlg-2220866d-15a0-4161-9c7b-8a1168aab479,"Hello, can I get three steak burritos and three large Cokes, please, and two orders of french fries?",food-order
+food-ordering-1,dlg-22baae4e-6abe-474c-ac98-2a2c09dc735c,"Hi, I'd like to order takeout for three people, please.",food-order
+food-ordering-1,dlg-22d87698-2763-409c-a400-ec9267da36b3,Hi. I was wondering if you could help me place a take-out order for barbecue.,food-order
+food-ordering-1,dlg-22ede0f9-b009-4713-a223-15caaa4c5a0b,"I want to order takeout Chinese food for two people, please.",food-order
+food-ordering-3,dlg-231920d7-0ffc-47e6-a994-055b2757a781,"Hello, I need to order some breakfast burritos for two people.",food-order
+food-ordering-1,dlg-2373863a-38dd-4892-8dc0-e987513e11d8,Hi. I'm looking to order pizza for takeout.,food-order
+food-ordering-1,dlg-239ab661-aa69-494a-90e7-da905aa33813,"Hi, I want to order some takeout for three people. We're thinking to order some Thai food.",food-order
+food-ordering-1,dlg-23da189b-48ac-40df-a565-217e61eea71e,"Hi. Today, I need your help getting food for takeout for one person. I'm looking to order some Chinese food.",food-order
+food-ordering-1,dlg-242d6621-861c-4705-9b77-58b23580f8b8,Hi. I was wondering if you could help me order some food for takeout.,food-order
+food-ordering-2,dlg-2433aa4f-5dc6-4ccc-8ad1-7a5e7dd8bc2d,Hi. I was wanting to order breakfast burritos takeout for one.,food-order
+food-ordering-2,dlg-245e6b0e-87d2-4f24-93af-f1df156be49a,"Hi, i want to order some hot dogs for take-out.",food-order
+food-ordering-1,dlg-2460eea6-d042-4483-8349-29310bd4b89e,"Yeah, I'd like to order some takeout for two people.",food-order
+food-ordering-2,dlg-24db57c8-af45-4b24-b117-6d60b5417808,"Hi, I'd like help ordering takeout Greek food for three people.",food-order
+food-ordering-2,dlg-24fbbb62-fae5-4dee-8d0e-136fc9788da7,"Hi. I will have one hot dog with mustard relish and sauerkraut, a side order of french fries and a Diet Coke.",food-order
+food-ordering-1,dlg-252078cf-2674-4577-b6f2-dea85348d727,I want to order takeout Indian food for two people.,food-order
+food-ordering-4,dlg-259895a5-cadf-4564-9d88-5a7038cf8a2f,Hi. I'd like to place a reorder for takeout.,food-order
+food-ordering-2,dlg-25a15387-3df9-4fdc-88b6-f38f3f9e5bf4,"Hi, I'm looking to get some takeout for tonight.",food-order
+food-ordering-2,dlg-25e5b89b-d234-4513-9c40-1d3a142f4084,"Hi, I'd like to order Italian take out for three.",food-order
+food-ordering-2,dlg-277815d6-f3ab-48b5-9240-17ad8550b1fd,Hi. I'm trying to place an order for takeout for three people.,food-order
+food-ordering-2,dlg-27908c06-09e8-4710-9555-3e286312aff3,"Hi, I'd like to order takeout sandwiches for two people.",food-order
+food-ordering-1,dlg-283321ca-20f3-49f1-a4f8-3aea84a36b43,Hi. I'd like to order two large pizzas for takeout.,food-order
+food-ordering-2,dlg-28341ba3-9ffd-4573-a0a2-438974c319b0,"Hi. Today, I need your help finding a place to get food at for three people. I'm looking to get takeout for hot dogs.",food-order
+food-ordering-2,dlg-285741f7-292f-4942-bc7a-c2473d29d310,"Hello, I'd like like to order Italian food for takeout for two people.",food-order
+food-ordering-3,dlg-28c84645-6109-485c-866b-29aebd28ae4c,"Yes, continue where I left off for my order for sandwiches, please.",food-order
+food-ordering-1,dlg-292bfcb3-7401-4510-bed8-04c8e54364f1,Hi. I'd like to order BBQ for three people.,food-order
+food-ordering-2,dlg-295bd91f-d7a7-46ce-b3e3-d82dc4b5f69e,I want to order for takeout.,food-order
+food-ordering-4,dlg-2a29ee2f-6686-4899-8198-9c8aec91f56f,I would like to re-order the same thing I ordered last week.,food-order
+food-ordering-1,dlg-2acd0ff9-e44d-4ff6-92dd-9aaeb7e85f60,"Hi, I'd like to order Thai food for three people.",food-order
+food-ordering-1,dlg-2b8717eb-d3c0-4fae-8450-3b65eec5e9e7,"Hi, would you help me with ordering take-out for two people?",food-order
+food-ordering-1,dlg-2bd6c73d-f75f-4a59-8596-398e9b0859e9,"Hi, I'd like to place a takeout order for Thai food.",food-order
+food-ordering-1,dlg-2ccf03a3-6cbf-47ea-8ba3-080090d70261,Hi there. I'm looking to order takeout for three people.,food-order
+food-ordering-2,dlg-2cd04c6c-db3c-4a74-84fe-68d0fb296afc,"Hi, I would like to order some takeout hot dogs.",food-order
+food-ordering-3,dlg-2d299c31-17bd-41fd-bac2-c6e3bf9f2890,I need to finish the breakfast order.,food-order
+food-ordering-3,dlg-2d8e64ca-b9bd-4ffd-91ff-a85e36cfef0e,"Hello Assistant, I need to add some items to my takeout order. Can you help me?",food-order
+food-ordering-2,dlg-2d8f6d4a-81eb-48a6-8f9d-5599f7281652,"Hi, I'd like to order takeout for one person, please.",food-order
+food-ordering-2,dlg-2d9ed7cc-0026-4b89-9ddd-6dbba093a520,"Hi, I'd like to order takeout for two people.",food-order
+food-ordering-2,dlg-2dd2c719-9f72-4000-bd8e-f4bed44f968b,I would like three breakfast burritos with a side of hash browns and three coffees to go. That's about it.,food-order
+food-ordering-2,dlg-2e39e271-61ff-43c5-9482-23ce78de86f8,"Hi, I'd like to order takeout.",food-order
+food-ordering-2,dlg-2e8d0df1-516a-4213-a8fe-7d9c61343a5d,Hello Assistant. I would like to order some food for takeout for three people.,food-order
+food-ordering-3,dlg-2eb914fb-d0c8-472b-a01a-40416f2efc98,"Hi assistant, I want to resume my food for takeout for two people order. And just to get back at it, I would like to order a chili dog, a cheddar-bacon hot dog, two cans of Dr Pepper. That will be all.",food-order
+food-ordering-1,dlg-2ecd8d99-07d4-41a3-86bb-40db13dae2ec,Hello. I'd like to order takeout burritos for one person.,food-order
+food-ordering-1,dlg-2f2d9e86-949a-45e7-b60e-60434c93050a,"Hello, I'd like to order a pizza for two people, please.",food-order
+food-ordering-1,dlg-2f4545bb-5115-4df1-8cfe-4720476bf002,Yeah. I was wondering if you could help me order some takeout food.,food-order
+food-ordering-1,dlg-2f79b0e1-48ff-4df2-b71c-18afdbaf7d26,"Hello. I'm looking for take-out food tonight, just for myself. I'm looking for Chinese food.",food-order
+food-ordering-2,dlg-2f839114-7408-4d73-8a88-0e35fa654651,"Yes, I'm looking for a takeout for myself. I'd like to order some soup, please.",food-order
+food-ordering-2,dlg-2f90c0a8-f3c4-4f6a-8f9d-369bdbfef0b6,"I would like to order breakfast burritos for takeout, please.",food-order
+food-ordering-1,dlg-305cd4e0-793e-4158-b06d-6c9a59ae91a1,"Hi, I'd like to takeout for myself, please. I'm looking for some poke food. Can you take down my order?",food-order
+food-ordering-2,dlg-306f7554-fa37-463d-b624-550b7f88ae43,"Hi, I'd like to order a breakfast burrito for one person, please.",food-order
+food-ordering-4,dlg-309c1bef-6a64-4206-b621-1a94a5679f18,I want to reorder the same meal which I have ordered from Sarah's Pizza last weekend.,food-order
+food-ordering-2,dlg-30ba03a0-560e-4063-8db8-f251b3cd3e78,"Hello Assistant. I'd like to order some take out for three people and I'd like to order some hot dogs, please.",food-order
+food-ordering-2,dlg-30e19523-a15a-487f-a238-d18087616d29,"I would like to order a sandwich, for myself. A chicken sandwich, mayonnaise, tomatoes, lettuce.",food-order
+food-ordering-2,dlg-310a590e-7e09-4e03-bdcc-15c0bfa48ae9,"Yeah, I'd like to place a takeout order for hot dogs.",food-order
+food-ordering-2,dlg-3188fb39-b495-458a-848e-ab3bbc43ed26,"Hello. I need to order takeout food for two people. And, I need to order some Greek food.",food-order
+food-ordering-2,dlg-31ef6a50-2fff-4c34-9e1d-2bfeb3e93305,I'm looking to order some take out for my wife for dinner.,food-order
+food-ordering-1,dlg-326ed3e5-563a-43e5-a9d7-1baf950ff9cd,Hi. I'd like to order a pizza for takeout.,food-order
+food-ordering-1,dlg-3273d2fd-49f3-4c76-84be-0a02cb3f3b5b,Hi. I'd like to order takeout for two people and I want it to be Indian food.,food-order
+food-ordering-1,dlg-32895101-8097-431a-8d22-34b3ea6a1465,"Hi, I'm looking to order Chinese food for two people.",food-order
+food-ordering-2,dlg-329820ec-f25c-4ee3-b1b2-73a908447c51,Yeah. Can you help me place a takeout order for just me? I'd like some soup.,food-order
+food-ordering-1,dlg-32bb9aaa-fbb0-4097-9f40-3d369e7c4d7b,"Hi, I need to order some pizza for takeout.",food-order
+food-ordering-4,dlg-32fca89b-f9b5-4868-9580-fa6e7c2b9296,Hi. Today I need your help getting food for takeout. I'm looking to order the same thing I ordered last week from Larry's Grill.,food-order
+food-ordering-4,dlg-33284bdf-32fc-4c79-b760-48a76e6a8515,I'd like to add one salad with the house dressing.,food-order
+food-ordering-4,dlg-336a7739-cfb2-4214-8530-9f3e268ad0e8,"HI, I would like to re-order what I ordered last weekend.",food-order
+food-ordering-1,dlg-33935f3e-1f1c-4303-b27b-5b87abcc8899,Hi. I was looking to order Chinese takeout for two.,food-order
+food-ordering-2,dlg-33c14bf0-585f-4071-8547-2a97474cb6ba,"Hi, I need to order soup for three people for takeout.",food-order
+food-ordering-2,dlg-342030d2-0602-4d49-a3bb-7007cc083a2b,"Hi, I need to get Italian takeout for three people.",food-order
+food-ordering-1,dlg-348be5f2-7dc1-4f94-916f-338e3e559c76,"Hi, I need to order take out food. I want some pork please, for one person.",food-order
+food-ordering-2,dlg-349f15b1-e727-498b-b6cd-f5a62513fe6a,"Hi, I wanted to order take-out.",food-order
+food-ordering-1,dlg-352c48d8-43cb-4c22-85ed-4c11fc4218b5,I need your help finding food for takeout for two people. I'm looking to get some Thai food.,food-order
+food-ordering-1,dlg-35a4bbf6-6c4d-42bf-8d50-9639f3659bee,"Hi, I wanted to order Mexican food for takeout.",food-order
+food-ordering-1,dlg-35a7859f-7c7a-44d8-b9e3-48d505a53218,"Hi Assistant, I'd like to takeout for three people, please, for some Thai food. Let me know when you are ready.",food-order
+food-ordering-3,dlg-35d6b408-cfa9-42fe-9921-12e65bd3671c,Hi. I want to order pasta for two. I would like two dishes of chicken parmesan and two orders of garlic bread.,food-order
+food-ordering-2,dlg-3688bf44-4860-42ca-add2-b00030c2d15f,Hi. I want to order takeout Greek food for one person.,food-order
+food-ordering-2,dlg-36d395f9-30fe-4118-a490-111f4942caff,Hi. I'd like to order for one person.,food-order
+food-ordering-1,dlg-370990ab-8934-4b44-87dc-92d709a2134b,"Hi, I was wanting to order Indian take-out for one.",food-order
+food-ordering-1,dlg-37448258-528a-44ce-ac96-c88b96e7786d,"Hello, I want to order a takeout pizza for one person.",food-order
+food-ordering-1,dlg-37679106-6953-49d6-8b67-e4603fdd52de,Hi. I'd like to order takeout food.,food-order
+food-ordering-2,dlg-376a78ad-c4c9-4668-b8a5-03704b0cb719,"Hi. Can I order food for takeout for three people, please?",food-order
+food-ordering-1,dlg-37ee51ef-d2fe-42d0-97ce-bc276c19a7a1,"Need to order takeout burritos for three people, please.",food-order
+food-ordering-4,dlg-382f7873-3d33-4b0b-96a1-d38c32e30530,"Hi, I would like to order the same meal from the same place that I ordered from last weekend.",food-order
+food-ordering-1,dlg-38e09630-55d3-408d-9281-fcf572a242c7,I would like to order takeout.,food-order
+food-ordering-2,dlg-390fced1-e7c2-4165-b63b-7713b631dc74,Hi. I'd like to order hot dogs for three people.,food-order
+food-ordering-1,dlg-39f15192-314b-4fcf-ba0e-114daa81054d,"Hi, today, I need your help finding a place to get takeout for two people. I'm looking to get a barbecue.",food-order
+food-ordering-1,dlg-3a55e40c-3531-43ed-a909-ab84cf4ae5f8,Hi. I want to get take get takeout.,food-order
+food-ordering-1,dlg-3a6d6a60-9258-4d5f-8ff7-320c8b00bd49,"Hi, I would like to order Indian food for two.",food-order
+food-ordering-2,dlg-3a708868-2772-4f0d-8d3a-b2f9d466aa42,"Hello, I need to order takeout for three people. I'm looking to order some Greek food.",food-order
+food-ordering-2,dlg-3af39672-103b-4208-8710-0810a77b715b,"Yeah, I'd like to order hot dogs for takeout.",food-order
+food-ordering-1,dlg-3afbf393-c793-48e2-bde3-d08da49457eb,Hi. Can you help me order some takeout food for a couple of people?,food-order
+food-ordering-2,dlg-3b116820-8e64-4379-a8d9-28f19e28f087,Hi. I'd like to order takeout for three people.,food-order
+food-ordering-2,dlg-3b727c1f-9690-460a-9cbd-89090208d5be,"Hi, I'd like to order take out Greek food for three people, please.",food-order
+food-ordering-1,dlg-3c68f76e-59dc-41cc-be8c-f86adcf24bab,"Hi. Today, I need your help getting food for takeout for one person. I believe, right now, I'm looking to get some Thai food.",food-order
+food-ordering-1,dlg-3c94f0e3-379a-486d-9174-ccab54d694c5,I want to order takeout barbecue.,food-order
+food-ordering-2,dlg-3c9977bb-a06d-4198-a9af-9f9fa53cfc92,"Hello. I'm looking to order takeout for two people, and I need some breakfast burritos.",food-order
+food-ordering-2,dlg-3cf1f842-b53e-490a-83e1-b6a46c1ee726,"Hi, I'd like to place a takeout order.",food-order
+food-ordering-1,dlg-3d6d9b7c-7919-452c-b153-f720ce5380ea,Could you help me order take out food?,food-order
+food-ordering-4,dlg-3de9ccde-47d3-4638-94de-f2f997da9b70,"Hi, I want to reorder my order from crepes fantastic last weekend.",food-order
+food-ordering-1,dlg-3e0ac0f8-079c-4c85-af1b-eabf96dfbd10,"Hi assistant, I would like to order for two people, and I would like to order some burgers. Can you help me?",food-order
+food-ordering-1,dlg-3e2e42df-0ace-4a7b-99fb-bd516ec8696a,Hi. I want to do takeout for one person.,food-order
+food-ordering-2,dlg-3e57e4fb-7306-40da-b364-7a48feeedf93,"Okay. We would like three extra large breakfast burritos, extra sauce on the side, steak everything on it please and three large Cokes and that should be it.",food-order
+food-ordering-1,dlg-3e7b0fb6-0e36-4d9d-94dc-9a64a02abb5e,I would like to order some barbecue.,food-order
+food-ordering-2,dlg-3e91b3c2-f1c7-4903-b783-61f56c5275fc,Hi. I'd like to order takeout for three people and I'd like to order some soup.,food-order
+food-ordering-1,dlg-3eb369df-c6f9-46ca-8a96-06ded8817b7f,Hi. I wanted to order some Gyros for takeout.,food-order
+food-ordering-2,dlg-3ec478e4-3194-40e6-ab3d-c9e612306b75,"Hello, I'd like to take out some food tonight like hot dogs.",food-order
+food-ordering-1,dlg-3f14f68e-8f46-4c0d-b28f-9ec582a3a976,"Hi, can you help me order some takeout food?",food-order
+food-ordering-1,dlg-3f1a25ff-9302-4fb7-b15b-bc789a0696f6,"Hi. I'm looking to buy some poke. Is that how you pronounce it, poke? For two people. I'm looking to get some yellow fin tuna poke as well as some octopus poke. If it comes in different sizes, get a medium octopus and a large yellow fish. And if it doesn't come in sizes, then just get regular octopus and regular regular yellow fish. Make sure it comes with a soy sauce side.",food-order
+food-ordering-4,dlg-3f35391f-6ca8-4a85-96d0-f72f994d9b52,"Hi, I'd like to reorder something from Casa Sanchez, please.",food-order
+food-ordering-2,dlg-3f9d16a2-8373-45e6-b1fe-39924751ced7,"Yeah, I need to get some takeout for two, hot dogs.",food-order
+food-ordering-1,dlg-3fadc014-84f6-4c13-8849-d5806cbc5191,Hello. I need to make a carry-out order for food.,food-order
+food-ordering-1,dlg-3ff6a5d2-de56-4606-926f-1545e6664985,"Hi, I'd like to order takeout for two people, please.",food-order
+food-ordering-1,dlg-3ffb4f04-f67e-4db1-9e64-dda94fc00781,"Hi. I want to order 2 beef burritos. No guacamole and onions salsa on the side, please.",food-order
+food-ordering-1,dlg-40417006-1733-465c-b189-454616da9ead,Hi. I am looking to get takeout for two people and I need a good Thai food place. Could you give me some suggestions?,food-order
+food-ordering-1,dlg-40a0cd51-ba21-4b70-ad4a-0843e5f439c1,"Hello, I need to order takeout for two and I need to order some gyros.",food-order
+food-ordering-2,dlg-40dc2dbf-e6c0-427b-a609-2c07faab80b7,"Hi, I'd like to order hot dogs for takeout.",food-order
+food-ordering-1,dlg-413a61af-917b-4ae4-b795-3f84637119ae,Hi. I'd like to order Greek food takeout for one person.,food-order
+food-ordering-2,dlg-41690a80-48da-4a6d-9e29-ebfc77c2e13a,"Hello, I'd like to take out some pasta meals. Can you help with that?",food-order
+food-ordering-2,dlg-418fe435-d768-4ed0-8b8d-25bb98bc1c6d,Hi. I want to order food for take out for three people and the type of food I'm looking for is Greek food.,food-order
+food-ordering-1,dlg-41d5c1eb-4770-492f-9fd4-81167217fa22,Hi. I would like to order barbecue as takeout for three.,food-order
+food-ordering-2,dlg-41f2527d-5f7d-4040-847c-d249119a2382,"Like to order some pasta for 2 people, please.",food-order
+food-ordering-2,dlg-421114ff-3355-47ef-bf0a-493c27fb086a,"Hi, I'd like to place a takeout order for three people.",food-order
+food-ordering-2,dlg-42676cab-2ef6-4950-b321-0920bf8b4690,"Hello Assistant, I'd like to order some breakfast burritos for three people.",food-order
+food-ordering-1,dlg-4293b0f9-4bd3-4cb3-bd0e-0153beb56e71,Hi. I would like to order food for two people.,food-order
+food-ordering-2,dlg-431bf192-4a49-45cc-9385-dece887932d2,"Hi. I'd like assistance ordering takeout hot dogs for two people, please.",food-order
+food-ordering-2,dlg-43bbf7fe-bafc-412a-a441-3552735ba4ef,"I'd like to order takeout for three people, please.",food-order
+food-ordering-2,dlg-441f89e0-e612-4e10-8295-d179ab79065b,Hi. I was wondering if you could help me order some takeout.,food-order
+food-ordering-2,dlg-44377faf-fbaf-491e-af19-658a62a9ca73,Hi. I want to order takeout hot dogs for one.,food-order
+food-ordering-1,dlg-44410fc0-80b2-4031-98c7-ed89679e9cf3,"Yeah, I was wondering could you help me order some Mexican takeout? Just for myself.",food-order
+food-ordering-1,dlg-44455785-65e6-4aa0-9227-636901cfd53b,Hi. I'd like to place a takeout order for Chinese food.,food-order
+food-ordering-1,dlg-444d838a-fb28-4010-98b9-ccccb312852c,Hello. I need to order  barbecue food takeout for three people.,food-order
+food-ordering-1,dlg-4462d6df-7da7-4fa1-ac1f-4a138ea331b7,"Hi. I would like to order some takeout for one person, some Thai food.",food-order
+food-ordering-2,dlg-44be84fb-e2a5-4de3-9984-e17981e86913,"Hi there, I'm looking to order Greek takeout for three.",food-order
+food-ordering-1,dlg-4504ce9f-9bcd-4d86-8fa3-0ca3584bd6d4,"Hi. I want to do a takeout for three people, Chinese food.",food-order
+food-ordering-2,dlg-45206bab-3716-469f-989b-f617de055238,"Hi, I want to order takeout Pasta for one person.",food-order
+food-ordering-1,dlg-4544cd01-8be2-45b6-be7a-81c8cf8e29ff,Hi. I wanted to order burgers for takeout.,food-order
+food-ordering-2,dlg-4581d074-8134-48c6-89b5-53e1a50405d4,"Hi, I'd like to order some takeout food for three people, and I'd like to order some soup.",food-order
+food-ordering-1,dlg-459d987f-c9c8-46a4-954b-89b1c3bfb2b0,"Hello, I would like to order some Chinese food.",food-order
+food-ordering-4,dlg-45aad112-4b6c-4f4e-be97-2240c42c0c68,"Hello, I need to place a reorder for Larry's Grill.",food-order
+food-ordering-2,dlg-462eafc5-d9a4-40f0-a77b-78c09b2a01f3,"Hi, I was looking for takeout.",food-order
+food-ordering-2,dlg-479aaf7b-f0da-48ca-9f41-4f6d4cfbacb4,"Hi, I'm looking to order some breakfast burritos for takeout.",food-order
+food-ordering-1,dlg-486e9b52-5da0-4a6d-b7b5-acbcaf3e8da5,"Hi, I'm trying to order food for takeout for one person, please.",food-order
+food-ordering-1,dlg-48fd48eb-1452-4d4c-a61f-677871957785,"Hello, I'd like to order some Mexican food and burritos for two people.",food-order
+food-ordering-1,dlg-4982a920-2d7b-4257-a359-1ff8988980b5,"Hi, I wanted to order Thai food for one for takeout.",food-order
+food-ordering-1,dlg-49ae4add-89ba-41a9-ab6b-a66f0d811fea,Hi there. I would like to order some Chinese takeout.,food-order
+food-ordering-2,dlg-49f6ead1-4680-4e82-a93a-7d3bb361d25b,"Today, I need your help in planning food for takeout for two people. I'm looking into getting soup.",food-order
+food-ordering-2,dlg-4b536f1f-0b39-43da-8f90-53d80d32bf5a,Hi. Today I need your help getting takeout food for two people. I'm looking to get some Italian food.,food-order
+food-ordering-1,dlg-4b68ee68-00df-4e5d-b6c0-72be546a302a,I'd like a carne asada burrito for takeout.,food-order
+food-ordering-1,dlg-4b907d64-2949-4462-a05f-08c233db7703,"Good, I was looking to order some takeout, some pizza.",food-order
+food-ordering-1,dlg-4ba2df06-9eef-4626-a62e-2f970c26e44a,Hi there. I'm looking to order food to takeout for two people. I'd prefer Indian food.,food-order
+food-ordering-2,dlg-4bb08ffc-a591-45d0-bc10-49f25dddab74,"Hey, can I get two breakfast burritos from you?",food-order
+food-ordering-1,dlg-4bcda1a1-07ec-4d34-9cdd-fc7d88272863,"Hi Assistant, I'd like to order some gyros for take out and three people are going to join me.",food-order
+food-ordering-1,dlg-4bd8dcbf-9f1f-4f71-8f44-18c3349c93db,Hi. I'm looking to order gyros for two.,food-order
+food-ordering-2,dlg-4bfdebe1-2118-4cdb-b2aa-d0ed0297074a,"Hello, I need to order some soup.",food-order
+food-ordering-1,dlg-4c077535-58bb-4a5b-8082-240a05153235,Hi. Today I need your help getting food for takeout for three people. I'm looking to get some Thai food.,food-order
+food-ordering-1,dlg-4c0f0a42-e9de-4a4d-8524-a3731582e163,"Hello, I'd like to order take out pizza for three people.",food-order
+food-ordering-2,dlg-4c492a32-6e4e-4424-a73c-47e2e6d96539,Hey. Can I get some soup?,food-order
+food-ordering-2,dlg-4cb0ee9b-e60b-4e37-bbda-1a4cee44ce54,I'd like to order pasta.,food-order
+food-ordering-2,dlg-4d08d8cc-ab2c-405b-8175-77b5bf61af48,I'd like to order sandwiches for one.,food-order
+food-ordering-2,dlg-4d3ff5cf-8d6b-421e-ada0-e412874848c5,Hi. I'd like to order breakfast burritos for takeout for three people.,food-order
+food-ordering-1,dlg-4d6acf78-3925-4cf5-ab0f-2b686837c7f3,I'd like to order Mexican takeout for three people.,food-order
+food-ordering-1,dlg-4d706ad0-4580-406e-8fcc-11beb6759b3b,"Hi, I wanted to order Mexican takeout for one.",food-order
+food-ordering-1,dlg-4d782f97-eea6-4b6f-aad9-e1eb7d6a7434,"Hi, I'd like to order Chinese food for three people.",food-order
+food-ordering-4,dlg-4dd095f5-7d3d-4105-91eb-5ba3cf7674f4,I'd like to reorder my last meal from Casa Sanchez.,food-order
+food-ordering-1,dlg-4e2241cf-199a-4ab2-b950-969075486527,Hi. I need to order some burgers for two people.,food-order
+food-ordering-4,dlg-4efc8114-5b98-47b0-a7f3-d49e0a959ecc,Hi. I ordered some takeout this past weekend and I want to reorder it tonight.,food-order
+food-ordering-1,dlg-4f7dbdc1-0a92-4991-927e-4abafe0f6eb4,I'd like to takeout some Chinese food.,food-order
+food-ordering-3,dlg-4fc8a18a-9ae1-4827-9032-457b5a2b7d39,"Two hot dogs, please, everything on it, extra relish, two large orders of fries, one order of mozzarella sticks, and two large Cokes, please.",food-order
+food-ordering-1,dlg-4fd3ee28-0d11-4b27-af09-a1c51ad2c530,Hi. I'd like to order Chinese takeout for one.,food-order
+food-ordering-2,dlg-5036819b-9086-4ecc-90d6-641ff77f0426,"Hi. Yeah, I'm looking to order food for takeout. Some breakfast burritos.",food-order
+food-ordering-1,dlg-5050d44a-1540-4577-abbe-e2b0b2672f08,Hi. I need to order some Thai food takeout for three people.,food-order
+food-ordering-2,dlg-5053191b-aa4b-4494-bfbc-20ecdeed42ed,I want to order food for takeout for three people and the food I'm looking at is breakfast burritos.,food-order
+food-ordering-1,dlg-50859319-c411-477a-9d00-c854d27c5e8b,"Hi assistant. I'm looking to order some takeout food, and I'm interested in ordering some pizza.",food-order
+food-ordering-2,dlg-50cb6754-463b-43cd-994c-56ee85235749,"Hello, I'm a big fan of Greek food. I'd like to order some Greek food for three people.",food-order
+food-ordering-2,dlg-50eedb7a-cc84-4493-bdfb-d60622648da4,"Hi. Yeah, I was looking to order some soup for takeout.",food-order
+food-ordering-4,dlg-513d32fd-d85e-4bbb-9f21-1502b1d7f33d,"Hi assistant, I ordered some food this past weekend, and I'd like to reorder it for tonight.",food-order
+food-ordering-1,dlg-5149e742-74af-4995-8d0b-a7b4bbdf3352,"Hi, I'd like to order barbecue takeout for one, please.",food-order
+food-ordering-1,dlg-51894712-1999-4ea8-974d-8651368ba976,"Hi, I'd like to order food take away for two people.",food-order
+food-ordering-1,dlg-51be5532-3f36-4244-9ff6-ec545c92dd5f,I want to takeout for three. We're looking for poke food.,food-order
+food-ordering-2,dlg-52074c91-c2ae-4353-99ee-8c5d52f5f613,"Hey, could you help me order takeout for three people?",food-order
+food-ordering-2,dlg-52554e15-9848-464c-900e-7a5f80d82d25,"Hello, I need to order food for three people and I'm looking to order some pasta.",food-order
+food-ordering-1,dlg-527d1ef9-f93c-4bd0-8c4e-ce2c1da43713,"Hello. Today, I need help in finding food for takeout for two people. I'm looking for Thai food.",food-order
+food-ordering-1,dlg-52fb4974-45e1-4727-9f70-f892c8c2c465,Hello. I like to takeout some food.,food-order
+food-ordering-2,dlg-535b8a64-4f65-442c-8731-7de6672ad76a,I am looking for some hot dogs tonight. Ordering for two people.,food-order
+food-ordering-1,dlg-535df8e8-0218-4ee9-a8b7-7370ad73d476,"Looking for takeout for one person, please. Mexican food.",food-order
+food-ordering-1,dlg-5372af67-f960-4a3d-98da-43303303c667,Hello. How are you? I'd like to order a pizza for takeout for three people.,food-order
+food-ordering-2,dlg-53858c55-8cbd-4a4b-b134-100ec30107f1,"Hi Assistant, I would like to order some takeout food for three people, and I would like to order some soup, please.",food-order
+food-ordering-1,dlg-5388edfb-f5d0-4239-a4c8-f27940fbbcf1,"Yes, I'm looking for takeout for two people, please, for gyros.",food-order
+food-ordering-2,dlg-539d66dc-2114-431d-88a3-50b60a9d56d9,Hi. I'd like to order takeout for one person.,food-order
+food-ordering-2,dlg-53bffe2c-e599-4384-ad4e-1f3f3229e4c7,"Hi, could you help me with ordering takeout for three people?",food-order
+food-ordering-3,dlg-53f01272-7abb-4199-bcdb-8f56cf7d21ec,Hello. I need your help getting take out for two people. I'm looking to get some sandwiches.,food-order
+food-ordering-2,dlg-54234ced-1493-421c-8217-9cc9e23f2f64,Hi. Today I need help finding some food to eat for one person. I'm looking to eat some pasta.,food-order
+food-ordering-2,dlg-5457100e-4161-46cc-a9ce-d7cbba02f925,"Hi. I'd like to place a takeout order for soup, and I'd appreciate it if you didn't hang up on me.",food-order
+food-ordering-2,dlg-545dd7fb-859b-49bd-b1ce-ddfc6f3cb45b,Hi. I would like to order food for takeout. I would like to get some soup. Can you help me with that?,food-order
+food-ordering-1,dlg-54609946-4388-4939-9e9c-1a6f4b1161da,"Hi. I'd like to order takeout for two people, please.",food-order
+food-ordering-1,dlg-5471f750-7bed-46fe-b80f-3e92790897d2,Hi. I'd like to order barbecue food for takeout for myself and my wife.,food-order
+food-ordering-4,dlg-550a70bf-c19e-47ca-9b6e-f5ad24a00c62,"Hi, I'd like to repeat my last takeout order from Sarah's Pizza.",food-order
+food-ordering-2,dlg-55201d0f-b18d-410b-89fd-603d2d3b4f17,"Hi. Today, I need your help to order food for takeout for three people. I'd like to order soup.",food-order
+food-ordering-2,dlg-55a5d70d-69c2-47d3-a668-57b210e7b4ff,I would like to order hot dogs for takeout.,food-order
+food-ordering-1,dlg-55f44c19-4802-4c37-ba2f-9c3a9af07898,"Hi, I wanted to order takeout food.",food-order
+food-ordering-2,dlg-563dd9bf-dbb6-49e8-bb6f-f7b81c32df81,"Hello. I need to order take-out food for three people, and I need to order some soup. Can you help me with that?",food-order
+food-ordering-2,dlg-56447d17-873a-4c43-8181-92608b852ffd,"Hello, Yes, I like to takeout for three people, please.",food-order
+food-ordering-1,dlg-56919c92-6045-458b-8c6c-1b6c020fa855,"Hello, I need to order takeout food. I'm looking for Indian food.",food-order
+food-ordering-1,dlg-5696dfd9-ac97-4291-84b4-5a8ba3ac2892,"Hi, I'm looking to order takeout for myself and three of my friends. We would like to order a Mexican food and we are all really excited about this Quesadilla. So, we would love to get four main courses of Quesadillas, and two orders of salsa and chips and that should work for us. We have the drinks at home, thank you.",food-order
+food-ordering-2,dlg-56f97a45-3e51-463d-b709-75bb660e64c8,"Hi, I'd like to order takeout for three people.",food-order
+food-ordering-4,dlg-578a267a-65dc-45ed-893b-4354671665e6,Hi. I want to order the same thing that I got last week from Crepe's fantastic.,food-order
+food-ordering-1,dlg-578c1f4e-5c2b-4739-9079-207d8102a6bb,"Hello, I'd like to order Thai food for three people.",food-order
+food-ordering-4,dlg-57f76ad3-61d0-4695-a87b-a5990d1ea2c3,I would like to order the same meal from crêpe's fantastic that I ordered last weekend.,food-order
+food-ordering-2,dlg-58076947-9bdf-4c60-b4ee-fa405d860536,Hi. Today I need your help getting food for one person. I'm interested in buying some pizza.,food-order
+food-ordering-1,dlg-58181edf-ece9-498d-83c4-9ba5eeb0ad58,Yes. I'm looking to order Chinese food for me and my two friends.,food-order
+food-ordering-2,dlg-5823e8ec-ae6d-4e8e-b343-ec33261e8de5,One order of rigatoni with vodka.,food-order
+food-ordering-1,dlg-5914764f-3558-41ec-9ce4-b5363c631550,"Yes, I'd like to get some burgers. I'd like to have a large cheeseburger covered in onions with mustard.",food-order
+food-ordering-3,dlg-59149c19-44d6-4bd4-bf39-23cf51da1913,"Sorry. I had to step away for a few minutes there. Now, I want to finish my order. I'm ordering for two people, like I was saying. One Each both hotdogs with relish on it. And, we also would like a side of fries each. And we'd each like two Pepsi's. And, that would be all.",food-order
+food-ordering-1,dlg-59ac8ebb-f358-4b23-ad3c-80d069ab9f13,I need the order take out.,food-order
+food-ordering-4,dlg-5a1c9993-15ef-41a8-a912-7b09a93d6d7b,I'd like to bring up my last order to Casa Sanchez. I like to reorder. Can I have that again?,food-order
+food-ordering-1,dlg-5a82f2ab-d561-4ba9-afb3-47054808f668,"Hi, I want to place an order of burritos for two people.",food-order
+food-ordering-1,dlg-5a9a9425-ea7e-4436-92bc-3762f1299aa0,I would like to order takeout for three people.,food-order
+food-ordering-1,dlg-5ad6d774-f97d-42bf-aa92-e4222cbd33c4,"Hi, I need to order takeout for two people, please.",food-order
+food-ordering-2,dlg-5afc4e6d-45b3-4c28-b8dd-4d659f8d4454,"Hello, I'd like to takeout some food.",food-order
+food-ordering-3,dlg-5b292190-b423-4dfb-8406-c80d92f5a312,"Yeah, I'd like to continue placing my order for food, please.",food-order
+food-ordering-2,dlg-5b4b6b6e-4345-462b-b4d9-24f289e013c0,"I would like to order sandwiches for take out, please?",food-order
+food-ordering-1,dlg-5b7e4442-158e-453f-bc8d-ebeb55c383f1,Hello. I'm here with my two wives and we are looking to buy something for dinner.,food-order
+food-ordering-4,dlg-5bd76d9c-9105-4763-b8fc-f87e9dd09682,"Hi. Today, I need your help ordering food for takeout. I'm looking to order the same thing I ordered from Casa Sanchez.",food-order
+food-ordering-2,dlg-5c46fae2-cfd7-4026-8ac9-9e16fa5e0d33,Hi. I'd like to order hot dogs for take out.,food-order
+food-ordering-1,dlg-5c7cfba8-64d8-481f-871e-02d716c63880,Hi Assistant. I'm looking to get some takeout food for three people and I'm looking for barbecue food.,food-order
+food-ordering-1,dlg-5cd15f04-5c57-4628-8ff1-7e7635612ea8,Hello. I need to order takeout for one person. I need some gyros.,food-order
+food-ordering-2,dlg-5d3c5ffd-8ce4-4685-9d4f-45faf75dd3c4,"I would like to order of two soups. One is tomato basil and the other is chicken noodles. And, I would like to add 2 Caesar salads and some bread sticks.",food-order
+food-ordering-1,dlg-5d8cc7cb-5978-49ff-8578-ab973ec5189d,"Hey there, I am looking for a place to get takeout food, Barbecue takeout food for two.",food-order
+food-ordering-2,dlg-5db8a6a8-c15f-4da1-9c08-8708fd22bd03,"I need help taking ordering food for takeout for one person, please.",food-order
+food-ordering-1,dlg-5dc263e3-946a-4724-8210-f9a68fca2361,"I need help in finding food to order for three people, and I'm looking for burgers to eat.",food-order
+food-ordering-2,dlg-5e3c980f-38df-4e5d-bbc8-33a32490b54a,"Hi, I'd like to order Italian for three people.",food-order
+food-ordering-2,dlg-5eb9fbad-cc18-44b8-a278-003937de178b,"Hi. I Need to order some food for two people, some takeout.",food-order
+food-ordering-3,dlg-5ee269f1-2638-4580-a608-c23c4e624b15,I'd like to have one roast beef and white cheddar panini.,food-order
+food-ordering-2,dlg-5efdfee7-adf7-4037-958d-20ff6efa7354,"Hi, could you help me with ordering take out?",food-order
+food-ordering-2,dlg-5f313ea7-5df2-4930-8a9a-73c446d3264e,Hi. I would like to order food for takeout for two people. The kind of food I'm looking for is soup. I'd like to order a lentil soup and a clam chowder soup.,food-order
+food-ordering-2,dlg-5f7700cc-fc6a-4322-b883-ea80bed77f30,I'd like to get some takeout food for two people.,food-order
+food-ordering-2,dlg-5fafd313-69dc-4e33-9f5a-5ac26e8d9052,"Hi, I'm looking to take out some breakfast burritos.",food-order
+food-ordering-2,dlg-5fc3a2db-1d66-4292-a024-56272c4c400a,Can you help me to order sandwiches for two people?,food-order
+food-ordering-1,dlg-5fcfaeda-ecb2-401c-9c17-61f64ca2b1d9,Hi there. I want to order some Mexican food for takeout.,food-order
+food-ordering-2,dlg-603fb57d-1964-404b-9508-bc1eff072735,"I need help ordering takeout pasta for two people, please.",food-order
+food-ordering-2,dlg-60477afd-b93f-4e83-a313-400335680995,"Hi assistant. I would like to order some pasta, please, for one person for takeout. Can you help me?",food-order
+food-ordering-1,dlg-60534029-3b3d-4f6c-a3a7-387d208a6c3a,I'd like to order Mexican for two.,food-order
+food-ordering-1,dlg-606a9738-102a-4ff9-b43b-ee769e40415d,"Hi. I'd like to order takeout for three people, please.",food-order
+food-ordering-1,dlg-60a38e85-d88f-4acc-b9e0-66dcf647d6b0,I'd like to get three Burritos Grande for takeout.,food-order
+food-ordering-1,dlg-60b27943-7800-48c7-862c-013a9b6f1396,I would like to order food for one person?,food-order
+food-ordering-2,dlg-6139b60a-de42-49b2-9983-9b49650d3900,I'd like to take out some Italian food.,food-order
+food-ordering-1,dlg-61508396-c0ca-4f35-a0f4-eaa642447b29,I'd like to order some food for takeout for one person.,food-order
+food-ordering-2,dlg-62368c65-fca0-471d-b210-ef61a1d7d87d,"Hey, I'm looking to get some sandwiches.",food-order
+food-ordering-1,dlg-624b2eb9-34b1-43c6-b43e-3dc3bfe5c9f7,Hi. I was wondering if you can help me make a take-out order.,food-order
+food-ordering-2,dlg-633584a7-3b33-4008-9892-c3a176486f83,"Hi, I want to order pasta takeout for one person.",food-order
+food-ordering-1,dlg-634c77cb-de6a-4f6a-aaca-5f2ef199b1ee,"Hi, I would like help ordering takeout food for three people.",food-order
+food-ordering-1,dlg-63678891-c95f-4064-b5da-58becfc5ca20,"Hi, I was wondering if you could help me in ordering some takeout food.",food-order
+food-ordering-2,dlg-638b5287-7e9e-42b8-9f57-7a14d25c8f83,Hello. I'm looking to order takeout food for one person and I'm looking to order some hot dogs.,food-order
+food-ordering-2,dlg-640edeef-bb87-4568-9ff2-203b1a501e76,I need to place order for some great food for three people.,food-order
+food-ordering-1,dlg-66037017-065c-45d7-a0b0-67d803769758,"Hi, I'd like to find a place to takeout order for two people at a good burger place.",food-order
+food-ordering-1,dlg-66caaffa-bdd9-4f85-b350-d5f1932d902e,I'd like to order some Mexican food.,food-order
+food-ordering-4,dlg-66fd0adf-c772-42b2-baaf-d66d6693d7c3,"Yeah, reorder some food. Sarah's Pizza, I guess.",food-order
+food-ordering-2,dlg-66fd525b-40e2-4de5-8991-5e98dfd5b184,"Hi. I'd like to order food for take-out for two people, the type of food I'm looking at is soup.",food-order
+food-ordering-2,dlg-6736dd40-8ed9-46a3-91b6-899b260cdb79,"Hello Assistant, I'd like to order some takeout food for three people.",food-order
+food-ordering-2,dlg-676d55a8-4473-4e37-9500-d5c7e6df9708,Hello. I need to order for three people and I need to order some breakfast burritos.,food-order
+food-ordering-2,dlg-678330c1-fbca-4e96-86c9-a0948124432f,"Hi. I would like to order Italian food for take out, please.",food-order
+food-ordering-1,dlg-6847a47a-e88b-4375-9ad9-532e16283c6f,I want to order some Tikka pizza.,food-order
+food-ordering-1,dlg-68c87e56-4fe4-485f-b932-6d16eb35b818,Hey. I want to get some barbecue.,food-order
+food-ordering-1,dlg-693ee43b-576a-4bbc-ab13-da093c879456,"Hey, I need to order a couple of burgers.",food-order
+food-ordering-1,dlg-694c654d-23b9-4163-9410-d0bfbd993db0,Hello. I'm looking to order takeout food for three people. I'm looking for Mexican food.,food-order
+food-ordering-2,dlg-6970da2d-6bde-4292-b414-50f657b6ca1a,Hi. I would like to order food for takeout for two people. The type of food I'm looking at is sandwiches.,food-order
+food-ordering-1,dlg-69827057-84d5-4a84-bb2e-b3d38f4f9cd3,Yes. I was looking to order Thai food. Roast duck curry for the entree.,food-order
+food-ordering-1,dlg-6986893a-b17a-4095-b85b-be03bc7a954a,"Hi, I'd like to order barbecue takeout for one.",food-order
+food-ordering-4,dlg-69ac9d41-9d49-47e2-897f-9ff73cc7865f,"Hey, do you remember last weekend when I got food from Sarah's Pizza?",food-order
+food-ordering-1,dlg-69edc6b2-0af8-447d-8c86-b715f7fb1062,"Hello, I'm looking to order some food and I'm looking for some burgers to order.",food-order
+food-ordering-2,dlg-6a70d984-b274-45c6-8d0a-e33d8c9f8c5f,"Yeah, I'd like to place an order for takeout.",food-order
+food-ordering-1,dlg-6b4295e8-a46c-41f6-8f70-c82cb61bd905,"Hi, I need help in ordering takeout for three people, please.",food-order
+food-ordering-2,dlg-6c3a2265-87b7-454e-aa00-c823bcdc0cd0,"Hello, I was wondering if you could help me make a takeout order. I'd like some soup.",food-order
+food-ordering-1,dlg-6c3a66d9-a8eb-4486-8b07-e96e5ccb7cd4,"Hello, Assistant I'd like to order some poke food.",food-order
+food-ordering-1,dlg-6c3ee8d0-a5d6-4341-b906-89a1218a3fdb,I'm going to get something to eat for my husband and we are looking for some Mexican food. Can you help me?,food-order
+food-ordering-1,dlg-6c43ee2f-3cc9-4ead-bed5-e15c103d3d0c,Yeah. I'd like to order some barbecues for takeout?,food-order
+food-ordering-2,dlg-6c44a3d7-c89b-4b00-8bac-66202c918749,Hello. I would like some help ordering takeout for sandwiches for one person.,food-order
+food-ordering-2,dlg-6cd5878a-1fd7-4b82-95c0-5caee749b084,"Hi, I'd like to order takeout soup for two people, please.",food-order
+food-ordering-1,dlg-6d6f6046-b521-4f10-bd41-308c5f82e8e5,Hi. Can you help us order gyros?,food-order
+food-ordering-2,dlg-6dd5fe48-004b-4e5b-a792-830990735b98,"Hi, I need to place an order for takeout.",food-order
+food-ordering-2,dlg-6dd7bb73-2e89-4423-8bd1-f8fcea2ef246,I need to order hot dogs.,food-order
+food-ordering-2,dlg-6e2e7708-2d16-4711-9efa-b06c40439672,"Yes, I'd like to order hot dogs for myself, please.",food-order
+food-ordering-1,dlg-6e57a238-77cf-4cee-8d56-e607e3721093,Hi. I was wondering if you could help me order some Thai food.,food-order
+food-ordering-2,dlg-6ecd7ef2-8729-4433-9169-3f381955dc07,"Hi, I'm trying a takeout order for three people, please.",food-order
+food-ordering-2,dlg-6f2aaf11-6c1b-49eb-ac22-3fe94b9df25d,"Hi, today I need your help finding some food to eat. I'm looking to get some take-out for one person, and I'm looking to get some hot dogs.",food-order
+food-ordering-1,dlg-6fb0039c-923b-4794-b30e-f6a8f754a533,"Hi Assistant, I would like to order some food for three people for takeout, please. I'd like some Thai food.",food-order
+food-ordering-2,dlg-6fec79de-5693-4519-9e41-9fb6b23d894a,"Hi, I'd like to order some take out for my wife and myself.",food-order
+food-ordering-1,dlg-706d76a1-a040-4f07-aed9-66909ccf0bca,"Hi, I need to get takeout.",food-order
+food-ordering-2,dlg-70817963-d0e6-428f-8f8f-df90c296ff85,"Hi. I'd like to order a hot dog for myself, please.",food-order
+food-ordering-4,dlg-70c23386-f681-44d4-a483-b0218eb987dd,Hi. I'd like to place an order at a restaurant that I made an order last week.,food-order
+food-ordering-4,dlg-70dad657-fd9e-4988-8cb7-d60da0e56f0e,Hello. I'd like to repeat my takeout food order from last weekend at Casa Sanchez.,food-order
+food-ordering-1,dlg-710ed009-3311-4ae4-b8d3-77918a5002cb,I was wondering if you could help me order some takeout food for a couple of people.,food-order
+food-ordering-2,dlg-71324b93-bf9b-423e-ad64-e1bab52c060c,"Hi. I'd like to order some takeout, some soup.",food-order
+food-ordering-1,dlg-7138b58b-8f79-42d8-92a6-04e97cb31929,"Hi Assistant, I would like to order take out food for two people.",food-order
+food-ordering-2,dlg-718b4288-8025-434e-8133-27f9d22cbdb6,"Hello, I need to order some pasta for three people.",food-order
+food-ordering-2,dlg-71d5374d-7862-4f44-bf87-b2f398dfda42,Hi. I'd like to take out Linguine Caesar salad and two Coronas for two people.,food-order
+food-ordering-1,dlg-71e60a36-783d-4715-bd27-1e167127b3b6,I was wanting to order takeout pizza for three.,food-order
+food-ordering-2,dlg-726ea92c-52af-4355-b4e3-1463a3257ad6,I would like to order food for takeout for two people.,food-order
+food-ordering-1,dlg-72792d58-df09-4776-af64-4d0995948a89,"Hi, I want to order take out.",food-order
+food-ordering-1,dlg-72dfd23e-f319-44f1-af6c-d9ee9c299d06,"Hello, today I need your help getting some takeout for one person. I'm looking to get a gyro.",food-order
+food-ordering-1,dlg-72ed07f3-1453-4c45-98dd-7119a9dcea58,I would like to order takeout food for two people.,food-order
+food-ordering-1,dlg-73524f8e-a782-409c-8bd2-71f959395d6d,I would like to order takeout for one person.,food-order
+food-ordering-1,dlg-739be9f6-37bd-453f-b360-9a3022f8f064,"Yes, takeout for two, please, Chinese food.",food-order
+food-ordering-2,dlg-739e9cda-24fa-4c49-af86-845da237478f,Hi. Today I need your help finding food to get for takeout for one person. I'm looking into buying some breakfast burritos to eat.,food-order
+food-ordering-2,dlg-73c42fd0-02e7-4a90-a833-47a8da4de579,"I need sandwiches for takeout, please.",food-order
+food-ordering-1,dlg-744e7942-2e09-4d31-82a6-6d9a6310702e,Hi. I'd like to order a couple of gyros.,food-order
+food-ordering-2,dlg-747904cc-ed38-4648-9de4-9fa2342c133c,"Yeah. I was wondering if you could help me place a takeout order, please?",food-order
+food-ordering-2,dlg-74857e8b-ea3f-4b2b-9c66-e83bb3fb303e,Hi. Today I need your help finding food to get for takeout for one person. I'm looking to get some breakfast burritos to eat.,food-order
+food-ordering-2,dlg-74902069-f352-464e-ae69-7fa9fdde5387,"Hi. I'm ordering for two people today. We each like one hot dog and onion. So, two hot dogs with mustard and onions.",food-order
+food-ordering-3,dlg-74910c01-0459-40ee-85f5-926dd8628aa8,"Three gyros, everything on it, extra tomatoes, extra cream on the side, sour cream and three large cokes and three orders of fries.",food-order
+food-ordering-2,dlg-74b5b066-5803-4434-acdf-56db0116acd6,Hi there. I was wanting an order takeout for two. I wanted sandwiches.,food-order
+food-ordering-1,dlg-74b8a7dd-855d-475a-b4d6-621d822e4a06,I'm looking to order some pizza for takeout for three people.,food-order
+food-ordering-2,dlg-751007ad-f845-4c17-adf9-2ad7de57e731,Hello. I'm looking for takeout for two people. Specifically looking for breakfast burritos.,food-order
+food-ordering-1,dlg-75351487-80c1-4118-8fae-6a9c5ee62556,Hello. I would like to order some takeout poke for one person.,food-order
+food-ordering-1,dlg-75e5e235-4046-4354-94e5-192374923292,"Yeah, I'd like to order Mexican.",food-order
+food-ordering-2,dlg-76066953-301a-4a27-a367-28c475f26045,"Hi, I'd like to order take out for one person.",food-order
+food-ordering-1,dlg-761bec04-4fda-4dde-80fd-d243d6d7ec15,"Hi, I'd like to order take-out food for myself, I want to get a dry roll. And I'm going to get a sweet baked potato on the side and a green salad just to make it a little healthier.",food-order
+food-ordering-2,dlg-7655955f-8b5a-4e12-8333-d38c42fd2090,"Hi, I need help getting food for take out for two people. I'm looking to buy some pasta.",food-order
+food-ordering-3,dlg-768037e6-1c20-486d-8a60-a71877e68253,"Hi Assistant. I'd like to finish my order that I started. I forgot to add some items, and I'm trying to order some Greek food for three people. Can you help me?",food-order
+food-ordering-3,dlg-76dff967-af51-4851-b88f-e184972cb3c1,(s) Hi. I need to go back to the order I was placing a half an hour ago.,food-order
+food-ordering-2,dlg-76ed9345-c428-4008-af33-7c3528c85a42,I'd like to order take out for three people.,food-order
+food-ordering-4,dlg-7736a6e1-573e-4dc3-9864-c1557d224a7a,I need to make an order from Casa Sanchez.,food-order
+food-ordering-2,dlg-7747c288-d206-4fab-a954-2f2d8c5cd88a,Hello. I want to place an order for some Greek food.,food-order
+food-ordering-2,dlg-7773bfec-26c1-490e-81a6-cb97c6f3b4e0,Hi. I like to order some Greek food for a take out for three people.,food-order
+food-ordering-1,dlg-77a80b9b-3c49-4de6-9dff-492264b9aa66,Hi. I'd like to order Barbecue for one.,food-order
+food-ordering-1,dlg-78247e17-3cda-4826-a5ab-be7e9110f4bd,Hello. My friends and I want to get some burgers.,food-order
+food-ordering-4,dlg-7835508d-4be2-462b-b3d6-3be9c1118b21,"Hi, I was wanting to order some food from Casa Sanchez.",food-order
+food-ordering-4,dlg-783d6be1-95e3-4b70-9c88-a04658dc5bcb,Do you remember last weekend when I ordered out at Sarah's Pizza? Could you repeat the same order for me right now?,food-order
+food-ordering-4,dlg-7860460a-9afd-43a4-a4b4-5ddeb195e559,"Hi, I'd like to reorder the same thing the same food I had last weekend.",food-order
+food-ordering-1,dlg-786c06de-df66-4add-a730-68c850185320,Hi. Today I need your help finding some food for two people to get for takeout. I'm looking to get some burgers.,food-order
+food-ordering-1,dlg-78bb8466-5c92-425d-98f7-65a6f03a5730,"Hi. I'd like to order takeout for one person, please.",food-order
+food-ordering-1,dlg-79a5fbb0-17ae-404c-983b-6c9138a2ecd1,Looking for a takeout for myself. Looking for pizza.,food-order
+food-ordering-1,dlg-7a98af1f-d359-4ce2-9c84-14c3a7072b73,I am looking for a place where I can get takeout just for one person. I'm looking to get myself a pork bowl.,food-order
+food-ordering-1,dlg-7ac4a2b2-2e07-4475-b3fb-f58859d0b1a6,"Hi there, I would like to order some takeout pizza.",food-order
+food-ordering-1,dlg-7b01dd01-45b9-47b3-b5b2-0d39bd8ca4ee,I need to order food for taking out for three people.,food-order
+food-ordering-1,dlg-7b6bc5f0-b5bb-4d63-8f94-dd3c9fffe72c,"Hi, I'm looking to eat takeout, please. I'm looking for a burrito.",food-order
+food-ordering-4,dlg-7ba72c6d-1d4a-41e8-a5b2-add5f4d16da3,Hi. I would like to order the same meal from the same place I ordered from last weekend.,food-order
+food-ordering-1,dlg-7c09bd8f-8ef8-416c-bdc5-738c15fc99cc,"Hi, I'd like to order a lamb gyro.",food-order
+food-ordering-1,dlg-7c17b30e-7b7f-4928-8e2a-97ee76cb9de2,Takedown the order for Gyros.,food-order
+food-ordering-2,dlg-7d0a150f-d7d9-40a5-aec2-e53c1069511c,"Yeah, I'd like to order some takeout food, Greek.",food-order
+food-ordering-2,dlg-7d27833a-ce1e-4def-a9ce-56f158f11ff7,I would like to order some Italian food for two people for takeout.,food-order
+food-ordering-4,dlg-7d319f19-dc4f-4818-bf84-5889421875f1,"Hi, I'd like to place a takeout order at Larry's Grill.",food-order
+food-ordering-1,dlg-7db5fd9f-98f2-4f79-8708-f643e506dccc,Looking for dinner to take out.,food-order
+food-ordering-2,dlg-7dca2649-7ffb-4a27-9cce-36e80240acf3,I'd like to place an order for takeout food.,food-order
+food-ordering-2,dlg-7dcc8ac7-217e-42b9-8de1-834a4b477940,"Hi, I'd like to order your hot and sour soup.",food-order
+food-ordering-1,dlg-7e22ee71-abce-4aed-bf4e-97b1527e5024,I wanted to order takeout for three people.,food-order
+food-ordering-4,dlg-7e7c5535-a890-401e-bd07-42a335667a5b,"I'd like to order the same thing I ordered last week from Larry's Grill, please.",food-order
+food-ordering-2,dlg-7e839996-a3ba-4a2c-9884-5e24a7dba214,Hi. I'd like help ordering some takeout.,food-order
+food-ordering-1,dlg-7ed0183e-9b76-4ba2-bb63-0a0bb4bbda4b,I'd like to order a lamb gyro for one person.,food-order
+food-ordering-1,dlg-7efec01d-ed8f-4f51-94b8-bdbd7b3cfcf0,"I'd like to order takeout Chinese food for one person, please.",food-order
+food-ordering-1,dlg-7fa84dc4-c984-4b07-8c4f-8b58f00862a3,I would like to order pizza for takeout.,food-order
+food-ordering-2,dlg-7fc33687-54ce-4021-a33d-254427a40c7e,"Hi, I'd like to order some food for three people.",food-order
+food-ordering-2,dlg-7fe65e0d-18ce-4c14-b900-ddece2cfd4e4,"I'd like to place an order of burritos for breakfast, please.",food-order
+food-ordering-2,dlg-7fef4cd3-f4fb-462e-bdb3-78e1bba64cec,I am looking to order some food for takeout for three people and I'd like to order some breakfast burritos.,food-order
+food-ordering-1,dlg-7ff3ff31-a804-4397-a5e6-7b07f64a0271,"Hey, I need to order pizza.",food-order
+food-ordering-1,dlg-803c7940-3c70-4c80-b88f-cd7fc0787c4d,"Hi, I'm wondering if you could order some Mexican food for my girlfriend and me.",food-order
+food-ordering-2,dlg-80468663-3313-4318-a487-15dbd7404b35,"Hi, I'd like to order some Greek take out for one.",food-order
+food-ordering-1,dlg-8092f2bf-073e-4ccd-a3bb-d029dd2d2acc,I would like to order two large hamburgers.,food-order
+food-ordering-2,dlg-80f3b314-cde5-4001-ba10-c544c6f1f0ea,I'd like to order take out sandwiches for one person.,food-order
+food-ordering-1,dlg-8101efae-caa4-4022-afca-0a1f46b2266e,"Hello, I'd like to order barbecue chicken with fries.",food-order
+food-ordering-2,dlg-811609a4-cfeb-4435-b705-fe3e563db337,"Hi, I was looking to order a breakfast burrito for takeout.",food-order
+food-ordering-2,dlg-811dacb9-4dc2-42d3-b081-0bad23ecaeaf,Hello. I would like to make an order of breakfast. Can you help me with that?,food-order
+food-ordering-1,dlg-81758263-f672-42e8-9b0c-7d1dc3c8e5dd,Hello assistant. I'd like to order some takeout food for three people and I'd like to order poke food.,food-order
+food-ordering-1,dlg-81765fbc-c581-4e3a-8fe2-a1aaf8219a73,Hi. I'd like to take out some food tonight.,food-order
+food-ordering-1,dlg-8195b2b6-fb5d-4f67-b5de-3109640a2799,"Yeah, I was wondering if you could help me to order some take out food for an Indian food.",food-order
+food-ordering-1,dlg-81ae3ea5-e17d-4925-b06f-5ffbfe1661af,Hi. I want to order takeout for two people.,food-order
+food-ordering-1,dlg-81be5c96-d7a1-4fff-8b05-96651787f4be,"Hi. Today, I need your help ordering food for takeout for one person. I'm looking to order some pizza.",food-order
+food-ordering-2,dlg-822008cb-4b9b-49fb-afba-2c5eae76bdfc,Hello. I'd like to order sandwiches for one.,food-order
+food-ordering-2,dlg-829d441d-ec38-4dc3-ab17-a274668dbd6e,"Hi Assistant, I'd like to order food for take out for one person. I just want breakfast burritos.",food-order
+food-ordering-1,dlg-830ecf18-76b7-40a5-b638-67b7ba1a35a9,"Yeah, I'd love some burritos with a side order of refried beans, and a taco salad, and also a Diet Coke.",food-order
+food-ordering-2,dlg-83570d8f-4089-4ef4-a0a3-c6e45d0d6762,I'd like to order a hot dog take out for two.,food-order
+food-ordering-1,dlg-84886d49-fe1e-433c-a6f7-03f8a98c506a,I'd like to order Indian take-out for one.,food-order
+food-ordering-1,dlg-84d4020c-a0e5-4240-b268-ee81bd548f7d,"Hi, I'd like to order 3 burritos.",food-order
+food-ordering-2,dlg-84f107b9-60c8-4ac7-b0f4-fc7f14cb8134,"Well, I would like to order takeout Italian for one person.",food-order
+food-ordering-1,dlg-852cf656-5a82-4975-85a1-940905603b46,"Hi. I need two orders of Aunt Chiladas. I want one beef, One chicken, No guacamole, No onions and no sauce on the side, please.",food-order
+food-ordering-1,dlg-85c61362-4241-440d-8158-8a78bec12cb5,Hi. I'd like to order takeout.,food-order
+food-ordering-1,dlg-85d0cd6b-3611-43fd-a974-65246551e5b7,"Hi, I'm looking for take-out for two people.",food-order
+food-ordering-1,dlg-8632efdc-0c1f-4850-b3cb-13f861f130f2,"Hi assistant. I'd like to order some takeout food for three people. I'd like to order some Chinese food, please.",food-order
+food-ordering-1,dlg-8638765d-f6b2-415c-b463-f97356d4b25b,I'm looking for some Indian food.,food-order
+food-ordering-1,dlg-86414d59-5814-43b3-9d1b-b99da1255d46,I'd like to order a large chicken burrito for take-out.,food-order
+food-ordering-1,dlg-86803750-e5f3-4be0-a0be-5a5d6d6c3883,"Hi. I'd like to order food for a takeout for two people, and i'm looking for Chinese food.",food-order
+food-ordering-1,dlg-8699d02b-473f-4d2f-be8f-813e27c7d1bc,"Hi. I want to order takeout poke for one person, please.",food-order
+food-ordering-4,dlg-86ab117e-0416-43eb-8ca1-cd0d0f917597,I'd like to order the same thing I ordered last week.,food-order
+food-ordering-2,dlg-86b94971-69ec-465c-8957-64104ee94ea0,Hi. I'd like to order some take-out food for three people.,food-order
+food-ordering-4,dlg-870801cc-cb81-4c92-ae32-f3f1c08b8165,Hi. I'd like to order some food from Crepes Fantastic.,food-order
+food-ordering-4,dlg-870b8abe-9781-4bca-a666-8bd9de1335d9,I need your help in ordering food for takeout. I believe that I ordered a meal from Casa Sanchez and I'd like to reorder that.,food-order
+food-ordering-2,dlg-8777e71a-ad9a-45ac-824a-027cd2fd0833,I'm looking to order take out for three people. I need to order some Greek food.,food-order
+food-ordering-1,dlg-8791c225-c230-4f36-ad8e-52e38253e0a0,Hello. I wanted to order some poke food for takeout.,food-order
+food-ordering-2,dlg-8818f367-a2ba-494d-a295-4e298f5117a9,"Hello, I'd like to order sandwiches for takeout, please.",food-order
+food-ordering-2,dlg-882dd6fe-f64a-4896-a92a-dc522031f166,"I'm looking to order a take out for two people and my wife really likes great food, so can you recommend a great restaurant?",food-order
+food-ordering-1,dlg-884234a9-e48d-4517-aeee-894901464089,"I would like to order food for take out for one person, and I want it to be a burrito.",food-order
+food-ordering-1,dlg-89bcd8f5-c9e4-4f76-bf4c-d4753154af52,I'd like to order a take-out from the Indian restaurant.,food-order
+food-ordering-1,dlg-89e199d0-a817-4dc5-83ac-86c037eb3cc1,"Hi, I want you to take out order burritos for three people.",food-order
+food-ordering-2,dlg-89eb8545-e10d-4b9e-9d0d-bbb4a1dda747,Hello Assistant. I would like to order a takeout for three people.,food-order
+food-ordering-1,dlg-89ed84cf-ee14-4beb-b8fa-5f8484f7ce9f,"Hi, I would like to order some take-out.",food-order
+food-ordering-1,dlg-8a025a64-ee55-414f-a582-e75ae96d7841,Hi. I was hoping you could help me to order a take out of Pokey for two.,food-order
+food-ordering-1,dlg-8a157044-b31f-4e49-b9db-2b8228e22d2c,"Hello, I need help in ordering some food for two people. I wanted to order some barbecue food.",food-order
+food-ordering-1,dlg-8a2bcd79-c7d9-4d28-9ae7-77aca5717e19,Hi. I need help in ordering a pizza today.,food-order
+food-ordering-2,dlg-8a485aff-5fd4-4077-ae72-1ae0176137b1,"Hi, I was wanting to order some pasta take out for two.",food-order
+food-ordering-2,dlg-8a74c3b0-c117-4f90-9537-fc17c903cfc0,"Hi, I need your help getting food for take out for two people. I'm interested in buying some pasta.",food-order
+food-ordering-2,dlg-8aacbc36-0b1c-40d2-a96a-a1d166196f66,I'm looking for take out.,food-order
+food-ordering-2,dlg-8ab4a6d8-1fff-40d6-8e0a-a33b4e3c1760,"Hi assistant, I need to order a take out for one person.",food-order
+food-ordering-1,dlg-8b6bd6c7-8dd0-4086-9b7d-2dd013b732c7,"Hi, I am looking to order some Gyros.",food-order
+food-ordering-4,dlg-8ba2e84f-4c28-498d-a792-43773d2fdde3,I would like to order the same meal from Sara's Pizza from the last week that I talked with you last.,food-order
+food-ordering-1,dlg-8bb1eabd-70b1-45ce-97d2-706eb2a320bc,"Hi, I'd like to order a burger for one.",food-order
+food-ordering-1,dlg-8be88c68-190a-4d28-8efa-1a529db307ca,I would like to order take-out for one person.,food-order
+food-ordering-2,dlg-8bf6e475-4cc0-43ab-99bd-8bbcf9541d81,Hi Assistant. I'm ordering takeout. And I was hoping you could help.,food-order
+food-ordering-1,dlg-8c3785af-1ba9-41b2-8dc2-1d895d4c6a43,"Hi there, I would like to order a take out for pizza for one person. I'm looking for a personal size pan pizza with sausage, fresh mushroom, onion, garlic and blended broccoli.",food-order
+food-ordering-2,dlg-8c3d4487-6caa-411f-bb8c-3484e76334f8,"Hello, I'd like to order some pizza, actually, with green peppers, mushroom, and tomatoes.",food-order
+food-ordering-1,dlg-8c405520-ea41-49be-aeec-7c21bb12d11c,Hi. I'm looking for take-out.,food-order
+food-ordering-1,dlg-8c50ed06-68f7-45b0-a60f-8ddc66576a18,Hi there. I was looking to order some pizza for take out.,food-order
+food-ordering-1,dlg-8ca3ed04-277c-46ad-89cd-6af6c6a359a4,"Hi, I'd like to order a barbecue take out for three people.",food-order
+food-ordering-2,dlg-8ca752c0-87b8-4dc3-853a-dac8479e2a99,"Hi, I need to order some takeout for two people hot dogs.",food-order
+food-ordering-2,dlg-8cc9d6c8-58e4-4e21-8a4b-6baab816017c,I would like to order free take out for one.,food-order
+food-ordering-2,dlg-8cd938f5-5f70-4927-8204-3fdb116fc7df,"Hello, I need help ordering some take out food for two people.",food-order
+food-ordering-1,dlg-8d64c957-c1e7-456c-b75e-d6b4bb9dfca2,Hello assistant. I'm looking to order Indian food for two people for takeout.,food-order
+food-ordering-1,dlg-8dea5b2c-4d95-4552-92d9-c8164ab0d08d,"Hey, can you help me in trying to order Chinese tonight.",food-order
+food-ordering-2,dlg-8df5ab10-7c16-4859-b242-8223e4c56be4,Hello. I'd like to order some Italian food.,food-order
+food-ordering-2,dlg-8e3e4478-34e3-457c-a5ca-234f489e9de7,I'd like to order take-out for one person.,food-order
+food-ordering-1,dlg-8e452a0c-080f-47fd-a669-7c8c33c85c4c,Can you help me to order Chinese food?,food-order
+food-ordering-2,dlg-8f05ab76-958f-4c2d-a87b-0bdc624b45a3,Hello. I need to order breakfast burritos.,food-order
+food-ordering-2,dlg-8fad1e80-ee2c-40aa-9907-3ee2bd47ed8e,"Hello, I'd like to order food for take-out for two people. I would like to order one roast beef sandwich with cheddar cheese and one pastrami sandwich with coleslaw on top.",food-order
+food-ordering-1,dlg-8fc0e2ba-cf02-449e-b5b5-c8e7be513887,"Hi, today I need help finding food for three people. I'm looking for Italian gyros.",food-order
+food-ordering-1,dlg-900d40f2-5f09-4451-aa50-711580e3a010,I'd like to order burgers for takeout.,food-order
+food-ordering-2,dlg-90895ce1-dddb-4598-8000-475bbbe79daf,"Hi, I was wondering if you could help me order some Italian food for take-out?",food-order
+food-ordering-1,dlg-90a01a4e-697d-44c2-986a-37c32fa24331,"I like to order barbeque take-out for three people, please.",food-order
+food-ordering-1,dlg-90bdf6e8-a719-496d-bb6e-6ba3d189e6c3,"I'm looking to order take out for one person, please.",food-order
+food-ordering-1,dlg-90f9c318-ebff-4ef1-91b7-5f82d88d7ae2,"Hi, I'd like to order a pizza for take out, please.",food-order
+food-ordering-1,dlg-9175375c-225e-4ed0-89fa-796ceb37f749,"Hello, I'd like to order burgers for three people. One veggie burger.",food-order
+food-ordering-1,dlg-920eb52d-2763-4eed-b97e-35b6d15827f5,I'd like to order food for take-out for three people and I'm looking for is Indian food.,food-order
+food-ordering-4,dlg-92529017-943e-46c4-a5c7-06c5123144b4,Hi. Can you pull up my regular order from Casa Sanchez? I want to order the same thing I got last week.,food-order
+food-ordering-1,dlg-9281ec49-f827-441d-b308-abc38c32f65c,Hi. I'm looking for takeout food for two people.,food-order
+food-ordering-2,dlg-94606239-9b49-4735-ab0f-55ec928e6fc4,I would like to order take-out for three people.,food-order
+food-ordering-4,dlg-947a0587-56a2-43d9-b415-b7f7d0e7f4b9,Hello. I need to place a reorder from Crepe's Fun Tastic.,food-order
+food-ordering-2,dlg-94d3c570-08fc-460d-89f0-44743ef9e1e3,"Hello, I'd like to order some food for takeout for one person. I'd actually like to order some soup.",food-order
+food-ordering-3,dlg-94efc218-9d00-4907-aab1-010b26008bd5,"Okay so, I was ordering for one and I would like chicken Parmesan with panna cotta for dessert.",food-order
+food-ordering-1,dlg-9504baaf-fbf9-4fd7-8b52-328018e2f19c,"Hello, I'd like to order for take-out, please.",food-order
+food-ordering-1,dlg-95163a26-2be0-4120-856c-bd3329818959,"Hi, I'd like to place an order for Poke.",food-order
+food-ordering-2,dlg-9561f9ea-66ca-40c0-b1a5-ac65ae66aef4,Hi. I'm going to place a couple of takeout order for a couple sandwiches.,food-order
+food-ordering-1,dlg-959118ee-a955-4563-bc1e-cb8373ba2d52,I'd like to order some takeout food.,food-order
+food-ordering-4,dlg-961d383d-f720-4a05-b986-79d2895636de,"Hi. I'd like to order pizza from the same place I ordered pizza last time, Sarah's pizza.",food-order
+food-ordering-4,dlg-96549f09-8b9d-4aa8-8463-f5903357d0dc,"Hi, can you bring up my order for Sara's Pizza from last week?",food-order
+food-ordering-1,dlg-9660cb46-bc84-4854-af9b-9cd6be5854eb,"Hi, I'm looking to order barbeque food for takeout.",food-order
+food-ordering-1,dlg-967c0f62-38c3-4357-bd1e-a56011a60e1c,Hi. I would like to order some food.,food-order
+food-ordering-1,dlg-96a03207-cbba-4c06-b29c-271d9de6dcdd,I need to order take-out poke for three people.,food-order
+food-ordering-1,dlg-973161bc-1891-4471-a247-8aa0ed96b2bd,I'd like to take out some Chinese food.,food-order
+food-ordering-1,dlg-978e8ddf-4871-4571-aae2-7d588eb37de3,Can I get two medium pizzas?,food-order
+food-ordering-1,dlg-97ad215c-1bdb-4aa1-9a61-4aef76be91c3,I want to order gyros for three people.,food-order
+food-ordering-2,dlg-97f56635-09d9-4565-8d61-f54336145c2a,"Hi, I'd like some help ordering some food for take out, Greek food.",food-order
+food-ordering-1,dlg-98d5bea4-0ba5-4c3d-b246-cb76f2adf67b,"Hi there, I want to order some takeout for three.",food-order
+food-ordering-1,dlg-996144d0-a21c-49b6-a569-111a51f1485e,I'd like to order out tonight. Order some take-out food Chinese.,food-order
+food-ordering-1,dlg-99b2d4f9-9b21-432a-b002-300a1f1a4d8f,"Oh yes, I'd like Burrito for myself, please.",food-order
+food-ordering-2,dlg-99b89992-07fe-427b-881f-4f958738ab99,"Hi, I need help ordering takeout food.",food-order
+food-ordering-2,dlg-99d52ce6-9388-4ccc-b528-033b177b7d23,I'd like to order some takeout for two people.,food-order
+food-ordering-1,dlg-9a168bf6-7150-44da-9a97-95c7e8007176,I would like to order take-out.,food-order
+food-ordering-2,dlg-9a889de1-c207-461a-9b19-66834d03113f,"Hi, I need take out food for three people, I'm looking for soup.",food-order
+food-ordering-1,dlg-9a9e5cb4-f8b3-4357-9e34-5f719994dbba,"Hi Assistant, I'm looking to order some take-out food for just one person and I'd like to order some Mexican food, please.",food-order
+food-ordering-4,dlg-9a9ec9fb-9603-47bf-ac4e-bfe1764c6b9a,"Hi, I'd like to re-order from the same place I had last weekend.",food-order
+food-ordering-2,dlg-9aa9f92a-ba0b-4c6c-9d6e-ce8ff892304b,"Hello, I would like to order soup for two people, please.",food-order
+food-ordering-1,dlg-9b0299d6-c12a-4e16-bafd-a25a0e4fda85,Hi. Can I have Thai food for takeout for one person?,food-order
+food-ordering-1,dlg-9b81eac8-47b4-403b-a595-5a31a93770bd,I'd like to order for two burritos.,food-order
+food-ordering-4,dlg-9bddd9a7-bc8d-42c0-8043-9006ee19ae56,"Hello, I like to take out some pizza at Steers Pizza. I'd like to repeat my last order.",food-order
+food-ordering-4,dlg-9c236663-c7dd-4413-8c73-8a007532100e,"Hi, today I need your help ordering food for take out. I ordered food last weekend at Casa Sanchez. I'm looking to reorder the same thing.",food-order
+food-ordering-2,dlg-9c263e68-f6e4-46f2-86c4-08f4be685fc8,"Hello, I'd like to order Hot dogs for one.",food-order
+food-ordering-1,dlg-9c600438-8b0e-4f3e-a372-730d4ea16fab,"Hello, I'd like to order burritos for myself and my wife.",food-order
+food-ordering-2,dlg-9cc433e0-3346-4c8c-8f18-07934167e458,"Hello, I like to order takeout for three people please.",food-order
+food-ordering-2,dlg-9d12af2a-be87-47cc-aae8-ed70c2d6d6a5,"Hi, I would like to order quick food for takeout for one person, please.",food-order
+food-ordering-1,dlg-9d28dbe0-d48c-4521-83c3-8388aeec3110,"Hello, I would like to order a gyros for myself, Please.",food-order
+food-ordering-2,dlg-9d371926-4125-48d4-8a90-0c1bc428a1d4,Hi. I want to place a takeout order for two people.,food-order
+food-ordering-1,dlg-9d543995-1f1c-4cda-bd64-cc021497ac72,I am looking to order some barbecue for takeout.,food-order
+food-ordering-2,dlg-9d57fac8-d59c-4d7a-bbc9-1f0e877711e8,I would like to order some kind of soup.,food-order
+food-ordering-4,dlg-9de2fb88-a866-4584-864e-7f7e10b1e54e,"Hi, I wanted to reorder my order from last week at Larry's Grill.",food-order
+food-ordering-1,dlg-9e2b40df-210c-471c-bb34-4c20942ee19c,"Hi, I'm looking for some Mexican takeout and I would like to order.",food-order
+food-ordering-1,dlg-9e3ac8f2-009b-4e83-ba93-70e9b137d841,Hello. I'm needing to order a takeout for one person. I need to open some gyros.,food-order
+food-ordering-1,dlg-9e83e91c-b243-474b-908d-81f26b01d8b1,"Hello, I need to order take out food for three people. I need a barbecue.",food-order
+food-ordering-4,dlg-9f18d6c3-64de-4111-b1ca-611837c33750,"I'd like to place an order for takeout, please.",food-order
+food-ordering-2,dlg-9f27d157-d404-43f1-8902-968f27030f59,I want to order some takeout for three people.,food-order
+food-ordering-1,dlg-9f2b47d2-ab2c-4e5f-83e5-6203cbde7914,Hello. I like to order an Indian food to take out.,food-order
+food-ordering-1,dlg-9f62b3b6-2e3b-41c6-838c-669724171116,"Hello Assistant, I'd like to order some take out food for two people and I'd like to order some gyros.",food-order
+food-ordering-2,dlg-9fdb7b5b-2377-474b-ae35-ecd3e8536bb4,"Hi, I need to order takeout for three people.",food-order
+food-ordering-1,dlg-9fe6abac-76bb-4225-b4c3-2bd24ffac744,I'd like to get two burritos for takeout. One regular chicken burrito and one regular bean burrito.,food-order
+food-ordering-2,dlg-a035bcb6-79f1-46ce-8e7b-2eab0685913a,"Hello assistant. I'd like to order some pasta, please.",food-order
+food-ordering-1,dlg-a03ed637-848a-4c40-ac1a-02aef9a045a1,Hi. I'd like to order some barbecue chicken and I'd like to have sweet and sour sauce on it. Can you help me with that for takeout?,food-order
+food-ordering-2,dlg-a049a865-9422-4ada-bdbd-ac2d271dfcc8,"Hello Assistant. I'd like to order take out food for three people. Italian food, please.",food-order
+food-ordering-4,dlg-a0616315-d0b6-4989-9363-93d979122fea,I would like to reorder a meal from Larry's Grill.,food-order
+food-ordering-1,dlg-a0a7b2d5-3c85-499c-9721-4b427c5c8aee,"Today, I need your help getting food for take-out. I'm looking today to get some barbecue for one person.",food-order
+food-ordering-1,dlg-a0e89e69-19fb-482c-b5f1-d7210ad9a386,"Hello Assistant, I'd like to order some takeout food for just myself. And I'd like to order some gyros, Please.",food-order
+food-ordering-2,dlg-a1746f12-d163-411b-8c3d-69dfda6b6399,"Hi, I would like to order takeout for three, please.",food-order
+food-ordering-1,dlg-a1ea2b46-a610-45cb-9272-ada01c9fde98,I would like to place an order for pick-up.,food-order
+food-ordering-2,dlg-a217fa2b-401a-406c-b938-b225bfcc6840,"Hi. I was wanting to order Italian, takeout for two.",food-order
+food-ordering-1,dlg-a2277db2-14e7-4f06-b3d7-75041f86f02a,"Hi, I am interested in ordering some poke.",food-order
+food-ordering-2,dlg-a2492812-3636-43cd-b0d7-4e2b8018d778,I would like to order takeout for two people.,food-order
+food-ordering-1,dlg-a25b6ff9-5dec-48ec-858f-9671cd035fe5,Hi there. I'm looking for food for take-out for two. I'd like to order some gyros.,food-order
+food-ordering-1,dlg-a262b8bd-65a9-46d6-8eee-88bed636e9c4,I would like to order barbecue food for take-out for three people.,food-order
+food-ordering-2,dlg-a2c5b0e5-6219-45cf-b44d-0e9e0233425d,I'm going to order take-out.,food-order
+food-ordering-2,dlg-a2fa44ca-7a55-41fb-9aa3-a8ca72389926,"Oh, I need to order some food in particular breakfast burritos for two people.",food-order
+food-ordering-1,dlg-a307b54f-786b-4511-b791-e3490562be92,"Hi, I'm looking to order some Thai food for takeout.",food-order
+food-ordering-2,dlg-a319aa70-0d5b-43ae-bb94-ee2940f22238,I would like to order some Greek food for three people in take out.,food-order
+food-ordering-1,dlg-a33825d3-b68f-4c25-8259-b3736eb85aa6,"I would like to order food for take out for two people, please.",food-order
+food-ordering-1,dlg-a37cf51b-128b-432e-8475-201c54e960ae,"Hi, Today I need your help finding food for takeout for one person. I'm looking to order some pizza.",food-order
+food-ordering-4,dlg-a38b2ca7-3ae1-47d0-8300-00bb73974c8b,"Hello, I'd like to reorder a meal from Crabs Fantastic.",food-order
+food-ordering-2,dlg-a3aaeb8d-9656-4cbf-b774-d3353e100b64,"Hi, I'd like to order take out for a good breakfast burrito. For one person I don't know if I mention that.",food-order
+food-ordering-4,dlg-a3c86456-257b-48a1-a8cd-ccf7e8b65a3c,"Hi, today I need your help ordering the same food for takeout that I ordered last week. I'm looking to order from Crepe's or Crepe Fun-Tastic.",food-order
+food-ordering-1,dlg-a40bd763-bede-4481-aecb-21bda9c517ba,"Hello, I just need to order take-out food for three people. I need to order some pork food.",food-order
+food-ordering-2,dlg-a417dfb7-6b9b-4f5d-abf0-a6f51a2d2556,I need to order food for takeout.,food-order
+food-ordering-1,dlg-a482c775-4eb0-40ec-9a19-9893ee7a2bb5,"Hi. I need an order of fajitas. I want beef fajitas, no guacamole, no onions, beef enchiladas with no guacamole and then I need an order of beef enchiladas with a side order of refined beans.",food-order
+food-ordering-1,dlg-a4a8677a-9a79-4cd5-9f1f-5e4c014b521b,"I'd like to order porkfish salad food takeout for three people, Please.",food-order
+food-ordering-1,dlg-a4b954ae-d481-45aa-922d-15552a681dd6,I'd like to order burgers for two.,food-order
+food-ordering-1,dlg-a4fa6c1f-51c4-43c6-bcee-c30e575de940,"Hi, can you help me with Chinese food for take out?",food-order
+food-ordering-2,dlg-a578a6e1-860b-4f10-8923-a5c7c929cdf7,Hi. Today I need your help getting take-out for one person. I'm looking to get Italian food.,food-order
+food-ordering-1,dlg-a57bb8e2-774c-4321-8959-3040160007bb,"I would like to order take out Chinese food for three people, please.",food-order
+food-ordering-4,dlg-a63fff7d-6e21-41c2-9b21-0051dfc7ecae,"Hi, Can you pull up my last order from Sarah's Pizza? I want to get it again.",food-order
+food-ordering-2,dlg-a67747d1-1406-4984-a7db-79604f15eaab,I need to order a food for takeout.,food-order
+food-ordering-1,dlg-a698447e-6331-498f-87e5-fe0dbe9a7b5c,"Hi Assistant, I would like order some Thai food for just myself to takeout.",food-order
+food-ordering-2,dlg-a6b818dd-bee6-437f-80d3-2a6f70b1c278,"I want to order take-out Italian for three people, please.",food-order
+food-ordering-2,dlg-a6e32271-b29e-4496-a58d-adef58c83e21,Hi. I'd like to order some soup.,food-order
+food-ordering-2,dlg-a765fbde-c923-4727-a03c-bf9d50fb969e,"I'd like to place an order for take-out, please.",food-order
+food-ordering-1,dlg-a7aef7b4-4e34-4b93-9bda-c667a85570f3,"Hi, I'd like to order a poke bowl for one.",food-order
+food-ordering-2,dlg-a8028ad4-9a84-4d80-b7bf-082f75e7bdda,"Hi, I'd like to order soup for two people.",food-order
+food-ordering-1,dlg-a89314ef-25cf-46fb-9df1-71a83b5bdd34,"Hello. I'm looking for pizza, to take out for three people?",food-order
+food-ordering-2,dlg-a929fe27-4973-4de3-9b95-a662ac91c37b,"Hi, Today I need your help. I Am planning to get food for take out for one person. I Am looking into getting hot dogs.",food-order
+food-ordering-1,dlg-a984beb8-2fc8-40b8-8825-ace0465c7469,"I'd like to order take-out for one person, please.",food-order
+food-ordering-2,dlg-a98c6225-b5ac-4e7f-bdb8-737643606275,"Hello, I need to order take-out food for three people and I need some soup.",food-order
+food-ordering-1,dlg-aa38428b-e3c3-442e-8c3b-21cb63dcf2a9,I would like to order a Burrito.,food-order
+food-ordering-1,dlg-aa61a904-0161-4227-acf8-d052c348c5e1,"Hello there, I need some help with a takeout order at a burger place.",food-order
+food-ordering-2,dlg-aa833c54-10a1-4843-9554-60d87cce22e2,I'm looking to order pasta for take-out.,food-order
+food-ordering-1,dlg-aa9d6c13-54ff-4876-9440-05aabedfc99b,"Hi, I want to take an order for three people.",food-order
+food-ordering-2,dlg-aae56e2b-53b1-45c7-8704-93af73e3100e,"Hi, I like to get takeout for one person, please. I like to have one hot dog with mustard on it, I like a sauce onion rings and 2L Pepsi, Please.",food-order
+food-ordering-2,dlg-ab19d00e-a5a6-4c6a-ad97-87710110eb3e,I'd like to order some soup for two people.,food-order
+food-ordering-1,dlg-ab715c02-b477-4a26-891a-a1abfe638087,I'm looking to get some Chinese food.,food-order
+food-ordering-1,dlg-ab724937-5bf6-4a18-b361-df6134767f9e,Hi. I'd like to order barbecue for two.,food-order
+food-ordering-4,dlg-aba80b18-73bc-4fac-b220-7d4982949ced,I would like to reorder a meal from Krebs fantastic.,food-order
+food-ordering-1,dlg-ac206fbb-b64f-40d1-8dcc-39a083d11eed,Hi. I'd like to order for three people.,food-order
+food-ordering-1,dlg-ac3ff4b6-419d-4b68-9add-dad457805a58,"Hi, I was wondering if I can order some takeout food for three people.",food-order
+food-ordering-1,dlg-ac7464c6-2d90-426d-8c6d-d5ad764819b8,"Hello. I need to make a carryout order for Indian food, please.",food-order
+food-ordering-1,dlg-acaa7b8f-fdce-4df2-84d0-041ad1510237,"Hi, I was looking to order some pizza for take out.",food-order
+food-ordering-1,dlg-acf5e3c0-f3ea-4aca-b3b5-b5f7cac32c70,"Hi. I'd like to order some Indian food for takeout for one person, please.",food-order
+food-ordering-2,dlg-ad3284a7-8b1c-4511-a57e-2a76cfc0e0d2,"Hi there, I need to order hot dogs for three people for take out, please.",food-order
+food-ordering-1,dlg-ae0c18dc-5585-4a5c-8d71-93427b306e8c,"Hi assistant, I'm looking for take out food and would like some burgers today, can you help me?",food-order
+food-ordering-1,dlg-ae107848-49f5-46b3-a49d-aadfcd4c6097,"Hello, I'd like to order a takeout Indian food for one person.",food-order
+food-ordering-1,dlg-ae61e98b-8b97-4d93-b998-57e020d2242a,"Hello, I'd like to order gyros for two people.",food-order
+food-ordering-1,dlg-ae734ff1-9d9e-44f6-b09e-bbd68d98d985,"Hi, could you help me order some takeout for two people? I'm looking for a barbecue, and I'm specifically looking for ribs, both cow ribs, and pig ribs.",food-order
+food-ordering-1,dlg-ae8455e1-4f62-4337-b1f8-0534133d5767,Hi. I'd like to order two poke bowls.,food-order
+food-ordering-1,dlg-aef91b82-dee4-43da-9770-9f39cc84c644,I'd like to order two large double cheeseburgers.,food-order
+food-ordering-2,dlg-afa22a5b-c653-4c90-8606-e823c1caef74,Hi. Could you help me with ordering takeout for three people?,food-order
+food-ordering-1,dlg-afe71b2b-7e77-45d7-838d-8cbae0ce0de3,"Hi, I'd like to get a Chika for one person. I like Indian food.",food-order
+food-ordering-1,dlg-b065bdcc-121a-4b8f-b6e5-ad8f3e0af6b2,I'd like to order some take-out for one person.,food-order
+food-ordering-1,dlg-b0774baf-6cd9-4443-9bba-5e5025f05c1f,I am looking for some barbecue tonight.,food-order
+food-ordering-1,dlg-b0e3d677-a414-4512-b34e-b110af425e28,"I'd like to order a takeout for three people. Some Thai food, please.",food-order
+food-ordering-4,dlg-b12dfa49-c4af-4119-94b8-c6884138faed,"Hi, I'd like to re-order some take out food.",food-order
+food-ordering-1,dlg-b1b36eaa-d8b3-421c-88b6-942209470346,"Hi, so I'd like to order a barbecue to take out for three people.",food-order
+food-ordering-2,dlg-b1b97351-6945-43ab-a1fb-4119ada14b16,"Hello Assistant, I'd like to order some take out food for two people.",food-order
+food-ordering-1,dlg-b210476c-03d6-4746-b258-bfc6429d695a,Can you help me to find some Thai takeout food for two people?,food-order
+food-ordering-1,dlg-b2256ebd-503c-4c79-9dd7-3d2ad98f05ff,Hello. I'm looking to get some poke for three people.,food-order
+food-ordering-3,dlg-b25b82f4-138c-4f06-a3bb-39ee3188fbdd,Hi. I just want to finish off that Italian order we had for two people.,food-order
+food-ordering-1,dlg-b2775ed4-14ab-4892-9a61-555af239bece,"Yeah, I was wanting to order some Mexican food for take out.",food-order
+food-ordering-2,dlg-b2a6655f-896a-4a77-8830-d7fe669b2f5a,"Hi, I like to order takeout pasta for two people, please.",food-order
+food-ordering-2,dlg-b30c8804-786e-44fe-8b4e-5bf034fcb46c,"Hi, I want to get some pasta.",food-order
+food-ordering-1,dlg-b310ca7a-8258-4cbf-8249-38dd59f28b1f,Hello. I'd like to order some take-out food for two people.,food-order
+food-ordering-2,dlg-b3171b02-8226-4c19-9699-9b4b31e76acb,"Hi, I want to get a breakfast burrito.",food-order
+food-ordering-3,dlg-b365b6c3-2bb5-4ce5-9ca3-065eae811ab8,"Can I get a Carne Asada breakfast burrito, please?",food-order
+food-ordering-3,dlg-b3795ed7-364a-451b-9467-96a23cb0af8f,Hello. I would like to resume my takeout order.,food-order
+food-ordering-1,dlg-b3c878f2-c5a8-4607-8aa9-a31abfec14d9,"Hi. Today, I'm looking to find food for take out for 2 people. Could you help me to find a place? I'm looking for burgers to eat.",food-order
+food-ordering-2,dlg-b3f3407d-16af-4955-b916-9085912951ed,"Hi, I need to order some sandwiches for three people.",food-order
+food-ordering-3,dlg-b4686d97-9c5d-4369-a33c-1af4596bd38d,"I need to continue the order I was placing 15 minutes ago. It was for Mexican, for one.",food-order
+food-ordering-2,dlg-b46a0cef-20ca-4600-8863-c85273df157c,"Hi, could you help me with my take out order what I can get for me and my friends?",food-order
+food-ordering-2,dlg-b4873709-21f1-499a-a39b-f13b2dd470e7,Hello. Can you take a soup order?,food-order
+food-ordering-1,dlg-b487a046-3048-47ba-9fde-191c007c2b6a,"Hi, there. I'm looking to order some Chinese food takeout.",food-order
+food-ordering-1,dlg-b4f8fc59-373d-4330-88a5-66b2c4831d9a,I'd like to order takeout.,food-order
+food-ordering-1,dlg-b5472416-0609-4b13-8a3b-ce9f327b00f3,"Hello, I want to order takeout for two people and I want pizza.",food-order
+food-ordering-1,dlg-b5694e10-8877-40d7-9b15-4b3254176902,I'd like to order takeout burgers for two people.,food-order
+food-ordering-3,dlg-b5907ac4-6a8f-4243-a187-cbc434a99af6,"Sorry, I had to step away for a bit. What was I doing earlier?",food-order
+food-ordering-2,dlg-b59f90e5-e780-4c4b-9ac9-02b84a962b65,Hello. I need to order takeout for three people. I'm looking to order some pasta.,food-order
+food-ordering-2,dlg-b5b30546-b900-4e40-a3da-39e01bc13fa6,"I want to order pasta, take out for three people, please.",food-order
+food-ordering-1,dlg-b5fd078a-1d7c-44e6-b106-1737f4f32d0b,"Hi, I want to order take out for one person.",food-order
+food-ordering-2,dlg-b7831112-247b-4726-bb87-08d50015d20f,"Hi, I'd like to order some hot dogs to take out for three people.",food-order
+food-ordering-2,dlg-b791ca49-313d-4881-8ed3-6df301070009,Hi. I would like to order food for takeout for three people. The type of food I'm looking at is Breakfast Burritos.,food-order
+food-ordering-1,dlg-b7be5f97-8081-4128-ad3e-0f48997ad810,"Hi, I'd like to take out Indian food for myself, please.",food-order
+food-ordering-1,dlg-b8429a7b-e09c-455d-b51c-3933f1b48435,"I need to order takeout Burritos for three people, please.",food-order
+food-ordering-2,dlg-b8499bf8-db85-43ef-a237-68cc785c44b1,"We want to order Greek food for take out for three people, please.",food-order
+food-ordering-2,dlg-b9335a97-b72d-44a1-a720-056cafa3f201,"I would like to order take out for three people and I would like to order Italian food, please.",food-order
+food-ordering-1,dlg-b941ad36-3aa1-4a3c-a81d-8a3302ba1e76,Hi. I'd like to order take-out for one person.,food-order
+food-ordering-2,dlg-b94cfaf4-6b0e-4b2c-8be6-edf34b0c19bd,I would like to order breakfast burritos for take out.,food-order
+food-ordering-1,dlg-b9b0da15-903b-4a4e-bac9-77e32eb64327,Yes. Could you help me order some food for takeout?,food-order
+food-ordering-2,dlg-ba543948-2a76-4c49-af02-c0dfaa98f8f0,"Hi, I wanted to order some Greek food for takeout.",food-order
+food-ordering-1,dlg-baa1e0ea-d6e0-49c9-8972-a220282e9263,I'd like to order a pizza.,food-order
+food-ordering-3,dlg-bae6d374-da76-48e1-b4cc-b4b94ba5b88f,"Hello, I have been ordering Thai. Can we go back to the order I was placing an hour ago?",food-order
+food-ordering-1,dlg-baf04a5e-aee6-4f6d-b1b5-c62c39826788,"Hello, I would like to order Chinese soup for three people.",food-order
+food-ordering-2,dlg-bb7c6521-d567-4f0e-9e77-6ac4f1625863,"Hi there, I'm looking to order pasta take out for three.",food-order
+food-ordering-2,dlg-bb96a239-5c49-4c79-aa8f-568a93c4f305,"I'm pretty hungry, so I'd like to order food for takeout, please. I would like to get some Italian food.",food-order
+food-ordering-1,dlg-bbc3322e-8129-411f-82f6-fc568bef3397,Hi. I'd like to order takeout barbecue for two people.,food-order
+food-ordering-2,dlg-bc0d3b16-4b9b-4f05-aa7a-2bf2f7105354,"Hey, I'd like to order a sandwich for three people.",food-order
+food-ordering-1,dlg-bcc6972e-13e0-4c70-b703-8197ebfb388b,"Hey, can I get some gyros?",food-order
+food-ordering-2,dlg-bce1abc5-7f1b-4540-9719-2b31ec732432,Hi Assistant. I'd like to order a takeout food for myself and my wife. I'd like to get sandwiches and i would like to get one Reuben sandwich and one corn bean sandwich.,food-order
+food-ordering-1,dlg-bd152e1f-f830-4736-a926-29eca42e15b7,"I need to takeout orders for three people, preferably Mexican food. Please, write this down.",food-order
+food-ordering-1,dlg-bd3363bf-2bb6-4316-b7ae-0fc968862c10,"Hi Assistant, I'm looking to order some take out food and I'm trying to order some burgers.",food-order
+food-ordering-1,dlg-bd7d2df1-5e1b-4fd9-a93e-b63f5a6f9007,"Hi, I like to order one dish of butter chicken.",food-order
+food-ordering-4,dlg-bd8ccbc2-ae02-4f37-95b3-fc5fc02286d3,"Hi, I'd like to re-order the same thing I did last weekend, please.",food-order
+food-ordering-1,dlg-bdc46fbc-2be6-455b-8c90-8230a71e894b,I would like to order some take out food. Can you help me order some Indian food?,food-order
+food-ordering-2,dlg-bdfc42c9-cdeb-4e44-ace8-30b5af32e469,"Yes, I would like to order two sandwiches for two different people, myself and a friend.",food-order
+food-ordering-2,dlg-be4666ff-1015-44a4-8884-d31d99bfabdf,"Hi, I'd like to order take out for two people.",food-order
+food-ordering-1,dlg-be4b782a-b9f8-4382-ac9a-f593e23158b8,"Hi there, I would like to order some take out Chinese food.",food-order
+food-ordering-3,dlg-be7b6e6f-4375-4557-a7ed-fe0bc3fd55e8,"Hello, Assistant, I want to continue my takeout Chinese order that we previously discussed.",food-order
+food-ordering-2,dlg-bed343ce-913f-42fb-af9a-ef964ae1b184,"Hi, I'm looking to order some take out for one person, I'd like to order a sandwich.",food-order
+food-ordering-1,dlg-bf5457d1-a86a-4bcd-817d-1aa3eda8b7dc,"Hi, I'd like to order take out for two people, please.",food-order
+food-ordering-3,dlg-bf5c3399-fcd2-4a6c-8e50-3ebfa782126c,"Hi assistant, today I need your help finishing up a takeout order that I have for three people.",food-order
+food-ordering-1,dlg-c0079725-afee-446d-83c5-e7982907d649,"Hi, I'm looking for take out for one person, please.",food-order
+food-ordering-1,dlg-c0230fec-e7ee-48f3-8b19-6b7ebf585167,I'd like to order Mexican food.,food-order
+food-ordering-4,dlg-c056ab8e-d82e-4989-b09f-7257eacdab0c,I would like to reorder a meal from crape's fantastic.,food-order
+food-ordering-4,dlg-c0d5f24f-c017-4857-88f8-66d87163622e,"Hi, I ordered some food from Sarah's Pizza last weekend and I'd like to reorder the same thing.",food-order
+food-ordering-1,dlg-c12c690d-01d8-4b6a-8faa-cbd30a30eac7,I'm trying to order some Chinese food for take out.,food-order
+food-ordering-1,dlg-c139081d-bbfc-4642-ac06-f4d0903d1495,I need to order Indian food for take out .,food-order
+food-ordering-1,dlg-c15a2b03-424e-4005-a8d7-88a6288e5e31,Hello Assistant. I was looking to place an order. Can you help me with that?,food-order
+food-ordering-2,dlg-c1c819c3-cace-45da-941a-d645c4328c14,"Hi, I like to order a food for takeout for three people. I like sandwiches. We all want cheeseburgers. So that would be three cheeseburgers, we would like to have on the side three large fries with ketchup, and we also would like a 2 L of Pepsi. And that would be all we want.",food-order
+food-ordering-1,dlg-c20a14d8-c69b-429d-b5f4-5e03e360bb11,"Yeah, I want to order some food for take out.",food-order
+food-ordering-3,dlg-c26d520e-9fb3-496b-b92b-7556a649792e,"Are you ready to retake my order? This is for two people. So, I need one green gazpacho and one vegetable lentil soup.",food-order
+food-ordering-1,dlg-c3713965-b6eb-472e-aab6-66909af48a67,"Yeah, I'm ordering food for take out for two people, please. I'm looking for Gyros.",food-order
+food-ordering-1,dlg-c37790b2-a200-45e8-be4a-23ce621bcec6,"Hello, can I pick up some food for me tonight?",food-order
+food-ordering-1,dlg-c398001c-37d3-47e0-82cb-d2e783fa3a08,"Hello assistant, I'd like to order some take-out food for two people.",food-order
+food-ordering-1,dlg-c3b125cd-5d28-41bd-9654-5f536dc264ac,Yeah. I'd like to order take out Chinese food for my wife and myself.,food-order
+food-ordering-1,dlg-c3daadc4-97bd-4793-947f-317a6c14bd1f,"Hello Assistant, I need help ordering some food for take-out for three people.",food-order
+food-ordering-1,dlg-c3ff0c97-51df-4c3f-b08e-06178071e310,"Hi, I would like to order take out for one person, please.",food-order
+food-ordering-2,dlg-c4032257-bb9b-4553-9d6e-c7effe1fe259,Hi. I'd like takeout food for two people.,food-order
+food-ordering-1,dlg-c49ddecb-42e9-44c6-aca4-8f029a9ca11e,"Hi. I'm looking to takeout for three people, please.",food-order
+food-ordering-1,dlg-c4a546fe-be5f-4049-ad1b-05e3d3d224bd,Hi assistant. I'm really hungry. I think I'm going to order for myself. I want to get some barbecue. I'd like to get an order of ribs.,food-order
+food-ordering-1,dlg-c5301075-cb60-4562-9f5e-3cf08b228ec2,Hi. I'd like to order take out for two people.,food-order
+food-ordering-2,dlg-c56ec8bf-b16b-4458-81c6-61015e5daa9b,"Hi. Can I order a take out for two people, please?",food-order
+food-ordering-1,dlg-c595187b-dd4f-4ec8-9402-f4035d2cf619,Hello Assistant. I would like to order some burgers for two people please for take-out.,food-order
+food-ordering-1,dlg-c5cf40da-ad09-44e8-bbcb-65e8d46f5872,"Hi, I would like to order a Poke bowl for one.",food-order
+food-ordering-1,dlg-c60fdf1e-5248-45e4-8574-ba374cc63c65,I want to get take out food.,food-order
+food-ordering-2,dlg-c63141bd-5ca2-4e50-a88d-c083dd5d27d2,"Hi, I was looking to order some Greek food for take out.",food-order
+food-ordering-1,dlg-c70d8643-5893-4f4a-97f5-eacdffbbe7ac,"Hello, I need help ordering some food for take-out for three people.",food-order
+food-ordering-2,dlg-c775db05-43cb-4b53-841c-aeb03fd1875e,"Hi Assistant, I need help with ordering takeout food for one person, and I'd like to order some Greek food.",food-order
+food-ordering-1,dlg-c784a5a9-3cb0-4c75-8ad8-d8511c053faf,"Hi, I'm looking for takeout for three people, please.",food-order
+food-ordering-1,dlg-c7bb01d1-10eb-493f-9962-e4cd274d48ea,I'd like to order Indian take out for two.,food-order
+food-ordering-1,dlg-c7c4ea2c-9e8a-4bb0-bc51-3dcc700e2ee3,I'd like to order a barbeque for two people.,food-order
+food-ordering-1,dlg-c847573b-ff15-4932-9fff-01a3aedb3704,Hello. I'd like a pepperoni pizza.,food-order
+food-ordering-2,dlg-c884f91b-f3a3-4869-9de1-148f1a6f400d,I need to make an order for three breakfast burritos.,food-order
+food-ordering-4,dlg-c8a6a1e2-606f-4483-952f-c679d0a40906,Hi. Can you bring up my last order from Crepe Fun Tastic?,food-order
+food-ordering-4,dlg-c8e29c6d-eaf1-4129-8898-1759d2ca1af1,I need 1 turkey-avocado crepe with cheddar and 1 Greek Delight crepe.,food-order
+food-ordering-2,dlg-c91bcdaf-ed47-48ee-b1a0-42099458ce3e,I need to order takeout.,food-order
+food-ordering-1,dlg-c96d5eba-62d2-4f98-b32a-d3386c2559dd,"Hi. I'd like to place an order for burgers for takeout, please.",food-order
+food-ordering-2,dlg-c98c9187-9d0e-4bba-b194-b4e9931e89c5,"Hello Assistant. I'd like to order some takeout food for just myself. Some Italian food, please.",food-order
+food-ordering-1,dlg-c9e81f1b-7749-4c59-a4c1-5793df5d7403,Hi. I'm hungry and I really want to eat some Thai food.,food-order
+food-ordering-1,dlg-ca2c6ce0-7f68-443b-9480-f9eec4ef75ab,"My husband and I want to get some Chinese food, can you take an order?",food-order
+food-ordering-1,dlg-cac35e86-72ea-43cf-a07c-d2653eeb0a84,"Hi, I was wondering if you can help me order some Mexican takeout.",food-order
+food-ordering-2,dlg-cad37c03-621a-4410-b00f-22d403d7b4b7,Hi Assistant. I would like to order some Italian food for two people for take out. Can you help me?,food-order
+food-ordering-1,dlg-caf24735-1dce-44b1-885a-a4c24fd2160d,Hi. I'd like to order burgers for two.,food-order
+food-ordering-2,dlg-cb59ffb6-cb49-45e1-9eab-d3e04c6d6052,"Hi,I'd like to order food for three people today, please.",food-order
+food-ordering-1,dlg-cb7ad759-e2b7-4e60-a1bb-7fcf5a33a56e,"Hi, I wanted to order food for takeout.",food-order
+food-ordering-1,dlg-cb7e0416-2e21-4b11-8f8f-b3f1eff3c733,Yeah. I need to find Indian food for three people to take out.,food-order
+food-ordering-1,dlg-cbd23a5a-4329-4c8d-9d63-58cc33ff28fc,Hi. I would like to order food for take-out for two people. And the type I'm looking at is barbecue food.,food-order
+food-ordering-1,dlg-cc4dd190-3d21-44e1-abea-bd4b5e14266c,"Hello, I am looking for to order a takeout for three people and I need to find a Chinese place.",food-order
+food-ordering-1,dlg-cca4003c-fb2f-4f7f-ac2a-9f9ea0c4015e,"Hi, I'd like to get some Gyros.",food-order
+food-ordering-1,dlg-ccb67b5e-fd22-4275-9dda-9108a6058f64,"Hi there, I'm looking to order some pizza.",food-order
+food-ordering-1,dlg-cccc85e9-b1b9-4f31-b2a4-f3837bfd1ac0,"Hello assistant, I would like to order Chinese food for myself and my wife.",food-order
+food-ordering-2,dlg-cd1366c7-5eae-49d7-9e6f-22b0111c7f24,Hello. I'd like to order some soup for takeout.,food-order
+food-ordering-1,dlg-cd4fac5b-0d66-4f85-a119-a8bc0a96fd92,"Hi, I wanted to order Indian takeout for three people. Let me know when you're ready for my order?",food-order
+food-ordering-2,dlg-cd859e37-252c-4287-bf65-35dcbdb56eb5,Hello. I need to order some breakfast burritos for one person.,food-order
+food-ordering-2,dlg-ce1d88c6-17a7-4c2e-ac5e-064d33662345,"Hi. I'd like to place an order for takeout. I was hoping to get some soup, please.",food-order
+food-ordering-4,dlg-ce289166-6f12-4cd7-9c5d-3b4ab92474d4,"Hi, can I order the same last meal I had last week from Cribbs' Fantastic?",food-order
+food-ordering-1,dlg-ce4359ca-c456-43c0-a9be-ba8dd7080d33,Hi. I'd like to order take-out gyro for two people.,food-order
+food-ordering-4,dlg-cee6644d-4fb4-40f8-b756-79ad1fc17884,I need to re-order some Raley's gram.,food-order
+food-ordering-1,dlg-ceefdd12-ec50-4884-9f35-ce83c2f36b6a,I like the place to take out order for three people for three different burger meals.,food-order
+food-ordering-2,dlg-cf38c6f9-88fb-468c-8a58-16e9ce4568b4,"Hi, could you help me with ordering takeout for two people?",food-order
+food-ordering-1,dlg-cf7a36bd-6ad2-4a00-b199-65e6bc4b6bc1,I'd like to take out some burgers and three big hamburgers with a side of french fries.,food-order
+food-ordering-2,dlg-cf80cdbd-0aa1-40b1-8105-64d7cce83c1f,"Hello, I was waiting to order sandwiches as takeout for one.",food-order
+food-ordering-1,dlg-cfc71310-f929-4bbe-afe7-57be13bcfe72,I'm looking for some Chinese food.,food-order
+food-ordering-2,dlg-d0a58ff4-c67e-4614-8026-be19c42075c6,"Hi, I want to order takeout sandwiches for three people.",food-order
+food-ordering-1,dlg-d0b535c0-cd65-4c6e-a63a-1810af2fe636,"Hi, I'd like to order pork food for take-out for one person, please.",food-order
+food-ordering-1,dlg-d0d5a3c3-a758-4908-9324-bb849266911b,I am trying to order some take out food for just one person and I would like some barbeque food.,food-order
+food-ordering-3,dlg-d0e05f5d-373d-41bd-8ca8-a613f3f043bd,"Hi Assistant, I want to continue my Italian food order.",food-order
+food-ordering-2,dlg-d0f4cc44-c2a3-4bf9-8489-8368b6ae759c,"Hi, can I order some pasta for my wife and I?",food-order
+food-ordering-1,dlg-d0f4d289-1db5-47f2-9a77-51edd6674253,I would like to order some Mexican food.,food-order
+food-ordering-1,dlg-d18a3699-a1c6-47f2-8888-6a45a33af7c7,"Hi, I'm going to order some pork.",food-order
+food-ordering-1,dlg-d1959902-57c4-4d31-a9c0-bc47a8adc42d,Hi. I'm looking to order some takeout food. I'd like burgers.,food-order
+food-ordering-1,dlg-d1c71722-fe3a-4b10-93b8-fcb7e05580cd,"Hello, I'd like to order some gyro.",food-order
+food-ordering-2,dlg-d1df46ea-101d-4424-bcfc-1f9b95a22464,"Hi, I'd like to place a takeout for two people for Italian.",food-order
+food-ordering-1,dlg-d2208c0f-17dd-4702-9d45-91287b51fff6,I was wondering if you could help me order some Chinese take-out.,food-order
+food-ordering-2,dlg-d222d29b-30f7-44d5-94b5-e0e8548827e9,Hi Assistant. I would like to set up food for takeout for three people.,food-order
+food-ordering-1,dlg-d23cc554-948a-4a7f-9052-27e9ed579dfc,Hi. Today I need your help finding food to get for take out for three people. I'm looking to get burritos.,food-order
+food-ordering-1,dlg-d2b75d23-b709-4694-89bb-97053e642409,"Hi, I want to order take-out burritos for two people, please.",food-order
+food-ordering-2,dlg-d2c74a21-125b-4ae8-b879-5ce7387c9a6e,Hi. I'd like to order takeout for Italian food.,food-order
+food-ordering-2,dlg-d2f06c10-c25c-42f6-bfe2-ec1c1a0cf2a0,I'd like to order sandwiches for three people.,food-order
+food-ordering-1,dlg-d2f9c250-dba0-479e-889c-8bd9c686b6d9,"Hey, we're looking to buy some Indian food tonight, can you help us with that?",food-order
+food-ordering-2,dlg-d3125fe8-9af7-4423-b6ee-f59ae06153b9,Hey. I am looking to order some takeout food for one person.,food-order
+food-ordering-1,dlg-d3249180-dff9-4e7f-adad-006d7b326e11,I want to order some gyros for takeout.,food-order
+food-ordering-1,dlg-d3497b6e-2dd9-4c35-bf51-680a686ea50b,I am looking for some place to eat barbecue. I want it to be taco but I want it to be enough for three people.,food-order
+food-ordering-1,dlg-d3b9c14b-64f5-429f-a9cd-00fc1f1df499,"Hi, I need your help finding a restaurant to order takeout food for 3 people. I'm looking for barbecue to eat.",food-order
+food-ordering-1,dlg-d407b13c-15a8-4270-9121-815eb5630ff8,"I would like to order some takeout food for three people, can you help me?",food-order
+food-ordering-2,dlg-d40c9103-4f45-45c0-9795-4bc81baeae85,"Hello, I would like to order food for takeout for one person, and the type of food that I'm looking at is sandwiches.",food-order
+food-ordering-2,dlg-d4eeac3c-6485-4a3f-85e0-e21739ca39df,I'd like to order some food.,food-order
+food-ordering-3,dlg-d539117c-28b0-49d6-88b1-d7dafda4ffe4,I need to get takeout for today.,food-order
+food-ordering-1,dlg-d5460142-b3aa-42e8-b8ee-f97cebe495e0,"Oh, yes. I'd like to order take out for two, please.",food-order
+food-ordering-1,dlg-d58e4a6e-072d-4b1d-af88-5db913fd70e6,"Hi, I need to order take out for three people.",food-order
+food-ordering-2,dlg-d5abd42c-50af-4e1c-9952-54dc68ee28ad,Hello. I want to order breakfast burritos for three people.,food-order
+food-ordering-2,dlg-d5f8332f-3309-43e4-a713-3ceda95186c3,"Hello. I'd like to order some food. I like some pasta. I like to get a big plate of spaghetti with meatballs. And on the side, I want Italian bread with 2 L Coca-Cola. That's all. That will complete my order.",food-order
+food-ordering-1,dlg-d5f9b806-1066-4267-9795-99742cd67022,"Hi, I'm trying to order food for takeout.",food-order
+food-ordering-1,dlg-d62096c5-dcf0-4984-9cb5-6dc8a6e1e67d,"Hi, I'm looking to get a take-out just for me. I'm kind of in the mood for some burritos, So could you tell me who could have that for me?",food-order
+food-ordering-1,dlg-d65f0c5f-2a37-4091-b148-d2c21dddb347,Hi. I want to get Thai food takeout food just for me.,food-order
+food-ordering-2,dlg-d66b1dfb-cf4b-4a07-9457-9ddcfc8a14d8,"Hi, I'm trying to order some takeout for two people. We are hoping to order a couple of large soups, one chicken noodle, and the other tomato.",food-order
+food-ordering-1,dlg-d671200f-6bd2-4e6c-8065-7cd7976866f0,"I need to order Thai food for two people, takeout.",food-order
+food-ordering-1,dlg-d6bf459c-f236-4ffc-ad71-fd57e3a9b407,"Hi, I want to order Mexican food for takeout, please.",food-order
+food-ordering-2,dlg-d725118f-5e8e-47f5-bccc-2f20b1d2af86,"Hi, we are looking to buy some breakfast burritos. Can you help us with that?",food-order
+food-ordering-2,dlg-d728d947-0090-4e0d-80dc-21e355a196a2,"Hey, I need to order takeout food for the three of us here.",food-order
+food-ordering-2,dlg-d7432b7f-d6bf-4ba1-a448-083be18d9698,"I could take a order for take out for myself, some burrito.",food-order
+food-ordering-1,dlg-d79f4b8e-f7be-4c50-b284-54773ec052f8,"Hi, I would like to order food to takeout for three people.",food-order
+food-ordering-2,dlg-d7a3e35e-a5d0-436b-85f7-798909a4827d,"Yeah, I want to order some Italian food for take out.",food-order
+food-ordering-1,dlg-d7aa1501-c2c8-4242-b961-7ceb6aaa1be0,"Hi, I'd like to order Thai food for two.",food-order
+food-ordering-4,dlg-d7bb1c18-cd11-40b4-8a12-bb3b5d12ec07,Hi. I was wanting to order some food from Krips.,food-order
+food-ordering-2,dlg-d7cd8704-4f56-4388-8bfd-22f5f7ac8e32,"Hi, I'd like to place takeout for two people.",food-order
+food-ordering-4,dlg-d83c2a58-a547-4223-a98d-2129752414a2,Hi. I'd like to reorder what I had from Crete's Fantastic last weekend.,food-order
+food-ordering-1,dlg-d85760be-6ee3-4d84-9bd7-72eed17bf978,"Hi. I was looking to order takeout for three, barbecue food.",food-order
+food-ordering-2,dlg-d8829a4d-858b-4c21-bf9f-606e76fe0076,"Hi, I'd like to order some take-out food tonight for myself.",food-order
+food-ordering-2,dlg-d8b54499-bcd5-4352-9c7e-380caf3b0970,"Hi, I'd like to have a soup takeout for two people.",food-order
+food-ordering-4,dlg-d8ef44f8-3dda-4609-80fe-4396cb5ea2a5,"Yeah, I'd like to reorder my meal from Casa Sanchez, please.",food-order
+food-ordering-3,dlg-d9b61dbb-ed30-4bd9-b394-5ee1dc80c0fc,"Hello, i need to resume a take-out order that was being placed.",food-order
+food-ordering-2,dlg-d9d6641c-9f2c-487a-bd93-af29bf0ac125,"Hello, I need to order takeout for one person.",food-order
+food-ordering-1,dlg-da5c5d2e-7abc-4ac0-bb47-ff0f5bd7401e,I'd like to order some Indian food to take out.,food-order
+food-ordering-2,dlg-dabefcc3-3d60-40b4-8c45-c005a607414f,"Hello, I'm looking for soup. Can you help me with that?",food-order
+food-ordering-2,dlg-db54f01b-a01b-40a8-856e-77ba20aa1eed,I would like to order take out for three people.,food-order
+food-ordering-2,dlg-db9b4e39-10e8-4bd6-91f2-b54ea247ff63,Hello. I'd like to order takeout for one person.,food-order
+food-ordering-1,dlg-dbf020d5-e83a-41bc-8dee-1fca8370d098,"Hello Assistant, I would like to order some Mexican food.",food-order
+food-ordering-1,dlg-dc0c78bd-3169-4fe7-bc7f-86890be03235,I need to order takeout for three people.,food-order
+food-ordering-2,dlg-dcabb049-5ea8-45cd-9d06-2b6cff2f2416,"Hi, I'd like to place an order for takeout. I'm looking for hot dogs.",food-order
+food-ordering-1,dlg-dd2b9123-12be-4529-991c-b3fa3b27754e,"Hi. Today, I need your help to order food for take out for two people and I'm looking for burritos.",food-order
+food-ordering-1,dlg-dd43553f-41c8-458c-8fd1-cb3a07774d87,"Yes, I'd like a take-out for myself, Please. I'd like to order a burger.",food-order
+food-ordering-1,dlg-ddf56695-e526-42f5-88c2-1231b9ff895b,"Assistant, I need help in ordering a pizza for 2 persons, please.",food-order
+food-ordering-1,dlg-ddf58e95-604a-45ed-9f49-a1b8af0f9ea8,"Hi, I'd like to get a barbecue takeout for three people.",food-order
+food-ordering-2,dlg-de19c4e0-23c4-43d5-996b-737985fe9bc0,I'd like to order some food for one person.,food-order
+food-ordering-1,dlg-de2f838e-d06e-450a-92b9-fd4c930f71e2,Hi. I want to order some Turkey food for takeout.,food-order
+food-ordering-2,dlg-de952589-8d77-4a89-90af-7565bf3d8742,"Hey, I am so lonely that I feel like ordering pasta for two people tonight and pretend someone else is eating with me. Can you help me order some pasta?",food-order
+food-ordering-1,dlg-dea2cc55-1d29-4125-8226-0124ab70d715,I want to order Poke takeout for one.,food-order
+food-ordering-1,dlg-ded73b10-2473-40ff-8338-4e07698000e8,"Hi, can you help me get some gyros?",food-order
+food-ordering-2,dlg-df1027dd-4091-48b7-8469-20612d13ac7f,"Hey, I'm looking to get some hot dogs tonight. Can you help me?",food-order
+food-ordering-1,dlg-df26e596-efb6-4d64-a1f9-1a8f260ad5e7,Hey. I'm going to order some Mexican food for me. Can you help me with that?,food-order
+food-ordering-2,dlg-df7454a8-5ce3-43e0-8ae0-3c9e5c6035db,I want to order sandwiches for three people.,food-order
+food-ordering-2,dlg-dfcf5501-cdfa-4f3a-8284-c75adfe4e75d,I want to order some takeout.,food-order
+food-ordering-2,dlg-e0872fc0-b753-4b43-adbc-2ee1376235ce,"Hi, I was wondering if you could help me to place an order for hot dogs for take out.",food-order
+food-ordering-1,dlg-e08b5d58-2a51-4a73-8242-1b217cb65c8e,Can you help me get some Indian takeout food?,food-order
+food-ordering-2,dlg-e09cc3e6-aeda-4d5d-abc3-4b81bad5d1f1,"Hi, today I need your help getting for takeout for two people.",food-order
+food-ordering-1,dlg-e09e01c4-3c9d-4689-a6fd-bf690554949b,"Hi, how are you doing today? I'd like to order some Indian food.",food-order
+food-ordering-2,dlg-e0b3e286-ef5c-445e-bf92-1f1fedf02441,"Hi, I'd to order a take out, Italian, For two people.",food-order
+food-ordering-1,dlg-e0fb1508-80d0-4b28-97f3-af780aaf793c,"Hi, I need to order takeout for three people, please.",food-order
+food-ordering-4,dlg-e1155be5-2d39-4630-9966-9a621d5b6ec0,"Hello, I'd like to know if it's possible to order same thing I did last week from Larry's Grill.",food-order
+food-ordering-1,dlg-e164b6c7-a2b6-4871-ba98-d941ed8a0a8f,"Hi, I'm trying to get a order from the Barbecue for my team.",food-order
+food-ordering-1,dlg-e17389a1-485e-4b2d-8a2c-d0541160fb1e,"Hello, I'd like to order some Jaylos. I like them dipped in honey mustard and I like it to be a large order of Jaylos. Can you help me with that?",food-order
+food-ordering-1,dlg-e19801e8-62e5-44f0-9fe7-61d67a36e27c,I'd like to order some Mexican takeout food tonight.,food-order
+food-ordering-2,dlg-e1bf9414-ed72-4e73-a9fd-00573da879f3,"Hi, I need to place some order for take out.",food-order
+food-ordering-2,dlg-e1d4320a-51da-43be-81c1-e89a260af0d7,I'd like to order out some hot dogs.,food-order
+food-ordering-1,dlg-e2df90f6-2c31-4c06-948f-de772eb2a7a4,Hi. I'd like to get takeout food for one person.,food-order
+food-ordering-1,dlg-e2e0c5f4-f3b9-4f2e-9987-99c3cf30f11f,"Yes, I'd like Indian food for three people, please.",food-order
+food-ordering-1,dlg-e301c748-ab62-4e4c-ae00-0087a446bd61,"Hi, today I need your help in finding food to get for takeout for three people. I'm looking for Thai food.",food-order
+food-ordering-2,dlg-e32212ad-60ba-4ecd-ac36-5d775d492a8e,"Hi, I'd like to order some hot dogs and also put some ketchup on them.",food-order
+food-ordering-2,dlg-e339b65a-c520-449f-86c2-29cc466bfdc5,I'd like to order take out Italian for one person.,food-order
+food-ordering-2,dlg-e3ada5b8-8a93-496e-b524-b2ff40a03528,Hello. I like to order food for takeout. I'd like to have pizza.,food-order
+food-ordering-3,dlg-e3bab1b8-7fe0-4b12-a072-fdbd15bc6199,"Hi, I like to order take out.",food-order
+food-ordering-2,dlg-e3c924f0-9140-447e-aa7c-0f90b9013c76,"Hey, I'd like to order some breakfast burritos for the three of us here.",food-order
+food-ordering-2,dlg-e3e0bb8e-6360-4733-80e2-7a7e589dd43c,"Hi, I would like to order some Italian food for take out.",food-order
+food-ordering-1,dlg-e3e62642-e930-4bf7-b35d-153961acefc2,"Yeah, Help me find Indian food takeout for two people, please.",food-order
+food-ordering-1,dlg-e3fe83dd-f02b-4b06-a509-46439ce845f8,I want to order take-out Indian food for three people.,food-order
+food-ordering-2,dlg-e415d83f-f2d7-4c62-96c9-aba20db7b9fd,Can you take an order for hot dogs?,food-order
+food-ordering-2,dlg-e47055f6-ec6d-4e85-9afd-88f1a230b61a,Hi. I'd like to get Italian takeout for two.,food-order
+food-ordering-2,dlg-e486c796-8aea-4449-b11f-2bbc077275b1,"Hi, I need to place a takeout order. Can you help me with that?",food-order
+food-ordering-2,dlg-e48a0955-7b46-4373-b366-a4baf897181b,Hi. I would like to order two large deep-dish pizzas.,food-order
+food-ordering-2,dlg-e531ad29-621c-4f4a-8bc8-1fbbc594c533,I'd like to order take out for two people.,food-order
+food-ordering-4,dlg-e548af9f-9f39-4497-8cf9-0c296db5d350,"Hi there, I was wanting to order some food from Larry's Grill.",food-order
+food-ordering-1,dlg-e5818fb7-dd8b-4fd4-a7bd-8ec3598c2016,"Hello, I'd like to order take-out burgers for three people.",food-order
+food-ordering-1,dlg-e5b07215-93cb-441e-abb9-87fc445fca25,I want to takeout some Chinese food for three people.,food-order
+food-ordering-1,dlg-e5eaf576-a835-446b-ac2f-54c91eb23020,"Hello, can you help me in ordering some Chinese food, please?",food-order
+food-ordering-1,dlg-e5eff48d-0f25-44b7-b1d0-0b01748ac761,"Yeah, I need to order Chinese food takeout for three people.",food-order
+food-ordering-2,dlg-e606b951-e792-4b0a-bf9c-2b184a82f356,Hello. I'm looking for takeout food for three people and I need to order some pasta.,food-order
+food-ordering-2,dlg-e618ad55-f46a-432f-b31b-4fc0aec269e2,"Hello, I'm looking for takeout food for one person. I'm looking for breakfast burritos.",food-order
+food-ordering-1,dlg-e63456e0-b264-47ec-b695-a807f846a5de,I want to buy some Chinese food.,food-order
+food-ordering-1,dlg-e66f1ee3-263a-4f70-b39e-4f5e65355dba,"I want to order takeout Indian food for two people, please.",food-order
+food-ordering-1,dlg-e67cbb51-2e6a-479d-896f-e34db7f729dd,"Yeah, I wanted some help ordering some takeout.",food-order
+food-ordering-2,dlg-e6c10db0-a286-4b6d-85aa-ae5d8b8f32cd,"Hello, I need to find takeout for one person. I'm looking for some hotdogs.",food-order
+food-ordering-1,dlg-e6f24b45-ad6f-4ca8-86bf-d4324e1fad89,"Hi there, I want to a order take out for one.",food-order
+food-ordering-1,dlg-e70bfbc5-0fc1-4a53-aad3-4d0ef75fa405,"Hi, I need to order a barbecue for one person.",food-order
+food-ordering-2,dlg-e7173bf1-7b5b-4c1b-abd5-cc238fdb680c,"Hi, I'm looking to order some Greek food for take-out.",food-order
+food-ordering-4,dlg-e73f0d20-cf47-4707-b7c6-413fcf761096,"Hello Assistant, I would like to place an order for pizza. I'm keen to order something that I have ordered before. Can you help me?",food-order
+food-ordering-2,dlg-e84e365f-f639-47e0-8ecb-247928ac1218,"I'd like to order some burritos, breakfast burritos with with extra bacon veggies and extra cheese, American cheese. And on the side I'd like some hash brown potatoes and to drink I would like one decaf coffee and one regular coffee.",food-order
+food-ordering-2,dlg-e93e0f2f-39ca-4d55-bd3b-1e7e00df853f,"I'd like two hot dogs with ketchup tomatoes, just a small amount of onions, pickles, mustard, a couple Jalapenos and medium order of fries for both.",food-order
+food-ordering-1,dlg-e96a403f-ceeb-42ea-a368-2f82d5ba4173,I need to order barbecue for take out.,food-order
+food-ordering-1,dlg-e9b43386-ea55-4e4b-a0f1-5ff2171b951d,"Hello there, I need to order some Indian food.",food-order
+food-ordering-1,dlg-e9fb2fe3-491a-4d70-817c-1bcf4260390d,"Hi, I need to order Mexican food for three people.",food-order
+food-ordering-1,dlg-ea7a8c04-71ab-4237-9ed0-fe4b54fae117,"Hi there. I'd like to order burgers for two, takeout, please.",food-order
+food-ordering-2,dlg-eaa0f839-8a42-485f-8ac7-b634ca04bfb1,I'd like to order food for takeout for two people.,food-order
+food-ordering-3,dlg-eaa37de6-d156-4825-aa94-015c91539b14,"Hi, I wanted a breakfast burrito for one and I'd like it to have sausage, egg, cheese, and hash browns, and then I'd also like a large coffee.",food-order
+food-ordering-1,dlg-eb051030-b8b4-4a09-bcaf-f7a2c597ca5e,"Hi, I'm looking for Thai Takeout.",food-order
+food-ordering-4,dlg-eb99c1fe-665d-4310-b055-99398c2b8b60,"Hello, I would like to reorder the same take out order that I had last weekend from Sara's Pizza.",food-order
+food-ordering-1,dlg-ebcb8102-485b-4346-b9e3-9368018c8c12,Hello. Can you help me in ordering food takeout for three people please?,food-order
+food-ordering-1,dlg-ebde7118-6d65-4fc5-8f3a-cf6b059c4c2c,"Yeah, I'm ordering food take out right now for three people. We are looking for Burritos.",food-order
+food-ordering-1,dlg-ec0b6d3c-fa38-4632-86be-ed77ba0a31b8,I would like help ordering take out.,food-order
+food-ordering-2,dlg-eccaa0d7-75df-474b-b724-7c6e3e3b4e74,"Hello, I need to order take out for one person and I need to order Italian food.",food-order
+food-ordering-1,dlg-ed3a86c7-9998-4d24-a3a2-54d51d0814d3,I want to order some barbecue.,food-order
+food-ordering-2,dlg-ed981a98-b0d2-4c3a-8912-5252c4c52bd6,"Yeah, I need to order take out for three people, from an Italian restaurant.",food-order
+food-ordering-1,dlg-ee074302-6e7b-4875-8d20-2823991567be,"Hi. I like to order take away for two people, please.",food-order
+food-ordering-1,dlg-ee30878d-1d0b-4b2b-8944-f08a31dd2bbb,Hi! Today I need your help in getting food for take-out for one person and I'm interested in getting some pizza.,food-order
+food-ordering-1,dlg-ee7d0584-26dc-43a5-8ac2-4d1051b0fdc1,Today I need your help on finding a place to get take-out for one person. I'm looking to get some barbecue food.,food-order
+food-ordering-1,dlg-ee96df77-6045-4a0f-85d1-7635d4d54310,I am searching for Indian food.,food-order
+food-ordering-4,dlg-eeaf7087-412e-450c-8c9b-3d438fd1fe73,"Hi, can you help me to reorder my last order at Larry's Grill?",food-order
+food-ordering-2,dlg-eed341c8-87e2-4185-9223-020e058e9390,"Hi, I'd like to order some takeout food for two people, and I'd like to order some hot dogs.",food-order
+food-ordering-2,dlg-eed34cf5-cc13-45f0-8b52-e44f73325653,"Hello, I'm looking for take-out for one and I'm looking for Greek food.",food-order
+food-ordering-2,dlg-eefafe16-2a42-487a-ad6b-1e263d489d28,I'd like to order Greek take out for one.,food-order
+food-ordering-1,dlg-ef12a55c-4265-4c9a-bcbd-c947d786bc2a,"Hello, I'd like to take out some food tonight.",food-order
+food-ordering-1,dlg-ef9c2e51-a950-4305-9621-42f6f8712a77,I'm looking to order some takeout Thai food.,food-order
+food-ordering-1,dlg-f03ed8b9-319f-4072-b0ea-dfa6877160f2,"Hi, I was looking to order some Mexican food for take out.",food-order
+food-ordering-1,dlg-f051b15e-9bab-4751-9405-25900ddd0bf4,"Hi, I'd like to order food for takeout for two people. The type of food I'm looking at is Chinese food.",food-order
+food-ordering-2,dlg-f099aea2-bc1f-418b-8b77-26a7d50bf0fb,"All right, today I need your help getting food for take out for one person. I'm looking to get some Greek food.",food-order
+food-ordering-1,dlg-f0bddcd2-c3a1-481b-8bdb-715ec0fa3aaf,"Hello, I would like to order burritos for myself, please.",food-order
+food-ordering-3,dlg-f190aef5-0786-425f-8a51-fdc649559861,"I was ordering some pasta but I forgot to say that I want a side salad. And, I would also like some bread. Crusty bread on the side and also some diet coke to go with it.",food-order
+food-ordering-2,dlg-f19171b1-539a-402b-acaa-4e84e113dc22,"Hello, I'm looking for take out food for three people, looking for some pasta dishes.",food-order
+food-ordering-2,dlg-f1b47342-9b60-47ed-b9b1-a5c9a938d8b3,I'd like to order some food for two people.,food-order
+food-ordering-2,dlg-f21a345e-b739-4439-8eb0-e5b794158049,Hi. I need to order sandwiches.,food-order
+food-ordering-1,dlg-f21ce663-3149-4d41-985b-b8d2f8e47529,Hi. I wanted to order take out.,food-order
+food-ordering-2,dlg-f2701a37-00e6-4b00-8f9f-9b31737fd2a9,"Hi, I was wondering, If you could help me order some take-out.",food-order
+food-ordering-2,dlg-f2b17930-03b9-4052-b5a4-1d7d0c87970d,"Hey Assistant, I'd like to order a food for take-out for two people.",food-order
+food-ordering-2,dlg-f2d95c81-1505-4dcd-b6ea-176504c0baca,"Hi, I need to order take out for three people, please.",food-order
+food-ordering-2,dlg-f2d9c878-02f9-4f9c-8275-472e39cb062b,"Hi, I wanted to order takeout for three people.",food-order
+food-ordering-3,dlg-f311897f-b60a-40e3-98bd-a6c7a6281d3e,"Hi, today I need your help ordering some food for take-out. I'm in the middle of deciding to get.",food-order
+food-ordering-1,dlg-f3525bc3-1d65-49c0-a81b-544531639f4a,"Hi, today I need your help finding food for takeout for three people. I'm looking to purchase some burgers to eat.",food-order
+food-ordering-3,dlg-f39f26ee-4b30-4da4-b443-c384c335fd27,I want to return to the food order that I had in progress.,food-order
+food-ordering-1,dlg-f3ddd052-c676-42cf-b7fd-14cbf88cdbf5,"Hi, could you help me order takeout?",food-order
+food-ordering-2,dlg-f3efcf51-8a7e-449f-9d0a-9b8b76bb71d4,"Hey, I want to get some hot dogs. Can you take a hot dog order?",food-order
+food-ordering-1,dlg-f3f05817-dd43-4b15-9a91-4560ad77f864,"Yeah, I would like to order some food for takeout.",food-order
+food-ordering-3,dlg-f40aa650-7d6e-4ae3-b810-71dc5be4a5bc,"Yes, I need to continue a take out order.",food-order
+food-ordering-2,dlg-f40d0af9-97c1-46ac-80bd-e07bccd2fd22,"Like to order for three people, please.",food-order
+food-ordering-2,dlg-f446f1e7-36d8-4c04-bc99-f52044afb7f1,"Hi, can I order for three people, please?",food-order
+food-ordering-2,dlg-f4aded77-3bbd-4328-9de3-1cdc610e9e01,"Hi, I'd like to order food for takeout for one person.",food-order
+food-ordering-2,dlg-f4ca3828-a656-4a98-a852-eff5354f8e1a,"Hi, today I need your help in ordering take-out for three people and I want hot dogs.",food-order
+food-ordering-4,dlg-f4d92121-7274-4341-9240-8bc8d42b31bc,"Hi, I'd like to reorder my same take-out from last weekend from Craig's fantastic.",food-order
+food-ordering-1,dlg-f4e1d116-3fcc-40c1-b749-af14f0a2c15e,"Hi, today I need help getting takeout for three people to eat. I'm looking for Chinese food.",food-order
+food-ordering-2,dlg-f4f7fcc7-14ed-4f62-8870-3b2744ff23c7,"Hi, Casey wants to order some pasta tonight for him and his daughter. Can you help me do that?",food-order
+food-ordering-2,dlg-f50a9ac3-552d-495a-8161-dff92220181c,"Hi, I would like to place an order for takeout for one person, please.",food-order
+food-ordering-2,dlg-f527d24b-9c3c-49c0-bf3e-f4409ec1d055,"Hi, I want to order a takeout Greek food for three people.",food-order
+food-ordering-2,dlg-f54d2775-71cf-4d7c-82c6-baf9179b8fcc,I was wanting to order some takeout Italian.,food-order
+food-ordering-2,dlg-f591c4c4-d413-48d5-a9ba-793b7779ccdf,Hi. Can you help me in finding some food to order for takeout for two people? I'm looking for some Greek food.,food-order
+food-ordering-1,dlg-f5b725d5-c641-4220-9af3-97e553c7dd66,"Hi, I would like to order food for a takeout for two people, please.",food-order
+food-ordering-1,dlg-f60ea26d-4567-4987-a747-b446c538861a,I'd like to order food for takeout for one person.,food-order
+food-ordering-2,dlg-f6208ab6-72f8-42be-bd9e-da952eb729e5,"I'd like to order breakfast for three people, please.",food-order
+food-ordering-2,dlg-f6a3d5f5-c00a-4465-afd5-6f96def87f6a,"Hello Assistant, can you help me order some Italian food?",food-order
+food-ordering-1,dlg-f6b2f4cf-1749-4894-aa47-9b06ebb85099,"Hey, I'm looking to order some barbeque for the three of us.",food-order
+food-ordering-1,dlg-f6b88eb4-663a-41af-bc03-e15eb51cf247,Hi. I would like to order food for takeout for one person.,food-order
+food-ordering-1,dlg-f6d73932-af78-4471-b373-1c3f1d6fbbde,Hi Assistant. I need help ordering some Mexican food for three people.,food-order
+food-ordering-2,dlg-f6fdbdfc-90e7-4e37-9162-e2ddb94d379e,"Hi, so I'd like to order takeout for three people. I'd want breakfast Burritos.",food-order
+food-ordering-1,dlg-f71e502d-5487-4878-8872-0ae450580564,Hello. Hi. Today I need your help getting food for takeout for one person. I'm interested in getting some pizza.,food-order
+food-ordering-2,dlg-f73424c4-17ed-4f8b-9725-df17da7d7301,"Oh yes, I'd like to order some Italian food for myself, please.",food-order
+food-ordering-2,dlg-f7784c84-5aa5-41ee-a80f-9df72ac6faa5,"Hi there, I was wanting to order some take out soup for three.",food-order
+food-ordering-1,dlg-f7a1540a-58b4-41a3-8c27-b875f56ac3dd,Can I have some Mexican food?,food-order
+food-ordering-2,dlg-f7c12889-8ea2-4d0f-83ee-e6353693d024,"Hello, Today I need your help finding food for takeout for one person. I'm looking to get pasta.",food-order
+food-ordering-1,dlg-f7fdff3a-61ee-4bff-a639-673910a7514c,Hello. I want to order takeout for probably three people.,food-order
+food-ordering-2,dlg-f87cd47b-d75b-4003-b5f4-fcca624fe0d1,"Hi, I would like to order food for take out for three people. Now the type of food I'm looking at is breakfast burritos.",food-order
+food-ordering-2,dlg-f915ca8a-0ff6-49ee-81b8-ec12bc63a654,"Hi, I need help ordering takeout for one person, please.",food-order
+food-ordering-2,dlg-f935d1f8-ad31-4bb6-853d-e4673271a414,"I'd like to order takeout soup for two people, please.",food-order
+food-ordering-1,dlg-f9390154-6afb-4e5b-9fbd-6f10ea35b783,I like to order Chinese food for take out.,food-order
+food-ordering-2,dlg-f949e939-047d-4ef9-8c2d-6b1532b0b086,Hello. I'd like to order some of my favorite Greek food as takeout food for two people.,food-order
+food-ordering-4,dlg-f97a14fc-4b86-4c0d-9e54-dc7e4fb568fa,Could you bring up Sarah's last order of pizza?,food-order
+food-ordering-4,dlg-f9be4122-be1c-48b5-b11c-a5dba2e9845a,"Hello, Assistant. I'd like to place an order Crepes Fantastic for pick up, and I'd like to have exactly what I ordered last time.",food-order
+food-ordering-2,dlg-f9f2909f-28ca-4c09-8a64-4384666c92ca,"Hi, I would like to order hot dogs for take out for one person.",food-order
+food-ordering-1,dlg-fa17dce6-2f34-43b8-81c6-5417ff0e901a,"Hi, I'd like to order pizza for one person, please.",food-order
+food-ordering-2,dlg-fa450f7d-2848-4419-b862-8fa77325ac1f,"Hi, I would like to order food for takeout for three people. I want to order sandwiches. I like to order Po' Boy sandwich, pastrami on rye sandwich, a french cheese steak sandwich.",food-order
+food-ordering-1,dlg-fa5a3827-d1c1-4401-8700-f8e79950deec,I want to order takeout for two people the Mexican food.,food-order
+food-ordering-2,dlg-fa688a25-1fc5-407c-83ea-89e466409ee4,"I need to place a take out order, I need to get soup for three people.",food-order
+food-ordering-3,dlg-fad8fedd-db61-4919-bc50-5011dfce0b23,"I'd to continue my order, Ordering spaghetti from earlier. I got disconnected.",food-order
+food-ordering-3,dlg-fad9b9a4-2a8e-496b-bc6d-7067cae3da6a,I'd like to order Italian food for three people.,food-order
+food-ordering-2,dlg-fb60a4cb-1ba1-4cb7-b0ed-e946ad4e4cd6,"Hi Assistant, I'd like to order some take out food for three people, and I'd like to order some Italian food.",food-order
+food-ordering-2,dlg-fbbaaf8b-1fbd-4bae-8e45-d6be23a814f7,"Hello Assistant, I would like to order some take-out for one person and I'd like to order some breakfast burritos.",food-order
+food-ordering-2,dlg-fbe40292-663a-467a-980f-d9e218f7db16,"Hi, I was wanting to order some Greek takeout for one.",food-order
+food-ordering-1,dlg-fc5ac473-609a-493c-9e49-b90642490a22,I'd like to order take-out for three people.,food-order
+food-ordering-2,dlg-fc676090-789e-47bd-87d8-404980f33e15,Hello. I was wondering if you could help me order some take-out.,food-order
+food-ordering-1,dlg-fc8f6991-e5dd-4057-a2d4-5273600c0d8c,"Hi, I would like to order take out for two people for Thai food.",food-order
+food-ordering-2,dlg-fca73c0d-8502-41ca-a2e9-0d6080078b7c,Hi. I was wanting to order Greek takeout for three.,food-order
+food-ordering-1,dlg-fd84723a-1152-452e-8cdb-ffa24c889f7d,I'd like to order gyros for three people.,food-order
+food-ordering-2,dlg-fe5bf56b-a010-40b0-bc5b-b3f71790fcf1,"I would like to order takeout for two people, please. We're looking for some Greek food.",food-order
+food-ordering-1,dlg-feae8356-b2cc-484a-b1b5-65bd313e06e4,"Hi, today I need your help getting food for take out for one person, myself. I'm looking for pizza to eat.",food-order
+food-ordering-2,dlg-feedc14c-2d57-40ee-bc47-3e8483096830,I will like to order take-out for one person.,food-order
+food-ordering-1,dlg-ff479bee-15eb-443b-bd60-299350d72a4b,I'd like to order pork balls for two people.,food-order
+food-ordering-1,dlg-ff641457-cd72-4d51-b1eb-f2c5251bb674,"Hi, I was looking to order some Thai food for two people.",food-order

@@ -1,0 +1,190 @@
+// insights: lots of duplicated utterances; can identify even with colloquial noises (e.g. hey, ah, yes)
+
+// find first annotated dialog - that can have issues too
+
+// find first user dialog - that can have issues too
+// eg. tm2-movies.json conversation_id = "dlg-05ed0ef0-8851-4467-a44c-64ad10909c40"
+
+// malformed data:
+// 1. unlabeled restaurant data put into tm2-hotels.json
+// E.g. conversation_id = dlg-0c5170a7-6a0e-4229-b9be-d2c030003d7f
+// 2. missing user dialog, only assistant dialog
+// from tm1-written.json
+{
+    "conversation_id": "dlg-00cd3e8f-5e15-4a52-a8af-1feb8c6b46a3",
+    "instruction_id": "uber-lyft-1",
+    "utterances": [
+      {
+        "index": 0,
+        "speaker": "ASSISTANT",
+        "text": "hi, how can i assist you?"
+      },
+      {
+        "index": 1,
+        "speaker": "ASSISTANT",
+        "text": "sure, what is the pickup location?"
+      },
+      {
+        "index": 2,
+        "speaker": "ASSISTANT",
+        "text": "which airport?",
+        "segments": [
+          {
+            "start_index": 6,
+            "end_index": 13,
+            "text": "airport",
+            "annotations": [
+              {
+                "name": "uber_lyft.location.from.accept"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "speaker": "ASSISTANT",
+        "text": "ok and where would you like to be dropped off?"
+      },
+      {
+        "index": 4,
+        "speaker": "USER",
+        "text": "Please drop a residence.",
+        "segments": [
+          {
+            "start_index": 14,
+            "end_index": 23,
+            "text": "residence",
+            "annotations": [
+              {
+                "name": "uber_lyft.location.to.accept"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "speaker": "ASSISTANT",
+        "text": "what address?"
+      },
+      {
+        "index": 6,
+        "speaker": "ASSISTANT",
+        "text": "what kind of ride would you like?"
+      },
+      {
+        "index": 7,
+        "speaker": "ASSISTANT",
+        "text": "ok, how many people are riding with you?"
+      },
+      {
+        "index": 8,
+        "speaker": "USER",
+        "text": "five.",
+        "segments": [
+          {
+            "start_index": 0,
+            "end_index": 4,
+            "text": "five",
+            "annotations": [
+              {
+                "name": "uber_lyft.num.people.accept"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "speaker": "ASSISTANT",
+        "text": "you can only take up to 4 people on uberX. I suggest that you request uberXL for larger groups.",
+        "segments": [
+          {
+            "start_index": 24,
+            "end_index": 25,
+            "text": "4",
+            "annotations": [
+              {
+                "name": "uber_lyft.num.people"
+              }
+            ]
+          },
+          {
+            "start_index": 36,
+            "end_index": 41,
+            "text": "uberX",
+            "annotations": [
+              {
+                "name": "uber_lyft.type.ride"
+              }
+            ]
+          },
+          {
+            "start_index": 70,
+            "end_index": 76,
+            "text": "uberXL",
+            "annotations": [
+              {
+                "name": "uber_lyft.type.ride.accept"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "speaker": "USER",
+        "text": "Yeah, sure."
+      },
+      {
+        "index": 11,
+        "speaker": "ASSISTANT",
+        "text": "your fare estimate is $22.72.",
+        "segments": [
+          {
+            "start_index": 22,
+            "end_index": 29,
+            "text": "$22.72.",
+            "annotations": [
+              {
+                "name": "uber_lyft.price.estimate.accept"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "speaker": "USER",
+        "text": "Okay."
+      },
+      {
+        "index": 13,
+        "speaker": "ASSISTANT",
+        "text": "all set for tonight at 9pm. you will receive a notification when the driver is on their way.",
+        "segments": [
+          {
+            "start_index": 23,
+            "end_index": 26,
+            "text": "9pm",
+            "annotations": [
+              {
+                "name": "uber_lyft.time.pickup.accept"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "speaker": "USER",
+        "text": "Okay. Thank you for booking me."
+      },
+      {
+        "index": 15,
+        "speaker": "ASSISTANT",
+        "text": "you're welcome, bye!"
+      }
+    ]
+  },

@@ -1,0 +1,958 @@
+instruction_id,conversation_id,utterance,label
+uber-lyft-1,dlg-004c897b-0c8b-4b7c-9f58-8dcb46684187,"Hi, I need an uber",ride-book
+uber-lyft-2,dlg-00862409-2171-4634-8aef-eba3e3b5671f,I want a pick up today.,ride-book
+uber-lyft-1,dlg-00ba2eb7-754a-4b45-b4bb-08c66cbfd26f,"Hi, I would like to request a ride. ",ride-book
+uber-lyft-1,dlg-00bbe474-c8a8-4978-8713-1b3b7c7f2308,"Hey, I need a pickup at school.",ride-book
+uber-lyft-1,dlg-00cdb44e-6fa2-4e7c-a7db-510051c7adac,"Hello, I need you to order me a car through Lyft",ride-book
+uber-lyft-2,dlg-00eb42dd-8596-4fb0-889a-cb17dfba84c1,hi i would like to get an uber for me and my friend ,ride-book
+uber-lyft-1,dlg-014a3bde-32c2-4925-b812-31afafb6676b,"I'm in Boulder, can you get me an Uber?",ride-book
+uber-lyft-1,dlg-0159546b-0ba1-44de-a4a3-3fcad2cd3d21,Hey I need you to order a ride for me.,ride-book
+uber-lyft-2,dlg-015a9f6a-54b9-4538-9878-159bc5baf58e,i can't drive. get me a car.,ride-book
+uber-lyft-2,dlg-01de3ce2-f299-4c9f-8824-2a5c3d54523a,Hello I need to get a car please.,ride-book
+uber-lyft-2,dlg-02a55479-0fac-46c7-b555-6caffdb988d0,I need to book an Uber ride.,ride-book
+uber-lyft-2,dlg-02cc6602-dd1c-411e-bb50-b4cef8121560,Hey Donna can you order me a LYFT?,ride-book
+uber-lyft-2,dlg-02d4a029-d570-4323-85e8-9bc49ad5882a,"Hi, we're at Safeco field and need to book at car to our dinner reservation",ride-book
+uber-lyft-2,dlg-033af8eb-b184-4e5e-a4f4-15fced78e289,I would like to get a lyft,ride-book
+uber-lyft-2,dlg-038828ba-a049-45aa-8696-d5faa4597698,"Hello, I'm calling to order a car to go from my Room 12 at The Holiday Inn to a restaurant and then back to The Holiday Inn later on tonight.",ride-book
+uber-lyft-1,dlg-038c692e-b245-41fa-b22d-f1a68c7639c4,I need an Uber ride at my location.,ride-book
+uber-lyft-1,dlg-03c38420-1a71-490e-b9ef-8e4f2b45cfd4,I need picked up at the airport can you get me an Uber,ride-book
+uber-lyft-1,dlg-03ed6f76-10eb-4b4f-80d0-540ee27e92d1,"Hey, please order an uber from my location",ride-book
+uber-lyft-1,dlg-043e4c16-3dfd-4e20-b6a3-3b6b803973a5,Hello would like to order and uber,ride-book
+uber-lyft-1,dlg-0467747e-0382-423c-aaf2-12752ef07ea2,Hi. I need to get a Lyft.,ride-book
+uber-lyft-1,dlg-04e1c71d-28c1-4a82-b0d8-047721adbb07,I'd like a Lyft ride today.,ride-book
+uber-lyft-1,dlg-05438a4c-538f-48c1-bca9-8a3c509c3d48,I would like to order a an uber ride.,ride-book
+uber-lyft-1,dlg-05a70bda-dc27-4d3f-b654-59c381b81241,"Hey, can you get me an Uber from Parkview and Elm to take me to the Riverview Movie Theater in about a half hour, and make sure you tell them I don't like waiting. Please and thank you!",ride-book
+uber-lyft-1,dlg-05b8907a-10a9-4cc7-bfbd-8255ad9d7ce1,"Hey Marshall, I have plans with some friends to go to the movies, could you get me an Uber?",ride-book
+uber-lyft-1,dlg-05c0dff8-6fc9-493b-ad16-742c79ad7e0b,"Hi, I would like to order an Uber ride please ",ride-book
+uber-lyft-1,dlg-060a6255-3c33-4803-b8a7-25e22bab3dab,Happy Friday! I need you to arrange a car service for me.,ride-book
+uber-lyft-1,dlg-061ec81e-22f3-43b8-ae2f-e399f8d89566,"Hi, can you order me a Lyft ride for when I am finished my meeting?",ride-book
+uber-lyft-1,dlg-063f6e99-8eef-4b63-917f-e8d4bca5b064,Can you request me an Uber ride to my location?,ride-book
+uber-lyft-1,dlg-06a98e09-31cb-41da-b464-829a676be9ff,Hi! Can you book me a ride on Uber,ride-book
+uber-lyft-2,dlg-06c3080c-c9a2-4302-b8bf-8f9fb4a49470,Can i get an uber ride to Casa Bonita on Colfax,ride-book
+uber-lyft-1,dlg-06caa3b8-2cab-4c4a-8b62-6c89d0846462,Hey assistant can you order me an uber from la Jolla cove to Petco park in San diego?,ride-book
+uber-lyft-1,dlg-07043809-e779-466a-8923-383d9623d3d7,Call an Uber for me.,ride-book
+uber-lyft-1,dlg-072c91d7-47d8-40de-8e34-e56f02e0f380,"Yo, my man. Can you order me a lyft?",ride-book
+uber-lyft-1,dlg-07384837-00ae-40ca-8008-d95f8b99d97f,"Hello Kelly, Can you order a car for me?",ride-book
+uber-lyft-1,dlg-07cbb692-6b2b-4104-8257-266030912a2e,I need an Uber ,ride-book
+uber-lyft-2,dlg-08275908-8104-4527-9b2f-e3eaf3ec85fa,Hello. Can you do me favor and order a Lyft for me?,ride-book
+uber-lyft-2,dlg-083612d6-851c-40da-b9d4-ea3716e733fc,I need a ride to the airport,ride-book
+uber-lyft-2,dlg-0846ccac-ef66-44d8-9b50-0b0032f910e6,I would like to place an order for a ride,ride-book
+uber-lyft-1,dlg-0848f5f0-0513-4ee9-8cfa-caaeea4e1d06,I need an Uber to take me to the airport.,ride-book
+uber-lyft-1,dlg-08c1acb0-8471-469b-a9e9-4149f9880928,Would like to order an Uber.,ride-book
+uber-lyft-1,dlg-08e69a78-9ab7-4009-947b-d46e82ed5e5a,I'd like to order an Uber,ride-book
+uber-lyft-1,dlg-08eb45b1-0bc2-4335-a735-f0e0eb39d37e,"hello jim, i need you to call an uber for me ",ride-book
+uber-lyft-1,dlg-08eeb193-34f2-4228-b61d-c25af611e55d,"Hey google, Can you call uber for me?",ride-book
+uber-lyft-1,dlg-09c04ebd-c10a-46ff-a907-f309dcf041a6,ok i need to find out about getting a ride,ride-book
+uber-lyft-2,dlg-0a0fcccb-5142-40d3-b7a7-ee2f45676d09,"Hello, can you get me a ride with Uber?",ride-book
+uber-lyft-1,dlg-0a238c37-d6d0-40ae-b415-1bf67ab2993d,"Hello, Zaza, I need a ride, please",ride-book
+uber-lyft-2,dlg-0a9babb6-03e1-43c6-9371-6d2f5631be9a,"Hello, I'm calling to order a car to go from the airport to a residence later on tonight.",ride-book
+uber-lyft-1,dlg-0aada409-80e3-4931-83ff-91912fef50ab,Hi can you call an Uber for me?,ride-book
+uber-lyft-1,dlg-0adfd3fc-6e89-4ba0-8331-943d5412f717,"Hi, I'd like to get an Uber to go to the Mall of America.",ride-book
+uber-lyft-1,dlg-0af5d350-3bfb-4c32-8618-080ccc261819,i need an uber tonight,ride-book
+uber-lyft-1,dlg-0b1587b1-ddb0-4bb7-8867-73560367f2b5,I need to get a ride with Uber,ride-book
+uber-lyft-1,dlg-0bb23b21-f361-46fe-bd84-a84474e1f76f,Hey I need you to order me a lyft asap. ,ride-book
+uber-lyft-2,dlg-0c262324-3085-432b-984e-a9dae4460cc8,I need to order an Uber for 2 people.,ride-book
+uber-lyft-2,dlg-0c31f43e-f9b9-4baa-8e20-a0007a5991db,I need a ride to work.,ride-book
+uber-lyft-1,dlg-0c88b4cb-f6e7-43c4-9260-a985ce8c9373,Hello assistant I need to order an Uber.,ride-book
+uber-lyft-2,dlg-0c8dc43e-bbef-459a-82ce-ffba75b4f7d8,"I need a ride, help.",ride-book
+uber-lyft-1,dlg-0cb51e56-3edb-4c83-b4a8-1ccf6058ce94,"Hi, I would like you to book an Uber for me.",ride-book
+uber-lyft-1,dlg-0cbb3cfe-2401-45ee-9f6e-2087dc8d6d60,Can I get an uber from my hotel to a movie theatre?,ride-book
+uber-lyft-2,dlg-0cd9644e-c239-4021-b888-a1c83ee1262a,"Olivia, I have a meeting at 5pm, can you order me a Lyft by then?",ride-book
+uber-lyft-1,dlg-0d4167b4-414d-442c-8141-acb7a30adeab,I'd like to order an Uber.,ride-book
+uber-lyft-1,dlg-0d5f58b8-0ddb-4a59-93f4-9af0ea34072b,Could you get a Lyft to pick us up?,ride-book
+uber-lyft-2,dlg-0da174ae-be84-4a9b-bcff-3fe9f03e2d9e,"Hi, I need to order an car.",ride-book
+uber-lyft-1,dlg-0db62434-f4ba-43f3-8002-8b4ece471b36,I need to order a ride with Lyft today,ride-book
+uber-lyft-1,dlg-0df535f8-c34c-444e-b0db-a7ce1221aabf,"I need an Uber, please.",ride-book
+uber-lyft-1,dlg-0df625e4-e288-4719-91a6-cd559c3b76b3,"Hi, can I get an uber?",ride-book
+uber-lyft-1,dlg-0e567a76-fe48-46ed-be9e-de672b1b3792,Hello brother. Can you get me an Uber?,ride-book
+uber-lyft-2,dlg-0e6e5ff6-d224-4911-b418-2ad212727337,I would like to order a lyft.,ride-book
+uber-lyft-1,dlg-0eaab060-20b3-4482-a574-c04e21b80e0b,I need you to order me a ride share,ride-book
+uber-lyft-2,dlg-0ee0d3ef-b419-4b58-8530-f50aa4fab2f0,"Hello, can you please get me an Uber? My car's in the shop and I need to get from work to Walmart",ride-book
+uber-lyft-1,dlg-0ef920f8-9c9c-434f-80de-227cac317dcc,Hey. I need to book an uber ride. ,ride-book
+uber-lyft-2,dlg-102d8603-78c8-41a1-b6ce-fb1c495e76ea,I need to order a uber.,ride-book
+uber-lyft-2,dlg-1041bb2e-cacc-458e-b82d-baabac9a6f87,"Hello, I would like to book a Lyft personal ride please.",ride-book
+uber-lyft-1,dlg-104931c4-2c61-4705-9449-282d1db635b8,"Hello, Sandra, could you please order me a ride via Uber. It is for my trip in Detroit. ",ride-book
+uber-lyft-1,dlg-10609306-10af-40d8-a277-e974fc432c1f,"Hey, I need to order a Lyft ride.",ride-book
+uber-lyft-1,dlg-107ef34f-f127-4a27-8190-478cd351d08f,I need a call Uber for a ride.,ride-book
+uber-lyft-1,dlg-113ff069-7c0b-401b-8bdb-74f2557e5de2,"Hi, I need an Uber to Roseville",ride-book
+uber-lyft-1,dlg-11bc8d19-b97e-4aea-b1e7-f2129061cba0,I need to order an uber please.,ride-book
+uber-lyft-1,dlg-121335cb-6b54-40ac-9903-be1b0942c4ae,"Hey, I need to book a ride.",ride-book
+uber-lyft-1,dlg-121d7530-e2ef-458f-9903-d6b378bccfa8,"Hey assistant, can you call an uber for me?",ride-book
+uber-lyft-2,dlg-1265b268-6268-4de7-9b14-8420280760e1,"Hi Assistant, i'd like to order an uber",ride-book
+uber-lyft-2,dlg-126ab902-517c-4431-9ccd-69903977c0e3,"Hello, I'm calling to order an Uber.",ride-book
+uber-lyft-1,dlg-127b8005-509a-4cba-90de-14c0d82f6717,Hello! I wanted to know how much a ride would cost me?,ride-book
+uber-lyft-1,dlg-12fa7cd7-1756-4f96-a1e7-9ecff49fec12,"Hi there, I need an Uber, please.",ride-book
+uber-lyft-2,dlg-13119a07-4ede-4bec-9ccd-e59e3fc74cb3,i need a ride. Call a car for me,ride-book
+uber-lyft-1,dlg-1379967d-9b35-4a6b-9596-b92433babd8b,"Hello, it's me, can you get me an Uber?",ride-book
+uber-lyft-2,dlg-13bbf482-99c7-4737-ade5-0e47caaa2f66,i'm stranded at the market. i need a car,ride-book
+uber-lyft-2,dlg-13d87662-3ded-4306-9ddb-37239620f3be,"Hi, I'd like to book an Uber.",ride-book
+uber-lyft-2,dlg-14256a84-7dcf-43b5-93ed-8ea8d6f619f3,Hello i would like some information on an uber ride from my home to the mall then to the grocery store then back home.,ride-book
+uber-lyft-1,dlg-1477ad05-240f-4513-8b9e-49001faf0f0a,"hello assis, i need you to order an Uber for me ",ride-book
+uber-lyft-1,dlg-148a1ea7-89da-4c38-bd7f-c53cab16923c,I need to order an UberX car.,ride-book
+uber-lyft-1,dlg-149629ad-58b7-41a3-bf73-cd1a406c2edb,hi i would like to get an uber ,ride-book
+uber-lyft-1,dlg-15156581-e63e-4e35-812d-718ff8692735,I need to order a car to pick me up,ride-book
+uber-lyft-1,dlg-153652e9-1bb6-40f6-bbdd-29c2948363c2,Hello I would like to order a ride.,ride-book
+uber-lyft-1,dlg-159ff51a-93b0-44ff-908c-e648799a27b5,"Hey, I need a ride from Newark to Paterson to do business. Can you call an Uber to pick me up?",ride-book
+uber-lyft-2,dlg-15ba76c5-e630-4445-845d-ddace60879d0,I need a Lyft at my location.,ride-book
+uber-lyft-1,dlg-15c4f2ec-53ad-4617-82e7-2f6cd08c2b94,"hi pd, i need to go for shopping mall. can you book a vehicle for me.",ride-book
+uber-lyft-2,dlg-15d2a1a5-3150-4d3f-825b-8da4f848e266,I would like to order an uberx please.,ride-book
+uber-lyft-1,dlg-15f1c44e-fead-4f1f-91ea-6abafb9cb244,"Hi, can you give me a hand in setting up a ride for me tonight?",ride-book
+uber-lyft-1,dlg-1629e514-4e28-49cf-a5cf-d47ea9545886,I need you to get me an Uber from the Theater in Wentzville down to Ruth's Chris in the hotel in St. Louis,ride-book
+uber-lyft-2,dlg-16610b7d-1f84-4b20-9ba5-26cbfdad352b,I need to get a Lyft ride in Folsom,ride-book
+uber-lyft-2,dlg-16ec7daa-b74b-4b60-a604-26811ff6fb26,Can you get me a ride to my hotel?,ride-book
+uber-lyft-1,dlg-172d865b-1672-4ff1-b833-10d01f1b2573,Hey may i get a ride to the store from the mall?,ride-book
+uber-lyft-1,dlg-177ac6ea-8b59-4b59-9b05-c69e9b3a93b6,Hey Phil. I need a ride.,ride-book
+uber-lyft-1,dlg-1780e9cd-5c3f-4b4f-84b7-4312610e0397,"I need you to order me an Uber, please.",ride-book
+uber-lyft-2,dlg-17973e2b-15c8-4a6a-8f04-76d95ab07c45,"Hey, Assistant. I need a ride.",ride-book
+uber-lyft-2,dlg-17f5ec13-c99a-4bfb-b8ef-6319dd2b656d,"Hi Jeff, can you get some information about Lyft for me?",ride-book
+uber-lyft-1,dlg-183c3b5d-6935-4e9c-a481-3134836c95d3,I would like to order a ride.,ride-book
+uber-lyft-1,dlg-18417d09-3a39-4258-8d1c-dd1fb02dacfc,"Cindy, order an SUV, Uber for me, traveling a party of 5,",ride-book
+uber-lyft-1,dlg-18fcc858-4353-444b-ac33-3221ed830112,I need a Lyft.,ride-book
+uber-lyft-1,dlg-19015f0d-141c-4907-867b-9bbd19c332f4,I'd like to order a ride from Uber.,ride-book
+uber-lyft-2,dlg-194e3a11-88ad-4250-a1b1-eaaeb07362e5,Hey man you busy?,ride-book
+uber-lyft-2,dlg-194e9c37-47b1-4432-898e-045345d62ce3,I would like to order an Uber for tonight,ride-book
+uber-lyft-1,dlg-1961910a-1ad0-4154-9bf6-9f023484696c,"I would like to have a Lyft ride, please.",ride-book
+uber-lyft-1,dlg-19c67c7b-d49b-46d3-b764-f65d7b782d91,Hi I have just landed at SLC airport. I need a Lyft.,ride-book
+uber-lyft-1,dlg-19fc04fc-c4ee-4d23-9232-03bf7cffad00,"Sure, what’s the pickup point?",ride-book
+uber-lyft-2,dlg-1a137a80-a31f-4bd3-8bc9-b222906a15f6,"Shelly, I'm going to need an Uber Black SUV to pick me up from the hotel and drive me to the airport at 3:00 pm. I'm coming back from my business trip.",ride-book
+uber-lyft-2,dlg-1a1c3dad-3072-46d8-a5a3-eac9984545c2,"Hey, could you get me a car please?",ride-book
+uber-lyft-1,dlg-1a3f1c15-4410-4378-91c0-795426592964,Hi I'm trying to get an uber to drive me from San Antonio Texas to Austin Texas,ride-book
+uber-lyft-1,dlg-1a84f111-1327-494d-baa8-bc9b0433cf56,can I get a ride to the movies.,ride-book
+uber-lyft-2,dlg-1a8b5529-488e-4a4b-b553-45129ee9b4bd,"Hey, can you get me a Uber?",ride-book
+uber-lyft-1,dlg-1aa8e6f7-1e85-4fe3-af31-e2516f522f77,"I need you to order a Lyft for me, it's been a heck of a day and I need a drink",ride-book
+uber-lyft-1,dlg-1b0252bf-b03d-4afb-961d-d92a859ce344,Jane I need you to order me an uber.,ride-book
+uber-lyft-1,dlg-1b2f17f7-c42c-4b6c-bdea-d5c10403a735,Could you please call me an Uber? ,ride-book
+uber-lyft-2,dlg-1b67b0fa-290d-44b5-9e53-d293ccd17f64,I'd like to place an order for a Uber ride please.,ride-book
+uber-lyft-1,dlg-1b71366e-8894-4267-aff6-26e77db2f679,hello I'm looking for an economic auto repair service,ride-book
+uber-lyft-1,dlg-1bf38562-12d1-492a-b6fb-9bb0ed836a93,Hi! Can you order a Lyft for me?,ride-book
+uber-lyft-2,dlg-1c2ea836-910f-4961-afa0-cc2813feba34,I need a lyft ride please.,ride-book
+uber-lyft-2,dlg-1cf40349-5842-4d1a-b23d-1eddd94f2918,Hi I would like to order a ride,ride-book
+uber-lyft-1,dlg-1dad9d1a-9fad-40ac-ae92-31d175871933,Hi. Could you please schedule an Uber for me?,ride-book
+uber-lyft-2,dlg-1dcc07b5-61d0-43ec-b844-528feeeb0a26,"Hey, can you order me an uber?",ride-book
+uber-lyft-1,dlg-1e0ffc71-c948-4cb3-bd06-49abb9f84dd0,I need you to call me an Uber.,ride-book
+uber-lyft-2,dlg-1e3cf921-e2d0-4c36-a639-4c3e3778cd9a,Hi! I need to order a standard car from Lyft.,ride-book
+uber-lyft-1,dlg-1e8d0ad2-d95a-4b85-b8a3-39d2f95e544f,I need a car,ride-book
+uber-lyft-2,dlg-1ed24ab9-1619-4bc2-8d75-89b7d20dfa1d,"Hey, Assistant. I need a Lyft across town.",ride-book
+uber-lyft-1,dlg-1f37b4ff-466d-4db3-9581-1e2f919dbf26,Will you please order me a ride from Meadowood Mall to Aces Ballpark.,ride-book
+uber-lyft-2,dlg-1fe04590-7689-44c8-894f-810826be99e4,I need book a ride with Lyft,ride-book
+uber-lyft-1,dlg-20350b85-fe63-47e8-aed7-cd10375e0883,"i wanna book a uber taxi for me , can you help me for this? ",ride-book
+uber-lyft-2,dlg-210ff36c-0e3a-4983-8c97-f19ea04b2b59,I need to order an uber ride.,ride-book
+uber-lyft-2,dlg-213efdf2-9bf9-4b5c-9f20-b2dbbf2cb9ca,"Hello, can you order me a car with lyft?",ride-book
+uber-lyft-2,dlg-21435d68-40ae-4093-a28e-28fdca7ed73e,I would like to request a Uber. ,ride-book
+uber-lyft-1,dlg-217ce39a-2f04-42b1-b657-ec45b0f779b9,I need a ride. Call Lyft.,ride-book
+uber-lyft-2,dlg-21964cdc-98e2-421f-a2be-ed64578a2776,I need to order an Uber.,ride-book
+uber-lyft-1,dlg-21e8771e-6804-4c68-9eeb-1175985da7f7,Hey Lisa. I need a ride from the airport.,ride-book
+uber-lyft-1,dlg-21eeace0-b211-4134-95e3-c4d99032cf2e,"Hi, I would like to get a ride.",ride-book
+uber-lyft-1,dlg-221b3208-12e6-4e2d-b1fb-a0db867f07c1,"Hello, can you send me an Uber please?",ride-book
+uber-lyft-2,dlg-225dfbe7-8693-45ad-a28d-78895032a923,Hello. How are you today?,ride-book
+uber-lyft-2,dlg-228f72dd-0767-494a-a49d-6dee682c2ba0,"Hi, I need your help. Can you order me an Uber?",ride-book
+uber-lyft-2,dlg-22a2ab36-5843-4b8d-a5d1-9047fec8f34e,Can I get a pick up through Lyft please? ,ride-book
+uber-lyft-2,dlg-22a6c4ef-40b9-403e-a108-20dcc64e804a,Hi. Can you book me an Uber?,ride-book
+uber-lyft-2,dlg-22e5e393-f392-423a-88d5-2b5e6b1a7a0c,need a ride,ride-book
+uber-lyft-1,dlg-22f8cff5-ae1a-41a8-9db4-9213ab42236e,"Hi, can you help me get a car to take me from Davio's in center city down to South Philadelphia later tonight?",ride-book
+uber-lyft-1,dlg-234c98cc-250b-41e1-974f-b46c00f99aef,"Hey, I need a ride, can you order me one?",ride-book
+uber-lyft-2,dlg-235b9a07-0e3b-4904-a4ac-a1a32b624822,"Hello, would you mind setting up an Uber for me?",ride-book
+uber-lyft-1,dlg-239d90a9-024f-4bfe-a145-ca88b6e0c4f5,Hey Sarah. I need you to book a ride as soon as possible.,ride-book
+uber-lyft-2,dlg-23a8ef23-bce3-4572-ab4c-b1d1bb535c65,HI! I'd like to order an Uber X tonight at 10.,ride-book
+uber-lyft-1,dlg-23aef4ef-21f2-42ff-8f93-f877f27f1e47,I would like a ride ,ride-book
+uber-lyft-1,dlg-24023e93-e207-40bb-81bf-fbb41f926589,"Hey Google, Please book a ride for me.",ride-book
+uber-lyft-2,dlg-2440f167-77c2-458e-a33b-9ef09c615ff1,Hi can you order me a ride home I'm a little bit drunk and I definetely don't want to drive,ride-book
+uber-lyft-1,dlg-24b07f6f-a00b-41bc-92d1-3ae383ae26b2,"Hey, can you order me an Uber?",ride-book
+uber-lyft-2,dlg-24e5b63f-0007-498b-a84a-c45ea4c1f7df,Hey Mike. I need a car,ride-book
+uber-lyft-2,dlg-25008d2b-45f0-4137-bed3-e96e636d7b50,Hi. I want to order an Uber ride.,ride-book
+uber-lyft-2,dlg-251a82d7-ce73-4999-954c-84b505ab3ec3,"Hello, I need you to request a Uber for me.",ride-book
+uber-lyft-2,dlg-25349769-a30b-4057-9835-127badc59142,I need a car please?,ride-book
+uber-lyft-1,dlg-25735860-a438-4b3e-b6a7-190ef400e271,"Hey, I'd like to order a ride from Uber.",ride-book
+uber-lyft-2,dlg-2581cf83-36e2-41da-baff-5d869e19994b,"Hey Jason, can you get me a Uber for the ballgame tonight?",ride-book
+uber-lyft-1,dlg-259f43e5-fed9-4362-b77d-15d95b832a65,"Belinda, can you order me an Uber please?",ride-book
+uber-lyft-1,dlg-25e27091-380d-40eb-b15f-d18dd9208bce,Can you order me a ride?,ride-book
+uber-lyft-1,dlg-25fbb91a-9dd9-422d-8985-279c1d42ca0b,"Hello, I would like to order a ride in Denver.",ride-book
+uber-lyft-1,dlg-261aad7a-c400-42ed-aee1-baf1ec30baf9,Hi. Please order me a Lyft.,ride-book
+uber-lyft-1,dlg-26bba194-5b72-40a7-8ba4-be115a85e3e9,Hi I would like to get a ride. Can you help me?,ride-book
+uber-lyft-1,dlg-26f90793-e7bc-4a7a-84a2-e4e3b64b4601,Can you set up an Uber for me after I land at the airport tomorrow?,ride-book
+uber-lyft-1,dlg-273339d7-d04d-423c-80d7-9cb6d0edb4d7,i want to order a ride,ride-book
+uber-lyft-1,dlg-275a2385-2aff-483a-8baf-6a96d7ba3e96,"Hey, I'm interested in getting an Uber today.",ride-book
+uber-lyft-2,dlg-27697fa4-1103-49a7-8344-f15b35014f3c,I need a ride cab you order an Uber for me?,ride-book
+uber-lyft-2,dlg-2842b833-b92e-410c-a58e-b2aa2a125b84,"Hello, I would like to book a ride please.",ride-book
+uber-lyft-1,dlg-28439b4c-29ed-469b-b53d-2fd728b63921,"Hello Marie, can you help me figure out how much it will cost for an Uber?",ride-book
+uber-lyft-1,dlg-28e03b0a-5faa-49d5-b0c2-6a75a1ca2bfb,"Hello, could I please request a ride?",ride-book
+uber-lyft-1,dlg-28f3fe4f-cadb-47ba-b442-1798cc5990cb,"Hey there, can you book me a ride with Uber?",ride-book
+uber-lyft-1,dlg-2919f956-dade-435f-8b89-f744bb33d681,"Hey, could you find out if prime pricing are up?",ride-book
+uber-lyft-1,dlg-294bc84a-ca94-47ed-9c88-6f4f4fe6e430,I'd like to request a Lyft ride.,ride-book
+uber-lyft-1,dlg-294bf29a-0a3d-4c5d-b5e4-fff86db6c1a9,Hi im in need of a ride,ride-book
+uber-lyft-2,dlg-2982b327-78a2-4007-a231-ac7fa22bcd2b,I need to book an Uber,ride-book
+uber-lyft-2,dlg-29bfe37c-6866-43e4-a064-eb7023ebd37b,It just started pouring outside! Can you call a ride for me?,ride-book
+uber-lyft-2,dlg-29dac6e7-7d94-4111-b954-2a9d3b2ca50b,I would like to request an Uber.,ride-book
+uber-lyft-1,dlg-2a0e893a-291c-4c77-9fe0-66f52dae8cc6,"Hey Sally, I was hoping you could call and book me a ride with lyft?",ride-book
+uber-lyft-2,dlg-2a95f675-683a-4907-bd5a-8ce2c222076e,"I'd like to get an Uber, please",ride-book
+uber-lyft-2,dlg-2b02ae70-3409-4172-ac45-7a7d8ff19461,I need a lyft ride,ride-book
+uber-lyft-2,dlg-2b3ff231-ea5f-419b-8775-bd597dc51f08,"Barbara, how are you doing today? Can you help me get an Uber?",ride-book
+uber-lyft-1,dlg-2c1fa1b7-3a4b-422b-9ac9-a87dd2b876d8,Hey I need an Ubur.,ride-book
+uber-lyft-1,dlg-2c306f0a-bc13-4cd2-b718-62633c031408,"Hey, I need to order a Lyft rideshare, please.",ride-book
+uber-lyft-1,dlg-2c80b9e9-dc6f-4d6f-add7-515bb9455c7d,I think I'm going to need to order a ride.,ride-book
+uber-lyft-2,dlg-2c9a2fbb-a3fd-4a4c-9803-b58b715e259c,I need a ride please.,ride-book
+uber-lyft-1,dlg-2d43d86c-45ff-460c-b8ac-762b905b2ef3,"Hannah, can you get me an Uber, please?",ride-book
+uber-lyft-1,dlg-2d5d80b6-4461-4a6e-806e-8ce81bb03070,I would like to order a ride ,ride-book
+uber-lyft-2,dlg-2d5da72f-4df1-46c8-87e0-adeb79618277,"Hello, I'd like to order a ride from Lyft?",ride-book
+uber-lyft-2,dlg-2df96ada-1e10-4326-97e3-7313bd9e57f8,I need to get a ride.,ride-book
+uber-lyft-1,dlg-2dfaa6df-ffaf-4269-a7f2-6c72ba76f019,"Hi, can you order and Uber for me?",ride-book
+uber-lyft-1,dlg-2e5abb21-51eb-484e-9453-67ccbb5b1d4b,"Hello, I need to order a ride.",ride-book
+uber-lyft-2,dlg-2ec543ca-2d1a-494d-b068-c0853489b351,Hi I'd like call in a Lyft.,ride-book
+uber-lyft-2,dlg-2ee6ff32-02dc-4a47-9406-21a7cc0e3745,I need to get a ride please,ride-book
+uber-lyft-2,dlg-2f4608f5-e758-46a4-87f0-ee197d3029ee,Hi I would like to try and get a ride,ride-book
+uber-lyft-1,dlg-2f8b8d02-f7e4-4453-9d0d-ef6bc9d76795,Good evening! Can you order an Uber for me please?,ride-book
+uber-lyft-1,dlg-2fd33f91-c759-4d10-a251-14c09b54ec64,Hey. Can you get me an Uber?,ride-book
+uber-lyft-1,dlg-3005b570-2bd1-4dec-9ded-5e3a882dcb6c,I need to see about an Uber,ride-book
+uber-lyft-2,dlg-303641b5-9a5e-4d96-aac3-bd34136763d1,Can I get a ride to pick me up? ,ride-book
+uber-lyft-1,dlg-303d1782-8653-4c0b-93a0-5e022f75a318,I need a ride to the Olive Garden.,ride-book
+uber-lyft-2,dlg-3075abf0-0987-400b-a680-e0050d683f86,"Hey Linda, I need an Uber.",ride-book
+uber-lyft-1,dlg-30b5dc94-bc70-4518-8748-d0277ff52969,Uber I need a ride,ride-book
+uber-lyft-1,dlg-3183c7d8-5988-4c1f-90c5-44e26f8b6118,"Hey Google, I'd like to get a ride to the art museum.",ride-book
+uber-lyft-2,dlg-31a24b0b-973d-4a7c-bf1c-48d9c96e9f6c,Hey can you get me an uber please I'm trying to beat traffic out of here.,ride-book
+uber-lyft-1,dlg-31eed17a-2e48-49a7-abeb-48f88e0a97a9,Can you help me book an Uber Ride?,ride-book
+uber-lyft-1,dlg-32144ec0-c94c-4d32-93e7-bc6a8d1e9483,Can you do me a big favor?,ride-book
+uber-lyft-1,dlg-3262da3b-48bc-4843-91da-3d1c5764de91,Hellob i want you to arrage an uber for me to ybor city,ride-book
+uber-lyft-1,dlg-329c8cae-0f83-4491-a699-186004c0a6ee,"Hey, John I am at the Red Wings game and I had a few drinks. We all want to go out to a bar now. Can you call an Uber?",ride-book
+uber-lyft-2,dlg-32a5375c-3514-4742-9823-8ed61e036a0a,hi can you check with uber for a ride,ride-book
+uber-lyft-1,dlg-32f9f7db-3de0-415c-adb9-4487b8d38041,"Hi, I'd like to order a ride ",ride-book
+uber-lyft-1,dlg-3392e3ff-40b6-4004-a2ec-63ec0d557dfc,I need a lyft ride.,ride-book
+uber-lyft-2,dlg-33cbfb13-a273-4e84-9a44-70f7db71d2c8,"Hello, I need an Uber ride, can you help me out?",ride-book
+uber-lyft-1,dlg-33d6309a-6ffb-408f-8ad5-0f1a69c9a5c9,"Hello, I would like to request for an Uber ride.",ride-book
+uber-lyft-1,dlg-342b55b9-4e59-4353-ad41-70640f7ac143,Hey I need ride. Can you order me one please?,ride-book
+uber-lyft-1,dlg-342beb23-fdc6-47dd-9432-7d1658826d30,I need a lyft,ride-book
+uber-lyft-1,dlg-345552b0-0bd5-4110-912b-e9a77851e483,Can you schedule me a car for when my flight arrives tomorrow,ride-book
+uber-lyft-2,dlg-345b6355-2833-4807-bae1-88c4699f04bc,I would like to have an email Uber take me to jonnies steak house in moline,ride-book
+uber-lyft-2,dlg-348775e6-39fe-4ec5-9712-5c87571246e3,"Hello there, I would like to take an Uber ride.",ride-book
+uber-lyft-1,dlg-34e2c638-fcea-4e6b-8941-661a37603c94,"Hey, can you book a ride for me and the guys?",ride-book
+uber-lyft-1,dlg-3529e93e-ea65-44b3-a24f-f943dc35b09f,"Hello Alice, I'd like to order a ride.",ride-book
+uber-lyft-1,dlg-35e576cb-60e1-4c3a-aeae-f0cfb2cd24b9,"Yes, I'd like to call an Uber. ",ride-book
+uber-lyft-2,dlg-35e5eaa7-4e50-47c4-9137-459e14ed1be3,Can you call an Uber for me?,ride-book
+uber-lyft-1,dlg-36313da3-c09f-415e-9393-f472c8db73d3,OK Google Get Me An Uber.,ride-book
+uber-lyft-1,dlg-3649ea26-e2b8-4407-bea5-3e24fc1ec011,"Hey, can you get me a Lyft?",ride-book
+uber-lyft-2,dlg-3653284f-4f01-46c1-bf96-4961a5971012,Can you order me a Lux Black Lyft?,ride-book
+uber-lyft-2,dlg-36809e27-603e-43d8-a273-b06794de76fa,I want an uber ride,ride-book
+uber-lyft-2,dlg-36b28e34-9989-4da3-8171-3e75cc9177bb,Can you help me arrange an Uber?,ride-book
+uber-lyft-1,dlg-36bb9207-91c7-4cb1-b9f9-23aa8170135e,I want to order a Lyft ride.,ride-book
+uber-lyft-1,dlg-36c5726c-e3c7-4049-9173-617b27f2a0c1,We need a Lyft,ride-book
+uber-lyft-1,dlg-36d6e6da-3853-4dcc-afcc-6f8ef5500df7,"Hey, can you set up a Lyft for me?",ride-book
+uber-lyft-1,dlg-36d827b3-6ef8-4c60-8f3b-3b3316071b7c,"Hey, I'm going to need a ride at midnight from campus.",ride-book
+uber-lyft-1,dlg-36e0f03a-1b3b-4a3e-9d98-23d87370e3d8,Please order a Lyft for me,ride-book
+uber-lyft-2,dlg-37081a62-1a21-4b7e-b845-d8b403924c5e,"Hey, I need you to order me a Lift.",ride-book
+uber-lyft-2,dlg-3782f2d8-38bf-4d05-9654-a7079d4a5d1a,"Hey, Assistant. I need a ride to the airport.",ride-book
+uber-lyft-2,dlg-37ca47a4-9e58-4eb4-b689-77bf3c765787,"Hi, I'd like an uber to the train station",ride-book
+uber-lyft-2,dlg-380f2cb6-881e-4984-9f5c-6ef00542ff23,"Hi Eric, can you order me an Uber in the next hour?",ride-book
+uber-lyft-1,dlg-383f2056-9e6f-4337-bcf2-19d10898fa4c,"Hey! You are going to laugh at me, but I need you to order me an Uber. ",ride-book
+uber-lyft-1,dlg-38428d00-3a0b-41c5-87ec-d046869366c5,"I would like to have a UBER, please.",ride-book
+uber-lyft-1,dlg-385658cf-9e2d-49dd-b523-65382cfaa2d8,"May I order an Uber X ride ,please?",ride-book
+uber-lyft-2,dlg-3879c8b3-e76b-478e-9a07-148a9e009f80,"Hi! Can you order an Uber, please?",ride-book
+uber-lyft-2,dlg-3892b72d-596a-493f-a319-e87c83bf42f9,Hi I would like to get a ride. Can you help?,ride-book
+uber-lyft-2,dlg-38a9f549-4b4a-4e1b-b1f5-148ebb5e1c5f,"Hi, I would like to take an Uber ride.",ride-book
+uber-lyft-2,dlg-393d9c8d-56ad-49f8-9698-fe9ee233af48,"Hi there, I am at the Orlando Int'l Airport. I need an Uber back to Merritt Island to get home.",ride-book
+uber-lyft-1,dlg-39424a43-1298-4d35-abf7-2b64621c6094,"Howdy, could you please order me a car?",ride-book
+uber-lyft-1,dlg-396bc832-bde6-47e5-b354-de4915bc5c86,"Hey Jorge, I can you order me a car?",ride-book
+uber-lyft-1,dlg-396e82b7-cf5e-42e8-a167-0e1a8177aaae,Order a car for me straight away.,ride-book
+uber-lyft-1,dlg-39a61026-0216-4220-b499-a5d671002ae2,"Hi, I'm going to need you to request me an Uber ride.",ride-book
+uber-lyft-2,dlg-39bd3d78-1cf9-495b-816a-6339c476241d,"Hi John, Kindly get me a tax.",ride-book
+uber-lyft-2,dlg-3a21c556-d7ba-4da4-89d8-578e6f946928,"Hey, I need a ride to the airport.",ride-book
+uber-lyft-1,dlg-3a35591b-b018-4c92-9684-688a087fd9fd,"Hey, I'd like to order a Uber.",ride-book
+uber-lyft-1,dlg-3a3af7fb-fc54-455f-bef0-8ca47ac2892b,"Hey Google, can you book a Lyft ride for me?",ride-book
+uber-lyft-1,dlg-3a528f70-d825-45eb-9b61-5b2cba10fda3,"Hello, will you order a Uber ride for me?",ride-book
+uber-lyft-2,dlg-3a6b8cfe-1ab6-43aa-9e1d-7f57b9a33c17,"Hi, can you request a car for me?",ride-book
+uber-lyft-2,dlg-3ab021a2-44b2-4737-bf3f-ec3ceac282b3,I need to order a ride please.,ride-book
+uber-lyft-1,dlg-3adb3aca-6155-416a-94bb-7b9617ea3ca3,"Hi, Becky, I need you to set up an Uber ride for me now.",ride-book
+uber-lyft-1,dlg-3b325b03-43be-4f44-94f0-328ad3294fb9,"Goood Morning, i need to order a ride Uber lux , please.",ride-book
+uber-lyft-1,dlg-3b61be6f-18a4-466b-aae5-627c28aa9237,I need an Uber pick up to my location,ride-book
+uber-lyft-1,dlg-3b6aedcf-07f0-4cdd-8187-52ba1ae7cb6b,"Hello Kathy, can you order me a Uber for tonight? im going out with my mom for her birthday.",ride-book
+uber-lyft-2,dlg-3bb4839b-083f-4a86-883c-4c32196b9cb6,"Hi Jackson, can you call me a Lyft from Salty's to my house?",ride-book
+uber-lyft-1,dlg-3bd0c520-138f-4369-9d61-fa341c7bac55,I have business meeting scheduled and need to order a ride for a day trip. ,ride-book
+uber-lyft-2,dlg-3bf195ae-dd32-4f74-91db-99c136076d9c,Hi I'd like to book an Uber tonight.,ride-book
+uber-lyft-2,dlg-3c0c818d-b521-4bc7-90af-2e6dff381c51,I need an UberXL,ride-book
+uber-lyft-2,dlg-3c6fa6ed-3496-4b24-9e39-33b02e53f62b,I need a ride today with Lyft please.,ride-book
+uber-lyft-1,dlg-3d55c5b9-921d-4b54-a90f-c8c9f4f7332f,Good evening! Can you please send an Uber to take me to the Astros game?,ride-book
+uber-lyft-1,dlg-3d6d8b08-8c98-43f9-99bb-78d3f32e0970,Go ahead and get me an Uber.,ride-book
+uber-lyft-1,dlg-3d88df2d-b3b1-402b-af4a-03d4f15b4c3a,"Hey, do you mind ordering me an Uber?",ride-book
+uber-lyft-2,dlg-3d8c5ab4-ef21-4f84-b09a-3c6a9c070cc4,"Hey, could you book me an uber to the Tin Roof please?",ride-book
+uber-lyft-1,dlg-3daeaadf-e47b-435a-9824-c4729d7e467b,I want to order an Uber ride please.,ride-book
+uber-lyft-2,dlg-3df2cead-8137-4c64-acde-b737466dc7d6,Can you order me an Uber for 4 people,ride-book
+uber-lyft-1,dlg-3e168798-3c31-4dcc-a9b1-407d4688c76f,"Hello, I'd like you to order me an Uber.",ride-book
+uber-lyft-2,dlg-3e2c95c6-893d-46bb-a1cb-f64210f3250d,hi i would like to order a ride,ride-book
+uber-lyft-2,dlg-3eb049b7-ddab-477c-a2d8-4e00348575da,"Hi there, could you order an Uber ride for me?",ride-book
+uber-lyft-2,dlg-3eba2596-aac7-43af-b019-b2e151c2565b,"Hi, my name is Eric Pressley and my phone number is 717-495-9999. I am calling to book a car for tonight to pick me up at a restaurant and take me to a movie in the local area.",ride-book
+uber-lyft-1,dlg-3edcff6b-1e88-4cc8-a5ab-ca05e29f8d0a,Hi I would like to order an Uber please,ride-book
+uber-lyft-1,dlg-3ee3c374-45ec-41fe-b3a2-9e5c5583af73,"Hey, can you order me an Uber",ride-book
+uber-lyft-2,dlg-3f75de27-1cca-492d-9b43-e5106fa22587,"Hi, can I get a lyft car please?",ride-book
+uber-lyft-1,dlg-404dd062-25f5-4557-8b83-27dc0eb6b8f5,"Hey, hows it going. Im' going to be at Charlottesville Albemarle Airport, Bowen Loop, Charlottesville, VA and need to get ot Liberty University",ride-book
+uber-lyft-1,dlg-4097c4b6-3e3a-4fd9-99f8-a71a6d0d0a14,Hey! I need an Lyft. Can you get ahold of them?,ride-book
+uber-lyft-1,dlg-40a1aa19-266e-4e7c-b35a-b91ac25259b6,"Hello, I would like a car reservation.",ride-book
+uber-lyft-2,dlg-40f6159a-d43e-4bca-89c9-affcff89e6e5,I would like to order an Uber.,ride-book
+uber-lyft-1,dlg-410f84ff-44b2-4a9f-9331-57de405a0328,"Hi, I'll need a car service.",ride-book
+uber-lyft-2,dlg-413f91fc-c63b-4857-bd8a-c0dad41653b7,Can you order me a ride from Uber?,ride-book
+uber-lyft-1,dlg-4147df6d-a284-4f0a-ad9d-212e201cf3f9,"Google, can you get me an Uber? I’m at Walmart and I need a ride to Campus, I have a class in a half an hour.",ride-book
+uber-lyft-2,dlg-4184edd0-a7a2-455f-866d-84299fd7894a,I need a car ASAP.,ride-book
+uber-lyft-1,dlg-41c1a789-17f8-43dc-9d31-484891b37bca,"Hey, Carlos. I need you to get me an Uber.",ride-book
+uber-lyft-2,dlg-41d8a933-81bf-4f76-a9e1-e3c29c6d2d23,"Susan, can you get me an Uber X to the mall?",ride-book
+uber-lyft-2,dlg-41e31645-3233-46a9-819a-d8948e5b2753,"Hello, can you please order me a car?",ride-book
+uber-lyft-1,dlg-41f32e29-2e2e-4930-9c60-2b7fd3355072,I'd like a ride to the mall.,ride-book
+uber-lyft-1,dlg-422befe5-ba21-4609-9d7a-7b54bdf479a4,Hi I need a ride asap from Ontario to Rancho Cucamonga,ride-book
+uber-lyft-2,dlg-422ee834-adf0-410f-a934-56c39b0a6961,I would like to book a ride to the airport,ride-book
+uber-lyft-1,dlg-42315bfe-d4ff-434f-9325-399a73c815d4,"Hello Ms. Able, You are such a wonderful assistant. Hope your day is going great. Today I need a car.",ride-book
+uber-lyft-1,dlg-425cfb8f-220d-45be-811d-39f7a07f1d99,"Hey, can you book me an Uber?",ride-book
+uber-lyft-1,dlg-42f9ebef-e137-463e-be0d-9ead635cf5fa,"John, I need you to order me a lyft please",ride-book
+uber-lyft-1,dlg-4340de87-6bae-4530-9071-4885d55192e1,"Hi, I need a Lyft ride.",ride-book
+uber-lyft-1,dlg-4354eeaf-05cb-4129-9149-ff09441dbe76,Can you order me an Uber please. ,ride-book
+uber-lyft-2,dlg-4368c536-8811-4535-ba88-7883f681c3d4,"Hi, can you order an Uber for me.",ride-book
+uber-lyft-1,dlg-43704d10-3d5c-44bb-ad64-ad354f77a5ce,"Hi, is there an Uber available?",ride-book
+uber-lyft-2,dlg-4388c9bf-bb1d-4c92-a288-3c675708bf0f,I need to get a lyft please.,ride-book
+uber-lyft-2,dlg-43ae8826-a012-45aa-ae3c-2a917eee8cc4,"Hi, I need an Uber ride please.",ride-book
+uber-lyft-1,dlg-43bd89de-7f06-4131-a8c2-696f0a32d8d7,Hello. I need to order a Lyft ride.,ride-book
+uber-lyft-2,dlg-43da002b-f387-4199-8d53-f4a064163c96,"Hello, I'm going to need a Lyft please.",ride-book
+uber-lyft-1,dlg-43da1c83-8642-4022-867f-a59004f00403,Can you order me a ride on Uber.,ride-book
+uber-lyft-1,dlg-447feae7-a088-4e57-bca0-0f76956a2629,"Hi, I need an Uber from the Airport.",ride-book
+uber-lyft-1,dlg-455c5b58-b989-4aaf-924c-03e261e4ab32,"Hello, can you order me a ride on Uber please?",ride-book
+uber-lyft-2,dlg-45d7bc7a-0b0a-4e25-9e06-63942fda6725,"Hello, I need a ride.",ride-book
+uber-lyft-1,dlg-4639acdd-569d-4b27-b2df-0d8e30290463,I would like to order a Lyft ride.,ride-book
+uber-lyft-2,dlg-466d7f31-0943-41e6-a05a-95a23d97af80,"Hi, I'd like to call for a ride tonight.",ride-book
+uber-lyft-2,dlg-46762436-a9ca-432b-8338-fce6273d6873,"my feet hurt, i need a car",ride-book
+uber-lyft-1,dlg-4701d6a2-3e4f-4f12-9e78-143989f4b8e7,"kathleen, could you make me a reservation tonight and book me a car please",ride-book
+uber-lyft-1,dlg-47a47002-135a-4c52-86a5-547890786b96,Hey I need an uber from where I am please,ride-book
+uber-lyft-2,dlg-48028972-1469-45d2-93bc-bc07068d7c62,"Hi assistant, I need a ride from my house to the movie theater.",ride-book
+uber-lyft-1,dlg-48559863-903d-4f3c-aec0-619d5c5807f3,"David, I need you to make travel arrangements to get me around town tomorrow. ",ride-book
+uber-lyft-1,dlg-485dacc4-21de-46ff-ba17-995a21e39f38,"Hello, I need a car ride set up for me.",ride-book
+uber-lyft-1,dlg-48ae77a5-78bd-4747-8b0b-6ad345f9c4b0,"Hi Ronald, kindly get me an uber.",ride-book
+uber-lyft-1,dlg-48fe7d5f-1d63-48c2-8c00-715623d0874c,I'd like to order a ride please.,ride-book
+uber-lyft-1,dlg-49593ff8-d02e-4eb0-9001-510d51a13268,"Hi, I need to order a Uber car for pick-up please",ride-book
+uber-lyft-2,dlg-49738fd6-e9e7-4602-93c1-11b6bf3670eb,"Hi, can you order me a Lyft please?",ride-book
+uber-lyft-2,dlg-4981964c-4057-49fa-ab93-0c4716c758a4,Hello can you get be a ride please?,ride-book
+uber-lyft-1,dlg-49f4cb70-29d0-4fa8-9ce6-3ce5074a1769,"Hey, I'd like to order a Lyft ride today but need an estimate before I order one.",ride-book
+uber-lyft-1,dlg-49f8408f-3b23-4c86-ae94-4b250ee55468,Hey can you get me an Uber?,ride-book
+uber-lyft-2,dlg-4a98ab4c-7a36-48b5-9064-2107356d8d77,HEy do you think you could get me a ride from uber please,ride-book
+uber-lyft-1,dlg-4b1130e5-3f61-40c0-a21a-5daece638f61,"Hey Melissa, my beautiful and wonderful assistant, can you please order an Uber for me? I need a ride right now, but I don't have my car with me.",ride-book
+uber-lyft-1,dlg-4bed9db9-3a05-4791-8039-22818f1fd1f7,Hello assistant. Can you please order an Uber for me?,ride-book
+uber-lyft-1,dlg-4c13c75e-9b90-4b5e-91ca-0446dd0d9d60,I need to order a ride to somewhere,ride-book
+uber-lyft-1,dlg-4c3cb06f-e0e3-45ea-b3c1-2168ff7f293d,"Hi, I need you to set up an Uber Ride. I'm dropping my car off to get new tires.",ride-book
+uber-lyft-1,dlg-4c419826-2345-4bae-93a4-dda706c161a1,I need for you to order me an Uber ride.,ride-book
+uber-lyft-1,dlg-4cd92f69-a3ec-4b6e-9343-4509c8f31851,Please order a Lyft for me.,ride-book
+uber-lyft-2,dlg-4ce46799-690b-49d0-b1d7-1c03670f35f5,"Bob, I need to get an Uber to go over to shopping center on 7th street.",ride-book
+uber-lyft-1,dlg-4d63bf3c-ef91-42e2-9537-73a077019992,I need a ride to the closest bar,ride-book
+uber-lyft-1,dlg-4d7e3c61-fc56-4f47-b8d9-e524037839ae,"Assistant, I'd like you to order me an Uber for ASAP.",ride-book
+uber-lyft-1,dlg-4dddf825-ca91-4d82-90e9-64e01790808c,"John, I need an Uber from the Maritime Museum to the airport.",ride-book
+uber-lyft-1,dlg-4dfa4a9b-b298-4479-bdc0-fff4c1a307e6,Google order me a ride.,ride-book
+uber-lyft-2,dlg-4dfef091-cc0c-4acf-be36-690c4a4d6ecd,"Hello Sue! I am in Melbourne, and need a ride scheduled to Port Canaveral for my cruise.",ride-book
+uber-lyft-1,dlg-4e942def-672b-41bb-8427-b170bb794918,"Hey, I want to schedule an uber.",ride-book
+uber-lyft-2,dlg-4ed1478a-16d5-4eaf-811e-2346a64a9804,I want to book a ride,ride-book
+uber-lyft-1,dlg-4f1524f9-5b19-4481-b864-8845a172a02a,"Hi Linda, I'm going to need a ride. We just landed at the airport.",ride-book
+uber-lyft-1,dlg-4f46daef-8853-4e9a-b338-0979ef71e19b,"Siri, order me an Uber.",ride-book
+uber-lyft-1,dlg-4f6db193-5847-4ca3-bb69-792d5f81ee61,"Hi, I'd like to have an uber come pick me up.",ride-book
+uber-lyft-1,dlg-4fb9cfb3-41cf-4097-9b07-6462e40c1fda,"Hi Brock, could you please order an Uber to my location?",ride-book
+uber-lyft-1,dlg-502cf6ff-167c-4cfa-94f2-198b6ce34825,"Hey, I need you to help me get a ride.",ride-book
+uber-lyft-2,dlg-509bb984-3746-41ec-ae6e-83a8803dfa03,Hey I need to order a ride. I'm stuck out here and haven't seen a taxi anywhere.,ride-book
+uber-lyft-1,dlg-50b1a509-d98c-498e-9623-34f409fd82e7,Are there any taxis in the area?,ride-book
+uber-lyft-1,dlg-513137b4-4867-4565-84a5-36ff33860501,Hi. I would like to get a Lyft from my location.,ride-book
+uber-lyft-2,dlg-515f23c2-a2e7-4e50-806c-85e70a76e2e5,I would like to order a car service.,ride-book
+uber-lyft-2,dlg-51b5cd86-2518-42ed-bd9a-aa0ffbf218b5,Hi I want an Uber,ride-book
+uber-lyft-1,dlg-5218b4bc-163f-4afd-a799-b54a2e8e0d00,"I need a ride to Alliance, OH can you set up an uber?",ride-book
+uber-lyft-2,dlg-526ed1eb-7055-4d7c-b306-61a1ea8bce2e,"Hi, can you help me get a ride from the football stadium?",ride-book
+uber-lyft-1,dlg-528e0e23-b1e6-4b9f-a600-a55ace20360c,I need to order a car please?,ride-book
+uber-lyft-2,dlg-52d9ba4b-3788-452d-90b4-2765957aec64,My name is Sabrina Watkins and my phone number is 717-987-9876.  I am calling to book a car for tonight to pick me up at a restaurant at 8:00 pm and take me directly home.,ride-book
+uber-lyft-2,dlg-533ca29c-1ef8-457a-91b8-b82c69a4a93a,I need to order a Lyft please,ride-book
+uber-lyft-1,dlg-5367cbac-c8cb-420c-bd13-31889fca1916,"Hey, can I get an Uber?",ride-book
+uber-lyft-1,dlg-53bba215-884f-459d-b5f2-3a8c4a24674b,"Hello, I want an Uber.",ride-book
+uber-lyft-2,dlg-53bfeed2-995b-4356-bd90-4009dd52a50d,"Hey, can you send a Lyft to come pick me up?",ride-book
+uber-lyft-2,dlg-54002823-54a3-455d-9e47-723f88b2c288,I need a ride from Rockville library to the University of Maryland in College Park.,ride-book
+uber-lyft-1,dlg-540f6c74-b256-45a0-8695-545df42d8e1e,"I need to get a ride to Zanies in Nashville, TN.",ride-book
+uber-lyft-2,dlg-5459fc40-a8cf-48a2-9e0d-08ae1a7ffc1f,"I need a ride now, please.",ride-book
+uber-lyft-2,dlg-54711f36-6e77-49b2-908e-d4e3c9d1cadf,"Hi, I want to get an Uber please.",ride-book
+uber-lyft-1,dlg-547faaa4-7d9e-4ae9-9ecc-44573c9338d3,I would like to go to back to my house,ride-book
+uber-lyft-1,dlg-54bb58d0-4e8d-4a95-a67c-fe284d7c43f9,"Hey Donna, I need you to order an Uber for me.",ride-book
+uber-lyft-1,dlg-54e64978-ea85-4fef-aa07-4bb068b398fd,"Hi, I need to order an Uber.",ride-book
+uber-lyft-1,dlg-550275d4-cfb4-4e89-a720-8c64ed8a38d3,"Hey Donna, can you order a car for me?",ride-book
+uber-lyft-1,dlg-55d5bf63-673c-40b0-8a5a-da505b87d8a9,Can you get me a Lyft ride for me?,ride-book
+uber-lyft-1,dlg-56c10ea5-cd2c-4b07-baa8-c05bec250221,I need to order a ride?,ride-book
+uber-lyft-2,dlg-56c4649f-d4c3-4824-8578-3915452e098c,"Hello, I need a ride to the store today.",ride-book
+uber-lyft-1,dlg-57a934be-33cb-4a71-a69f-49fc3bbdab2c,Hey I'm looking to book an Uber Ride.,ride-book
+uber-lyft-1,dlg-58064c6d-651d-4d42-ac69-15fae63b1e12,Hello! My car just broke down and I need to get to the museum from the Hilton hotel. Can you order me a cab?,ride-book
+uber-lyft-1,dlg-583bd72c-0eab-4b1e-82e3-112c54bc0cdf,"Hi Assistant, what ride options are available here to go 30 blocks north to the park?",ride-book
+uber-lyft-1,dlg-587b8ca1-28cb-4d85-ab6b-1e12a8d9db8a,Hi Greg! How are you doing? I´d like to ask you a favor.,ride-book
+uber-lyft-1,dlg-58fdd9ff-a5e0-4d84-8405-e3c0f2db9cc8,"Hey, could I get an Uber Ride sent to me?",ride-book
+uber-lyft-2,dlg-59503c6a-3294-4e53-8773-8539f27efdf8,I want to book a ride with Uber,ride-book
+uber-lyft-2,dlg-5953c7ef-4f32-414b-9c6b-d9feabd7091a,Hi! Can you order a Lyft please?,ride-book
+uber-lyft-1,dlg-59a8018c-a394-40fd-b272-7e89780061bd,Hi I'd like to book a Lyft to the airport,ride-book
+uber-lyft-1,dlg-59b3cfc5-567a-453e-999e-386d1f19ced5,"Hi, Jason, will you call an Uber for me, please?",ride-book
+uber-lyft-2,dlg-5a0c6584-0bb2-4d35-a2a6-24a1c966dc52,I need to order a Lyft to go to the game tonight.,ride-book
+uber-lyft-2,dlg-5a58ab3b-40f1-41ad-98f3-c977b2960aba,"Hi, I'd like to order a ride from Lyft?",ride-book
+uber-lyft-2,dlg-5a6bcc13-5493-4021-9a4e-6e40bb0ea33e,I need to take a Lyft.,ride-book
+uber-lyft-1,dlg-5a7684d5-91b2-4ce4-8c2f-1ebd4b658b33,"Hello, my name is Naomi Fulton, phone number is 717-485-2222 and I am calling to book a car for tonight to pick me up at a restaurant and take me home in Harrisburg, Pa.",ride-book
+uber-lyft-2,dlg-5a84ff6c-d24a-41cc-a7e4-92237c563d7b,"Hey there, I want to book an Uber ride.",ride-book
+uber-lyft-1,dlg-5a9d61f0-4c85-4924-ae86-fcbb9d37bcb4,Hi I would like to go back to my home,ride-book
+uber-lyft-2,dlg-5ac9a057-3694-430c-b9a8-b57b152d4a40,"Hello, I need a ride can you order me a car?",ride-book
+uber-lyft-1,dlg-5add75d0-c7e5-4110-85a4-5877d0a2f2f1,I need an Uber for this afternoon.,ride-book
+uber-lyft-2,dlg-5aed826b-5ed3-4e8f-b58a-6f92df585046,I would like to order an Uber for my ride?,ride-book
+uber-lyft-1,dlg-5b051d6b-d0e0-4c78-bd46-fb413d58a441,Can I order a ride?,ride-book
+uber-lyft-2,dlg-5b0822d4-0305-4b45-bed8-c03b00ebd28f,"i'm tired of walking, et me a car",ride-book
+uber-lyft-1,dlg-5b45db6c-f9ef-4557-9266-fa6bc8db41c4,"Hi, can you get me a Lyft?",ride-book
+uber-lyft-2,dlg-5b6423a7-d872-4aeb-b0bf-1d5db02b9490,"Hi Sue, Can you order a Lyft for me and my date tonight?",ride-book
+uber-lyft-1,dlg-5b8854d3-ccea-40c7-b78d-0a2234c10dd8,Hi! I would like a ride with Lyft!,ride-book
+uber-lyft-1,dlg-5b9e9179-dbf3-46b3-a0fb-4517d78208e2,Can you get me an Uber?,ride-book
+uber-lyft-2,dlg-5badfa46-88ea-47a6-adc5-ab737dd9d988, I’m in a hurry I need a ride ,ride-book
+uber-lyft-2,dlg-5bd3f844-4ef9-409a-9b70-96a8dc0a8781,Can you order me an Uber to Uncle Dans on Lake Air.,ride-book
+uber-lyft-1,dlg-5bf11c3f-c3aa-4786-a60b-a88168e2f3a3,"Hey, I need to book an Uber ride",ride-book
+uber-lyft-1,dlg-5c2ba050-e8c1-45ea-82ac-6e9d657325a3," Hello, I need to call for an Uber ride. ",ride-book
+uber-lyft-2,dlg-5c783ac3-cffa-433e-b47f-f3e01ef58ea0,I need a ride.,ride-book
+uber-lyft-1,dlg-5cd7e266-71bb-4096-b19e-96bd539310f4,Good morning! Can you help me by ordering my uber for me and my family?,ride-book
+uber-lyft-1,dlg-5d3f7cc5-680d-4392-8c5c-6a8e130b3766,"Hey Madison, I need a favor. I need an Uber later",ride-book
+uber-lyft-2,dlg-5dfa0cce-9d43-4804-b0d7-c008453ef5f4,"Joel, can you order a ride for me with lift",ride-book
+uber-lyft-2,dlg-5ea9be9b-40ca-405d-b3d6-9fed7f451fad,"I need an Uber from 533 E. Center St. Milwaukee, WI 53212 to North Downer Ave.",ride-book
+uber-lyft-1,dlg-5eacb7fb-6d77-401a-9747-d99cf68c9ffd,We need a pickup at the West Theater on Belmont,ride-book
+uber-lyft-1,dlg-5f0a4375-1353-4204-8697-73b5bc484413,Can you order a Lyft for me?,ride-book
+uber-lyft-1,dlg-5f140c49-067e-4032-9964-d19894463272,"Hi, I need to order an Uber please.",ride-book
+uber-lyft-2,dlg-5f8ccc6f-23c5-4bc4-97ba-52068b67c66f,I just got into Chicago and I'm starving! Can you call me an Uber?,ride-book
+uber-lyft-2,dlg-5fe8d24e-c8b9-42f2-8021-e8ab16e6ae82,Hi. I would like to have a ride to get to a coffee shop.,ride-book
+uber-lyft-1,dlg-601e2a02-910d-4332-9643-ba232523088e,Can you check on an Uber for me this afternoon?,ride-book
+uber-lyft-1,dlg-6067c029-7b99-4fe5-91af-d155c6536c19,Book a cab ride,ride-book
+uber-lyft-1,dlg-60ffe704-43a9-4245-952d-f3ebf27fbb5c,"Yes Hi, I want to book a ride with Lyft for later today",ride-book
+uber-lyft-2,dlg-61825384-56bf-4795-983b-e1dc1c6cc44e,I'd like to order a ride through Uber,ride-book
+uber-lyft-1,dlg-61a1d0c0-aae1-4960-a8c6-6a01e185d0ed,I need to get a taxi.,ride-book
+uber-lyft-1,dlg-61a7b89e-5c24-43fd-a73d-d116ebe1ff06,Can you help me with the amount of time a ride will take?,ride-book
+uber-lyft-1,dlg-61ab8ab7-6754-4a05-b95c-c2a7e9cdbfbc,"Hi, can you call us an Uber?",ride-book
+uber-lyft-2,dlg-61e38304-725c-4dd3-8b09-51f5f5346443,I’d like a ride to a restaurant.,ride-book
+uber-lyft-2,dlg-6290dc30-2d34-4ba3-a151-ee936fb8d136,I need to order a ride.,ride-book
+uber-lyft-1,dlg-62d2eda6-f123-426c-949a-3367bf107612,Order a ride for me,ride-book
+uber-lyft-1,dlg-639f3c84-b2b4-458a-97de-c0b3102ea5f6,"Hello, I need to request a car please.",ride-book
+uber-lyft-2,dlg-63bbaa36-12aa-463e-bab3-68417b3efd9f,"Hi, I need to request an Uber please.",ride-book
+uber-lyft-1,dlg-6424b723-59e2-4e27-adcc-f63808876756,"Hi, can you please give me a hand getting me a car?",ride-book
+uber-lyft-1,dlg-6447f07b-3498-4493-be10-eec95029fcef,"Hey Google, Order a Uber",ride-book
+uber-lyft-2,dlg-6484ca50-efa6-42b1-be81-ba0c6b25c606,Hi i am at Buffalo Wild Wings and I would Like to book a lyft xl from my current location to Brookfield zoo,ride-book
+uber-lyft-1,dlg-64a87ccc-d6a3-44f9-84c6-f12d02a90f36,Hey Sally I need a car to pick me up.,ride-book
+uber-lyft-1,dlg-650ebccd-49ab-4217-b67d-349bb3464e20,"Hello, I'd like to get an Uber.",ride-book
+uber-lyft-1,dlg-65199b0e-4f0f-49ec-9456-e06782debcb6,"Hi Katie, please have a car ready for me downstairs as soon as possible.",ride-book
+uber-lyft-2,dlg-658f5e0c-9696-4649-b938-858bf344f043,Hi I need an Uber,ride-book
+uber-lyft-1,dlg-65e68882-003c-46d6-b8d2-b24494eb3d5e,"Assistant, I'd like to order a car to go grocery shopping.",ride-book
+uber-lyft-1,dlg-663a5d58-7cf7-4f8f-a4e2-74bce7c2f055,"Hi, could you call me a lyft?",ride-book
+uber-lyft-1,dlg-665cca02-d05d-4009-b0f6-af2094650634,Please call an Uber for me. ,ride-book
+uber-lyft-2,dlg-6746fd88-d4c1-4987-b4e4-a6686727dd24,"Hi Dave, can you please order a car for me? Is there an option for a private car just me?",ride-book
+uber-lyft-1,dlg-676178e2-76ea-44a5-b44b-3a740c736860,"Hi there, I am over in Winter Park on the other side of Orlando. I need to get to UCF for an event with my daughter. Can you get me an Uber?",ride-book
+uber-lyft-1,dlg-6769f9df-cdb4-4d26-a0c0-725087e33599,"Hi, I need an Uber.",ride-book
+uber-lyft-2,dlg-676ee3d4-2705-4520-8eed-23423459e653,Can I get an Uber?,ride-book
+uber-lyft-1,dlg-67dcd671-133c-4e50-bc36-2e8f723afbe3,"Hey, I need to get back to the hotel. Can you order me an uber?",ride-book
+uber-lyft-1,dlg-686ce0c6-ea10-40af-afdd-f2f13ce8af74,"Hello, I would like for you to help me request for a Lyft ride.",ride-book
+uber-lyft-2,dlg-68c94e60-4506-4531-8652-8920f317928c,"Hi, it’s me. Can you book me an Uber please?",ride-book
+uber-lyft-2,dlg-698f7d28-e96f-47e9-bb14-22cb3330f600,"Hey, could you order an uber ride for me?",ride-book
+uber-lyft-2,dlg-69ec48c6-59dd-4993-bb60-05d348ce275a,Good evening! Can you request an Uber for me?,ride-book
+uber-lyft-1,dlg-69eca955-118f-4261-a4af-18bafc732eb5,"Hello, I need an Uber please.",ride-book
+uber-lyft-2,dlg-6a012121-0ef7-4849-97dd-53fa185a14c5,Need an Uber ride as soon as possible.,ride-book
+uber-lyft-1,dlg-6a138e95-0efe-4072-bce7-64ac5bc914a9,"Hey, I need you to order an Uber for me.",ride-book
+uber-lyft-1,dlg-6a407696-fe99-47f6-9ccf-736929736611,i need to get home,ride-book
+uber-lyft-2,dlg-6a9d457f-f5aa-4c73-8b12-97496d54bffb,"Hey, I am in need of a ride to the park!",ride-book
+uber-lyft-2,dlg-6ab7af55-95a0-4a2b-bb3b-a485af8e4516,I need to get an UberX to take me to Georgetown Waterfront.,ride-book
+uber-lyft-2,dlg-6b3720ac-3070-4a7e-9c73-9751f226d543,"I want to go out to dinner tonight, but I will need a ride.",ride-book
+uber-lyft-2,dlg-6b7510fc-71b5-437e-b3fb-f8a8ff993a01,I need to order a Lyft,ride-book
+uber-lyft-2,dlg-6b7e1e67-9a93-48f3-a0c8-04409fc8b6a7,Hey Google order me ride.,ride-book
+uber-lyft-2,dlg-6b91c975-6e0c-4941-a2de-ea00766e9b34,i need a car pick up,ride-book
+uber-lyft-1,dlg-6ba35f0d-b81a-41b4-a67e-13e95a35a7bd,Hi I want to order a Lyft ride.,ride-book
+uber-lyft-2,dlg-6bb7728b-60e0-42bd-b51c-837a3cb339e8,I need a ride to home please.,ride-book
+uber-lyft-1,dlg-6bbcb034-9d78-42f3-a677-04963d4c95bf,I need a Lyft from the mall to Target,ride-book
+uber-lyft-1,dlg-6c1f5005-cabe-4db7-9cf2-1651686f0d93,I would like to request a ride from Lyft.,ride-book
+uber-lyft-1,dlg-6c2a68cb-efe1-4f0d-b3b4-14f343737219,I need an Uber pick up from the meeting to Pizza Hut in Longview?,ride-book
+uber-lyft-1,dlg-6c93cef8-3d1f-4a20-933f-4841fa6d08b1,Hi! I need you to order me an Uber.,ride-book
+uber-lyft-1,dlg-6cc538ed-8035-4cf3-98da-1116f2721969,"Hey Adam, can you call me an Uber?",ride-book
+uber-lyft-1,dlg-6d86e67f-e9c4-4430-b8c4-85727dc60023,"Hi, I need to get a Lyft ride.",ride-book
+uber-lyft-2,dlg-6dadaf8c-9c36-4963-9c36-506a3bd4deac,"Hello, can you request a Lyft for me?",ride-book
+uber-lyft-2,dlg-6df595da-3383-4e7d-ad8c-b287f48a8bc4,"Hi, I need to get a ride for 3 people",ride-book
+uber-lyft-2,dlg-6e03b80a-661d-408c-8676-4ef1bbfdf446,I'd like to setup an Uber.,ride-book
+uber-lyft-1,dlg-6e461013-6782-4efa-9897-b1675481730c,It's me again. I need a lyft after the movie,ride-book
+uber-lyft-2,dlg-6ebe2266-a0c2-4cdd-a702-bc9aa5a7afe0,I am calling to book a car for tonight to pick me up at a restaurant and take me home.,ride-book
+uber-lyft-1,dlg-6ec2dce7-9e17-4ce5-a037-fbdd1ca5c8a2,"Hello, i need an Uber.",ride-book
+uber-lyft-2,dlg-6ef0a521-78cc-4af9-8f60-b18b82ab9636,I'd like a Lyft ride to Union Station,ride-book
+uber-lyft-1,dlg-6f4cd610-8857-40d1-ad0e-93a3b30665c6,Can you help me with ordering an Uber?,ride-book
+uber-lyft-1,dlg-6f69af23-8c42-464d-9d96-eb1fc734115e,Could you set up a Lyft for me?,ride-book
+uber-lyft-2,dlg-6fb6aa99-3353-443f-97a8-e582fe0450e8,pick me up in a car,ride-book
+uber-lyft-2,dlg-6fc53b00-40d2-455c-af62-ea0ef409cda0,Can you order an Uber to pick me up?,ride-book
+uber-lyft-2,dlg-70aaa805-2d46-481e-8e2e-5cc89bbc695e,"Assistant, I need a ride",ride-book
+uber-lyft-1,dlg-70d257dd-cd3d-4fab-8d90-60789cefcb3f,"Diedre, I got blitzed and am not good to drive. Please order me an Uber back to the hotel.",ride-book
+uber-lyft-2,dlg-716a1142-6eb0-4824-bcfd-7a7606054ff0,I need a ride to the airport.,ride-book
+uber-lyft-1,dlg-71971f35-417d-4426-aa65-8332164f9e8d,"Jo, do you have a moment? I need transportation to a client dinner.",ride-book
+uber-lyft-1,dlg-71a13bd6-d24a-40fc-b122-da97b0192505,"Hi, Can I order a ride for now?",ride-book
+uber-lyft-1,dlg-71a9f6cb-a824-47b0-a939-8d9783591e9b,"i'm in san fran, i need a ride",ride-book
+uber-lyft-1,dlg-71da6c43-6cb7-4522-a392-e46c2333d06c,Gary I need an Uber ride for tonight,ride-book
+uber-lyft-1,dlg-725c6c5f-4a1e-4d76-a98c-0d84ed96a77a,I would like a car in Atlanta.,ride-book
+uber-lyft-1,dlg-726f8790-c52c-46cb-b214-487eb258d88b,hey assistant can you book a taxi for my trip,ride-book
+uber-lyft-2,dlg-7287261e-c45b-44de-8ac9-702882346076,Can you please request a car for me?,ride-book
+uber-lyft-1,dlg-72974343-18d5-4964-a4a3-9f55cecb38e9,Hi assistant! Would you please order me an Uber?,ride-book
+uber-lyft-2,dlg-729d6c1b-961b-46b2-a54f-afcf0b338b8b,"Hello, I need a ride to the Great Northern Mall.",ride-book
+uber-lyft-2,dlg-731b72a1-beef-42f9-be67-a1b3c7d0ed47,"Hey, can you please call a ride for me?",ride-book
+uber-lyft-1,dlg-7329baf0-db7e-4af2-95f3-61994ae03828,"Hello, please order me an Uber.",ride-book
+uber-lyft-1,dlg-73b80e23-2041-4c74-8c8e-81158ace8a34,"Hey, can you help me book a Lyft?",ride-book
+uber-lyft-1,dlg-73dc5f5e-bfbb-4420-82b1-372fbf0a67b8,I need you to order me an uber for tonight,ride-book
+uber-lyft-1,dlg-74779178-6fa0-4d0b-bc6b-b99039debcce,Hey Jan . I need car in 30 minutes .,ride-book
+uber-lyft-2,dlg-747c2df8-bebe-46b1-ae05-eb22c518b016,Can u set up a ride with Uber for me?,ride-book
+uber-lyft-1,dlg-7491f90e-db96-4406-bf64-bf2c5618fb92,"Hello, assistant. My boyfriend and I are at a bar, and we should probably order a ride home.",ride-book
+uber-lyft-1,dlg-75042903-2a90-4b39-af4e-03196b38d919,"Hi, I need a taxi",ride-book
+uber-lyft-2,dlg-75ad2dd1-edaf-4d3b-8d88-b5c012b4886b,I'm leaving my company party early. Can you order a car for me?,ride-book
+uber-lyft-1,dlg-75b476eb-4d33-4213-bc72-8d8f41a9e8b3,Hey I’d like to order a quick ride! Jax was supposed to pick me up but he got stuck in traffic.,ride-book
+uber-lyft-1,dlg-76b86cf9-d1b2-4353-af78-47f82c3eb57d,i need to order a pick up service.,ride-book
+uber-lyft-2,dlg-76e26688-84f1-4b23-b916-75d9cd595c47,Will you order me a ride please?,ride-book
+uber-lyft-1,dlg-774bf274-fc46-4ef0-a85d-1e3e21af62cb,Please call Uber and order a ride.,ride-book
+uber-lyft-1,dlg-77b0f030-a463-4637-b8d7-aa1b453a084b,"Hello, Sarah. I'm going to need you to book an Uber ride for me this afternoon after the convention. I have a dinner to get to on the other side of town.",ride-book
+uber-lyft-2,dlg-77ed9531-f606-49f6-93dd-c7b9984d87d3,I'd like a Lyft ride,ride-book
+uber-lyft-1,dlg-78e34f5e-23c5-4b42-ab34-2dd0e28747af,Hey Johnny I need an UberX.,ride-book
+uber-lyft-2,dlg-79551a0e-b896-455e-8290-095c62c62e29,Lisa can you call Uber for me and see if they have a Uber Pool available to take me from Union square to the children's interactive museum Please,ride-book
+uber-lyft-1,dlg-7979334c-9e1d-4731-8eae-fde101b33f8d,Hi ! I Need a ride from Tiki Bar to home.,ride-book
+uber-lyft-1,dlg-7aa8d8b5-35ec-44e5-80a1-b9eea66560f1,"Hi, I would like to schedule an Uber to pick me up and take me to Mile High Stadium",ride-book
+uber-lyft-2,dlg-7ad8de4c-f547-4eda-ae20-e9f039284639,"Hi, I need to get a ride home, please.",ride-book
+uber-lyft-1,dlg-7b43232e-17d4-4860-b872-1b00a7640706,Hi could you call for a ride home for me,ride-book
+uber-lyft-1,dlg-7b9b6ca5-1f28-41ba-912b-5feb23433a93,Will you order me a car?,ride-book
+uber-lyft-2,dlg-7bcfd1b6-f18e-402a-ae24-6c1cbdf34cf9,"Hi, I would like to order a ride please. Are there any cars available?",ride-book
+uber-lyft-2,dlg-7bf01caf-4fb5-4a4d-8f91-48f6bdb2e959,Hey I need a uber to pick me up.,ride-book
+uber-lyft-1,dlg-7c7f3c6e-de73-4010-a561-bc0dd3fcc3ea,"Hi Kendall, I need an Uber as quick as you can get one to me.",ride-book
+uber-lyft-1,dlg-7cb73ecf-efbf-4657-98af-147009c47ef2,"Hey, can you get me an uber?",ride-book
+uber-lyft-1,dlg-7d4778b0-22d3-48ed-acac-4ab909e5c032,Would you please order an Uber ride for me?,ride-book
+uber-lyft-1,dlg-7d976789-e193-47ff-8b1a-b54b19dc775c,I need an Uber.,ride-book
+uber-lyft-1,dlg-7dfde22f-0d00-4c7a-92c1-c63146140c50,"Hi , I need to book a ride",ride-book
+uber-lyft-2,dlg-7eb0736c-7854-4bd5-8244-b489bb9332a3,"Hi, can you get me an uber?",ride-book
+uber-lyft-2,dlg-7ed33dc6-93f1-4eb7-adfe-6219184d9c5c,Can you order an Uber black for me?,ride-book
+uber-lyft-2,dlg-7f41b708-7452-4db7-b88c-609f82dc871d,I need to order a lyft or uber please,ride-book
+uber-lyft-2,dlg-7f722dce-0184-4b78-a6af-5fb25cc2ddde,Hello. Can you please call me a Lyft Lux please?,ride-book
+uber-lyft-2,dlg-7f9cb8a9-eda3-43bb-bafb-dfc0c8eef786,Hey I need an uber from dinner,ride-book
+uber-lyft-2,dlg-7fd44d84-8b4c-4128-ae77-136d1b135832,I'll be needing an Uber. ,ride-book
+uber-lyft-1,dlg-805df28b-433e-4879-a2c1-e48732439a9a,Can I get an Uber as soon as possible please?,ride-book
+uber-lyft-2,dlg-8079cd29-6808-4507-98fe-8825b8bffa55,"I need an Uber XL, please.",ride-book
+uber-lyft-1,dlg-80e227ad-2348-4ec9-af3b-a30552a89796,"Hi, I need to get a ride.",ride-book
+uber-lyft-1,dlg-80f08f2c-e834-4830-8a36-dab005b361fa,I'd like to get a ride in Sacramento with Lyft.,ride-book
+uber-lyft-1,dlg-811420c4-6058-4f83-a48e-5a5515a73256,"Hi, I'd like to schedule a pickup.",ride-book
+uber-lyft-1,dlg-814065fd-d63a-4eb5-be1b-7cf4c6252f2f,"Hi, I'd like to schedule a ride.",ride-book
+uber-lyft-2,dlg-81ea491d-da4b-4bb4-a8f6-b57013097de6,I need you to reserve me a Uber ride.,ride-book
+uber-lyft-2,dlg-8277feb2-06c1-46c8-b206-a22a01ada4d6,I'd like to order an Uber please.,ride-book
+uber-lyft-1,dlg-8290bc41-34b5-489f-a038-329e151cf8db,"Hi, I need an Uber car for this afternoon.",ride-book
+uber-lyft-2,dlg-82ba8233-aac2-437c-85c2-a71c148d1d8b,I want to request a uber ride,ride-book
+uber-lyft-1,dlg-82cfd28b-bbc2-41ca-a036-547c664e6592,Hi can you get me a ride from the airport to my son's house in Atlanta?,ride-book
+uber-lyft-2,dlg-82dabb4c-c14a-471f-a876-d0ccfc5bdf53,Id like to get an Uber Select tonight.,ride-book
+uber-lyft-2,dlg-8370f1dc-cffa-4920-ab0b-1f897421eec3,Can you order me a ride from work?,ride-book
+uber-lyft-2,dlg-83722f0d-8cd7-4941-accf-0551cb2af801,"Hello there, I want to order an Uber ride.",ride-book
+uber-lyft-2,dlg-83e82ce9-fb1b-4dad-9d80-92597267e181,Can I get an Uber,ride-book
+uber-lyft-1,dlg-8405657e-ae7b-4792-9710-227bb559ebe5,I need to order a Lyft for me and my friends,ride-book
+uber-lyft-1,dlg-84793161-1d47-4c2a-b4bb-2016f06bb602,I need a ride from the St. Vincent Hospital to Baptist Health Hospital,ride-book
+uber-lyft-1,dlg-84a1ba58-0413-42dd-9987-05e35171487c,Hi I need to book a Lyft,ride-book
+uber-lyft-1,dlg-85e39d66-1dc1-43ec-97f6-9ba985dfa427,I'm looking for an Uber,ride-book
+uber-lyft-2,dlg-85f7ab38-8d14-4248-8040-ff658c70c67e,"Hi, I'd like to get a ride!",ride-book
+uber-lyft-1,dlg-860deec5-78d4-4053-b6c4-78d06bb7de5c,i need to order an ride with uber,ride-book
+uber-lyft-1,dlg-8612cd5c-eefc-4ba8-b410-a832362f391f,"Hey there, could you order me a Lyft?",ride-book
+uber-lyft-2,dlg-862a88af-f035-4a7c-9dca-f96aab944345,Hello! Could I get an Uber?,ride-book
+uber-lyft-1,dlg-8698ede5-71e1-4b73-b7c4-6974fbaca8f1,Hey I need to order a uber for myself,ride-book
+uber-lyft-2,dlg-8721c781-dd71-4822-912b-0347f7fc26d7,"Hey, can you send a Lyft to come get me?",ride-book
+uber-lyft-2,dlg-87afc6f2-e1ed-4eea-8876-c7302e1ab99f,I need an uber from my house to nashville airport,ride-book
+uber-lyft-2,dlg-883e623b-76f5-4719-a34c-135f0575cd2f,I would like to order an uber?,ride-book
+uber-lyft-2,dlg-885f981f-9ea2-4bf0-b609-532ebb421b4b,"Hellow, I need an XL Lyft from the airport to the convention center.",ride-book
+uber-lyft-2,dlg-88669f7b-c1b2-4ca0-8a95-0943a755084d,I need a ride to the mall.,ride-book
+uber-lyft-1,dlg-887fe59c-b6c9-4922-bbf3-b72e52ca8ea3,I would like to order a Ridehsare ride please,ride-book
+uber-lyft-1,dlg-889c14e5-6bb6-4164-8021-4dc716d6cb54,Can a get a uber set up for a ride,ride-book
+uber-lyft-2,dlg-8919a032-80c7-48a9-a40d-4081b7b405f1,I'd like to order an Uber ride,ride-book
+uber-lyft-1,dlg-894f062d-cd4f-473e-a5bf-93c659119d96,"Hey Susan, can you order an Uber for me?",ride-book
+uber-lyft-2,dlg-89ca683b-8301-4917-aca3-3afbf998571b,"Send a car for me, please",ride-book
+uber-lyft-2,dlg-8a030777-8444-483b-96c6-30a58a9cf4c6,"Hi, are you able to request an Uber for me?",ride-book
+uber-lyft-2,dlg-8a386e9e-f035-4955-b574-eb6c0ea7e1b9,"Hi, I would like to order an Uber.",ride-book
+uber-lyft-2,dlg-8a5da167-7705-4e0b-b69f-733f1dbe93cb,I need to order ride to get to the restaurant.,ride-book
+uber-lyft-1,dlg-8b722ca9-f793-402a-b897-794c4adb900e,I would like to set up a ride or this afternoon,ride-book
+uber-lyft-2,dlg-8b9ad5b9-6453-4459-981a-08cd99e1c2dc,I need to order a ride for tonight - - well in about an hour!,ride-book
+uber-lyft-1,dlg-8bef5c0e-1de5-464c-a06b-789614713d79,"Hey, I'm going to need an Uber.",ride-book
+uber-lyft-2,dlg-8c1f0814-d621-4fc6-8755-fe7ce4f138e6,I need an uber please!,ride-book
+uber-lyft-2,dlg-8c6b0c08-36db-4290-bafd-634f963a20de,I need to book a Lyft.,ride-book
+uber-lyft-2,dlg-8c6c594c-8f77-49d8-b20f-8c7f947efb0e,Can you order an Uber for me?,ride-book
+uber-lyft-1,dlg-8d92db3a-d955-4394-a4d3-ade8dfebad29,"He Margaret, can you call an Uber for me to get me to the airport for my flight out?",ride-book
+uber-lyft-1,dlg-8db86fde-eeed-4ab4-a43c-fd511a059356,"Hello, I'd like a Lyft ride please.",ride-book
+uber-lyft-1,dlg-8deccf18-5975-42ca-886c-8fb2f72b82ff,I need to have a Lyft ride set up.,ride-book
+uber-lyft-1,dlg-8e6632bd-8249-4494-8d96-743688e5f9af,"Cheryl, can you order me an Uber?",ride-book
+uber-lyft-2,dlg-8ea6689a-83c7-4a71-92fe-e482ebc1da2b,"Hey, Assistant. I could use a lift.",ride-book
+uber-lyft-1,dlg-8f42c2fc-6aa0-4287-8dae-5be5f20098ea,"Hey Amy, Can you order me a Uber for my date tonight?",ride-book
+uber-lyft-2,dlg-8f685b91-0ba9-46b0-b061-ffba59d3f0c6,I'd like to get an Uber out here,ride-book
+uber-lyft-2,dlg-8fcdd1c0-ebea-4528-935a-08736acbccfe,"Hey, can you call an Uber for me?",ride-book
+uber-lyft-2,dlg-90265a07-92e3-4766-94ec-50bb6b1ca1b5,"Hi, could you get me an Uber",ride-book
+uber-lyft-2,dlg-9029bc41-9a7d-4b39-9a31-64c669226d45,Hi Joan- I need you to order a Lyft.,ride-book
+uber-lyft-1,dlg-91592dcb-6c48-47d0-ae8a-f974c575f119,"Hello, can you order a car ride for me from Lyft?",ride-book
+uber-lyft-1,dlg-91694ff7-f08d-42f3-b1e5-781d4425d414,Hello please book me an appointment Uber XL to soldier field.,ride-book
+uber-lyft-1,dlg-91d27af8-1bf3-4cd5-baa7-c3cb2081a9ee,I need a ride to Austin-Bergstrom International Airport on 3/10 .,ride-book
+uber-lyft-2,dlg-92257574-255d-4bb7-a74a-c11b5f117e5a,I need you to order me an uber to get down to the water after work.,ride-book
+uber-lyft-1,dlg-925249b9-854d-4e9f-a146-f4fcca38c750,Hey I want to request a ride with Lyft,ride-book
+uber-lyft-1,dlg-92c7dbcc-a9e7-4745-8c43-0c225789f9ae,"Hi, I need to order an Uber ride. Can you help in booking?",ride-book
+uber-lyft-2,dlg-92eb44df-85ce-4d82-8105-0572643c5cb1,"Hey! So, about 6 of us are going to the movies right now after dinner, and we need an Uber.",ride-book
+uber-lyft-1,dlg-92f7466b-268b-4a71-9c22-832d0093f7fc,I need to order a Lyft.,ride-book
+uber-lyft-1,dlg-934b13e3-a4a1-48dc-a3b8-e9f08cebded3,I'd like to get an Uber ride. ,ride-book
+uber-lyft-1,dlg-93dcf6f2-37ae-484d-85db-2f2d51a1e3da,"Hello Jane, I would like you to order me an uber.",ride-book
+uber-lyft-2,dlg-93ddd816-29e4-4cdd-ae18-f3ba4121eaef,I need to order a ride pick up.,ride-book
+uber-lyft-1,dlg-94409618-623c-471c-990e-88bf57d22202,Hey is this Uber? I'd like to order a ride,ride-book
+uber-lyft-2,dlg-944c848b-69a8-41f2-91f8-a7210fb96c80,Hello we need to order an Uber.,ride-book
+uber-lyft-1,dlg-949fbba2-c347-4acf-b8da-da01aac340c8,I am going to be arriving in St. Louis soon and need an uber driver to pick me up and take me to the hotel,ride-book
+uber-lyft-1,dlg-94b59b1f-0754-461e-96b3-7e7eed38b9c1,Hello Amy. I would like you to find me an uber.,ride-book
+uber-lyft-2,dlg-955f3e54-a74c-4a29-ba07-4ddbdf718223,I want to order an Uber ride,ride-book
+uber-lyft-2,dlg-956fedf4-7ada-486c-b2aa-ce1b7a310168,Could you call me up an uber? ,ride-book
+uber-lyft-2,dlg-95959263-d306-461a-9c31-5640baa97d2d,I need to order a ride from Uber.,ride-book
+uber-lyft-1,dlg-95db2887-9afa-4620-bfa0-c1dca69cb9bb,would you please get me an uber ride,ride-book
+uber-lyft-2,dlg-95e34027-0906-4e9a-a595-9a428ddb2631,"Hey, Assistant. I need a Lyft.",ride-book
+uber-lyft-2,dlg-96015c5b-0f2d-411f-b817-6a3930367a7b,"Hey Jean, could you order a Lyft ride for me?",ride-book
+uber-lyft-2,dlg-965db168-1b16-4e3d-a9e1-47df9ea31a40,I need an Uber ride.,ride-book
+uber-lyft-1,dlg-97291256-d85e-44f4-b55e-2ce36ad4e36d,"Hi Jen, can you please order me an Uber?",ride-book
+uber-lyft-2,dlg-97a06f3d-4cdf-4054-97ec-0ab1c3796b70,Will you please request a ride for me?,ride-book
+uber-lyft-2,dlg-97c724bb-618c-4e15-b57b-d44142ea4602,I need a ride right now! ,ride-book
+uber-lyft-1,dlg-98356ba0-4e42-4a53-b500-0b631d0e92e2,"I need to request a ride, please.",ride-book
+uber-lyft-1,dlg-98b0862c-f595-4c87-bad6-1af878572401,"Hi, will you be able to request me a Lyft?",ride-book
+uber-lyft-1,dlg-98e22005-e373-4c05-b9fd-afa3bc089a31,Hey there Katie. I'm looking for a ride from a restaurant to a movie theater. Think you can book me an Uber online?,ride-book
+uber-lyft-2,dlg-98fcad06-ee0c-468c-a787-a1b39fc80e15,I need to get a Lyft personal ride,ride-book
+uber-lyft-2,dlg-999fedf8-1d9a-4917-868f-1d8f46f4808e,I would like to order an Uber X?,ride-book
+uber-lyft-1,dlg-99f75993-cb33-4d73-ba9c-b78c6dbd88b7,Need an Uber,ride-book
+uber-lyft-1,dlg-9a4f4c6c-ade9-4405-8afc-22733d3b8dc3,"Hello, I wanted to set up an uber ride.",ride-book
+uber-lyft-2,dlg-9aa117df-c871-4769-8189-8560330090af,"Hey there, I need a uber.",ride-book
+uber-lyft-2,dlg-9ac5023e-a7da-4fa3-b57f-643fb9ff9c3a,"Hey, I'm thinking about getting an uber.",ride-book
+uber-lyft-2,dlg-9b1efd3c-548e-4838-a07c-190b4159f6ee,Hey can you order me an Uber?,ride-book
+uber-lyft-1,dlg-9b809c93-48ca-4820-988b-60ebd0d26783,I need to order a lyft.,ride-book
+uber-lyft-1,dlg-9bd1a758-1e83-4080-a699-1cb665fb6bbb,Hello. I'm going to need a ride in half an hour or so. ,ride-book
+uber-lyft-1,dlg-9c1f8248-c5bd-43c2-9ed0-f5dfc5047ed1,"Hey, can you get a car for me?",ride-book
+uber-lyft-2,dlg-9c47036f-71d3-4373-889f-bf73436c1c01,I need to order a lyft asap!,ride-book
+uber-lyft-2,dlg-9daf5965-5dcd-4cc7-82d4-81b1b1122d3d,Hey can you call me an Uber right now?,ride-book
+uber-lyft-1,dlg-9e664512-f220-4f6f-a1df-7dd81bd25cf3,"Hello, I'd like to order a ride from Uber?",ride-book
+uber-lyft-1,dlg-9ed41efc-7ec0-4af5-b9b0-1e4c2fdd84b6,Hello! I need to order a Uber ride.,ride-book
+uber-lyft-1,dlg-9ef6e7c5-40ad-4e53-a754-9fb07bd91f3d,Would you mind sending a car to come pick me up?,ride-book
+uber-lyft-2,dlg-9f31b695-4a72-48e3-b237-a66b9c205a9d,"Hi, can you call an Uber for me?",ride-book
+uber-lyft-2,dlg-9f3c21fb-6be2-4ad3-9d4a-9e07eb657571,Hello I would like to get a uber please.,ride-book
+uber-lyft-2,dlg-9f53699c-989d-474d-a475-1f57611d107b,Hey Jill. I need to order a car to get to dinner.,ride-book
+uber-lyft-2,dlg-9f567dbc-b7f9-41c6-b622-e8c89fe85ac6,I need an Uber right away.,ride-book
+uber-lyft-2,dlg-9fb7ecb2-592f-4c30-bff9-061d6b711e3d,"Hi, I need to be picked up, please.",ride-book
+uber-lyft-2,dlg-9fe0e0b6-3a85-4855-8669-c121cdb1c77c,"Hi, I'll need an uber ride.",ride-book
+uber-lyft-1,dlg-a04ae897-d8e2-4c6a-bf3f-46bd65dc921a,I would like to order a Lyft to take me to the concert.,ride-book
+uber-lyft-1,dlg-a054be45-6715-4c53-826e-df12e16645b2,It's chilly outside! I don't wanna walk. Can you order me a lyft to Abigail's?,ride-book
+uber-lyft-1,dlg-a06a29ea-f956-4faf-b20c-3e51d121be33,i want a ride from my location to ,ride-book
+uber-lyft-1,dlg-a0ac1a35-aca7-496d-83e1-01514abcb6b1,"Hey Alex, can you please get me an Uber for later?",ride-book
+uber-lyft-1,dlg-a0b7aca4-c06a-48bf-ac55-c9cae520315c,"Hey Joe, could you help me order an Uber?",ride-book
+uber-lyft-2,dlg-a0e11d90-c53e-4bdb-8454-0292a863eb39,Hi I want a ride to a new location,ride-book
+uber-lyft-1,dlg-a0f64069-07aa-4cfd-b117-b87003b27c35,Hi. I need a ride in Milwaukee.,ride-book
+uber-lyft-1,dlg-a14c196f-fcd3-4c01-b0ef-79cc380053cd,"Hey, can you get a car to pick me up from the Mayfaire movie theater in Wilmington NC?",ride-book
+uber-lyft-2,dlg-a14f307d-4d48-4ceb-8469-10cae5fe67d1,"Hey, Assistant. Could you request a ride share service?",ride-book
+uber-lyft-1,dlg-a1680c60-6c76-4af1-a8b0-1e37d4667d2b,"I would like an Uber ride, please.",ride-book
+uber-lyft-2,dlg-a1b1d65a-d0cc-4137-84a6-68bbc91345db,"Hi, I need a car right away.",ride-book
+uber-lyft-2,dlg-a1b45835-8ad4-48a7-a59d-d09a69799032,I need a ride tonight.,ride-book
+uber-lyft-2,dlg-a1c24022-db89-4cdc-a14b-21245bcf16b8,I need to hire an Uber.,ride-book
+uber-lyft-1,dlg-a1e69c36-a6a7-4250-acc9-191b9a87ce2c,"Hey, could you book me an Uber from the Cincinnati Airport?",ride-book
+uber-lyft-1,dlg-a1e935a6-9753-46e6-8089-3fc0c8f5f05c,"Hello Jane, I hope your day is going fabulous. I need an Uber ride.",ride-book
+uber-lyft-2,dlg-a2149707-1743-4976-a7c9-88bff840bc4f,I'd like to order an Uber ride.,ride-book
+uber-lyft-1,dlg-a2907f3b-308a-4ca8-83f2-ff862a7f14f6,"Hey Donna, I need you to set up a Lyft for me for this evening. ",ride-book
+uber-lyft-1,dlg-a3087510-8ea2-4a92-a164-b7655329729a,"Hey, can you order me a Lyft?",ride-book
+uber-lyft-2,dlg-a328e02e-ff2c-47af-b58e-165ed33ce4a6,"Hi, I would like to order a car.",ride-book
+uber-lyft-2,dlg-a34104bc-67c7-4bbc-a603-f47dbd7a7fcd,I need to book a Lyft to pick me up from the airport.,ride-book
+uber-lyft-1,dlg-a3470b5b-a7b6-4ce4-990f-8b0381804ce1,"Hey Donna, can you get me an Uber for Helga's wedding?",ride-book
+uber-lyft-2,dlg-a36d3ae8-b4a0-4b43-a43b-b4b3e3f80096,I need to order a lyft or uber asap,ride-book
+uber-lyft-2,dlg-a384300b-7e27-485d-849b-fb217d8d962a,"Hey there, I would like to get an Uber please!",ride-book
+uber-lyft-1,dlg-a3bdcb32-ff6e-43ac-a5bb-5529757a8835,"Hey hun, I just landed at the airport in Dallas, can you book a Lyft to a hotel nearby?",ride-book
+uber-lyft-1,dlg-a4308ecb-f9cc-4ea2-86e5-afc499f60ceb,Hey I need a ride,ride-book
+uber-lyft-1,dlg-a44e0fa0-8d75-4559-a403-82c3457d4c6f,"Hello, we need a ride right now.",ride-book
+uber-lyft-1,dlg-a4c1c0c8-39a2-4a89-b699-717a96ae9ac7,I need you to call me a Uber to get to the mall on Sanford.,ride-book
+uber-lyft-1,dlg-a4f2099c-9eb8-4e2d-a0be-7322ac64c136,"Hey assistant, can you me an order an uber?",ride-book
+uber-lyft-2,dlg-a518393d-f4dc-4b69-90ab-26a7e329ca67,"Hey, can you order the ladies and I an uber?",ride-book
+uber-lyft-2,dlg-a5815ec4-b623-4077-ae6c-48c04989dc82,Hi. I need to get a ride. Can you get me a Lyft or Uber?,ride-book
+uber-lyft-2,dlg-a61d446a-9dde-49ea-8a1b-7fb15cc19d24,Google order a ride.,ride-book
+uber-lyft-1,dlg-a61e2832-fc1e-4b04-aacd-269ee84b0d87,Hi! I need a car for this afternoon. Can you order it?,ride-book
+uber-lyft-1,dlg-a669610e-d183-41e4-ad58-7ff1e1db7e4b,"Hi, I need a taxi service.",ride-book
+uber-lyft-1,dlg-a66e4e5d-5c14-4822-9a05-1b14c765e393,can i get a ride from malcom cinema to wolf creek jonesboro,ride-book
+uber-lyft-2,dlg-a6cd4fff-5d43-49ed-a894-5529eb0e3e22,Hi I want a ride,ride-book
+uber-lyft-1,dlg-a6f22677-1fd8-419e-9f34-9d308247f15b,"Hi, can you book a car from the Nashville Marriott to Prince's Chicken Shack?",ride-book
+uber-lyft-1,dlg-a6f6c8eb-91f5-4958-acac-50e62b3aa322,Are there any ride share services available?,ride-book
+uber-lyft-2,dlg-a793b098-1c9d-4e15-8124-38b7fb1e1692,i need a lyft or uber ,ride-book
+uber-lyft-2,dlg-a7eb9c58-c776-4c76-b833-284d273f8a2a,"Hey assistant, I need to order a ride.",ride-book
+uber-lyft-2,dlg-a80a0b3f-e055-481d-9a20-8453fe591e64,Hi I would like to order a ride.,ride-book
+uber-lyft-1,dlg-a82875fe-6e11-436f-8d4a-7504a700ece1,"Hello, I want to get an Uber.",ride-book
+uber-lyft-2,dlg-a8acc139-af52-48ae-9937-35fffb36544f,"Hello there, I need you to have an Uber ride.",ride-book
+uber-lyft-1,dlg-a9390740-0f4d-49cf-8a1c-6ec9285372fd,"I would like to order a car, please.",ride-book
+uber-lyft-1,dlg-a968cded-9ad6-4745-924f-1c7266145632,Mr.Assistant i need a ride.,ride-book
+uber-lyft-1,dlg-a9f35ad7-4b07-4444-bc23-3424f4a588c4,"Hello, I would like a Uber ride to Mall of America",ride-book
+uber-lyft-2,dlg-aa138fda-7c1e-4114-9b91-dc4e3505ff48,I need to order a uber please.,ride-book
+uber-lyft-1,dlg-aa380f37-105e-47bd-a1a2-76e67b7cafb6,"Hey, could you get an uber for me.",ride-book
+uber-lyft-1,dlg-aa6e9b88-2273-4e1a-9f60-1438825f4d2c,I need a ride to meet up with my friends.,ride-book
+uber-lyft-2,dlg-aaa20f5f-b125-4714-bb9a-b4635c3c24c3,"Hello Mary, I need you to order an Uber for me. ",ride-book
+uber-lyft-2,dlg-aaa83b33-a7e4-467b-95fb-8a1517814904,"Can you send a car to come get me, please?",ride-book
+uber-lyft-2,dlg-aacab47c-0ad7-422b-8059-8e605e7a2c0f,"Hey, I was wondering if you can get me an Uber?",ride-book
+uber-lyft-2,dlg-aacf317a-5fb2-4c4d-9cc5-6164aee2806d,"Hi, can you order a car ride for me from Uber?",ride-book
+uber-lyft-1,dlg-aaebeca0-017c-4ac4-bbd0-9519862818d5,"Hi, Shelley, can you book me a ride with Uber?",ride-book
+uber-lyft-1,dlg-ab1287b2-23e1-46e8-9268-4942fc1b54d1,Can I get a ride via lyft ?,ride-book
+uber-lyft-2,dlg-ab5438c9-97c4-4459-9196-f0add3a35a74,"Hello, I'll be landing at the Syracuse airport in a few hours. Is it possible to get ride from the airport to my grandmother's house?",ride-book
+uber-lyft-1,dlg-abae6a65-bd76-4418-ade4-f652edb74aee,"Hey gail, check to see if you could order a ride with uber for me",ride-book
+uber-lyft-1,dlg-abf76b6a-965d-4961-b81d-8f2c728e0775,Hi can you order me an uber plz,ride-book
+uber-lyft-1,dlg-ac46852e-e3ff-411e-98d7-e9a1613202ac,"Assistant, I need to order an uber for my indianapolis trip.",ride-book
+uber-lyft-2,dlg-ac535867-aee0-4b45-a6d9-837c05b3385c,"Hey Adil, can you book me an Uber?",ride-book
+uber-lyft-1,dlg-ac6973d4-d42e-440e-88a0-24d7b0519c01,"Hey, could you see if there are any Ubers around the Jim Beam Stillhouse in Clermont Kentucky?",ride-book
+uber-lyft-2,dlg-ac7a6531-04f7-4c4c-b11f-f1f9a7cb1934,"Hey, can you order me a Shared Lyft please?",ride-book
+uber-lyft-1,dlg-ace41b5f-08d9-4dae-9efb-0948e0703b85,Hi! I need to order an Uber.,ride-book
+uber-lyft-1,dlg-ace9a5e3-4736-4faf-80fd-538e6f3be161,"Hey, I'm trying to get a Uber from HNL airport to Waikiki beach",ride-book
+uber-lyft-1,dlg-ad31da3a-62bd-4982-bf30-296dd053b8e3,I need you to order a ride for me.,ride-book
+uber-lyft-1,dlg-ad6a3392-1dff-4de7-9712-7bbd1050273d,"Hi, could you call an uber for me?",ride-book
+uber-lyft-1,dlg-add6b3b1-ea78-438d-8cef-42fcb14c8ca3,I need a lyft ride for today.,ride-book
+uber-lyft-1,dlg-ae251049-69c5-42b9-8e4b-67a108fba684,"Hi, I'd like to call a lyft",ride-book
+uber-lyft-2,dlg-ae3eadbe-8577-4a3a-adac-406c0a2a6515,"Hi, I'd like to order a ride from Uber?",ride-book
+uber-lyft-2,dlg-ae44a15d-5ab0-44cd-83e6-e8ff453eea37,Order me a ride.,ride-book
+uber-lyft-2,dlg-ae6799fe-d9c8-457b-91fd-86dc5bf4466b,"Hey, can you arrange a ride for myself and a client for about 20 minutes from now?",ride-book
+uber-lyft-1,dlg-ae985e56-a580-45eb-9aae-c01a080eba1e,"Home to carwash , with Uber X",ride-book
+uber-lyft-1,dlg-aed84182-8c7c-425f-8a37-c9d5b2fcd94a,"Hi, I'd like to order a lyft please from my location.",ride-book
+uber-lyft-1,dlg-af03bb1e-67d0-4f4e-ad90-14860f20a615,I already have an account with uber and would like to request a pick up.,ride-book
+uber-lyft-2,dlg-af1709b0-7c83-4168-8fe6-008a73aac115,"Hey, can you arrange for an Uber to come get me?",ride-book
+uber-lyft-1,dlg-af273187-9419-4a20-8c61-dbfd10443df0,Hi I need a lyft.,ride-book
+uber-lyft-1,dlg-af91a4f0-749a-4cd4-9c50-fe4f31983c2c,"Hello, Amy. I need you to order a ride for me.",ride-book
+uber-lyft-2,dlg-af94d059-4c69-4313-8eb6-b21abda11de8,I need help getting a ride today.,ride-book
+uber-lyft-1,dlg-afa47bb5-579c-4a7f-a154-b3e98627e5ce,"Good evening, I wanted to call because I am wondering if you can order a ride for us?",ride-book
+uber-lyft-2,dlg-afd9829f-298c-445b-9db6-e7a2e204e4ee,Order me a ride from Uber.,ride-book
+uber-lyft-1,dlg-b00bf5a3-b962-4fb1-a32a-edff86633926,"Hey, can you call me in an Uber?",ride-book
+uber-lyft-2,dlg-b06101e5-d801-44d7-a09b-a32b578106fe,Hi i would like to have an uber pick me up today,ride-book
+uber-lyft-1,dlg-b06c7be4-76dd-48d4-91f6-e29933fb5152,"Hello Sara, I need for you to book a couple of rides for me for tomorrow evening.",ride-book
+uber-lyft-1,dlg-b1155f33-10d7-4f6a-9e8a-0ac5805a4e72,I want to order a ride.,ride-book
+uber-lyft-2,dlg-b1221571-d688-4e73-a32e-2abc321e4637,I'd like to place an order for a Lyft ride please.,ride-book
+uber-lyft-2,dlg-b1f4ced7-8c8b-46a1-93e6-6b966cdb493f,I need to you order an uber for me.,ride-book
+uber-lyft-1,dlg-b2c66261-8470-4b3e-b121-64cdcaeefe92,"Hi, I need to get a ride please.",ride-book
+uber-lyft-1,dlg-b2dc2f45-6085-456f-80cc-e0a2119c5fc2,I would like to get an uber for myself and two others.,ride-book
+uber-lyft-1,dlg-b312f825-e8b7-42eb-87ab-d928d0f61fc0,I've got a dinner meeting at 8pm and need a car scheduled.,ride-book
+uber-lyft-1,dlg-b31785f4-a4d6-47cf-8df4-62526b7b866c,I would like to get a Lyft ordered,ride-book
+uber-lyft-1,dlg-b3e78bb8-5afe-47b7-83b8-dec451152165,I am going to need a ride soon,ride-book
+uber-lyft-1,dlg-b4033215-abb6-460c-acfb-ee2427e64ac6,Hi! Can you help me call a Lyft?,ride-book
+uber-lyft-1,dlg-b4168254-17ea-4494-b80e-48fd850e6e69,"Hey, I need a ride to Mary's house",ride-book
+uber-lyft-1,dlg-b417ad02-ac6c-44f1-93f3-1fb34a1072d5,I want a Uber in San Antonio.,ride-book
+uber-lyft-2,dlg-b4331454-8e67-445c-b252-830a28cca621,"Hello there, may I please ask you to help me schedule are ride?",ride-book
+uber-lyft-1,dlg-b4552337-7fec-4660-9f72-ae49fe041c79,"Hey, I need you to book a ride for me through Lyft.",ride-book
+uber-lyft-2,dlg-b45cba1d-39f7-4132-9760-cc853befdf52,I am calling to book a car for tonight to pick me up at home and take me to a restaurant.,ride-book
+uber-lyft-1,dlg-b498a271-8561-4ae0-aa21-53d8de3b436e,I need to get a ride from Lyft.,ride-book
+uber-lyft-1,dlg-b4e6db05-9603-4c26-9050-44be3aa864e7,I would like for you to order me an Uber. ,ride-book
+uber-lyft-1,dlg-b533c84e-f8a6-4c5b-8447-f25a3cf1656e,"Personal assistant, can you schedule me an Uber ride please? ",ride-book
+uber-lyft-2,dlg-b5e0c7fd-9e45-4588-8527-9144a60ef811,I'd like you to order me a suv,ride-book
+uber-lyft-1,dlg-b609adac-9438-461f-85c8-71e9b1b6d329,"hey Sharah, i need to to order my a Lyft",ride-book
+uber-lyft-1,dlg-b620da6c-cea7-4a9d-9071-e5017358f1ff,"Hi! I'm in Los Angeles, can you order me a Lyft from my lunch to some shops?",ride-book
+uber-lyft-1,dlg-b66cc5f5-0b5f-415e-9832-35334ae87c50,I would like to schedule an Uber from my house to the movie theater,ride-book
+uber-lyft-1,dlg-b72326e2-887a-44c3-bb90-38d8a1016ef5,Call me an Uber to Texas Roadhouse.,ride-book
+uber-lyft-2,dlg-b7a8d06d-cd39-48f9-acba-10b28f3c87fb,I would like to order a ride from venice beach to CGV cinemas.,ride-book
+uber-lyft-1,dlg-b86006fa-72b2-4736-b229-af1da9b65758,I need to order a Lyft here in Chicago.,ride-book
+uber-lyft-1,dlg-b8a73c53-b20e-44a1-a258-61aef59129a0,Hi there! I need a favor from you as I am in this business meeting. I need you to request an Uber. Can you do that? ,ride-book
+uber-lyft-2,dlg-b908f280-4893-4282-be37-fcce20e3971e,Hey can you order an Uber XL for us?,ride-book
+uber-lyft-2,dlg-b94acdc7-30bd-4873-9172-67b4eecccab8,"Hi John, Kindly help me get an uber",ride-book
+uber-lyft-1,dlg-b9609007-4a45-402a-8fb9-83510d2b92e0,Hi it’s me. Can you call me an Uber.,ride-book
+uber-lyft-1,dlg-b9ad1194-60cd-4436-8168-4679218a7610,I need a ride to Montgomery Mall.,ride-book
+uber-lyft-2,dlg-b9ed809e-e345-4617-94a3-f7deeb79d6fa,"I need to get a ride in Folsom, can you help",ride-book
+uber-lyft-2,dlg-ba2dcff5-a279-447c-9d3f-1d75000e5bb4,I would like to get a ride ordered,ride-book
+uber-lyft-2,dlg-ba373bd7-0b01-49e4-9f3d-21293528de3d,"Hey, will you do me a favor an request me an Uber?",ride-book
+uber-lyft-2,dlg-ba95d969-20ab-4261-af07-479dead5898c,Hello. Will you order a Lyft for me? ,ride-book
+uber-lyft-1,dlg-baee1748-6394-4482-ad0c-0d5e1155bdf1,Hey Sarah. Would you be able to order me an Uber?,ride-book
+uber-lyft-2,dlg-bba2d00b-03ec-47aa-9ade-9e8817283430,I need you to order me an uber for tonight.,ride-book
+uber-lyft-1,dlg-bbfd638a-7d37-43b6-82df-e1a766e5fa71,Hi. I'm wanting to order a Lyft to pick me up.,ride-book
+uber-lyft-2,dlg-bc01514b-a8b1-49c6-b429-e593a13347c6,I need to order a Lyft ride. ,ride-book
+uber-lyft-1,dlg-bc0e9b7b-588c-4611-9daf-6eaf8e5fb39b,"Hello Assistant, I need you to order a ride for me please",ride-book
+uber-lyft-2,dlg-bc2407af-5aa7-4053-a28a-89c89f56a5b3,Hey! I need you to book me a Lyft right now.,ride-book
+uber-lyft-2,dlg-bc3e33e7-1358-44ed-9d9a-3ba015dfc58e,"Hi, can you order a car ride for me?",ride-book
+uber-lyft-1,dlg-bd73a00f-5b4a-48af-bea0-ad05774bc32f,"Would you call me an Uber, please?",ride-book
+uber-lyft-2,dlg-bd87e677-0678-46d2-a43b-15981a076cf5,"Hey man, I need a Lyft",ride-book
+uber-lyft-1,dlg-be1bfe04-0534-49a0-a1ea-f5a421a11f1b,"Hi, I'm currently on a tour of a college in Syracuse and I need to get to the nearest health restaurant for dinner.",ride-book
+uber-lyft-1,dlg-be972985-4995-4d30-88cb-c5b2404266ef,Hi. Can you have Uber pick me up?,ride-book
+uber-lyft-1,dlg-bf23bf4f-a3c5-4ae2-816b-b9786900507e,"Hello, I need a pickup.",ride-book
+uber-lyft-2,dlg-bf7d0861-695d-4458-aac3-d86df03a79fb,"hey there, can you order me an uber please",ride-book
+uber-lyft-1,dlg-bf9bd3f4-4dce-419b-be6a-785815cdd9d3,"Hey Sharie, I need you to get me a Lyft.",ride-book
+uber-lyft-1,dlg-bfbfc2c9-e405-4d87-9f88-61548309308d,hey can you help me order a cab,ride-book
+uber-lyft-1,dlg-bfc8c0b8-b260-47db-abae-eb91ec7fa578,"Hey, Jordan, I need an Uber. ",ride-book
+uber-lyft-2,dlg-bfc8c1bc-0417-4341-9b83-214d6869de0b,"Hi, we need an Uber ride.",ride-book
+uber-lyft-1,dlg-c00eb2b0-d180-4be2-99fd-5ec9240c42cd,"Hi, can you order an uber for me?",ride-book
+uber-lyft-2,dlg-c059438e-783b-4ca6-b689-6f1777447578,I'd like to get an Uber now,ride-book
+uber-lyft-2,dlg-c117c240-ddd1-4891-9a81-191b2cfd51b3,"hey, I'm trying to get an UBER tonight",ride-book
+uber-lyft-1,dlg-c12e7f5b-c20b-412d-8bf0-af93d288d386,"Hi I'd like to get a ride from the birmingham, AL airport on down to montogomery, al",ride-book
+uber-lyft-1,dlg-c16d5526-3b95-4e16-bee0-46f44c5932f4,"Chalmers, please get me a ride to Starbaucks in Cleavland Ohio to meet a new client",ride-book
+uber-lyft-1,dlg-c289b952-589a-4043-a0ab-ddfdc852d1a9,Hi can you order me an uber?,ride-book
+uber-lyft-1,dlg-c2ebc4bb-2eed-4f4b-b803-fb8965f63175,hi i need you to order me a ride please,ride-book
+uber-lyft-1,dlg-c3101139-91db-4d32-ac4c-e5a0d54f822b,"I need the cheapest ride from 3227 pike road to McDonald's, Archway Drive, Statesboro, GA",ride-book
+uber-lyft-1,dlg-c3233ad5-4b7b-4c1e-ad0d-fd12bf54ef24,I would like to order an Uber to pick me up.,ride-book
+uber-lyft-1,dlg-c33252a1-3780-4909-b748-58c0ff6fb709,"Hello, I need a taxi",ride-book
+uber-lyft-1,dlg-c35cdcc3-72bc-40b7-bc0f-f9c54e9083d3,Hey Shelly. I need you to get me an Uber.,ride-book
+uber-lyft-2,dlg-c3970a60-6c8e-4671-b3fa-9d0b5c86e7a2,"Haley, I have an emergency. I an Uber from the Hyatt to Oishii. .",ride-book
+uber-lyft-1,dlg-c3d9f556-2794-4a0a-aafa-290db3130788,I want to schedule an Uber,ride-book
+uber-lyft-1,dlg-c4399a8f-54c0-4f53-ab4c-961c2f484bf2,how do I order a lyft?,ride-book
+uber-lyft-2,dlg-c47b7d66-5bb5-4bef-93c1-1bd2e6167434,Id like to get an Uber XL ride.,ride-book
+uber-lyft-2,dlg-c4952ffa-5f9f-465f-9553-efb925a01835,"Jamie, I need for you to order a ride for me from uber",ride-book
+uber-lyft-1,dlg-c56ae21b-a5e4-47ce-a05f-d473bdd7baf5,"Hello Nick, I need you to get on the Lyft account and order a ride for me.",ride-book
+uber-lyft-1,dlg-c5784157-58b3-4a7c-ab7f-e38adba35276,Hello I need a uber ride.,ride-book
+uber-lyft-1,dlg-c5834dac-1039-4de7-b47f-5433da0c3f2b,"hello, i am needing to find a ride from the bar to my house!",ride-book
+uber-lyft-1,dlg-c5a97940-d02e-4313-b34b-6862b65f56cc,"Hey, can you have an uber sent to the office to pick me up and take me to the airport?",ride-book
+uber-lyft-2,dlg-c6495856-8248-4107-98e6-c0c736592b38,Hi I need a ride,ride-book
+uber-lyft-1,dlg-c692e0c7-c97f-4e04-9ac1-87eaae53a8ae,"Hi, I'd like to order an Uber please.",ride-book
+uber-lyft-1,dlg-c6d7fe02-68e4-4e6a-b738-7898ed4fa2a8,i'd like to order an UberX for today.,ride-book
+uber-lyft-1,dlg-c7ab615f-6a5e-4f3a-8fda-65fe2cd30241,"Hi Mike, can you please call me a Lyft? ",ride-book
+uber-lyft-2,dlg-c8497408-0640-4ba4-9b6e-f11474f4771c,i want an Uber ride,ride-book
+uber-lyft-1,dlg-c89f5e15-f4fd-476a-9f40-b460657a1b52,"Hey there assistant, can you send me a uber?",ride-book
+uber-lyft-1,dlg-c92b5f1d-6749-4582-99b4-3a7954ee110f,I'd like you to order me a ride for lunch.,ride-book
+uber-lyft-1,dlg-ca090c04-7e2d-4802-af71-551cf1e487b0,"I need a ride with uber or lyft, basic car, not shared.",ride-book
+uber-lyft-2,dlg-ca86d3e9-c86f-4435-9cc8-a544f2eeaaad,"Hi there, will you order a ride for me please?",ride-book
+uber-lyft-2,dlg-caaff332-cd32-449a-a9c1-05ea1d2e5cd6,Hi. Can you help me book an Uber to pick my family and me?,ride-book
+uber-lyft-1,dlg-cab92c99-9ab0-43db-8535-d73390a25b2b,"Hi, I want to order a ride from one shopping mall to another this week.",ride-book
+uber-lyft-2,dlg-cb2c7eb5-982a-42ff-8bde-7d5470a07542,"Hi. I need for you to order me a car! Or an SUV, actually!",ride-book
+uber-lyft-1,dlg-cb4ddc1c-1c51-45b9-9162-8ccde629f864,Can you call me an Uber?,ride-book
+uber-lyft-1,dlg-cc15b3bb-f52f-4339-9cb5-ce2a11766409,ASSISTANT I want to book an UBER,ride-book
+uber-lyft-1,dlg-cc4becf9-bc2e-4a4b-a461-6a8792f24ad6,"Hello, I need an Uber.",ride-book
+uber-lyft-1,dlg-cc57e281-71b6-4d86-ac96-ea94f8788107,Can you get me a ride going to movie theater?,ride-book
+uber-lyft-1,dlg-ccbd65a0-d44e-432a-9114-e85790e108e0,"Hello, I need a ride today.",ride-book
+uber-lyft-1,dlg-cdcecf46-bfe1-4663-85eb-8101241411ec,"Hey, I need you to order me an Uber.",ride-book
+uber-lyft-2,dlg-cdd0461d-7a9f-41d7-b4d3-b71cb99f013d,Hi. I would like to get a Uber ride please.,ride-book
+uber-lyft-2,dlg-ce029b93-2d05-46cf-8dd5-0d1f00cbd184,Hello I need a ride,ride-book
+uber-lyft-2,dlg-ce79a238-df7f-4b7b-a574-60fdd0904e1d,"Hey, can you help me out with booking a ride with Uber?",ride-book
+uber-lyft-1,dlg-cea013c4-ba90-423c-bad6-f9c7e91948db,"Hi, I would like to order an uber ride",ride-book
+uber-lyft-2,dlg-cea81536-6a30-4531-8f0a-a38a919fe601,"Hi, I want to order an Uber. ",ride-book
+uber-lyft-1,dlg-cf24b11c-444e-4d95-85fa-379d92321fb4,"Hey, I need to order a car to pick me up.",ride-book
+uber-lyft-1,dlg-cf6e4cc4-6857-4ceb-a21b-174595861946,Can you order me a car?,ride-book
+uber-lyft-2,dlg-cfe87b64-fcb6-4ba7-a2ff-b074f8af610b,"hey assistant, can you call an Uber for me.",ride-book
+uber-lyft-2,dlg-d00cc939-8983-4127-b3f3-4773b5199153,HI I need a Lyft ,ride-book
+uber-lyft-1,dlg-d0bb9e47-df92-49c4-b3be-0f008ff54100,"I need an UberXL to take me to Bern's Steakhouse, Tampa FL",ride-book
+uber-lyft-1,dlg-d11035bc-bdd7-47c8-9204-a5752b1731b8,yo order me an uber,ride-book
+uber-lyft-1,dlg-d11c26fc-dad9-4cd1-9dfe-b2889dd1bebd,I need to a Lfyt to take me somewhere.,ride-book
+uber-lyft-2,dlg-d1998bfa-5f66-417a-865a-2cf8006d9656,I need a Lyft ride as soon as possible.,ride-book
+uber-lyft-1,dlg-d19e1272-56c5-4770-acfa-cfc4320cc42f,I am at McDonalds in Boston.,ride-book
+uber-lyft-1,dlg-d1ca0fe6-58f8-4b08-ab14-a0ed578928e2,Can you set up a lyft ride for me.,ride-book
+uber-lyft-2,dlg-d2a811f0-a7e1-47dd-8ca9-29ba2f4aca49,I want to book a uber ride,ride-book
+uber-lyft-2,dlg-d36b2c79-2dd8-4ff9-ac1c-3b2c11c6d3a1,"Good morning Joe, I need an Uber to get to the mall, I need you to call and arrange a pick up for me please.",ride-book
+uber-lyft-2,dlg-d36c0026-d9e0-4177-97c6-2b6c0b309042,I would like to request an Uber car.,ride-book
+uber-lyft-1,dlg-d37b918f-5f98-46ad-9f96-94658ab53448,"Hi, Mindy, could you order an Uber for me?",ride-book
+uber-lyft-1,dlg-d398b55e-c1dd-42e3-95bd-3e41921b90fc,"I need you to order an UBER for me, please.",ride-book
+uber-lyft-1,dlg-d3df56c5-2d16-4bfa-8749-842b037970d2,Assistant open lyft,ride-book
+uber-lyft-1,dlg-d3e5d644-1c61-42d2-a688-2a0e806e9510,"Sally, I'm meeting some friends for lunch this afternoon. Could you book me an Uber?",ride-book
+uber-lyft-1,dlg-d4324a53-8ff0-4f4f-bda1-a9ee96b4d177,Hey do you mind calling me an Uber ride for me and my date?,ride-book
+uber-lyft-1,dlg-d45a7644-0d50-4579-8db9-b8e7d2cbc48c,"I need to be picked up downtown, I want to do something tonight.",ride-book
+uber-lyft-1,dlg-d488ad23-3c5a-4499-8454-00de7c36c445,"Stacy, can you order me an Uber for later?",ride-book
+uber-lyft-1,dlg-d4ee8cda-eee3-49bc-bf95-d4d9ede41ed0,I would like a ride to the store please,ride-book
+uber-lyft-2,dlg-d56747fa-668a-4b3b-9040-6b7e894386f7,Looking for an Uber,ride-book
+uber-lyft-2,dlg-d584f21f-51c0-4719-ac66-7b66cb34667e,"Hey girl, can you do me a favor?",ride-book
+uber-lyft-1,dlg-d5caaa00-08cb-4a1f-bc71-eea4f97b7802,"Michelle, I need a ride somewhere in the next 10 minutes.",ride-book
+uber-lyft-1,dlg-d5f06e28-ec8f-40f9-b2b3-1907e3622054,I need a ride please,ride-book
+uber-lyft-2,dlg-d5f9ade3-41be-464c-93e5-9174eadcb96b,"Hey! I just got out of the Dallas Stars game, can you request a Lyft for me?",ride-book
+uber-lyft-1,dlg-d6060031-953c-4e8d-97d2-da20456b0bfb,"Hi, I would like to order an Uber ride please",ride-book
+uber-lyft-1,dlg-d6506af2-1fd8-4e06-ade0-b0c1f05e2cc6,"Hey Marco, could you order a Lyft ride for me?",ride-book
+uber-lyft-1,dlg-d705d4b9-670e-45b9-b353-23bbc20cdb54,"Hello, I need a ride to run some errands.",ride-book
+uber-lyft-1,dlg-d70d890c-10b0-4fbe-bea4-b6e43ba5a2a7,"Hey, Weva. My flight is early. I need an Uber pick up.",ride-book
+uber-lyft-2,dlg-d737c7f5-f52d-4e72-aa90-219849461e01,"Hi, I need an Uber",ride-book
+uber-lyft-1,dlg-d73e80b7-f470-4b0a-a0fa-cad6c7df7c8f,I'd like to schedule a Lyft to the party.,ride-book
+uber-lyft-1,dlg-d7864cc8-0ca8-485f-8904-fab77562be1a,"Good afternoon. Looks like we need to call for a car. After meeting up, we've decided to break bread, and there's a great spot, but it's too far to walk. Can you get us a Lyft?",ride-book
+uber-lyft-1,dlg-d7b02870-b53e-4459-ac9f-5f128d2f6bc2,I need an uber in ten minutes,ride-book
+uber-lyft-1,dlg-d7b56456-41f3-48da-8c78-6af2cf773055,Hi Sandy! My sister just left for church and I just got out of the shower. Can you schedule an uber for me?,ride-book
+uber-lyft-1,dlg-d88fc336-385a-4f4e-8fbd-d116d53f4971,"Hello, can you order an uber for me?",ride-book
+uber-lyft-1,dlg-d8b43b28-a942-459e-a7cd-bbff010d0a87,I'm looking for a ride to the airport.,ride-book
+uber-lyft-1,dlg-d917301b-475c-4a70-9436-a7b0f9c87ea2,Can you book an Uber for me?,ride-book
+uber-lyft-1,dlg-d948bc7b-f1de-4234-906d-03466d2b69a1,I need to order a ride ,ride-book
+uber-lyft-1,dlg-d9561f0b-fda4-41f5-8c6e-40a0a12d0cd8,"Hey, Brett, I need you to order me an Uber.",ride-book
+uber-lyft-1,dlg-d9d017c4-c942-407c-b62d-3bcbf05c51c5,"Hello, I would like to book an Uber ride.",ride-book
+uber-lyft-2,dlg-da269755-7608-4a40-bd5c-1c3d97043388,I was wondering if you help me book an uber today.,ride-book
+uber-lyft-1,dlg-da32341f-2b4f-47a0-a80e-967be1d957cd, I would like to request a ride through Uber.,ride-book
+uber-lyft-1,dlg-da517c79-9764-4fe5-a6a1-d7327550c1d2,Can you order me a ride for tonight?,ride-book
+uber-lyft-1,dlg-daab3be4-2fcb-475b-b0ee-52e67222ed5f,"Hey, I need to get an Uber. Are you able to get one for me?",ride-book
+uber-lyft-2,dlg-dabce74e-ab33-4a20-9169-57a182f6c21f,I am looking to get a ride out of here!,ride-book
+uber-lyft-1,dlg-db56bccf-3237-4737-b9a5-51f3f2818f6f,Hey Mike. I would like an Uber ride tonight.,ride-book
+uber-lyft-2,dlg-db64f7b0-8386-44d5-9f55-810578ae5b5c,Hi. I need an Uber.,ride-book
+uber-lyft-1,dlg-dbc844f3-54a1-48d9-bb70-956d575ae575,"Hey, can you arrange a car pickup for me?",ride-book
+uber-lyft-1,dlg-dc32d19d-c2eb-44cd-abb2-92c65eac0b20,Hello. Can you order a car for me?,ride-book
+uber-lyft-2,dlg-dc64849c-71b5-4b91-9ef0-60cb9b19ffa2,Hello! Need your assistance.,ride-book
+uber-lyft-1,dlg-dd2b026d-9cb0-4239-9bc8-ce961cf725b1,I need to request a ride.,ride-book
+uber-lyft-2,dlg-dd313b40-82e5-483b-a0b1-2874ea105698,I need to get and Uber Please,ride-book
+uber-lyft-1,dlg-dd6cc079-23ff-4b55-98f6-f51f8871a061,Can you please order me an Uber for an airport pick up tonight at 8:30?,ride-book
+uber-lyft-1,dlg-dda0637c-ce31-452d-aef0-c8cd9071b195,"Hey, can you get me a lyft from the Suns game to the Duece Restaraunt downtown, thanks!",ride-book
+uber-lyft-1,dlg-ddf422dc-db4b-4b1e-8711-e3fce35cf205,I need a ride from Lyft.,ride-book
+uber-lyft-1,dlg-de437bee-5006-4f15-8cc9-b2719b4ad50e,"Hey, my car is in the shop and I need a ride.",ride-book
+uber-lyft-2,dlg-de815bb3-6521-4016-a301-67cab3da8030,Hello. I need you to order an Uber for me.,ride-book
+uber-lyft-1,dlg-de89dce5-792c-4494-9344-151bba8ded18,get me an uber please,ride-book
+uber-lyft-2,dlg-de95c013-bfbd-40ea-a70b-c31c6d39ce59,I want to order a Lyft,ride-book
+uber-lyft-2,dlg-defeb877-8aef-44d2-9037-8c0360b5359b,"Hello, I would like to take an Uber ride. ",ride-book
+uber-lyft-2,dlg-df949458-930b-486f-b284-0ad076a316f7,"Hello assistant, please order an Uber for me.",ride-book
+uber-lyft-2,dlg-dfb19f68-81b5-4b8c-b479-ec108c2cd2b0,Hey. I need an uber ride. ,ride-book
+uber-lyft-1,dlg-e18cccaa-9eb9-4a54-9604-01b145e04456,I need you to order me a Lyft to bring us to get some drinks.,ride-book
+uber-lyft-2,dlg-e192172e-9ec5-48b7-bb5c-fd57e2ded061,"Hello, could I get a ride from Uber?",ride-book
+uber-lyft-2,dlg-e1bf9771-2d0a-4d11-b6c1-4e5cf655a66e,"Hey Emily, my car is still at the shop can you get me an Uber to Top Golf?",ride-book
+uber-lyft-1,dlg-e1d7e3fc-a109-4cf7-8132-125243479946,get me an uber,ride-book
+uber-lyft-1,dlg-e1f74673-4860-4963-9f46-c5a8bf135dc0,can you order me a Lyft,ride-book
+uber-lyft-2,dlg-e26d9126-47ce-487a-908e-38398d04f3b4,"Hey Samir, can you please call me an Uber?",ride-book
+uber-lyft-1,dlg-e279c0fa-149f-42b5-b872-9759248fea10,"Hello Siris, I would like to order a uber to go to a restaurant",ride-book
+uber-lyft-1,dlg-e2dbfc9e-99df-4918-b209-93968b263a91,"Google, call me a ride.",ride-book
+uber-lyft-1,dlg-e33d7e3b-cac5-4ff5-b9fb-f89bfbe5280f,"Hi Dave, can you please order a ride for me with Lyft.",ride-book
+uber-lyft-2,dlg-e3794621-7083-4b08-842d-2943cd5390b7,"Hello, could you reserve me an UberXL from the movie theatre in Huntington back home later?",ride-book
+uber-lyft-1,dlg-e3797e80-a033-47d3-be9f-3235ea00f09c,"Hi, I would like for you to order a car for me",ride-book
+uber-lyft-1,dlg-e42f3a6f-9a96-4452-9f3e-6fdb3d0953e9,I like to order a lyft,ride-book
+uber-lyft-1,dlg-e463914d-b595-4c4f-be7f-30e250f5e6f7,"Hello Renee, I need a special favor from you.",ride-book
+uber-lyft-1,dlg-e493ad97-054e-44c7-855e-594b2a18137a,"Hello, Sam. I need you to order me up a ride.",ride-book
+uber-lyft-1,dlg-e4f60816-95e8-4a09-98f1-8773af261998,"Hello, I'm needing a Lyft ride.",ride-book
+uber-lyft-1,dlg-e4fe4109-40bf-48d0-bd69-80cb67635678,"Hey Sam, can you please order me an Uber for my date with Adrian tonight?",ride-book
+uber-lyft-1,dlg-e583e393-4ffa-4251-ab5e-2728896b5b04,"I'm going to need a car delivered to me so that I can travel around Philadelphia, PA this upcoming weekend.",ride-book
+uber-lyft-1,dlg-e58a3ff5-75df-4cc7-8a8d-9346692341f7,Hello assistant. Please schedule a ride pick-up for me.,ride-book
+uber-lyft-2,dlg-e597d5db-fd3d-4254-a34c-cf7f01ac204e,I need an Uber,ride-book
+uber-lyft-1,dlg-e5e2bd90-f650-4469-a6d4-9718d20c9110,"Hi, I would like to order a ride.",ride-book
+uber-lyft-1,dlg-e62fe59d-25bf-40b2-87a4-f91092ea69f5,Please reserve an Uber driver for me now,ride-book
+uber-lyft-1,dlg-e638811b-0c0a-4c99-9ea6-bf068d9ce6ca," I was thinking about buying this used car, and was wondering if you would take a look at it for me to see if it has any problems. ",ride-book
+uber-lyft-2,dlg-e6656d35-5719-4d22-b82c-5aa230e2e347,I'd like to order an uber please.,ride-book
+uber-lyft-2,dlg-e6b60951-3185-4988-b388-f23ccd5f30d5,"Hey, can you call me a Lyft ride?",ride-book
+uber-lyft-2,dlg-e6bb24b5-efab-4301-89a6-a427040f5e1f,Evening! Can you call me an Uber?,ride-book
+uber-lyft-1,dlg-e7344e72-a3e3-4ec3-b237-b530b72d37af,Hey can you order me an Lyft please?,ride-book
+uber-lyft-1,dlg-e764f46b-dd6d-431f-9c0e-3fdae801da76,"Hello, I need to order a car pick up.",ride-book
+uber-lyft-2,dlg-e77c2fef-13ca-483f-8eeb-2c41cf45db5e,I would like to order a car.,ride-book
+uber-lyft-1,dlg-e7a7d74b-4cdf-4ff2-854d-0846232a88ea,"Hello, I wuld like you to send me an Uber to get me home.",ride-book
+uber-lyft-2,dlg-e82a1fa8-a832-42df-a360-ace9cf426038,"Hi Joanie, can you get me an Uber please, i'm at Houston Bridal Gallery on Katy Fwy and need a pick up in 2 hours to take us to the The Apartments Houston on Post Oak, please?",ride-book
+uber-lyft-1,dlg-e8fd086b-1bd5-4a0d-90fb-70b125d136b5,Hey can you set up a ride for me?,ride-book
+uber-lyft-1,dlg-e928729a-fbe1-4077-b73d-b7026d5d2bb4,"Hey, Good morning. Can you arrange for a car to pick me up today?",ride-book
+uber-lyft-2,dlg-e9b6a244-2cdd-4807-b1ae-864e58a1de24,I'd like an Uber ride,ride-book
+uber-lyft-2,dlg-e9f43bd6-96a2-4b88-840e-ac3fd04afe80,"I need a ride from Camp Randall Stadium in Madison, Wisconsin.",ride-book
+uber-lyft-1,dlg-ea9d918a-a72b-4772-a32a-22c445c83de7,"Hi Tracy, can you please order me an Uber? I need a ride to that Italian restaurant on Bells Ferry Road in Acworth - the one with the great spaghetti sauce we all like.",ride-book
+uber-lyft-1,dlg-eaa95a47-d746-4007-a436-91f6408f3025,I need to get a ride to Cracker Barrel.,ride-book
+uber-lyft-1,dlg-eb109c9b-9c49-4b9e-9ad3-1b70d860321e,"Hi, I need to schedule an appointment with car repair.",ride-book
+uber-lyft-2,dlg-eb7fe6b7-4ca4-47d7-ad40-2af6d94fcd93,I need a lyft please.,ride-book
+uber-lyft-1,dlg-ec1c756f-4bf5-4e6b-a60d-0e86fd0bd8a9,I would like to order a ride,ride-book
+uber-lyft-2,dlg-ec6df836-1353-4da4-8cf2-340b7344ed31,"Hello, can you please order me an Uber X from Baptist Medical hospital to downtown Oklahoma City?",ride-book
+uber-lyft-1,dlg-ec82f8e4-beed-4ad7-ae1f-8ea34befd51d,"Hey, my car got stolen and I need a ride.",ride-book
+uber-lyft-1,dlg-ec86b812-12cf-438d-b276-68b2a7946fdc,Hi Mimi. I am flying back into town for my court appearance on Monday.,ride-book
+uber-lyft-1,dlg-ec94b77e-873a-4ec6-a5d8-87fe3275321c,I would like to go to Cleveland city hall,ride-book
+uber-lyft-1,dlg-eceee47e-a4c9-431b-a730-a593873f8864,"Hi, I'd like an uber from Ala moana hotel to the airport",ride-book
+uber-lyft-1,dlg-ed90ca1e-fa69-4d4a-9ef4-d738a1021f3e,"Hi Kelly, could you please order an Uber for me?",ride-book
+uber-lyft-2,dlg-edbbcf32-4681-4c81-8038-358820178158,I'd like an Uber ride.,ride-book
+uber-lyft-1,dlg-eddeb787-208c-4cc2-8677-529d4294b32a,"Hello, can you book an Uber for me?",ride-book
+uber-lyft-1,dlg-edf02e39-4529-4112-bc3d-9429d867271f,I need to order an Uber for 9pm tonight,ride-book
+uber-lyft-2,dlg-ee7f3a53-fda4-48ea-8f9d-d2d6bd20ba06,"Hi, my flight has landed. Can you call me an Uber?",ride-book
+uber-lyft-2,dlg-eee4023c-88d0-44f8-8a68-6f2326dd0646,My name is Jasmine Lee and my phone number is 717-495-1111. I am calling to book a car for tonight to pick me up at a restaurant at 7pm and take me and my guest to see a movie.,ride-book
+uber-lyft-1,dlg-eef45746-7452-46ae-9e52-e0633702786f,Hey--I need you to schedule a ride for me crosstown.,ride-book
+uber-lyft-2,dlg-eefb1330-fb87-4f70-8748-c314c17d9780,"Hello, my name is Larry i need an uber ride",ride-book
+uber-lyft-1,dlg-ef216a49-724a-4c11-9c49-b6f5739653ad,"Hi there, how are you? Do you have a minute to order me a ride? ",ride-book
+uber-lyft-2,dlg-ef79f8b3-5ed0-40f3-9f4c-fdc019e05b2e,Hi I have a problem,ride-book
+uber-lyft-1,dlg-ef850dbc-c15e-4e19-81c4-3bcee0fb1366,"Hi, I was wondering if you could get me a ride.",ride-book
+uber-lyft-1,dlg-efcb5d7c-7cca-4aff-8018-f31082e5770e,Call me an Lyft to Bush's Chicken.,ride-book
+uber-lyft-1,dlg-eff3cc3f-fa3b-4fcf-bec3-9505d0b1260d,"Hey, I need to order an Uber ride.",ride-book
+uber-lyft-2,dlg-f0c9328b-6779-4156-8f55-f77f2223a530,I need an Uber ride this evening.,ride-book
+uber-lyft-1,dlg-f1046a53-7cba-4388-87c7-33f4dadaae8c,Can you order me a Lyft please?,ride-book
+uber-lyft-1,dlg-f11f1005-c602-4fb9-8d11-1e199d9ccbfb,"Hi, I'd like to order a Lyft ride",ride-book
+uber-lyft-1,dlg-f1a0378c-56b7-41a5-8477-6b5525d1a4d5,I would like to go to Chicago city hall,ride-book
+uber-lyft-1,dlg-f1c07996-bb3e-48a7-919d-1717c7a467f6,"Hey, could you please order me a car right now? ",ride-book
+uber-lyft-2,dlg-f1e63b87-e0c7-48b9-9f82-4ed6abd538b5,"Hi, can you send a Lyft over to come pick me up?",ride-book
+uber-lyft-2,dlg-f25a3d8a-b506-4daf-afbc-e8a62e42827d,Assistant can you order a ride for me?,ride-book
+uber-lyft-2,dlg-f2ab9cb4-1127-4ae7-a8ff-88cf51623822,Is there any way you could order a Lyft for me?,ride-book
+uber-lyft-2,dlg-f2ad8980-c9b2-4f23-a701-a0e31887b833,"Hey! I just finished watching the game, and want to take myself and 5 friends to Starbucks, Can you order a car?",ride-book
+uber-lyft-1,dlg-f3ec67a4-d0d4-4300-9c01-409a13693b03,"Tom, guess who needs a ride to the 2019 NBA Finals game tonight!?",ride-book
+uber-lyft-1,dlg-f4171ae6-8457-4ab6-955d-4e8e5d8b3c09,I need to order a Lyft car. ,ride-book
+uber-lyft-1,dlg-f4357f2e-a964-4a16-a8b7-09be0b1904aa,"Alexa, I need you to book a ride for me please.",ride-book
+uber-lyft-2,dlg-f60be7a0-4059-4226-954b-a1479974e37c,"Hello, I need a ride, please.",ride-book
+uber-lyft-2,dlg-f619b530-85bc-4e97-a622-69f2a6efb1dc,hello i need an uber,ride-book
+uber-lyft-2,dlg-f63ef800-8010-4801-9046-62fddc345881,I need to call an Uber.,ride-book
+uber-lyft-2,dlg-f6800db4-db17-405e-aebf-e728ce83bf4f,I need to request an Uber.,ride-book
+uber-lyft-2,dlg-f7a4fe26-0e92-42aa-8500-a72bfad0efff,Can you help me getting a ride,ride-book
+uber-lyft-2,dlg-f7e14bfc-2845-4207-a5be-b9b526b1b5ad,"Hi, it’s me, can you call me an Uber?",ride-book
+uber-lyft-1,dlg-f7fd70b8-bffa-4a28-b98d-0e058f01eda0,Hi I need to book a ride with Lyft,ride-book
+uber-lyft-1,dlg-f8112ea2-c182-400b-9e94-b8179922f05e,I would like to get an Uber.,ride-book
+uber-lyft-2,dlg-f81a4056-25bd-436e-af24-ce5ae0ba9f61,I need a uber from my house to downtown bar,ride-book
+uber-lyft-1,dlg-f8b050af-36db-47b7-8e61-f7d79e535aa2,I need a ride from the Seattle center,ride-book
+uber-lyft-1,dlg-f8bba26c-aea4-4ef4-8810-b33888e58ccc,I will like you to send a car,ride-book
+uber-lyft-2,dlg-f8da487a-0fae-447c-ac23-fa4fbc1a0082,Please order me an Uber,ride-book
+uber-lyft-1,dlg-f8ff2545-5fe6-43e2-bb42-62eaae44d232,"Hi, I want to schedule a ride.",ride-book
+uber-lyft-1,dlg-f9865220-da95-4695-a7e2-f19226465c3b,Hey. I just touched down in Chicago. ,ride-book
+uber-lyft-2,dlg-f99e4edf-4a2d-42be-8f84-ee753a83ca7d,"Hello, please get me a ride from Uber that's needed in about 30 minutes.",ride-book
+uber-lyft-1,dlg-f9ea9253-5c3f-4457-8996-0dc553a89fe4,"Hey, I need a car pick up.",ride-book
+uber-lyft-1,dlg-f9f36b86-5b39-444a-9120-6683657319e5,Hello I would like some information on an uber ride from my home to the mall then to the grocery store then back home.,ride-book
+uber-lyft-2,dlg-fa153a0e-e58c-48b3-9f30-f5e5c698711b,Hey can you try and get me an Uber?,ride-book
+uber-lyft-2,dlg-fa7d1d82-8260-448e-8815-bd6861fd8d8b,"Hello, can you order a car for me from Lyft?",ride-book
+uber-lyft-1,dlg-fae9c0d4-49d0-4e14-b801-5f7ef8252963,I am seeking a ride via uber or lyft.,ride-book
+uber-lyft-1,dlg-fb075f1c-07a2-4dc7-94e7-d01d6c9ed252,Hello I wanted to order a ride today,ride-book
+uber-lyft-2,dlg-fb4bb7ce-3cd8-418e-abf8-47c90098e97b,"I would like to order a ride, please.",ride-book
+uber-lyft-1,dlg-fb60f848-601f-490d-b7e2-a371600f749f,"Hi, I want to reserve a ride to a movie theater to a restaurant on the other side of town.",ride-book
+uber-lyft-1,dlg-fba9aa42-253c-43c3-8fb1-f0494600f523,"Good afternoon, I would like to order a Lyft ride from 2220 West Main in Belleville, IL.. I want to go to St. Clair Mall in Fairview Heights, IL.",ride-book
+uber-lyft-2,dlg-fc0cdbf4-db0a-4edc-870a-13750b22708a,I need a car into the city.,ride-book
+uber-lyft-1,dlg-fc69de79-3111-45ca-b90e-3ebb3accd008,"Jennifer, I need an Uber ride to the afternoon meeting hall.",ride-book
+uber-lyft-2,dlg-fd6c5a7b-45c5-44b2-b8a1-6afc11698ca6,"Hi there, I would like to book an Uber ride.",ride-book
+uber-lyft-2,dlg-fe4cf398-cd82-4b9e-9aeb-2c38d74d376e,"Hey, I need an Uber to come pick me up from my house and take me to the movies.",ride-book
+uber-lyft-1,dlg-fe510110-b0c8-48df-9546-94d01ae7efc6,I need a pickup from the airport to my house.,ride-book
+uber-lyft-2,dlg-feec404e-4f1d-4d06-8ec3-86e936e34441,Will you order me a ride?,ride-book
+uber-lyft-2,dlg-ff7f742b-e077-41c0-bf07-5d2dd2eeb569,"I need a ride, man.",ride-book
+uber-lyft-1,dlg-ffae82f1-4dd3-42e2-8e82-ce5c6114bbff,Hey there Darcy. I need to get to midtown from the Trade Center. Can you get me one of those Lyft things? I don't have the app installed on my phone.,ride-book
+uber-lyft-2,dlg-ffbc97c9-aa4e-4e65-b74b-c973fd3c5014,Hey I need an Uber ride?,ride-book

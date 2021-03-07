@@ -1,80 +1,116 @@
 # sent-bert model choice
 # STS tasks
-# baseline: paraphrase-distilroberta-base-v1 
+# baseline: paraphrase-distilroberta-base-v1
+# QA: msmarco-distilroberta-base-v2
 
 import pandas as pd
 import torch
 import math
 from torch.utils.data import DataLoader
 import logging
+import argparse
 from sentence_transformers import SentenceTransformer, LoggingHandler, losses, models, util
 from sentence_transformers.readers import InputExample
 from sentence_transformers.evaluation import EmbeddingSimilarityEvaluator
 
 torch.cuda.empty_cache()
 
+# parse arguments: model type
+argp = argparse.ArgumentParser()
+argp.add_argument('variant',
+    help="Which variant of the model to run ('vanilla' or 'synthesizer')",
+    choices=["paraphrase-distilroberta-base-v1", "msmarco-distilroberta-base-v2"])
+argp.add_argument('--output_path', default=None)
+args = argp.parse_args()
+
+# Save the device
+device = torch.cuda.current_device() if torch.cuda.is_available() else 'cpu'
+
 # prepare corpus
-dataset = pd.read_csv('data.csv')
-dataset = dataset.sample(frac=1).reset_index(drop=True)
-print(dataset.shape)
-
-# basic corpus analysis
-corpus_label_counts = dataset.value_counts(['label'])
-
-# train_dev_test_split = [0.6, 0.2, 0.2]
-train_corpus, dev_corpus, test_corpus = [], [], []
-for idx in corpus_label_counts.index.tolist():
-    label = idx[0]
-    all_data = dataset[dataset['label'] == label].reset_index(drop=True)
-    train_corpus.append(all_data[:int(len(all_data) * 0.6)])
-    dev_corpus.append(all_data[int(len(all_data) * 0.6) : int(len(all_data) * 0.8)])
-    test_corpus.append(all_data[int(len(all_data) * 0.8):])
-train_corpus = pd.concat(train_corpus)
-dev_corpus = pd.concat(dev_corpus)
-test_corpus = pd.concat(test_corpus)
-print("train data size: ", len(train_corpus), ", dev data size: ", len(dev_corpus), ", test data size: ", len(test_corpus))
-print("train:\n")
-print(train_corpus['label'].value_counts())
-print("\n dev: \n")
-print(dev_corpus['label'].value_counts())
-print("\n test: \n")
-print(test_corpus['label'].value_counts())
+clean_data_labels = ['auto-repair-appt', 'coffee-order', 'flight-search', 'food-order', 'hotel-search', 'movie-search', 'music-search', 'ride-book']
+train_samples, dev_samples, test_samples = [], [], []
+for f in clean_data_labels:
+    filename = "./data/clean_csv/data_" + f + ".csv"
+    df = pd.read_csv(filename)[:800]
+    train_samples.append(df[:300])  
+    dev_samples.append(df[300 : 350])
+    test_samples.append(df[350:])
+train_corpus = pd.concat(train_samples)
+dev_corpus = pd.concat(dev_samples)
+test_corpus = pd.concat(test_samples)
+print("train corpus size: ", train_corpus.shape)
+print("dev corpus size: ", dev_corpus.shape)
+print("test corpus size: ", test_corpus.shape)
 
 # create training sentence pairs
 train_pair_corpus = []
-for idx in ['restaurant-search', 'movie-search', 'flight-search', 'music-search', 'pizza-order', 'coffee-order']:
-    label = idx
-    train_label_data = train_corpus[train_corpus['label'] == label].reset_index(drop=True)
-    print(len(train_label_data))
-    for utter1 in train_label_data['utterance']:
-        for utter2 in train_label_data['utterance']:
-            if max(len(utter1), len(utter2)) > 2 * min(len(utter1), len(utter2)):
-                inp_example = InputExample(texts=[utter1, utter2], label=0.2)  # todo: use baseline model's score
-            else :
-                inp_example = InputExample(texts=[utter1, utter2], label=1.0)
+train_corpus = train_corpus.sample(frac=1) # randomize order first
+# first, create similar pairs
+for label in clean_data_labels:
+    same_label_data = train_corpus[train_corpus['label'] == label].reset_index(drop=True)
+    utterance_list = same_label_data['utterance']
+    for i in range(len(utterance_list) - 1):
+        for j in range(i + 1, len(utterance_list)):
+            utter1, utter2 = utterance_list[i], utterance_list[j]
+            if (utter1 != utter2):
+                inp_example = InputExample(texts=[utter1, utter2], label=1.0)   # TODO: should we use baseline model score as similarity score?
+                train_pair_corpus.append(inp_example)
+    print(len(train_pair_corpus))
+num_sim_pairs = len(train_pair_corpus)
+print("Number of similar pairs in training data: ", num_sim_pairs)
+# then, create dissimilar pairs
+for idx in range(len(clean_data_labels) - 1):
+    same_label_data = train_corpus[train_corpus['label'] == clean_data_labels[idx]].reset_index(drop=True)[:180]
+    diff_label_data = train_corpus[train_corpus['label'].isin(clean_data_labels[idx + 1:])].reset_index(drop=True)[:180]
+    for utter1 in same_label_data['utterance']:
+        for utter2 in diff_label_data['utterance']:
+            inp_example = InputExample(texts=[utter1, utter2], label=0.2)   # TODO: should we use baseline model score as similarity score?
             train_pair_corpus.append(inp_example)
-print(len(train_pair_corpus))
+train_pair_corpus = pd.Series(train_pair_corpus).sample(frac=1)
+print("Number of dissimilar pairs in training data: ", len(train_pair_corpus) - num_sim_pairs)
+print("total training data size: ", len(train_pair_corpus))
 
+# create dev sentence pairs
 dev_pair_corpus = []
-for idx in corpus_label_counts.index.tolist():
-    label = idx[0]
-    dev_label_data = dev_corpus[dev_corpus['label'] == label].reset_index(drop=True)
-    print(len(dev_label_data))
-    for utter1 in dev_label_data['utterance']:
-        for utter2 in dev_label_data['utterance']:
-            if max(len(utter1), len(utter2)) > 2 * min(len(utter1), len(utter2)):
-                inp_example = InputExample(texts=[utter1, utter2], label=0.2)  # todo: use baseline model's score
-            else :
-                inp_example = InputExample(texts=[utter1, utter2], label=1.0)
+dev_corpus = dev_corpus.sample(frac=1) # randomize order first
+# first, create similar pairs
+for label in clean_data_labels:
+    same_label_data = dev_corpus[dev_corpus['label'] == label].reset_index(drop=True)
+    utterance_list = same_label_data['utterance']
+    for i in range(len(utterance_list) - 1):
+        for j in range(i + 1, len(utterance_list)):
+            utter1, utter2 = utterance_list[i], utterance_list[j]
+            if (utter1 != utter2):
+                inp_example = InputExample(texts=[utter1, utter2], label=1.0)   # TODO: should we use baseline model score as similarity score?
+                dev_pair_corpus.append(inp_example)
+    print(len(dev_pair_corpus))
+num_sim_dev_pairs = len(dev_pair_corpus)
+print("Number of similar pairs in dev data: ", num_sim_dev_pairs)
+# then, create dissimilar pairs
+for idx in range(len(clean_data_labels) - 1):
+    same_label_data = dev_corpus[dev_corpus['label'] == clean_data_labels[idx]].reset_index(drop=True)[:25]
+    diff_label_data = dev_corpus[dev_corpus['label'].isin(clean_data_labels[idx + 1:])].reset_index(drop=True)[:25]
+    for utter1 in same_label_data['utterance']:
+        for utter2 in diff_label_data['utterance']:
+            inp_example = InputExample(texts=[utter1, utter2], label=0.2)   # TODO: should we use baseline model score as similarity score?
             dev_pair_corpus.append(inp_example)
-print(len(dev_pair_corpus))
+dev_pair_corpus = pd.Series(dev_pair_corpus).sample(frac=1)
+print("Number of dissimilar pairs in dev data: ", len(dev_pair_corpus) - num_sim_dev_pairs)
+print("total validation data size: ", len(dev_pair_corpus))
 
-word_embedding_model = models.Transformer("roberta-base")
-pooling_model = models.Pooling(word_embedding_model.get_word_embedding_dimension(),
-                               pooling_mode_mean_tokens=True,
-                               pooling_mode_cls_token=False,
-                               pooling_mode_max_tokens=False)
-model = SentenceTransformer(modules=[word_embedding_model, pooling_model])
+# modeling
+model_variant = args.variant
+print("model variant is: ", model_variant)
+path = args.output_path
+print("output path: ", path)
+# word_embedding_model = models.Transformer("roberta-base")
+# pooling_model = models.Pooling(word_embedding_model.get_word_embedding_dimension(),
+#                                pooling_mode_mean_tokens=True,
+#                                pooling_mode_cls_token=False,
+#                                pooling_mode_max_tokens=False)
+# model = SentenceTransformer(modules=[word_embedding_model, pooling_model])
+model = SentenceTransformer(model_variant)  # fine-tune on top of SBERT
+model.to(device)
 train_dataloader = DataLoader(train_pair_corpus, shuffle=True, batch_size=32)
 train_loss = losses.CosineSimilarityLoss(model=model)
 evaluator = EmbeddingSimilarityEvaluator.from_input_examples(dev_pair_corpus, name='dev')
@@ -85,5 +121,5 @@ model.fit(train_objectives=[(train_dataloader, train_loss)],
           epochs=4,
           evaluation_steps=1000,
           warmup_steps=warmup_steps,
-          output_path="./models/crude")
+          output_path=path)
     
