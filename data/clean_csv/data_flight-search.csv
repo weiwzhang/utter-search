@@ -841,7 +841,6 @@ flight-5,dlg-606bae1a-ab90-4a3d-94aa-6be33f6afc58,"Yes, I'd like help finding a 
 flight-6,dlg-607d341e-e591-4c6b-a8f3-4ea6fb288c50,"Hello, I need to find a flight from Seattle, Washington to New York City. Can you help me with that?",flight-search
 flight-10,dlg-60b559ca-ba3d-4aee-addf-f18b79471905,I'd like to book a round-trip airline flight from LA to Boston.,flight-search
 flight-12,dlg-60ed6e62-3186-46f0-bc0b-955a7531a2d0,"Hi there. I am looking for a round-trip flight from San Francisco to Houston, leaving today and returning in 4 days. And I'd like to depart in the afternoon for both flights.",flight-search
-flight-6,dlg-60fb6201-db5c-49a6-bdc6-c147d2dc9026,I'm going to North New Jersey.,flight-search
 flight-7,dlg-6138ecf7-f49e-49ee-b60e-f4352972d9c9,Hi. I would like a flight to Seattle.,flight-search
 flight-6,dlg-61506676-6443-4d94-a8d3-bbb689fff421,"Hi, I'd like help finding a flight to Atlanta, Georgia.",flight-search
 flight-11,dlg-616ee3b0-de43-44ca-82b0-c241c18f7b8b,I'm looking for a flight from New York today.,flight-search
@@ -854,15 +853,12 @@ flight-6,dlg-6268b211-c665-403e-b658-023472c9c640,Doing well. I need you to help
 flight-6,dlg-6281a447-44db-4f9c-b8ed-17ae2d3851db,"Hi, I'm looking to book a flight to Charlotte, North Carolina.",flight-search
 flight-8,dlg-62ad3b0a-58fe-4f3c-b4e1-f85d72be8f4e,I need to set up a multi-leg trip.,flight-search
 flight-5,dlg-62be14f3-a09a-4baf-8f31-9b5d74b85e3f,"I would be flying to Madrid, Spain.",flight-search
-flight-5,dlg-62d3706a-0c7f-4e36-9d6d-3de003de1dda,"Hello, I'd like to schedule a trip to Rome, Italy leaving on March 4th and return on March 7th.",flight-search
-flight-12,dlg-62db6cda-e54b-4d7b-b248-7d4075dd2dc1,I'm in Sacramento right now and I going to Houston. I'd like to leave today and come back on the 7th. Could you get me a flight that's the earliest leaving and returning?,flight-search
 flight-6,dlg-62e8631f-d3ce-472b-9d36-e0660d7aaa27,"Hi, I would like to schedule a flight to Miami, Florida.",flight-search
 flight-7,dlg-62e9e324-a16a-4347-8d78-e67f0d2341a8,I need a flight to Los Angeles.,flight-search
 flight-5,dlg-62ea8745-da65-40f7-b6c8-2361e99d4719,"Yeah, I would like help booking a flight to Brussels, Belgium.",flight-search
 flight-14,dlg-62faa20c-64c0-464d-9c64-7a7d32aaca71,Hi. I want the cheapest round-trip flight from Sacramento to Seattle.,flight-search
 flight-14,dlg-62ff3a9c-f76b-4268-99a2-02828d1af469,"Search for roundtrip flights between Seattle and San Francisco, Sacramento.",flight-search
 flight-12,dlg-630535e8-e80c-4f84-977f-6ea86c7254a7,"Yeah, I'm looking for a round-trip flight from Los Angeles to Houston, I will be leaving today and coming back on September 17th, I need both the flights as late as possible.",flight-search
-flight-4,dlg-630ab1b6-fb23-4feb-b9cb-b6718890cc74,A good beach place in Europe.,flight-search
 flight-7,dlg-6311cb03-fc39-42f1-82c3-73a6799ca144,"I need help in booking a flight, please.",flight-search
 flight-14,dlg-63289ad6-6068-4422-8ad5-f63361fbbee5,Hi. Can you find me the cheapest commercial round-trip flight from LAX to JFK leaving tomorrow and returning 3 days later?,flight-search
 flight-13,dlg-632ef93a-cce0-4a38-8458-8627fc04efa9,Hi. Could you help me find a round-trip ticket from New York City to Puerto Rico?,flight-search
@@ -890,7 +886,6 @@ flight-4,dlg-6610268e-1760-4174-893a-a8f9041a95f0,I would like to help with find
 flight-4,dlg-66185ccc-045a-4276-af42-fbb5f7afe6a1,I'd like to book a non stop flight to Budapest.,flight-search
 flight-3,dlg-66255dfa-60f0-46a9-848a-6a46301019a8,"Hello. I would like help in finding a flight to Phoenix, Arizona.",flight-search
 flight-12,dlg-664cd7b5-2475-4453-b88f-588c6aeedf0c,Yeah. Can you give me a couple of suggestions for some flights in the afternoon from Los Angeles to Houston?,flight-search
-flight-6,dlg-667166d2-a4d4-4828-9161-105cefc3b44d,"I am headed to Charlotte, North Carolina.",flight-search
 flight-4,dlg-667693a2-7aa6-4abb-b2d7-8404309d0c1f,I would like help in finding a flight.,flight-search
 flight-12,dlg-6680e3bc-3a9a-49da-baa2-9186cbc86dd8,"Yeah, I was wondering if you could help me to book a flight from Los Angeles to Salt Lake round trip.",flight-search
 flight-5,dlg-669d53f7-2966-4447-8707-0c69f2cb4191,"I'd like to see if there's are any flights available to Madrid, Spain, from March 30th to April 3rd.",flight-search

@@ -1,0 +1,1373 @@
+instruction_id,conversation_id,utterance,label
+pizza-ordering-2,dlg-0013673c-31c6-4565-8fac-810e173a5c53,"I want to order a pizza from Bertuccis in Chelmsford, MA",pizza-order
+pizza-ordering-2,dlg-001d8bb1-6f25-4ecd-986a-b7eeb5fa4e19,Hi I'd like to order two large pizzas.,pizza-order
+pizza-ordering-2,dlg-0034fae9-a3bc-4a0b-b0c7-127f16e5dcb1,I would like to order something from Bosses Pizza can you put in an order for me?,pizza-order
+pizza-ordering-2,dlg-003a10c4-9fdd-47da-bd56-1439c6acb37c,I want to order a pizza.,pizza-order
+pizza-ordering-2,dlg-0053c980-6339-4df1-86ce-e2442205d970,Hey I'd like to order some pizza from papa johns.,pizza-order
+pizza-ordering-2,dlg-00588c65-f23c-4efb-b9b5-6e28ae47524d,I would like to order a pizza.,pizza-order
+pizza-ordering-2,dlg-005d90f8-17ef-4a9b-a08a-ef70aaa9493f,"Hi, I need to order pizza from Stony Brook Pizza.",pizza-order
+pizza-ordering-2,dlg-00843e59-d1c8-4ee1-a056-c119ebb34441,hey would you order a pizza for me from the nearest Papa Jhons,pizza-order
+pizza-ordering-1,dlg-00ae0331-b8b0-4b80-a0e9-b9003d53e036,I would like to place an order from Empire,pizza-order
+pizza-ordering-2,dlg-00e67415-0846-4830-a106-10428029444c,"Hello Mauro, how are you? Hey, can you do me the favor of asking me for a big family pizza with extra cheese, today I will have dinner with my family",pizza-order
+pizza-ordering-2,dlg-01085bb3-595b-4c63-b7d4-a76612baf536,"Hey, April. Can you place an order for pizza at Giovanni's for me?",pizza-order
+pizza-ordering-2,dlg-010f2f9a-eb3a-4b63-a11b-88e382b7d5b4,Can I get a large hand tossed crust pizza please?,pizza-order
+pizza-ordering-2,dlg-0118453e-87c1-4136-8b03-e1c35d943239,We need to order some pizza from papa murphys.,pizza-order
+pizza-ordering-2,dlg-012053eb-f08c-4362-b816-fb6c7cd2c9c3,"I've been really craving pizza today, would you mind ordering me something from that place I love. ",pizza-order
+pizza-ordering-2,dlg-01330328-e2ba-4641-892a-57186fa1a7bc,Open up the Pizza Store app,pizza-order
+pizza-ordering-2,dlg-0142b31c-fddf-41fb-b24d-8f63cd7eaddd,Hi i would like a Godfather Pizza,pizza-order
+pizza-ordering-2,dlg-016a3f7b-4f2a-4bea-995c-250bfba2939d,Hey! So I have a gathering tonight and I need a pizza ordered. Do you think you could do that?,pizza-order
+pizza-ordering-2,dlg-016e0a77-eac9-4454-8ec1-198112b4321b,"Hi, can you order a pizza for me?",pizza-order
+pizza-ordering-2,dlg-01e8291d-6d6b-4f78-80b6-c954e9759025,"Hey Jennifer, could you call in a pizza for me for lunch from Joe's?",pizza-order
+pizza-ordering-2,dlg-0220f2a1-0ef8-4c7d-aef9-4956c595d17f,"Hey, can you order a pizza for me? I want to treat my aunt and I.",pizza-order
+pizza-ordering-2,dlg-0263f3bf-a674-4e66-953f-695e584607fe,"Hi, I want to order a pizza.",pizza-order
+pizza-ordering-2,dlg-02733fbf-54eb-4f30-bf49-edd7af7bbe6a,"Hello, I want to find out if Napolis in Winter Springs has Pizza?",pizza-order
+pizza-ordering-2,dlg-0315e28f-8f52-4aec-a82b-360cbcbe7049,Hello I'd like to place an order.,pizza-order
+pizza-ordering-1,dlg-03296223-1cb6-4fb6-86cf-684afcc25bcb,I would like to order two pizzas from Marcos Pizza.,pizza-order
+pizza-ordering-2,dlg-0355fc60-cd07-4c09-9001-9566de6fcdb8,I want to order a pizza from Domino's.,pizza-order
+pizza-ordering-2,dlg-03598a8e-aea8-40d2-bd55-4dab9fcf8121,"Hi, I would like to order some pizza from Ray's Pizza on 16 Closter Dock Road, Closter, NJ USA.",pizza-order
+pizza-ordering-1,dlg-03712176-14b4-41ce-881b-6da2b27980fc,"Hi, I would like to order a 'za please",pizza-order
+pizza-ordering-1,dlg-037eb5e4-a345-485d-81df-cc525f22cac6,"Okay Google, I'd like to order some pizzas.",pizza-order
+pizza-ordering-2,dlg-0399a198-70ea-4be3-96c6-dd6ee8ffc1b9,"Hi, I am calling to order a pizza.",pizza-order
+pizza-ordering-2,dlg-03f4221f-0e7c-4745-86bd-7b5af6eefd77,I’d like to order a pizza please.,pizza-order
+pizza-ordering-2,dlg-0408e070-c7f2-4626-8c02-7c3c478cf815,Hey can you pick up some from Papa Johns?,pizza-order
+pizza-ordering-2,dlg-0413155e-3947-4aed-91b9-33993590446f,"call up pizza joey's, I'm starving",pizza-order
+pizza-ordering-1,dlg-0423761d-4f81-4459-8366-a33fcb206169,I want to eat some pizza for lunch.,pizza-order
+pizza-ordering-2,dlg-045bfdec-af2a-4984-9d91-eadfd7164e0b,I'd like to order a pizza. Can you help me?,pizza-order
+pizza-ordering-2,dlg-04736c90-62c9-4347-bb87-a7b4d1ca86b7,I'd like to order a pizza.,pizza-order
+pizza-ordering-1,dlg-0474d746-b450-42a8-b577-9148bd0e00a7,"Good Morning Donna, can you do me a favor?",pizza-order
+pizza-ordering-1,dlg-047eb02f-b859-4cc5-a116-d26472e674d9,"Hi, I would like to get a pizza.",pizza-order
+pizza-ordering-2,dlg-0538388e-8333-45d6-94e4-5e45401310ea,Hi Jessica can you call Southside and order a pizza for me please?,pizza-order
+pizza-ordering-2,dlg-0558b26a-ed4c-4ed0-b202-39b055e7e8ca,Hey Jane. I'm getting hungry. Let's order some pizzas from Boardwalk Pizza.,pizza-order
+pizza-ordering-2,dlg-05bc5f94-1ba4-482e-8a00-b5076c401603,"Hey, Assistant. I want some pizza.",pizza-order
+pizza-ordering-1,dlg-05e4e981-416a-48d5-99c8-e24fdcdc0d50,I would like to place an order for pizza,pizza-order
+pizza-ordering-2,dlg-05f7831f-3bbd-4b74-a4f2-24053f0239a9,Could you oder pizza for me from ginos?,pizza-order
+pizza-ordering-2,dlg-06275342-f364-4b7a-b600-1b1d89f47376,Can you order a margherita pizza from Red Rock?,pizza-order
+pizza-ordering-2,dlg-06413eb7-8bb5-4ea5-80df-1b09bab6d1f9,I would liketo order a pizza for takeout,pizza-order
+pizza-ordering-2,dlg-0672185a-e5f6-4100-ae57-f9ee71deea2e,"Hello, I would like you to place a pizza order for pick up.",pizza-order
+pizza-ordering-1,dlg-06e89f1f-2b54-4577-a722-fb7c41c69bf7,"Hi, I want to place an order from Pizza Pro's in Vernon, NJ.",pizza-order
+pizza-ordering-2,dlg-06ffaa28-88c2-4cfe-a7f6-b9d0e0d332b0,Hey can you pick up some dinner from Dominoes?,pizza-order
+pizza-ordering-2,dlg-072ca6f7-0cdc-4b36-b3a1-34b3b16b675d,"Hey, Jimmy. I need you to order a pizza for a meeting we are having.",pizza-order
+pizza-ordering-1,dlg-0756b689-31f2-4b54-b0f7-937d39915188,"Hello, I would like to place an order for carry out at Papa Johns.",pizza-order
+pizza-ordering-2,dlg-07941648-2c58-4c2b-bff2-fa2102d33f04,I would like to order a pizza from Papa Johns to pick up at 1:00pm.,pizza-order
+pizza-ordering-2,dlg-079a4259-d8a5-4276-8c5a-a895c15157a3,I will like to order some pizzas from Pizza Hut,pizza-order
+pizza-ordering-2,dlg-07b23e9f-9f11-4666-90f5-0ead2fea2cba,I want to order some pizza from Dominos.,pizza-order
+pizza-ordering-2,dlg-07fe2a04-0abf-4e92-849c-d5399a02244c,Can you order me a pizza from New Albania Pizza,pizza-order
+pizza-ordering-2,dlg-0832caba-4eaa-4085-a7a8-7eacd55fa4e9,"Hey, I'd like to order some pizza for lunch. Marco's sounds good.",pizza-order
+pizza-ordering-2,dlg-083b9ce2-4717-463b-8887-a5c43a5f3d2e,Could you call Tony's and put in a pizza order for me to pick up on the way home?,pizza-order
+pizza-ordering-2,dlg-08470e23-aa37-4d2e-b961-bb57a7c10acd,Hi! I'd like to order pizza from Domino's.,pizza-order
+pizza-ordering-2,dlg-08730738-37ce-4f7a-af62-b4481d28f2f1,"Hello, I'd like to order a large Veggie Supreme pizza please.",pizza-order
+pizza-ordering-2,dlg-08802c58-9e0b-409a-8c7f-a8834ff808a4,"Hello, I was thinking I might have you order a pizza from Campisis Today",pizza-order
+pizza-ordering-2,dlg-08afb3ed-0e1e-460a-af43-e7322ed7dca0,"Hi, I would like to order a pizza.",pizza-order
+pizza-ordering-2,dlg-093d3e20-c1ef-4cd1-b92a-ce5933adc4fa,"Hey, can you order me a pizza? We're having a movie night here and want some food!",pizza-order
+pizza-ordering-2,dlg-09400263-fb28-4d99-8ac6-d7bfa4147d7e,Hey! Can you order me a pizza from Joey's?,pizza-order
+pizza-ordering-1,dlg-095f2e3f-2c8b-447c-867a-164a5eac257e,Hi I want to order a pizza,pizza-order
+pizza-ordering-2,dlg-09ab49ef-4778-4708-af30-6c88af96cda4,Hi I would like to know how much a two topping pizza is?,pizza-order
+pizza-ordering-2,dlg-09b78ae2-a321-40c4-9858-958b237a6dc7,I want to order some Pizza Hut.,pizza-order
+pizza-ordering-1,dlg-0a51a5b1-4d37-43fe-9c59-d11f02c97f60,"Hi there, will you place an order for me with Pizza hut please?",pizza-order
+pizza-ordering-2,dlg-0ad863f7-1d07-4f2c-b191-3076f51f77a6,"Hello there, I would like to order an Ultimate Pepperoni .",pizza-order
+pizza-ordering-2,dlg-0bb8788b-929c-498e-ac39-1046a570ea52,HEY. I'D LIKE PIZZA FROM GRIMALDI'S,pizza-order
+pizza-ordering-2,dlg-0bbcb1cb-de23-4f13-8aba-58cb0b361ee4,Hi I would like to order a pizza from Lenzini's.,pizza-order
+pizza-ordering-2,dlg-0bc00823-c3dc-4635-a423-eb6dad9b43a5,Hi I want to order a pizza with Ultimate Cheesy Crust with classic marinara sauce,pizza-order
+pizza-ordering-2,dlg-0c1284a6-caf7-4686-8e92-581e7d988911,I want to order a pizza from Giovanni's Pizzeria on Vineland in North Hollywood.,pizza-order
+pizza-ordering-1,dlg-0c191bdf-fd14-4d44-9b5d-d68b292a6362,"Hey Paulo, do you have time to order pizza for me?",pizza-order
+pizza-ordering-2,dlg-0c36705a-47a1-4a9e-8e5d-8d9f09c56897,"Hi, I would like to have pizza from my favorite restaurant, Il Piazza.",pizza-order
+pizza-ordering-1,dlg-0c56c143-57aa-4d01-9c5d-722ecb5d5b87,"Hey, I need 2 pizzas from Fultano's pizza for my niece's birthday party.",pizza-order
+pizza-ordering-2,dlg-0c8f3f62-34af-4ded-9484-81f5f0fb64e3,Hi I would like to order pizza from Domino's,pizza-order
+pizza-ordering-2,dlg-0c9aa7e8-b580-4938-9816-2aba6ec9bd65,Hi. I'd like to order a pizza from Marco's.,pizza-order
+pizza-ordering-1,dlg-0ca076ec-8be6-4bc3-9ba0-64a3f9016e40,Could you call and place an order for two large pizzas for me and the girlfriend tonight?,pizza-order
+pizza-ordering-2,dlg-0ca19dec-2f87-4314-8078-5d1733ed26bf,"Hi there, I want to make an order.",pizza-order
+pizza-ordering-2,dlg-0ca93de3-c519-4a28-8c3f-f50d16436794,Hey Lauren. Can you order us a pizza for lunch break around 1pm?,pizza-order
+pizza-ordering-1,dlg-0cb98fa9-122c-4b96-b9c1-dc8b5e652f6b,I want to order some pizzas from Donatello's Pizza,pizza-order
+pizza-ordering-2,dlg-0cc7dfe7-9090-4453-bccc-d08d4c18a95e,Alexa order a pizza from Caesar's pizza on Somerville Ave,pizza-order
+pizza-ordering-2,dlg-0d2312cf-7fb6-45a6-acda-7b616382eae6,I would like to order a Pizza from Dominos.,pizza-order
+pizza-ordering-2,dlg-0d293393-b1a6-4ae9-9e27-9b9d2cd9dda7,Hi I'd like to order a pizza.,pizza-order
+pizza-ordering-1,dlg-0d2a8012-772f-499e-93a9-213730bf94b8,Hi! I’d like to order a pizza please.,pizza-order
+pizza-ordering-2,dlg-0d320d5d-9d66-48bf-9021-93cc64940bae,I would like to get a pizza from little cesears,pizza-order
+pizza-ordering-2,dlg-0d3bc2c0-1639-4709-8328-3326c85b343e,"Hi, I would like to order a pizza please",pizza-order
+pizza-ordering-1,dlg-0d55e76b-56a5-45fc-84aa-7e9acaefa565,"Assistant, I'd like to order two pizzas from Domino's",pizza-order
+pizza-ordering-2,dlg-0d8b6765-e5bb-49ab-b772-fcd530e6050c,Can you check the nearby pizzeria ?,pizza-order
+pizza-ordering-1,dlg-0da0aa00-2c79-4e4c-8923-3ad1d3241d49,I'm thinking we will order some pizzas from salvos tonight.,pizza-order
+pizza-ordering-2,dlg-0de15cee-4ca3-4a86-b6f7-c11f80baa52b,"Hi Sally, I need you to order a pizza from Joe's Pizza.",pizza-order
+pizza-ordering-2,dlg-0e15aa96-c5fc-4bf7-9214-6c65ec0d4414,"I'd like a large pizza, do you have any specials.",pizza-order
+pizza-ordering-2,dlg-0e21c8cb-8757-4c44-938e-329ee9de3a26,"Hi, I feel like pizza tonight. Any chance you can place an order for me with Dominos?",pizza-order
+pizza-ordering-1,dlg-0e2b05b0-7d2d-47ec-9d84-f9c030b5c1fb,Hey I'm heading home in a bit and I'm just going to grab some pizza from Pizza Zone on the way for the wife and kids. Can you order it for me and I'll grab it on my way?,pizza-order
+pizza-ordering-2,dlg-0e77fa3b-7f60-42a8-b465-3baf129aea29,Hello. I was wondering about your pineapple and bacon pizza deal special. Could I possible exchange the bacon topping for pepperoni?,pizza-order
+pizza-ordering-2,dlg-0ec5acb8-248b-4fa5-a67d-c58b38f0ae09,Hi! I want to order a pizza from Hot Mama's.,pizza-order
+pizza-ordering-2,dlg-0efe80d2-d2c4-4cd4-9339-298fd9d2380a,Hi are you still offering the 2 large 2 topping pizzas for 15 dollars?,pizza-order
+pizza-ordering-2,dlg-0f05289b-01c7-4b48-b582-ae2a0e72d8d8,"Hello, I would like to place an order for a pizza from Fyre Pizza.",pizza-order
+pizza-ordering-2,dlg-0f0b5e1e-1522-461f-bb71-30469755ac08,Hey do you think you could order a pizza for me at dominos,pizza-order
+pizza-ordering-1,dlg-0f1bde85-4dc0-4f4c-a325-7a57f01cade3,Hey Mike. I need two more pizzas from Domino's tonight.,pizza-order
+pizza-ordering-2,dlg-0fd1fd37-ddf3-4871-a5ac-37b506af1c40,"Hi, I was calling to order a pizza. Do you guys have any specials today? ",pizza-order
+pizza-ordering-2,dlg-1003b024-0cd9-4aae-85c2-303943012ee8,"Hello, I would like to order some pizza for pick-up?",pizza-order
+pizza-ordering-2,dlg-101879fd-76c9-4265-b7e6-15b053359970,Place an order for Razorback Pizza.,pizza-order
+pizza-ordering-2,dlg-1032c553-426d-4d71-80e8-80eb6a2531c1,"Hello, I was wanting to get a pizza tonight.",pizza-order
+pizza-ordering-2,dlg-103ba46c-964d-4934-b10f-015d259eb863,"Hello, I’d like to order a large pizza with pepperoni and green peppers",pizza-order
+pizza-ordering-2,dlg-10456f16-5969-4875-b454-6ca86e9dd4a1,I am interested in ordering a Pizza,pizza-order
+pizza-ordering-1,dlg-105ec027-0d71-4be4-8b48-f9fe031b8a97,I would like you to order pizza for me.,pizza-order
+pizza-ordering-2,dlg-10749e87-b52f-40b4-99c6-2c1b7f04bed5,Hello! I was calling to order a small sized Spicy Chicken Pizza.,pizza-order
+pizza-ordering-1,dlg-1081b6ca-df03-4edf-807f-bae8f0f5559d,"Hi, can you order a couple Pizzas for lunch?",pizza-order
+pizza-ordering-2,dlg-10f57af2-0125-4401-a6a8-5de0b0e8c86b,I want to order a pizza from Papa John's.,pizza-order
+pizza-ordering-2,dlg-10f62b69-3a45-494b-9a96-4e673661c043,Hi I would like to order a large pizza,pizza-order
+pizza-ordering-2,dlg-11092c17-3094-4713-83dd-2262c882cb69,I would like for you to order me a pizza from papa johns. Thank you.,pizza-order
+pizza-ordering-1,dlg-1113487d-83c6-4124-851c-daa89ee93447,"Jane, do you think you can order me a medium caramel frappe from Starbucks? ",pizza-order
+pizza-ordering-2,dlg-1166e1fe-5a35-453f-98f0-59dbd9f45d24,"Hi, I'd like to order a pizza from Pizza Hut, please.",pizza-order
+pizza-ordering-2,dlg-11c4ebed-c761-40a9-9abc-844e8d11a0bc,Hi. I'd like to order one of your large 2-topping pizzas for 7.99.,pizza-order
+pizza-ordering-2,dlg-11d7e59e-545c-4f50-a49a-3bb0c375f1eb,"Im thinking pizza tonight for dinner, Whats that place you get my pizzas at?",pizza-order
+pizza-ordering-1,dlg-11ee2609-74e6-453d-961a-9a583a7ed29e,I need a pizza from Rico's Pizza.,pizza-order
+pizza-ordering-2,dlg-11fa34bc-920f-4ada-8dd5-029dc2cfa5bb,Hello. You have two pizzas for $10. I'd like to order two pizzas.,pizza-order
+pizza-ordering-2,dlg-11faa541-5293-4a58-bba1-39a64d0e0747,i want to order a pizza from boston pizza,pizza-order
+pizza-ordering-2,dlg-1201c8e0-61ea-4bb4-bee9-15b1cf6e5885, I'd like to order a pizza.,pizza-order
+pizza-ordering-2,dlg-124bdbec-965c-4984-9d29-335043b41c52,"Hello, can I place an order for a pizza?",pizza-order
+pizza-ordering-2,dlg-12c0f138-bf29-4318-a82c-3a573d8f75a2,I want you to order a pizza for later tonight,pizza-order
+pizza-ordering-2,dlg-12caf5a6-75d6-4c14-9686-41f89f885c73,Hey Chad I am hungry and I feel like it is a pizza day.,pizza-order
+pizza-ordering-2,dlg-13191ea8-b3ea-48ec-a444-d7a76c226bda, Hi. I'd like to order a pizza please.,pizza-order
+pizza-ordering-2,dlg-13437b55-a3dc-402e-aac8-ddd28931e91b,"I'd like to get a pizza from Domino's, please.",pizza-order
+pizza-ordering-2,dlg-1374e5f7-62e6-4ff4-b039-00834a16332c,Im going to need to order a pizza from Pizza Mondo.,pizza-order
+pizza-ordering-2,dlg-141f1a57-87dc-49f7-9ce1-19857b870a48,I want to order some pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-144f953d-7e41-46fb-875d-b03af627e209,I want you to order me an extra large pizza for the Super Bowl Party I'm having.,pizza-order
+pizza-ordering-1,dlg-148ff2ef-6606-43c3-86f9-1d2454dbe7d3,"Hi, I am going to visit my parents tonight, I was hoping you could help me order a pizza for our dinner?",pizza-order
+pizza-ordering-1,dlg-14b2ee84-4a61-4b1a-9678-d70393b8f2d6,can you order me a large pizza from empire slice house?,pizza-order
+pizza-ordering-2,dlg-14b9723f-3d49-4043-bec4-78ab4d3939e0,Hi. I'm wanting to place an order for a pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-1529e008-52ec-44bc-bc52-f63620ccce56,I am thinking about ordering Pizza from Grimaldi's Pizzeria,pizza-order
+pizza-ordering-2,dlg-15349a05-da2b-4fd7-ae3d-42c2a6362757,Pizza Pizza,pizza-order
+pizza-ordering-2,dlg-1537044f-f072-4154-909d-fc045d446d7d,"Hey, can you get a pizza ordered for me?",pizza-order
+pizza-ordering-1,dlg-153fca0d-fc12-47dd-97ff-a928a70e2b54,"Hi, I'd like to order a couple pizzas for pickup.",pizza-order
+pizza-ordering-2,dlg-153fdccc-c6b1-4860-8a42-65d1d6852334,"Hello, i would like to order a large cheese pizza",pizza-order
+pizza-ordering-2,dlg-1548d8cf-fdb9-41fa-80c8-14603678286f,I would like to order a pizza from Bella Vita's,pizza-order
+pizza-ordering-2,dlg-1574229e-5c69-49b7-9a46-f78e427ead34,"Hey hun, could you order me a pizza from please?",pizza-order
+pizza-ordering-2,dlg-15cb5336-b2e3-4172-a656-2506f3c8f090,I need a pizza,pizza-order
+pizza-ordering-2,dlg-16037a4a-e17f-4798-8ed8-4ad12a22e12d,I'm starving and really in the mood for pizza. Will you order me one please?,pizza-order
+pizza-ordering-2,dlg-16614105-035f-4871-984c-8ba80cb94d70,"I need a pizza from Pizza Hut, please.",pizza-order
+pizza-ordering-2,dlg-16db1de5-b623-4349-8670-1cc73a438f9b,"Hello, I was calling to order a pizza. Do you guys have any specials today? ",pizza-order
+pizza-ordering-2,dlg-16e27159-7795-4785-8134-c99400b8f3a3,"Hey John , could you do me a favor and order pizza for takeout from Domino's?",pizza-order
+pizza-ordering-1,dlg-1745c112-be5d-4296-8f15-7907078173a3,I need you to order me a pizza please.,pizza-order
+pizza-ordering-2,dlg-17750d9c-7aa3-4524-86a4-f1ea4707bd22,Do you think you could order me a pizza for pick up from Dominos?,pizza-order
+pizza-ordering-2,dlg-1781cc8b-4866-41e5-a77c-f2e0874b9e0d,"I would like a Mad Dog pizza, mod size.",pizza-order
+pizza-ordering-2,dlg-178f9d9f-eaee-45ec-ad68-49f64decc44f,"Hey I'm really feeling like pizza, can you order one for me please?",pizza-order
+pizza-ordering-2,dlg-17b224f0-a666-49aa-a4a6-7689bad56a38,"Hey, I need you to order me a pizza from Pizza Hut.",pizza-order
+pizza-ordering-2,dlg-17e84789-6464-4b1f-8a83-56e342612bfd,Hi I would like to order a pizza,pizza-order
+pizza-ordering-2,dlg-18053253-e1dd-4da0-a283-881cbeb45c05,"Hey there, I'm trying to get some pizzas from pizza hut",pizza-order
+pizza-ordering-2,dlg-181037db-18e9-46d1-8078-a65482388218,Pepi's Pizza. How can I you?,pizza-order
+pizza-ordering-2,dlg-183926c8-3297-40c1-acc1-0df594b98920,"Hi, I'd like to order a Pizza from Frank's Pizzas.",pizza-order
+pizza-ordering-2,dlg-18416570-4dfa-44a9-8b03-be3dd5d0f503,"Hey Molly, I am going to need thre pizzas for a get together with my friends tonight?",pizza-order
+pizza-ordering-2,dlg-18aedad2-53a9-4f1b-98c1-82a4dedd4341,Can you order me some pizzas from Round Table?,pizza-order
+pizza-ordering-2,dlg-18fcb5c6-2f8c-4ecc-ab61-692c562fb1e9,"Hey, I'm hungry. Can you order me a pizza?",pizza-order
+pizza-ordering-1,dlg-1957c9f6-1bea-42dc-81a4-40a306cd7006,"Hey, can you get me a pizza from Pizza hut real quick?",pizza-order
+pizza-ordering-2,dlg-195be955-4240-4d06-a5b5-c52c889e3abe,Does Pizza Hut deliver to our office?,pizza-order
+pizza-ordering-2,dlg-196e54b6-0cdf-4c6a-8f4a-d6d224f77615,I would like to order Pizza from Giordano's.,pizza-order
+pizza-ordering-2,dlg-19960a9f-7f92-4022-9ad6-7d5efd3fd5e5,"Hi there, could you please help me with an order of Pizza?",pizza-order
+pizza-ordering-2,dlg-19b98d57-0f45-43af-8e0a-101e2f2a9d17,"Hi, I was hoping to place an order for take out. What is the wait time?",pizza-order
+pizza-ordering-2,dlg-1a1af2ed-d267-4f94-aef6-a870bd217ddf,"Good morning Gladys, I would like you to order for me pizza from Texas Royal Pizza.",pizza-order
+pizza-ordering-2,dlg-1a48c430-6637-4a8e-9b55-342a7d913a98,I will like to order some pizzas from Domino's,pizza-order
+pizza-ordering-2,dlg-1a693fee-fda6-48be-a2ee-98fa6aadadcf,Will you order me a pizza for dinner?,pizza-order
+pizza-ordering-1,dlg-1a75134b-1d62-4b97-918b-ce2ae8632c08,"Assistant, I would like a coffee today.",pizza-order
+pizza-ordering-2,dlg-1aa53d7c-7c10-4d11-8131-0e3458962096,"Hey, I'd like to order a pizza from pizza hut",pizza-order
+pizza-ordering-2,dlg-1abd8fff-4a1a-47d5-9dc0-7726725ca624,"I'm hungry, can I get a pizza from Papa John's",pizza-order
+pizza-ordering-2,dlg-1ae783cf-df06-4994-ab32-fba740de3517,I want to order a pizza from Isabell's Pizzeria for pickup.,pizza-order
+pizza-ordering-2,dlg-1b2229fc-e011-455f-b067-95bdf91b37a3,"I would like to order a pizza from Papa Johns on Elm Street in Atlanta, GA",pizza-order
+pizza-ordering-2,dlg-1b522e11-0983-4701-8aac-017078461fda,Hi there. I'd like to order some pizza from Brunos..,pizza-order
+pizza-ordering-2,dlg-1b916760-70eb-4b9f-b94e-641859b18278,Can you order me a pizza?,pizza-order
+pizza-ordering-2,dlg-1bacf42e-2fed-47d7-949e-3cd06813983e,HI i want to order a pizza from pizza hut,pizza-order
+pizza-ordering-2,dlg-1bcb4db7-d907-4864-97b8-a73c7d472c9a,"I would like to order something from Bosses Pizza, can you put in an order for me?",pizza-order
+pizza-ordering-2,dlg-1bcf62d0-62ae-4125-a8cd-37b1d3918416,hey i am craving broccoli pizza from my little pizzeria,pizza-order
+pizza-ordering-2,dlg-1bd6c244-e547-4b93-9b3e-4180decfb23d,Hi! I need you to take care of ordering a pizza for me from Pizzeria Place.,pizza-order
+pizza-ordering-2,dlg-1bdd1347-eb45-4e00-aabd-90a565e7a10c,"Hey Emily, can you order me a pizza for delivery to the office?",pizza-order
+pizza-ordering-2,dlg-1c1a3c23-b779-4bb4-8518-94a263264871,"Hi Sue, Could you please order me a couple of pizzas from Antico?",pizza-order
+pizza-ordering-2,dlg-1c2a3382-363f-4f2f-8406-26df4c927508,"Hi, I was wondering if you could order a pizza for me.",pizza-order
+pizza-ordering-1,dlg-1c2cb50c-43b7-4ab5-ba07-46d680c919ab,Hi there I'd like a pizza from Papa John's.,pizza-order
+pizza-ordering-2,dlg-1c7846f3-4ca0-4b1a-808c-e6b8527d6bce,I would like for you to order me a pizza from papa dominoes,pizza-order
+pizza-ordering-2,dlg-1c9febcf-2752-496c-9379-04c6df007e67,Will you please order me a pizza from the closest Dominos?,pizza-order
+pizza-ordering-2,dlg-1d3c62e3-d2b1-476e-a52b-be8d1b25aa8d,"Honey, could I place an order for pick up?",pizza-order
+pizza-ordering-2,dlg-1d5e1fa5-6d93-4fae-8292-509b48e95034,"Hello there, I would like to order a large Supreme Pizza from Pizza Hut.",pizza-order
+pizza-ordering-2,dlg-1d6a28d8-85f3-4049-a221-b459530c36cb,Order a pizza.,pizza-order
+pizza-ordering-2,dlg-1e379d6d-2924-4447-babd-fb564db3c9a2,"Hello, I would like to order a pizza from Mary's Pizza Shack.",pizza-order
+pizza-ordering-2,dlg-1e65668f-cc8c-4e12-a587-732f5139da62,"Hello, I'm in the mood for pizza for dinner tonight, would you mind placing an order with Papa John's for me?",pizza-order
+pizza-ordering-2,dlg-1ebfb30b-3599-4698-93de-1e51a1d69884,"Hi, I'd like to order a pizza please!",pizza-order
+pizza-ordering-1,dlg-1ed3e401-9210-45c1-82ad-982f55247000,"AI can you call Little Caesars on East Dakota in Fresno, CA?",pizza-order
+pizza-ordering-2,dlg-1efc782d-481c-4ccc-9dd9-d413e4c9bd3c,I'm going to need Jeff and Ted to work late tonight. Think showing up with pizza's will soften the blow?,pizza-order
+pizza-ordering-2,dlg-1f6a4703-808c-4130-befc-996eaadd5676,I want to order a pizza from Bill's Pizza for pickup.,pizza-order
+pizza-ordering-2,dlg-1feae5f7-48d1-40fb-a98e-678a3828f874,"Hey, can I get a pizza from Jessepi Peperoni's pie emporium?",pizza-order
+pizza-ordering-2,dlg-20030462-487a-44f6-9f9f-9dac92a5c5e9,Do you have any pizza specials tonight?,pizza-order
+pizza-ordering-2,dlg-207f209c-4eef-4609-bac3-7b4c0b31faec,"Hello, I would like to place an order for pickup.",pizza-order
+pizza-ordering-2,dlg-208f3643-131a-471e-a34b-1c8091091aa3,"Hello, can you please order me a pizza for tonight?",pizza-order
+pizza-ordering-2,dlg-20926825-f8a4-4986-a02e-68bbed0b5046,"Hello, I would like to order a large pizza.",pizza-order
+pizza-ordering-2,dlg-20aeb7f6-a1f4-40cf-be55-9403257f79c7,Will you please order me lunch?,pizza-order
+pizza-ordering-2,dlg-20b42130-2aae-489b-8563-296748118150,Hi I would like to place an order for pickup,pizza-order
+pizza-ordering-1,dlg-20f3c001-b0cb-482e-8d16-885fc3acdffc,hi there becky i need your help,pizza-order
+pizza-ordering-2,dlg-21006923-8675-4ca6-bc4c-12a3b059fec8,I would like to order a pizza form Home Slice in Austin.,pizza-order
+pizza-ordering-2,dlg-210c3d00-ac32-4ce4-b928-9807cfb544c8,I'd like to get a Domino's pizza please.,pizza-order
+pizza-ordering-2,dlg-213efbe4-1c5b-4d20-97ba-0798ba469135,"Hi, I saw where you have a 2-topping pizza for 7.99.",pizza-order
+pizza-ordering-2,dlg-21f38869-630d-4aea-9809-e49127615228,I would like to get a pizza from pizza hut,pizza-order
+pizza-ordering-2,dlg-223fcd62-c4d3-4c91-8759-945d2a1e32b1,I'm going to need you to call me in a pizza at Papa's Pizza.,pizza-order
+pizza-ordering-2,dlg-226b7ba7-6e66-44a5-95ef-b57d5bea9d1c,Please order a pizza for me from Giorgio's,pizza-order
+pizza-ordering-2,dlg-22d159cf-06f3-42d2-9ea3-c9e069a2b593,I need to order a pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-232fe156-9bb4-4f0a-abc1-00471564ce59,I would like to order a pizza from Pizza Hut.,pizza-order
+pizza-ordering-1,dlg-23363cb9-d27a-420a-9a94-6ea8c8683583,I'd like to order two grande Pike's Place coffees with cream and sugar,pizza-order
+pizza-ordering-2,dlg-235dc941-193c-453a-96fe-60dc579f5d60,I'd like to order a pizza from Bellagios Pizza.,pizza-order
+pizza-ordering-2,dlg-2413b6ce-c191-4e0d-88e3-b55ee121ccb2,"Johnathon, I would like a pizza from Cafora's in the next couple of hours.",pizza-order
+pizza-ordering-2,dlg-24287b40-64a3-42d4-b48a-a92711c3dea3,"Hi Cheryl, I would like to order my favorite pizza.",pizza-order
+pizza-ordering-1,dlg-244aa65f-bbfc-4a97-b09d-d2c215b8aea0,Hey can you order food for tonight from the pizza place?,pizza-order
+pizza-ordering-2,dlg-244e24e3-dbfd-4f61-85b9-cd45929283fe,I want you to order a large pizza from Pizza Joy on 2nd Avenue for me.,pizza-order
+pizza-ordering-2,dlg-2453f243-3890-462a-aa69-504240cb4cb4,I want a pizza from Boston Pizza,pizza-order
+pizza-ordering-2,dlg-2468f61e-c14c-4911-8a8b-a3aa67c02df8,Can you please order me pizza from Dominos?,pizza-order
+pizza-ordering-2,dlg-246b102a-c0c1-4d76-910c-d8e280ca3594,I am really wanting to order a pizza.,pizza-order
+pizza-ordering-2,dlg-246eea72-d502-4dfe-900a-e4b5bc64a692,I need to order pizza for for pickup please,pizza-order
+pizza-ordering-1,dlg-249c6007-4e6e-4fa0-8ab3-a67aefa9e23d,"Hey John, i need you to order a few pizzas for our meeting today.",pizza-order
+pizza-ordering-2,dlg-24bbf99f-78b8-4ffe-9f93-8c88758e871b,Is Giordanos delivering yet?,pizza-order
+pizza-ordering-1,dlg-253f95ed-e0f6-4584-8ac6-1a88593e9991,Hi. I'd like to order a pizza.,pizza-order
+pizza-ordering-2,dlg-25c67b6d-8823-48fb-ac3a-f872792e96e2,are you still delivering i know its after 9,pizza-order
+pizza-ordering-1,dlg-262af479-10af-4b97-a9d2-d1247be23cfa,I would like to order 3 large pizzas from Domino's Pizza,pizza-order
+pizza-ordering-1,dlg-263f989f-4452-4f46-926b-b984b4f3c7de,Hi I am feeling hungry,pizza-order
+pizza-ordering-2,dlg-267a3cfe-7f7b-4a41-8b0d-85fe069b3cda,I'm in the mood for some Domino's Pizza.,pizza-order
+pizza-ordering-2,dlg-273c9eb7-5777-41fd-baf7-219623e68e97,Hello. I'd like to place order,pizza-order
+pizza-ordering-2,dlg-274e5841-a16f-4b7c-9e7c-86ce4dc49666,Hi. I'd like to order a pizza please.,pizza-order
+pizza-ordering-2,dlg-27ebfeb9-7d3c-40bf-a2ab-c091424b0c5a,Hey Becky! I'm thinking of grabbing a pizza from Pizza Hut for dinner tonight and was wondering if you could go ahead and order it online for me.,pizza-order
+pizza-ordering-2,dlg-280eaaa3-c994-4131-b236-b18ff78e943a,Hi I would like to order a medium pizza,pizza-order
+pizza-ordering-2,dlg-2854f6ad-3f84-4c95-8c7f-274ec61dd2da,I want a pizza from pizza hut,pizza-order
+pizza-ordering-2,dlg-285e75a8-72a1-4abc-9331-0c84424b352b,"Hey Miles, I need a pizza.",pizza-order
+pizza-ordering-2,dlg-28891d3d-e636-4d87-b9e2-f86a93146ed3,I am in the mood for some pizza. Probably from Pizza Shuttle.,pizza-order
+pizza-ordering-2,dlg-28a4d6c6-9973-40f9-ae4e-ac17aefa0f5b,I don't feel like cooking tonight. I'm thinking pizza. Can you order me one?,pizza-order
+pizza-ordering-1,dlg-28a6b1e0-af27-48ce-83d5-ed75d0b0c4b9,Can I order Papa John's,pizza-order
+pizza-ordering-1,dlg-28c36c29-3f63-47a1-b596-9a77f801b6c5,I need some pizzas that I can pick up for dinner.,pizza-order
+pizza-ordering-2,dlg-2965f7d9-73e6-4383-9a1c-006156f61ca8,I need you to order a pizza from Pizza Hut for me.,pizza-order
+pizza-ordering-2,dlg-297315fe-d2b1-4370-8e89-18fe1ee62545,How long is the delivery time for Antonio's right now? ,pizza-order
+pizza-ordering-2,dlg-2989f70e-2a68-4c80-a468-1e73d89644c5,I would like to order a pizza from Papa John's.,pizza-order
+pizza-ordering-1,dlg-29943672-4f41-44a3-b5f4-4957966f75fe,id like to order a few pizzas,pizza-order
+pizza-ordering-2,dlg-299724c0-7902-4aa1-a8ab-aa38992e4f4f,"I am craving some pizza, can you order me one",pizza-order
+pizza-ordering-2,dlg-29a4fcfa-a19c-42d7-8de2-db4c61fd69f5,Hello Tom,pizza-order
+pizza-ordering-2,dlg-29d38625-fdc0-4aa2-b595-6446d5cdccfb,I want to place an order from Regina Pizzeria on Faneuil Hall Marketplace.,pizza-order
+pizza-ordering-1,dlg-2a21c78b-ecec-45ac-a201-caf5ba97fca4,"Hello, I want to order some pizzas from Amazonas Pizza.",pizza-order
+pizza-ordering-1,dlg-2a3b47f7-1c18-4801-a89f-372edf7121c2,I'd like to order a pizza for carryout,pizza-order
+pizza-ordering-2,dlg-2a9a56ea-a3be-4729-af7c-0492e54e2fa4,Can you please order me a pizza from Pizza Hut tonight?,pizza-order
+pizza-ordering-2,dlg-2aa86664-a25d-46eb-bf59-b1fb6c95080d,"Hello, how are you?",pizza-order
+pizza-ordering-2,dlg-2add37b6-6692-422b-9cba-fa1e8843fe18,Assistant order pizza,pizza-order
+pizza-ordering-1,dlg-2ae382cc-1afc-4d79-8023-699a506ec5ff,I would like to place an order for pizza.,pizza-order
+pizza-ordering-2,dlg-2b0804e2-c523-47ec-b1dd-0cbd1bf7ebab,I would like food from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-2b2bdea5-3b50-408e-af16-7e760f5c9437,"Hey Kim, Please order me a pizza from pizza hut",pizza-order
+pizza-ordering-1,dlg-2b64f45b-b4e1-4fb2-878c-d32dcd6a40a0,"Hi, I want to place an order for delivery.",pizza-order
+pizza-ordering-2,dlg-2b7111dd-cf8d-4dd0-9c55-91e06fcd643d,"Hey, Google, Jane is coming over tonight, so I wanted to pickup a pizza. She’s vegan, is there any vegan pizza places near the house?",pizza-order
+pizza-ordering-1,dlg-2bc240f2-9cc2-42ff-a1a6-a9fcc9bcf8bc,Would you order a pizza from Papa John's for me?,pizza-order
+pizza-ordering-2,dlg-2bfe1d2e-6285-4d2d-8fdb-8916dea19912,I need a pizza from Pizza hut please.,pizza-order
+pizza-ordering-2,dlg-2c30ddae-ae27-4db3-b647-575c05f85259,"Hi, I'd like to order a pizza from Pizzeria Delfina, please.",pizza-order
+pizza-ordering-1,dlg-2c343760-9ddf-49ac-8854-066b8ce79b7a,"Hello assistant, I need to order a couple pizzas from Happy Joes Pizza.",pizza-order
+pizza-ordering-2,dlg-2cd8d03a-5393-452f-8b50-ceec46738b33,I need to order a pizza for tonight from Papa John's.,pizza-order
+pizza-ordering-2,dlg-2cf0bdee-33e8-4560-969f-6e7f28670e1f,Hi Sam.I need you to place an order for pizza for me.Im having a friend over for dinner tonight.,pizza-order
+pizza-ordering-2,dlg-2cf30085-683e-42a0-8326-d9568d91d5af,Hey I'd like to order a pizza from Domino's,pizza-order
+pizza-ordering-2,dlg-2d3347b0-bebd-4ebb-af9d-2b1f9de13511,I'd like to order a pizza from Victor's Pizza.,pizza-order
+pizza-ordering-1,dlg-2d85bc2f-e4f8-4a61-b793-1cc2e04c2bb4,Hi! can you help me order pizza?,pizza-order
+pizza-ordering-2,dlg-2e299c22-372f-4e48-bf15-bfde4932081d,Hey Alexa! Can you order pizza for Jane's party tonight?,pizza-order
+pizza-ordering-2,dlg-2e643167-2c40-4ba2-8a06-7f83d38c7251,"Hey Angie, can you do me a favor and order a pizza for me and the staff?",pizza-order
+pizza-ordering-2,dlg-2e652e29-fa6e-4c13-8356-97a7d5b6bccd,Hey cindy I need to order a pizza,pizza-order
+pizza-ordering-2,dlg-2e6d0cfd-b752-4a1f-9be1-3b88a984e2bb,"Hi, John. Would you please order a pizza from Louie's for me?",pizza-order
+pizza-ordering-2,dlg-2f01a97d-ec3b-4177-941b-e737ec51c006,Can you get me a pizza from Dominos?,pizza-order
+pizza-ordering-2,dlg-2f07b562-9553-4050-97f4-559aebe486ea,"Good Evening, Can you order me a pizza from Papa Johns?",pizza-order
+pizza-ordering-2,dlg-2f10da33-f24b-4ef4-b663-b8162d7d8dea,"Hey, would you be able to order me a pizza from Beto's soon?",pizza-order
+pizza-ordering-2,dlg-2f5625e9-1df3-4936-affe-7b0362b24222,Could you get a pizza order placed for me?,pizza-order
+pizza-ordering-2,dlg-2f9b5d9d-6fb8-4241-bffa-ce2f91477c9a,I would like for you to put in an order for me for lunch from Tamarindo.,pizza-order
+pizza-ordering-2,dlg-2fcfa84a-afb0-44c1-b32b-692abc76319c,"Hello, my name is Jamie Keany and my phone number is 717-485-7777 and I'm calling to order a pizza.",pizza-order
+pizza-ordering-2,dlg-2ffd1f4d-63b9-478a-a22b-76d42214044b,"Donna, I'm in the mood for Papa Johns. Are you free to place an order for me?",pizza-order
+pizza-ordering-2,dlg-30015517-5eca-4ecf-9d2e-38a33a3b86fa,"Hello, I am interested in ordering some pizzas for tonight's dinner.",pizza-order
+pizza-ordering-2,dlg-3001fcfb-b3a6-46d4-90c2-4a6dfe72e47f,I want to order pizza from Papa Johns.,pizza-order
+pizza-ordering-2,dlg-30874817-226e-43d8-840b-e538c43e9894,"John, could you please order me enough pizza for 10 people?",pizza-order
+pizza-ordering-2,dlg-30a4b255-7957-4702-96be-8497013273c5,Hi. I'm not going to have time to stop anywhere for lunch. I need to get back to the office to work on this brief. Could you order me a pizza?,pizza-order
+pizza-ordering-2,dlg-3106b492-de7d-43e9-875f-03c352ebad75,"Hi, Call Calda and order a pizza.",pizza-order
+pizza-ordering-2,dlg-316d2be8-2662-4fff-9a0b-28e84a1cc97a,I would like to order a pizza from Fired Up,pizza-order
+pizza-ordering-1,dlg-31d52b46-5028-4d5d-9c61-457f3609f41d,I'd like to order a grande mocha frapachino please.,pizza-order
+pizza-ordering-2,dlg-3224d769-ca54-4f1d-b26c-a8f1a3873c97,hello i need to order a couple of pizzas from the shop down the street from my house,pizza-order
+pizza-ordering-2,dlg-322df8f3-0aae-4246-8fab-0e288ecbfe13,"Hi, can I order a pizza?",pizza-order
+pizza-ordering-2,dlg-3295dc9e-aeaa-44ed-8340-e41e282fb717,"Hello, I am calling to order a pizza",pizza-order
+pizza-ordering-2,dlg-32c846ea-6921-4aa3-8157-897f4eb405ad,Hi I would like to order a pizza for pickup,pizza-order
+pizza-ordering-2,dlg-33546907-fe95-4b69-ac36-b74d72608255,"Hello PA, can you help me order a pizza from Papa Mias?",pizza-order
+pizza-ordering-2,dlg-33796d43-da7a-41df-98e1-6d47c5f8f20e,"Hey, can I get a pizza from Domino's?",pizza-order
+pizza-ordering-2,dlg-3388f38a-7ebd-4d73-9700-a34cea212f5a,I would like a large pizza,pizza-order
+pizza-ordering-2,dlg-33c70ed5-6abf-42e7-8708-da237436d09f,"Hi, it’s me, can you order me a pizza from Blaze?",pizza-order
+pizza-ordering-2,dlg-3417bd92-7dc9-45cb-b4ed-c47c5a32274d,"Hi, I'd like to order a pizza from Garlic Jim's",pizza-order
+pizza-ordering-2,dlg-3455cefa-5790-4a55-97ef-29dae381f3ca,"Hello, I would like to order a pizza.",pizza-order
+pizza-ordering-2,dlg-34675299-1a32-49ce-8ef0-9f286108be7b,"Hello, can you help me order a pizza from Domino's?",pizza-order
+pizza-ordering-2,dlg-3472d0b2-26a6-463b-ada6-c799fee6db74,"Hi, I want to order three pizzas from Fat Jacks",pizza-order
+pizza-ordering-2,dlg-347f3a9e-e38c-43d4-bcfb-27013990ee4c,"Hello, I'm having a little get-together tonight with my partner and some friends tonight and I'll be needing to order some pizzas from Nino's.",pizza-order
+pizza-ordering-2,dlg-3487a9a6-6447-47e4-8532-6d6537f3947e,I want to order a pizza from Donato's.,pizza-order
+pizza-ordering-2,dlg-349fad75-3e05-4004-a934-b2e169750f5c,Hi I'd like a large Meat Lover and a medium Buffalo Chicken pizza please,pizza-order
+pizza-ordering-2,dlg-34bf9203-231d-4db7-bf0c-2ec28207994e,"Hi, can you order me some pizzas from Domino's??",pizza-order
+pizza-ordering-1,dlg-350d2997-10ce-4d07-90b8-7f6b5dea7057,I want to order some pizza for me and Stacey tonight,pizza-order
+pizza-ordering-2,dlg-350eecc3-2d0a-432c-a5cf-7c8150b79609,"Hi, I'd like a large pizza.",pizza-order
+pizza-ordering-1,dlg-352252aa-a227-4eaa-9141-6dfe752dea0a,I would like to place an order from the pizzeria. ,pizza-order
+pizza-ordering-2,dlg-3558ec10-c8a0-454f-83a3-7244a6fc0fa7,Hey I'd like to get a pizza from Papa Joes.,pizza-order
+pizza-ordering-2,dlg-35956867-1b7d-461c-9560-13bd072b4fe6,Hi. I'd like to order some Dominoes.,pizza-order
+pizza-ordering-2,dlg-35fb5ab2-3230-402e-8288-033ae424496f,I would like to order a pizza from Luigi's.,pizza-order
+pizza-ordering-2,dlg-362516d5-785f-4fa4-978b-6d7ce6595cbe,Does Round Table Pizza deliver?,pizza-order
+pizza-ordering-2,dlg-3638c2a5-f60e-4cef-9130-872ebd0b86ab,"Hello, I would like to order a pizza for carry-out.",pizza-order
+pizza-ordering-1,dlg-36450f73-e012-41cd-a341-d5176851434f,"Hello, I was wondering if you have any pizza specials tonight?",pizza-order
+pizza-ordering-2,dlg-36a64389-e31a-48cb-bf11-f04b0a9afb6e,Hi. Can you order pizza for me for pickup?,pizza-order
+pizza-ordering-2,dlg-36d7a28d-768d-451f-b9e4-f25d9af51e30,"Hello there, I would like to order a pizza.",pizza-order
+pizza-ordering-2,dlg-370a97b5-fe4a-4885-8367-75a7d26f9b40,"Hello, any pizza specials today?",pizza-order
+pizza-ordering-2,dlg-371de299-d42c-408f-9675-3bf43a902814,"Hi, I would like to order a pizza from Pepperoni Express.",pizza-order
+pizza-ordering-2,dlg-37404251-0555-43ed-9e7c-009ae522e633,"Hey Jimmy, how's it going? I need some help from you pal.",pizza-order
+pizza-ordering-2,dlg-3788dce6-cd26-458c-b80c-e68a6e8a55ba,I'd like to order a couple pizzas to go from CPK.,pizza-order
+pizza-ordering-2,dlg-37d03c31-a6a7-4e96-8692-73d0fb29f505,"Hey, I was thinking about ordering a pizza today. Can you see if you can place an order ""Perfect Pizza"" for me?",pizza-order
+pizza-ordering-2,dlg-37d19179-7146-4f42-9f1d-d85f8a4b8893,Hey. I am hungry and ready to eat.,pizza-order
+pizza-ordering-2,dlg-37d91494-78d3-428a-abb8-c4ced839c018,"Hi, I want to order a pizza from Pizzeria Classico",pizza-order
+pizza-ordering-2,dlg-37f4c31c-ec4e-488e-98a9-6cf4d62559d4,Hey I'd like to order a pizza,pizza-order
+pizza-ordering-2,dlg-3850c669-5165-4eaa-ab5b-6a24353c0432,Find me the number for The Fire Pit On Main Street Yamomma Ga,pizza-order
+pizza-ordering-1,dlg-3850fd7d-0bf9-4f5f-8315-1e2dc9afe969,"Hey, can you order a couple pizzas?",pizza-order
+pizza-ordering-1,dlg-386521ee-0d98-4fba-8188-63dfff7affaf,I'd like to order a pizza,pizza-order
+pizza-ordering-2,dlg-38a62ad6-3c38-4901-9945-c92188879476,i want to order a pizza,pizza-order
+pizza-ordering-2,dlg-38a71290-33ec-4455-a509-84a2cf73001d,Hey can you order some food for me from Pizza Cottage?,pizza-order
+pizza-ordering-2,dlg-38c95d78-583f-4d2b-b865-68d170dbc887,i am really craving a pizza from domino's for our dinner tonight!,pizza-order
+pizza-ordering-2,dlg-3970086c-0f77-403f-aadb-15274c50dc83,"Hey, can you order a pizza for me?",pizza-order
+pizza-ordering-2,dlg-39705b01-4944-4469-bd98-e2732eab2b71,I want to order a pizza from Halfpint taproom.,pizza-order
+pizza-ordering-2,dlg-398051f4-5ae2-40a7-8abd-9a38295c902d,can you order a pizza from pizza hut for me?,pizza-order
+pizza-ordering-2,dlg-3a367f81-22e8-4ae1-a8e2-04ff100d4ed3,"Hi! Can I have a chicken, bacon, ranch pizza?",pizza-order
+pizza-ordering-2,dlg-3a47129c-5f82-4a4c-b5c8-34461bfb8e3e,I need a pizza ordered that I can pick up on my way home from work,pizza-order
+pizza-ordering-2,dlg-3ac15c3d-9ed4-4224-97e6-0ef738befd83,I need to place an order from Rosemie’s.,pizza-order
+pizza-ordering-2,dlg-3ad7dc26-c728-4880-89da-3b18ddb49422,I would like to order from Sal's Pizzeria today.,pizza-order
+pizza-ordering-2,dlg-3ae76814-6fef-4c85-81b3-65a6a9f45328,I'd like to get a pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-3b2ed39a-2807-49e5-97a1-72ab3cbcfcf0,"Hello, Can you assist me in ordering my regular from Pizza Hut?",pizza-order
+pizza-ordering-2,dlg-3bcc5894-25dd-44ab-86e3-0fe0ba1c246d,"Hello, I would like to order a pizza from Oregano's, please.",pizza-order
+pizza-ordering-2,dlg-3bdc121b-4cbe-46dc-b7d3-fbbfc2a110a4,Hello andrew good night,pizza-order
+pizza-ordering-2,dlg-3be643a4-7cb6-43fe-a980-1cf669231938,"For our office potluck party, could you place an order with Pizzeria Lola?",pizza-order
+pizza-ordering-1,dlg-3bea4afd-ac3a-4fd3-8b4e-a014406a3345,Hi Assistant. Could you please order 2 pizzas?,pizza-order
+pizza-ordering-2,dlg-3c3c1d69-ee3a-4ceb-b9ca-98e6da865a8f,"Personal assistant, could you order me a pizza from Pizza Hut",pizza-order
+pizza-ordering-2,dlg-3c4e9ff6-b3bb-4533-a368-f7303be1cd34,SPANISH CHORIZO Pizza,pizza-order
+pizza-ordering-2,dlg-3c581370-3298-4818-a91b-be401ac542c3,I need to order a pizza for pick up at Papa johns,pizza-order
+pizza-ordering-2,dlg-3c950e0b-1690-4296-89e2-a74c267bb717,"Hi, I'd like to order a pizza from Pino's Pizza.",pizza-order
+pizza-ordering-1,dlg-3d1953d4-cecb-48e6-9897-30d69dd2fa0b,"Hi, I have family plans with the kids tonight and I need you to order Pizza from Pizza Hut for us.",pizza-order
+pizza-ordering-2,dlg-3d335011-898e-47d8-aa57-4a935c1e6b00,"Hi, I am calling to have you order me a pizza.",pizza-order
+pizza-ordering-1,dlg-3d5bad3b-5aa6-414e-bbd4-ec5f7cdcbfc3,I need you to order us some PIZZA,pizza-order
+pizza-ordering-2,dlg-3d6981c2-0246-4537-85df-9412199f247c,I would like to order a pizza from Rosatis.,pizza-order
+pizza-ordering-2,dlg-3d6f3b39-34e4-4f96-b1af-f58ed9dfe8c5,"Hey, order a pizza from me.",pizza-order
+pizza-ordering-2,dlg-3da5e99c-452b-4428-bd39-93d9a860a91c,"Hi, I would like to order a pizza",pizza-order
+pizza-ordering-2,dlg-3da8fe97-0bc6-4675-ba95-076ea77b68ac,Can you order some pizzas from Round Table?,pizza-order
+pizza-ordering-2,dlg-3dd6dad3-767e-41e6-a653-9eb37980334c,I wanna order an NYPD Pizza,pizza-order
+pizza-ordering-2,dlg-3e12936a-6e7b-4a42-af01-c47cbd2e7b8a,I want to order a pizza from Round Table Pizza,pizza-order
+pizza-ordering-2,dlg-3e2d7b62-607f-4670-8a8f-de55b66ecddc,Hello I need to order a pizza please.,pizza-order
+pizza-ordering-2,dlg-3e306603-5f57-4741-bd9a-213c3675988b,Hey I need to order a quick dinner for my son and I Can you please place an order for me?,pizza-order
+pizza-ordering-2,dlg-3e6ba033-f9c1-428c-92ba-1a0017634759,Can I order a large eggplant parm pizza from Joe's Main Street?,pizza-order
+pizza-ordering-2,dlg-3e74a095-3115-431b-8b27-1fe4a7fc2c56,"Hi Alice, I'd like you to order a pizza for me.",pizza-order
+pizza-ordering-2,dlg-3e8a113c-6f71-4fcb-b410-26f03fcb7e98,I have a very powerful need for pizza!,pizza-order
+pizza-ordering-1,dlg-3e8fab3b-24bd-4946-be3e-e664a430aa7b,Hey I need you to order some pizza for me.,pizza-order
+pizza-ordering-2,dlg-3ead9937-ec9c-4f07-a60e-08f82bdf4965,"HI, I would like to order 2 large pizzas please.",pizza-order
+pizza-ordering-2,dlg-3ebd27c3-956e-4e6e-88e9-d937d09ad1de,"Assistant, I need to order a few pizzas tonight.",pizza-order
+pizza-ordering-2,dlg-3ebda10d-f392-4b9d-becd-9228caa3c3c9,Hi I wanna place an order for pizza,pizza-order
+pizza-ordering-2,dlg-3ec07d93-1cd7-4108-888a-b5e65f42ee20,"Hey Sam, can you order me an extra large pizza for tonight?",pizza-order
+pizza-ordering-2,dlg-3eefd66c-04b2-4db6-965a-198dd38d5ac7,I want a pizza from papa john,pizza-order
+pizza-ordering-2,dlg-3f0c623a-270f-4716-9041-e830ae0c59d4,do you mind ordering a pizza from dominos for me?,pizza-order
+pizza-ordering-1,dlg-3f78c885-1de9-46c3-b21a-27a5f166bdfb,"Hey, I need to get pizza from Pisano's.",pizza-order
+pizza-ordering-2,dlg-3f8cea94-2dcd-44ca-8804-2f69856afb54,I would like to order a pizza from Jets pizza.,pizza-order
+pizza-ordering-2,dlg-3f970ae5-99d8-4815-8f9a-8adc29c493e9,I would like to order a pizza from Blue Line pizza for dinner with my family tonight.,pizza-order
+pizza-ordering-2,dlg-3f9f27bb-75e9-4d8b-b4f6-243bf490fc01,"Hey, please order a pizza for me.",pizza-order
+pizza-ordering-2,dlg-400283e3-395d-4de2-9288-78ec02b431f9,"Hi, I would like to order a pizza from Domino's Pizza",pizza-order
+pizza-ordering-2,dlg-401a0f0b-aa9a-479e-8d01-166a6d3b6d9c,I'd like to order a pizza from Hungry Howies.,pizza-order
+pizza-ordering-1,dlg-40594548-5011-40d7-b025-3007ab68b2ea,"Hello Google, I am craving pizza from Ziggy's",pizza-order
+pizza-ordering-2,dlg-40848c64-adef-4686-bf5b-115fa4ed6271,I want to order a pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-40c71ea0-1ced-41df-95b5-7263dcd71549,"Howdy Big A, I would like pizza tonight.",pizza-order
+pizza-ordering-1,dlg-40fc3735-91da-456c-a3f6-80ce2498b463,"Hi Dan, can you please order some pizzas from Happy's Pizza?",pizza-order
+pizza-ordering-2,dlg-41455fff-8d22-4d74-a103-d81b0a880c3f,"Hello, I'd like to place an order.",pizza-order
+pizza-ordering-2,dlg-414d531e-485f-4a8c-9cdb-530cb2a25949,Tim do you want Papa John's for lunch? I think I want Papa Johns. ,pizza-order
+pizza-ordering-1,dlg-41566e14-bf9b-46dd-bf68-e838f28923b2,"Hey, I'd like you to call Fillmore Pizza and order dinner for me to pick up on my way home.",pizza-order
+pizza-ordering-2,dlg-41571334-51bf-4aa6-b550-a1eac63b1aba,"Hello Sarah. We want to go to Lampo downtown this afternoon and since there is normally a long wait, can you order a pizza for me?",pizza-order
+pizza-ordering-2,dlg-41959d92-c99f-4a74-8d49-f4c691c34581," Hello, I’d like to order a pizza, please.",pizza-order
+pizza-ordering-2,dlg-41d84cac-4fc6-4681-bc5e-b9f4bbe0db85,Hi I'm looking to order pizza from Pizza Hut,pizza-order
+pizza-ordering-2,dlg-420e8941-1ec8-439d-8572-4e2b3f153e8c,"Hi Lisa, can you place a pizza order for me and I'll go pick it up? I'm having lunch with Bob and Kathy today.",pizza-order
+pizza-ordering-2,dlg-425e6168-f7eb-481a-baf8-ea74f1124dc3,I'd like to order a pizza from Papa Johns.,pizza-order
+pizza-ordering-2,dlg-42a4c684-d8c6-4671-a1b8-6373029982ec,"Hey there, I need a favor please.",pizza-order
+pizza-ordering-2,dlg-42bf1989-57df-4386-8019-c843bf17a6d9,I need to order a pizza from pizza hut.,pizza-order
+pizza-ordering-2,dlg-42fa34bb-b51b-4493-8ded-f8f31bb47a77,"I would like to place an order for a pizza from Dominos in Chestertown, MD please.",pizza-order
+pizza-ordering-2,dlg-4304ed51-4a13-470e-ab76-2e3ee3d887a4,"Hey, I'd to order a pizza from Piaci up in Fort Bragg",pizza-order
+pizza-ordering-2,dlg-4309588b-3371-4e15-be90-be95f5576c2a,I am dying to order a yummy pizza!,pizza-order
+pizza-ordering-2,dlg-430b3643-58b7-43aa-a8f5-96d24273838b,"Hey, can you order me a pizza?",pizza-order
+pizza-ordering-2,dlg-43d7c64a-3176-4ce3-8a2e-2554b310176d,Can you order a pizza for me from Marcos,pizza-order
+pizza-ordering-1,dlg-43ecdad9-6e26-4150-9971-480132affea0,What are the specials here today at Papa John?,pizza-order
+pizza-ordering-2,dlg-43fef49b-17ff-4d7e-a362-474533c169cf,"Sara, I would love to order pizza from my favorite place.",pizza-order
+pizza-ordering-2,dlg-44250832-91ef-41b5-9772-ebc1fac37a59,I would like to orded a pizza from Pandini's,pizza-order
+pizza-ordering-2,dlg-445e2698-ee92-48ef-ba0f-7f2e074f288f,"Order a pizza, please",pizza-order
+pizza-ordering-2,dlg-44844769-6e86-44d4-b606-a4a6374abdbe,"Hey, I'm wanting to get a pizza for dinner from Pizza Hut.",pizza-order
+pizza-ordering-2,dlg-44a92696-f0a6-41b7-9292-13de9787a350,"Hi, I need you to order me two large pizzas from Grotto.",pizza-order
+pizza-ordering-2,dlg-45539771-8168-430e-8e41-e4ce126467ed,I would like to place an order from Antico.,pizza-order
+pizza-ordering-2,dlg-458baf71-bdfd-4b25-8159-c76668ce34c5,Could you please place an order for me at Pizza Hut?,pizza-order
+pizza-ordering-2,dlg-45dc8cce-47c6-4421-a232-d37ac7998341,"Hi, I'd like to order some pizza.",pizza-order
+pizza-ordering-2,dlg-468e25dc-8757-4ad2-9933-1921470c04e4,"Hello, I'd like to order one pizza please.",pizza-order
+pizza-ordering-2,dlg-468e6452-5e1e-4f7c-94fe-0c06aed15d1c,I'd like to order pizza from Papa John's,pizza-order
+pizza-ordering-2,dlg-46aae818-0952-4e30-94c4-db1036c7f593,Hey! I'd like you to place a pizza order to pickup? ,pizza-order
+pizza-ordering-2,dlg-46d2ac82-bfbc-4bea-b472-f704b135ccd6,I need a pizza from pizza hut please.,pizza-order
+pizza-ordering-2,dlg-46d401dd-a821-4df1-a593-7c7138d34db5,Hello I would like to order a pizza.,pizza-order
+pizza-ordering-2,dlg-473721ef-f7f0-4a62-b588-016f3e04194e,"Hey, I feel like a pizza tonight.",pizza-order
+pizza-ordering-2,dlg-473bebd3-939c-484d-bb56-837b71d21e62,Can you order me a pizza from Red Rock Pizza tonight?,pizza-order
+pizza-ordering-1,dlg-475a27c5-fa92-402b-8ff5-0d90a3be3a92,I need to order some pizza from Zelda's Pizza,pizza-order
+pizza-ordering-2,dlg-476bb7c7-ad7e-48be-b4cc-4878371b57dd,Will you please place an order for me with Mellow Mushroom?,pizza-order
+pizza-ordering-2,dlg-47787eb3-9938-4fdd-a7a6-065631324725,"Hi, I want to order a pizza from Dominoes pizza.",pizza-order
+pizza-ordering-2,dlg-47897209-679b-4600-8f86-82420551b11c,"Hey, It's getting late and I'm hungry. I think it's time to order a pizza.",pizza-order
+pizza-ordering-2,dlg-479eafd8-4703-44d8-ad03-d1ec7a5b834d,hi i would like to order a pizza ,pizza-order
+pizza-ordering-2,dlg-47ffcf70-9a21-4f07-8498-76cdc216c82d,I want to order a pizza for pickup at Papa Johns,pizza-order
+pizza-ordering-1,dlg-481f9d57-762d-455c-9b6d-eb618513d29e,"Haley, I need two pizzas from Dominos.",pizza-order
+pizza-ordering-2,dlg-487692ad-d8b3-44c9-911e-2b7ccc212ea4,I would like to order a pizza from the Supreme House of Pizza.,pizza-order
+pizza-ordering-2,dlg-48ed4e8f-226a-49b2-9425-696eb5e2593e,"Hi there, I'd like to order some pizza",pizza-order
+pizza-ordering-2,dlg-48fde5a2-8af1-4fcd-b9f5-b4243e65fe9e,I want a large pizza from Pizza Mia.,pizza-order
+pizza-ordering-1,dlg-49753de4-272e-4ed4-ad2e-39f5962ff34d,Hi! How are you doing?,pizza-order
+pizza-ordering-2,dlg-49a47001-6723-4bc7-b963-572da7d26a65,"Hello, I'd like to order a pizza for delivery.",pizza-order
+pizza-ordering-2,dlg-4a0f5efb-8f4c-481a-955d-ba0b148a5315,Hi! I want to order pizza from Domino Pizza,pizza-order
+pizza-ordering-1,dlg-4a1b6e8c-b05b-4871-832d-4c03ce90472e,"Jenny, could you grab me a coffee from Peets? ",pizza-order
+pizza-ordering-1,dlg-4a2ad3e5-d369-4f75-be21-e1d58a8cde9a,"Hi, I want to order some pizza from Dominoes please.",pizza-order
+pizza-ordering-1,dlg-4a8a2550-3f81-42fd-a464-0069b184a1f4,I'd like to order some pizza please,pizza-order
+pizza-ordering-2,dlg-4a920a19-1a0d-4d33-a809-f562713d74c4,Can I get some pizza from Sarpino's,pizza-order
+pizza-ordering-2,dlg-4aa6ec8a-3b12-44fe-a997-3cb2f04568b4,I would like to know if the local pizzeria can do half an half toppings,pizza-order
+pizza-ordering-2,dlg-4aedc537-95dd-45ee-842e-ccca63fe8853,I want to purchase a pizza from dominos pizza?,pizza-order
+pizza-ordering-2,dlg-4b06f0a7-44cc-4f90-bc7d-0e266f0a3945,I need to order a pizza to go please,pizza-order
+pizza-ordering-2,dlg-4b137b58-559f-437e-8a47-7673787ece79,Can you pick me up a pizza?,pizza-order
+pizza-ordering-2,dlg-4b2a6d9d-a852-4879-baed-65e69fc38477,I want you to call Pizza Land.,pizza-order
+pizza-ordering-2,dlg-4b617635-9a37-416b-b973-bae983838cbd,Can I order a pepperoni and sausage pizza,pizza-order
+pizza-ordering-2,dlg-4c1224f7-4b53-4c51-9b10-6ccb04728094,I'd like you to place an order for a pizza for me at Neil's.,pizza-order
+pizza-ordering-1,dlg-4c1ba227-04a0-4975-a3f5-ed4e16926fdf,"Hey, I’d like to get a pizza ordered.",pizza-order
+pizza-ordering-2,dlg-4c300f5c-794c-4017-bc1f-0a38de48a48d,Good evening.I would like to order a pizza from pizza hut.,pizza-order
+pizza-ordering-2,dlg-4c5f138f-ec58-4c68-9a6a-304750aab231,Hi I'd like to get a pizza ordered for dinner from Austin Pizza,pizza-order
+pizza-ordering-2,dlg-4c73411c-4e4f-4084-84ba-4a55bad45977,Hi I want to order a pizza from Little Pizza Paradise.,pizza-order
+pizza-ordering-2,dlg-4ca67d5e-ae67-4805-bbe8-5c92cbbcb9fc,I require pizza. place a call for me. a pizza order.,pizza-order
+pizza-ordering-2,dlg-4d0684cf-c77c-4fba-96a7-49e72a7bcaef,I'd like to order a pizza at Papa John's.,pizza-order
+pizza-ordering-2,dlg-4d06e4c4-411e-46c4-ad95-3f0bc46e918c,Hello. I would like to order pizza from Pizza Hut,pizza-order
+pizza-ordering-2,dlg-4d0e6930-5fee-49c0-9a29-c54e53e43f71,"I want to pick up a pizza on the way home, I'm too tired to cook. Can you order Channello's for me?",pizza-order
+pizza-ordering-1,dlg-4d43961d-27e3-4f94-993d-5e1f5745e62c,"Hi, I would like to order a pizza from Roma pizza please.",pizza-order
+pizza-ordering-2,dlg-4d46735f-16a3-48dc-96db-c2981c1ff05a,Would you order me a pizza to pick up on the way home?,pizza-order
+pizza-ordering-2,dlg-4d6f6cc2-a25b-4512-8054-d39c5cad311a,"Hi, I'd like to order from Domino's Pizza for dinner with my boyfriend tonight.",pizza-order
+pizza-ordering-2,dlg-4de34d22-78d8-4ace-8605-84282db29f73,"Hi there could I please order a pizza? Also, I was wondering if you deliver.",pizza-order
+pizza-ordering-2,dlg-4e413b6c-cf95-4170-8129-f55cdd2156ad,"I would like to order a large pizza with sausage, black olive and extra cheese.",pizza-order
+pizza-ordering-2,dlg-4e4875c8-b6bc-4c67-ad15-0ebee01ef584,"Hi, Can you order me a pizza from John's Pizza?",pizza-order
+pizza-ordering-2,dlg-4e71c7f2-4970-44e5-8664-9144fe0574a5,I would like to order a pizza from cassano's.,pizza-order
+pizza-ordering-2,dlg-4f0f9cfd-3f56-4821-8db3-bd60b23d5015,Can you order us a Large meat lovers pizza with stuffed crust?,pizza-order
+pizza-ordering-2,dlg-4f11439e-da43-4e23-9629-796b9fce0615,I would like to order a pizza for pickup,pizza-order
+pizza-ordering-2,dlg-4f1ab0e5-f053-4d28-9eb1-e7e433743bcf,"Hey, I'd like to place an order for carryout at pizza king.",pizza-order
+pizza-ordering-2,dlg-4f1f5a9b-7bb6-46f7-a475-74abc910aa6d,"Hey, I'd like to order a pizza to pisk up.",pizza-order
+pizza-ordering-1,dlg-4f42951a-8220-4e02-a7e4-18966f0de9ab,Hey can you help me order some pizzas from Papa Johns?,pizza-order
+pizza-ordering-1,dlg-4f42e25a-a5cb-4e49-91cf-66cef976968d,I would like to order pizzas for lunch,pizza-order
+pizza-ordering-2,dlg-4f539ffb-8cb9-48b2-8e3d-0bbe18c91729,Hey can you order me a pizza for tonight?,pizza-order
+pizza-ordering-2,dlg-4f56b34f-7ad6-4a1e-9759-2594f758af96,"hey, can you order me a pizza",pizza-order
+pizza-ordering-2,dlg-4fa089f6-e37e-4567-ab48-621d392b3413,"Hello, my name is Sammy Hunt and I'm calling to order a pizza in the Harrisburg, Pa. area.",pizza-order
+pizza-ordering-2,dlg-4fa9c06d-46f7-4143-bc3c-8b341ccb3828,"Hi, I'd like to order a pizza from Papa Johns.",pizza-order
+pizza-ordering-2,dlg-4fc7da5b-2f38-4df1-83ac-a9cbd1d872f5,"John, order a pizza for me from Dominos",pizza-order
+pizza-ordering-2,dlg-4fc9ad57-d259-4451-9ee4-0c70b4e624e6,Order me a pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-4fe6eb48-9a4f-4b44-96db-02b083881a78,Hey! I'm in the car on the way home and I wanted to know if you could please order a pizza from Ray's on 7th avenue?,pizza-order
+pizza-ordering-2,dlg-4ff1c15c-c74b-4fbc-a295-2c89ebead009,"My friends are coming over for game night, so I need to order some Domino's.",pizza-order
+pizza-ordering-1,dlg-500c0eee-01ce-4705-822f-520b0e926b27,"Hey, I want to order about eight pizzas from Round Table.",pizza-order
+pizza-ordering-2,dlg-50597b3c-ba39-4e7c-95e5-2f98b5d65ff6,I WOULD LIKE TO PLACE AN ORDER WITH DOMINOES,pizza-order
+pizza-ordering-2,dlg-505af062-e6b9-4b88-b27d-64173d210bd9,"Hello, can I order a pizza from Dion's please?",pizza-order
+pizza-ordering-2,dlg-50817524-99d0-4d34-89e1-50e28836d600,"Hi, I would like to order a pizza for dinner tonight",pizza-order
+pizza-ordering-2,dlg-508608a6-96b2-4a6e-b185-b351711101e0,"Hi, I am thinking about ordering pizza for our lunchtime meeting tomorrow from Regina's pizzeria",pizza-order
+pizza-ordering-2,dlg-50ca515f-fe16-41e0-9695-572bc0bf7d73,Is Gino's open today?,pizza-order
+pizza-ordering-1,dlg-50ef30de-1a3c-4df2-b16e-ba4f1fb7c5d2,"Hey, can you do me a favor and order pizzas for the party?",pizza-order
+pizza-ordering-2,dlg-513810a6-57df-4706-98ea-65c4d111b832,Hey I'd like to place an order for pickup,pizza-order
+pizza-ordering-2,dlg-51565932-d418-4c87-9b40-1681467123ca,I'd like a large pizza from Evan's.,pizza-order
+pizza-ordering-1,dlg-516d9d04-f139-44eb-ba8e-78e55e834ca4,Hello I would like to order some pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-51a68149-3765-44dd-bdcf-d60b4b898345,"Hi, can you order a few pizzas for me?",pizza-order
+pizza-ordering-1,dlg-51c3a93a-07d0-4a2e-9e47-00ded52619c5,Hi. I'm in the mood for pizza.,pizza-order
+pizza-ordering-2,dlg-51e7d2ff-51ad-40d1-9ba4-0157e4e06be4,"Hi, I'm in the mood for pizza.",pizza-order
+pizza-ordering-2,dlg-5237564f-a762-4f17-a414-f6ef2c3f04dd,"Hello there, I would like to order a large Pepperoni Pizza from Pizza Hut.",pizza-order
+pizza-ordering-2,dlg-52378a42-a928-4b4d-a7ba-c07d7e680dba,Hey Pizza Hut I would like to order a pizza to go.,pizza-order
+pizza-ordering-1,dlg-52532876-3ade-4acc-a5f0-c5f0231d9466,I want a pizza from Domino,pizza-order
+pizza-ordering-2,dlg-529d0965-0c8e-4525-ada1-ea2a1ebbdc82,Hey man ,pizza-order
+pizza-ordering-1,dlg-52ac6fba-7f1e-421f-b622-3b5d9b576532,"hi, i'd like to order a pizza from ",pizza-order
+pizza-ordering-2,dlg-52c2af63-fe4e-424e-b846-6093041f93f7,"Hi, I would like to order two large pizzas to go.",pizza-order
+pizza-ordering-2,dlg-530653ee-b2e4-47ca-8b96-e8e5e4da5df6,"Freddie. Since I'm new in town, can you recommend some mom and pop pizzerias?",pizza-order
+pizza-ordering-2,dlg-53744fdc-2967-4925-bed4-b317ca66e8b0,"I do not like pizza sauce, do you have other sauce options?",pizza-order
+pizza-ordering-2,dlg-53acc32b-1237-4751-8085-c242e3ed32ae,"Hey, could you order me a pizza to pickup from Marinara's?",pizza-order
+pizza-ordering-1,dlg-53e9d9ee-8d69-47a3-824a-f6ecac0dedeb,Hi I'd like to order a few pizzas from Jim's Pizzeria.,pizza-order
+pizza-ordering-2,dlg-5417ad2d-4aa5-45da-9bcc-8dd7b1f96fdb,I'd like to place an order from Pielogy.,pizza-order
+pizza-ordering-2,dlg-549454e7-425d-4f08-aef2-f177042ffec2,"Hello, can you please pick up a medium hawiann pizza from pizza hut?",pizza-order
+pizza-ordering-2,dlg-54992ec4-6264-42b9-ad15-6fa799369ee8,"Hi, I'd like to order a pizza from Bertuccis.",pizza-order
+pizza-ordering-1,dlg-54df8faa-27a4-455f-b8ac-a77b5b9b7b81,"Hello, my name is Sally Shultz and my phone number is 717-485-5555. I'm calling to place a pizza order.",pizza-order
+pizza-ordering-2,dlg-54eb1fdc-2e0e-47a1-b217-ca8562b90e95,I need to order a pizza.,pizza-order
+pizza-ordering-2,dlg-5504e85c-c3da-42ec-8eef-ff88f016487c,How late is Papa Johns open for carry-out?,pizza-order
+pizza-ordering-2,dlg-55056fd0-a726-45ed-888f-279f92873961,I'd like to place an order to Dominos,pizza-order
+pizza-ordering-2,dlg-55239cf7-f748-4c48-ba51-82226121fc71,I want to order a pizza from the place I normally go to near my office.,pizza-order
+pizza-ordering-2,dlg-55817f7a-0dac-4699-a11d-56e2e3e2ada5,I would like a pizza from Dominoes.,pizza-order
+pizza-ordering-2,dlg-55b59c52-ca39-4d08-96c4-a05486b4742f,"Assistant, please order me one pepperoni and onion pizza from pizza hut.",pizza-order
+pizza-ordering-1,dlg-55d51dba-15ef-442b-aaac-c81ff9d76f42,place an order for pizza,pizza-order
+pizza-ordering-2,dlg-55f502f3-f476-4f18-b40c-9db5650586e4,"Hey assistant, I'm having a party and need 2 pizzas.",pizza-order
+pizza-ordering-2,dlg-55f807d1-2ced-410a-a38f-eb4445200b2a,We want a pizza tonight from Pizza Express.,pizza-order
+pizza-ordering-2,dlg-561e0504-9f90-4c70-bc82-8e577b5d9acd,"Hi, I'd like to place an order for a pizza.",pizza-order
+pizza-ordering-2,dlg-5677ffe7-2833-49a6-87bd-afdc73a6324d,"Hey, can you order me a pizza from Three Countries Pizza?",pizza-order
+pizza-ordering-1,dlg-56deade2-6760-4ad0-8b0c-ecd34013ce80,"The sales meeting is going to run over tonight, can you see about getting some pizzas from Bertucci's?",pizza-order
+pizza-ordering-2,dlg-571d975c-d38f-4a6d-a798-246f588b442e,Hello. I want to order a Pizza Hut pizza.,pizza-order
+pizza-ordering-1,dlg-57831c8f-959b-45f2-b6cc-b92267218799,"Hey! Hey, Linda, thanks for answering. Do you think you could do me favor? I'm heading into the city and would like to pick a pizza up at Savage.",pizza-order
+pizza-ordering-1,dlg-57c2c362-da9e-49bb-9bf3-bca50df1ad05,I need 3 large pies from Master Pizza for the Super Bowl Party I am having. How much will that cost me?,pizza-order
+pizza-ordering-2,dlg-57db55e4-33a5-4ec1-84ce-ee9e718eb9e2,Hey can you put a pizza order in for me online?,pizza-order
+pizza-ordering-2,dlg-57dd171a-9e32-4e2c-93f4-5f7377399ab5,Can you get a pizza order going from Giorgio's pizza?,pizza-order
+pizza-ordering-2,dlg-58402ee8-e52d-478b-860f-d331dab80f10,Hey I want to order a pizza from Papa Johns,pizza-order
+pizza-ordering-1,dlg-587ee4a4-b891-4b90-8027-e0e8df8196ef,Hello [Assistant]. Could you place an order with The Pie To Go for me?,pizza-order
+pizza-ordering-2,dlg-58e0b570-deee-41a0-983b-6e75e7220dc8,I am craving a papa john pizza,pizza-order
+pizza-ordering-1,dlg-58e43803-fc18-456f-b759-36ac0327189f,I want to order a pizza from Cosaro's Pizza in Kingsburg.,pizza-order
+pizza-ordering-2,dlg-590296f4-b357-47c9-bd26-bc87d74d7741,"Okay Google, can you find me the closest Papa John's",pizza-order
+pizza-ordering-2,dlg-59238f88-6f6b-426e-87fb-8f554cc4b564,I want to order a pizza from pizza hut.,pizza-order
+pizza-ordering-2,dlg-5927bc02-a548-4bb2-8c48-95e6b7223f36,"Hello, I would like to order a pizza for pickup.",pizza-order
+pizza-ordering-1,dlg-592bc3e8-bd62-46d5-aa40-7a7d39b84c6b,I'd like two hawaiin pizzas please,pizza-order
+pizza-ordering-2,dlg-59844b3f-defa-41d1-a744-6861de139ec6,I'd like to order a pizza from my favorite place.,pizza-order
+pizza-ordering-2,dlg-59b8a347-e200-4618-812a-2da07b73a675,I would like to order a pizza from Eno's in dallas.,pizza-order
+pizza-ordering-2,dlg-59c67685-4bbf-4fc8-9158-1e8ce5542a9e,"Hi, can you please order me a couple pizzas when you get a chance.",pizza-order
+pizza-ordering-2,dlg-59ef807b-37f6-466c-bcb4-a47b99a76e1c,"Hello, I'd like to order a pizza for a family dinner.",pizza-order
+pizza-ordering-2,dlg-59f4c7bf-f6f4-41f9-bc2a-a148e516f409,"Hello, do you mind ordering me some pizza from Domino's?",pizza-order
+pizza-ordering-2,dlg-59f697ab-a628-4cae-9fe7-b2ee10f97509,"Hello, my name is Jessica Smalls and my phone number is 717-395-2222. I'm calling to order a pizza.",pizza-order
+pizza-ordering-2,dlg-59fe46c7-fee0-442f-97d9-4190a501ca88,I would like to order a pizza from pizza hut.,pizza-order
+pizza-ordering-2,dlg-5a0c8673-f752-493e-bac5-611212377843,"Hi, I'd like to order a pizza from Rosati's.",pizza-order
+pizza-ordering-1,dlg-5a6fc030-3df9-4983-bf20-f29bde2b590f,Hey can you do something for me,pizza-order
+pizza-ordering-2,dlg-5a8149af-d61e-47c6-98da-da58c3c2725b,"Hey, I could really go for a pizza right now. Any suggestions?",pizza-order
+pizza-ordering-2,dlg-5a83a7d6-935d-4603-8222-9ddbb55bcf56,Hey Michelle! Could you call Crawford’s and order a pizza for me?,pizza-order
+pizza-ordering-1,dlg-5aa81f57-4a78-439d-8862-7c523ee786f9,I want to order a pizza from Tommy's Pizzeria.,pizza-order
+pizza-ordering-2,dlg-5b1e2047-32a2-403e-abd6-839504d0195f,"Hi, I would like to order a medium pizza",pizza-order
+pizza-ordering-1,dlg-5b1e3213-6787-400b-bde3-0ca6277e478b,I want a large double sugar. ,pizza-order
+pizza-ordering-2,dlg-5b2d6ead-7de5-4262-84df-6bae798da0e5,"Hi, can you stop and order us a pizza for lunch?",pizza-order
+pizza-ordering-2,dlg-5b803b2c-874b-452a-a8bd-8e1b11589470,Hi there. I'd like to order some pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-5be9f2c3-44a9-47b2-a134-8a9b30a124cf,I want to order a Pizza from Peter Piper Pizza,pizza-order
+pizza-ordering-2,dlg-5c0bd146-93e8-4ac4-a896-f86853d0b740,I want to put in an order from Donato's,pizza-order
+pizza-ordering-2,dlg-5c0e559b-875f-45a2-884a-24cff5ef20de,I need to order a pizza from Jets in Nashville to pick up.,pizza-order
+pizza-ordering-2,dlg-5c1be92e-38a0-44e2-954a-b4938aa7bfcb,Hey is Domino's open,pizza-order
+pizza-ordering-2,dlg-5c5b3941-24a0-4136-bdd8-9491507649b8,I Need you to order me a Pizza.,pizza-order
+pizza-ordering-2,dlg-5cd31b9d-a41e-4671-a873-f30258f49e95,"Hello, I want to order from Russo's.",pizza-order
+pizza-ordering-2,dlg-5d3c40ec-e61e-4a8f-93ce-659a364c9b78,"Hey, I would like to order two pizzas",pizza-order
+pizza-ordering-2,dlg-5d400480-24ab-4777-9709-92a3111ea4cf,I would like for you to order a large pizza from Stone Oven Pizza.,pizza-order
+pizza-ordering-2,dlg-5db4e616-6580-406e-915c-43c7d771ff44,"Hey John (assistant), can you order me a pizza for when I get to the office in 30 minutes?",pizza-order
+pizza-ordering-2,dlg-5db9028f-f76b-4eaf-9c42-de38caae4035,"Hi, I want a large pizza from Dominoes.",pizza-order
+pizza-ordering-2,dlg-5dbb66eb-8a7f-4b54-93b5-bf4339025783,I will like some Dominoes Pizzas,pizza-order
+pizza-ordering-2,dlg-5e2dbf6c-fa8a-4845-a2d4-fa3094a301dd,I need to order a pizza from Chapos Pizzeria,pizza-order
+pizza-ordering-2,dlg-5e72e4ec-d965-472d-8357-05c80ca54e32,I want some pizza for dinner.,pizza-order
+pizza-ordering-2,dlg-5e77d89f-db78-47e9-a1be-6f7c1613a75b,"Hilary, please order me a large pizza so that me and my ""boys"" (my subordinates) will have something to snack on while we stay late here tonight at the office and finish a remaining task.",pizza-order
+pizza-ordering-1,dlg-5e846a8a-e4d0-4014-9dfb-8ed2d73b41ec,Hey assistant! I need to get a couple of pizzas from Si-Pie.,pizza-order
+pizza-ordering-2,dlg-5e8f1dcd-902e-4eea-acb9-ea6ac87acf4f,Hello I would like to order a pizza from pizzzas pizzaria,pizza-order
+pizza-ordering-1,dlg-5ebd9336-bb8c-47bf-bee8-a3c3ca50501a,"Hello, I’d like to order a pizza, please.",pizza-order
+pizza-ordering-2,dlg-5ec5e846-a95d-4ff6-bb31-2069cc4136a7,Hey! Can you order a couple pizzas from Martha's tonight? I'm having some friends over later.,pizza-order
+pizza-ordering-1,dlg-5f6fa53d-5ddc-455e-b8e4-2d0a3f5e6d6e,Hello assistant I need to order a few pizzas for a party.,pizza-order
+pizza-ordering-2,dlg-5f7a38b4-c2d6-46c6-9cd2-6e0f871b9cb0,"Hi, I'd like to order a two-topping pizza from Dominoes.",pizza-order
+pizza-ordering-2,dlg-5fa23b53-6659-48e2-b032-0f8b6a8982c9,Can I order a Pizza from Dominoes?,pizza-order
+pizza-ordering-2,dlg-5fbd5714-2271-406b-8690-0e7f333d3889,Hi. Can you order me a pizza at Domino's?,pizza-order
+pizza-ordering-2,dlg-5fc5db69-5014-4065-b811-09a1c0b2f573,"Hi, can you place an order at Ruby's Pizzeria?",pizza-order
+pizza-ordering-2,dlg-5ff2fea6-21f7-4e5d-aa3f-69df2c2c8087,I would like to order a pizza from Papa Jims Pizza,pizza-order
+pizza-ordering-2,dlg-60a3186d-c913-4d97-aa86-7785bca910d9,I need to order a pizza for pick up please.,pizza-order
+pizza-ordering-1,dlg-60c62ec5-e4c2-45d3-b609-7c8b44e6de34,Hello I need a pizza please from Cassano's.,pizza-order
+pizza-ordering-1,dlg-60cfa741-5e61-4059-bd85-f89cb2c11a9b,"Hi, I'm on my way home and I want to pick up some pizza. Can you put that together for me?",pizza-order
+pizza-ordering-2,dlg-61491928-57a0-4814-a930-cc6c66ac8a87,"Hey, I want to order a pizza from pizza hut for delivery.",pizza-order
+pizza-ordering-1,dlg-6151bfdc-d9db-495b-bf38-e5be06edbd01,"Hi, can you give me a hand ordering some pizza for dinner?",pizza-order
+pizza-ordering-2,dlg-61e365d6-7b04-4f0b-bb60-be7cdb4e00c7,"Alexa, please order a pizza from Leone's Pizza",pizza-order
+pizza-ordering-2,dlg-624f9289-fea3-4839-a2a5-6d270d17c403,Hey can you order a pizza from Papa Johns?,pizza-order
+pizza-ordering-2,dlg-62736ce6-9ce0-4f17-bc96-e94e2e2b2d3e,"I want to get a pizza with half mushroom, half onion, and ranch crust.",pizza-order
+pizza-ordering-1,dlg-629613cf-fd15-4756-926c-fbfc6820bfd5,Can you place an order for pick up at Barry's Pizza?,pizza-order
+pizza-ordering-2,dlg-62aac873-7dd9-4798-a396-df9edd092c12,I want to order a pizza,pizza-order
+pizza-ordering-2,dlg-62b75a6f-4188-4b49-b2ef-74ff01656ee8,I need you to call and order me a pizza.,pizza-order
+pizza-ordering-2,dlg-62ee8271-b28f-4b2c-a71b-6af8465624b2,"Assistant, I need to order a pizza.",pizza-order
+pizza-ordering-2,dlg-6308d960-819f-49d7-b28f-fb612d88737d,"Danny, Can you call and order a pizza from Sal's Pizza in La Verne?",pizza-order
+pizza-ordering-1,dlg-6319f7de-255a-499b-a5e1-a0db2b394ede,Hi my name is Linda and I would like to place a order for pizza.,pizza-order
+pizza-ordering-2,dlg-6348110f-ae5f-4d97-9896-840d11d101ae,I'd like to order a pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-634c5f82-0ac6-4c44-b980-f07e4f501ba0,"Hey, my family wants to eat pizza for dinner tonight.",pizza-order
+pizza-ordering-2,dlg-638283ee-8196-435d-8c93-d18e05ae9896,Hi there. I'd like to order a pizza for this evening. Can you help?,pizza-order
+pizza-ordering-1,dlg-63cdea97-6d66-4a6f-a9fa-b642caaeb4bb,I want to order a pizza today.,pizza-order
+pizza-ordering-2,dlg-63f2364b-056b-4455-be9e-34214c6ae13d,"hey, do you guys want to get a pizza?",pizza-order
+pizza-ordering-2,dlg-63fedfe7-5162-4afd-b5ca-218a4a68da9f,"Can you order a couple of pizzas for me from Papa John""s today?",pizza-order
+pizza-ordering-1,dlg-642da924-4894-4c64-b8ce-bd46c2d73091,Can I order a few pizzas from Papa John's?,pizza-order
+pizza-ordering-2,dlg-6465347a-1ae7-400d-9269-7606a5a4ab86,I want to order a pizza from papa john,pizza-order
+pizza-ordering-2,dlg-6476bfd6-1a9c-4aa4-a3ef-fc7a111092b5,Id like to order a pizza from Antonios. Are they still delivering?,pizza-order
+pizza-ordering-1,dlg-6478058d-b345-4efe-92af-1f88ff5aef55,Can you get me latta from starbucks please,pizza-order
+pizza-ordering-2,dlg-6480c031-80a9-4e69-b118-287607c524d7,"Hello, I would like to order a pizza",pizza-order
+pizza-ordering-1,dlg-648933b9-81bd-47ee-9de3-bfe70ed10d52,I'd like you to order some pizzas for my family for dinner from Dominos.,pizza-order
+pizza-ordering-2,dlg-648ee406-1ba4-41ce-9289-f5d86e6c5a01,I feel like a pizza from PIzzeria Davlo tonight.,pizza-order
+pizza-ordering-2,dlg-64b93fc5-1849-4699-9ead-293fd333c5e4,i would like to order a plain cheese pizza,pizza-order
+pizza-ordering-2,dlg-6566ccd5-305f-4390-aba4-d34e12f5c46b,"Hi, I'd like to order a pizza from Costco.",pizza-order
+pizza-ordering-2,dlg-658592e0-e9a8-4340-84d7-3188a7d7c981,"Hello, I want to order a large pizza.",pizza-order
+pizza-ordering-2,dlg-658a58be-3116-42a4-a571-9ae8ab84f564,"Hi, I'd like to have a pizza delivered. Just wondering, do you have any specials today.",pizza-order
+pizza-ordering-2,dlg-65c44788-2224-41f6-939b-4467e956f0c7,Im wanting to order Pizza ,pizza-order
+pizza-ordering-2,dlg-65ca5f46-8bb2-4385-aba5-4f805822723d,Hi I wanna get a pizza,pizza-order
+pizza-ordering-2,dlg-65d8dce2-52e5-4f1e-9b4f-dc888d03180c,"Hey, can you order me a pizza for lunch today.",pizza-order
+pizza-ordering-2,dlg-65db218e-ea3d-4a68-b61e-bb60ef28b14e,"Hey, I'm thinking about ordering a pizza, can you help me out while I'm working?",pizza-order
+pizza-ordering-2,dlg-660a1f6d-62af-409e-aba0-956e4a2803a2,Hello Kenneth,pizza-order
+pizza-ordering-2,dlg-6636b693-5da2-48ea-9fa2-ca88668b7de3,Can you please order some pizzas for tonight's meeting? ,pizza-order
+pizza-ordering-2,dlg-6636dab4-a6ef-4bb4-8206-8316b8185046,"Hey, I need you to order a pizza for me from Marco's.",pizza-order
+pizza-ordering-2,dlg-66754882-4492-4542-8a54-24aeac03cf66,"Hey, do you think you could place in an order for some pizza from Brooklyn's?",pizza-order
+pizza-ordering-1,dlg-6683d38c-2e66-4e4e-95c2-476910738052,I'd like to order two pizzas from Domino's Pizza,pizza-order
+pizza-ordering-1,dlg-671e6318-5a60-46d8-9eab-c59c9cbef18d,I want to order a pizza from Eureka,pizza-order
+pizza-ordering-2,dlg-673b8364-7631-423c-bf94-d1a91b0e3322,"Hie, I was wondering if you can order me a pizza for pick up? ",pizza-order
+pizza-ordering-2,dlg-67a132a9-c331-4b15-b617-0c2b47cab57f,I would like to order a pizza from pizza hut,pizza-order
+pizza-ordering-2,dlg-67cc2af4-75d5-4ad3-821f-94b2e6826acf,"Hi, I need you to order me a pizza from Anthony's Coal fired Pizza in Stony Brook.",pizza-order
+pizza-ordering-2,dlg-6855f486-91be-462e-a377-3620080db0c0,I want to order a pizza for pickup from Windy City Pie.,pizza-order
+pizza-ordering-2,dlg-68d6d39c-e719-4eca-9069-3dba22c13ee3,Can you please order some pizzas for tonight's meeting?,pizza-order
+pizza-ordering-2,dlg-68fca98f-0698-4092-bb68-0b574e656e67,I'd like to order a veggie double crust pizza from Oley's,pizza-order
+pizza-ordering-2,dlg-69335fe5-6804-4c63-9c57-47b7476dea18,Can you order me a pizza from Domino's?,pizza-order
+pizza-ordering-2,dlg-693f978d-2761-4070-8168-914934881096,I think I want a pizza from Domino's,pizza-order
+pizza-ordering-2,dlg-6961de0a-159e-46e1-9252-0c64ca30a9b4,Hi. I'd like for you to place me an order for a large pizza from Papa Johns.,pizza-order
+pizza-ordering-2,dlg-6983804d-950e-494d-872f-e1e839445d0a,"Hey, can you order me a pizza from Papa John's? I'm having a buddy over tonight, and I think we both want pizza.",pizza-order
+pizza-ordering-2,dlg-6a02bc40-8883-4930-856d-29407a482d2c,"Hi, can you order a pizza for me from Mellow Mushroom?",pizza-order
+pizza-ordering-2,dlg-6a466341-7596-406d-83a2-be97ce9c2f99,"Hey, could you place an order for me at Papa Johns?",pizza-order
+pizza-ordering-2,dlg-6a7edacb-79dd-458c-989f-8671573c5b66,I would like to order a pineapple and cheese pizza please,pizza-order
+pizza-ordering-2,dlg-6ac3826a-d0ed-4058-91b8-a776924d1373,"Hi, I would like to order a pizza at Valentinos in Los Alamitos.",pizza-order
+pizza-ordering-2,dlg-6adf9890-c0a6-4322-bca4-2b50f81f3442,I'd like to order a large Pizza from Papa Johns,pizza-order
+pizza-ordering-1,dlg-6aee3ac1-e18f-45f2-9795-f98c6244a5de,Hey can you order me a pizza from Domino's?,pizza-order
+pizza-ordering-2,dlg-6b403a83-f631-43a1-8c16-26a7cc5f38e0,"Hey, can you order a pizza for me from my favorite pizza joint off the main highway?",pizza-order
+pizza-ordering-2,dlg-6b4a35ab-fe52-4dbf-986e-eb28ef7563e3,Order me a pizza from Papa Johns.,pizza-order
+pizza-ordering-2,dlg-6b735247-0559-44e9-9c80-c47ac16495ec,"Hello, I need your help!",pizza-order
+pizza-ordering-2,dlg-6bb0bf72-4e14-4a29-838e-38c8e9e580b0,can you order a pizza for me?,pizza-order
+pizza-ordering-2,dlg-6bdd57a9-0e3b-4881-9f56-a8d1a4714a3a,"Hello, I was calling to order a pizza. ",pizza-order
+pizza-ordering-2,dlg-6bfd5eb1-efa7-4593-bfa9-76cc60065408,I want to order a pizza? ,pizza-order
+pizza-ordering-2,dlg-6c22c72c-686d-4641-abc0-f79c9600ff80,"Hi, I want to place an order with Gencarelli's in Wayne, NJ.",pizza-order
+pizza-ordering-2,dlg-6c8601ea-5995-4b5a-806a-ff061686332b,"Hey, Assistant, I want to order pizza.",pizza-order
+pizza-ordering-2,dlg-6c9d3a7e-cb73-4863-a7b7-c828dbf99ca6,I want to have a pizza ordered from Papa Johns,pizza-order
+pizza-ordering-2,dlg-6d317f28-ddaa-4f20-bd95-683b8db36b21,"Hi, can you order me a 12 inch pepperoni pizza with additional spinach and arugula on it?",pizza-order
+pizza-ordering-1,dlg-6d420261-2bdc-4c03-a6df-fdf5ec9abac2,Is this Sonny's Pizza ?,pizza-order
+pizza-ordering-2,dlg-6d50ac06-a355-4250-8eee-df4c1dbf43a0,"Hi, I need you to order me a pizza for tonight.",pizza-order
+pizza-ordering-2,dlg-6d766c63-1ea6-4b1a-bb5b-808ff2f35c90,"Hello, Sam? I'm in the mood for a pizza from somewhere different. Any suggestions?",pizza-order
+pizza-ordering-1,dlg-6d8a4a86-d76f-4bf8-a031-1d391b291021,"Hello, I am wanting to buy a pizza from pizza hut",pizza-order
+pizza-ordering-2,dlg-6d8d9240-9b6e-45ad-b2e9-6cf24f4e706a,"Hello, I would like to order two large pizzas.",pizza-order
+pizza-ordering-2,dlg-6d92f5fe-aeb7-4052-a61a-cfeb2270540f,I want a pizza,pizza-order
+pizza-ordering-2,dlg-6d9f5f95-969c-4090-9757-b6a6faeb709e,Hi there. My roommates and I are interested in ordering one pizza from Pizza Sam's.,pizza-order
+pizza-ordering-2,dlg-6db32676-c1d3-44ef-9194-52267d9e6d49,supreme,pizza-order
+pizza-ordering-2,dlg-6db8a24b-af75-4cf9-b2da-18be7bde2174,"Jenna,",pizza-order
+pizza-ordering-2,dlg-6e205aaa-e3b9-4bfd-9507-dd39086cb2e3,I need to get a pizza,pizza-order
+pizza-ordering-2,dlg-6e345d0a-790e-454e-abd9-dbcea6ecb2ca,"Joan, can you order me a pizza from Anthoy's?",pizza-order
+pizza-ordering-2,dlg-6e8ceab5-4433-4b61-b69d-02a44900f3f1,I'd like to order a pizza from Domino's,pizza-order
+pizza-ordering-2,dlg-6ef9663e-b250-4064-a3e2-41cff0c79ff6,I want to order pizza ,pizza-order
+pizza-ordering-1,dlg-6f0c167e-6a74-4d0c-a229-3a1be0cf3477,"I want some pizzas, two of them",pizza-order
+pizza-ordering-2,dlg-6f11e991-b912-4f16-975c-f126518262df,I want to order pizza from Mancino's.,pizza-order
+pizza-ordering-2,dlg-6f24c23c-24e0-4689-933d-3631c8551dfd,Can you order me a pizza please?,pizza-order
+pizza-ordering-2,dlg-6f71eade-04a9-4dc7-8b64-97939ef4aadf,I would like to place an order,pizza-order
+pizza-ordering-2,dlg-6fa698fb-e846-4e03-8d28-4a6d358bf668,"Hi, I'd like to order a pizza from Pizza Hut",pizza-order
+pizza-ordering-2,dlg-6fd12cd0-25d0-497c-a9fd-943bcb168a06,"Hi, Lia, would you mind ordering me a pizza for tonight? Jackson and I are having a laid back dinner.",pizza-order
+pizza-ordering-2,dlg-6fed91b7-5c16-4a82-adc4-560a4aacb6f7,"Hey Ricky, can you order some pizza for me?",pizza-order
+pizza-ordering-2,dlg-6ff5ded8-0244-46c2-959b-640a966934e1,I need to order a pizza for pickup from Rico's Pizza,pizza-order
+pizza-ordering-2,dlg-702ebfc3-1a81-41b5-8f5a-49d25403aa5b,Hello. I would like you to place an order with Pie Squared.,pizza-order
+pizza-ordering-2,dlg-7057e9d8-15a0-4cd9-8dcf-da6094015f99,Hi Bill - I would like to order a pizza from Perizia,pizza-order
+pizza-ordering-2,dlg-7066a664-4624-4122-a4cc-91a9214fd6e2,"Hi, I want some pizza",pizza-order
+pizza-ordering-2,dlg-706cad84-7974-41fe-b71d-5c46960aca96,I'd like to order a few pizzas please.,pizza-order
+pizza-ordering-1,dlg-709ec1a7-9840-42ac-8959-fe307444f4eb,Hi I would like you to order a pizza from Rossatis pizzaria,pizza-order
+pizza-ordering-2,dlg-70a78758-09e2-4328-9f49-60f7b0405ff0,Hi I'd like to place a pickup order.,pizza-order
+pizza-ordering-2,dlg-70e2fae0-4e28-434d-9035-ff4d137e9c71,Hello I would like to order a couple pizzas.,pizza-order
+pizza-ordering-2,dlg-70ee636e-e20b-4382-8096-3096e65e00dc,"Hey Jim, i want a pizza",pizza-order
+pizza-ordering-1,dlg-71d4d33b-ccb8-40ec-ad82-6c48e8551969,We are going to do pizza from Gionino's for dinner tonight can you place the order for us?,pizza-order
+pizza-ordering-2,dlg-71ef6d38-1493-435d-b046-5b77cd665b06,Can you order me some pizza?,pizza-order
+pizza-ordering-1,dlg-71f0632a-7e0e-4e23-85c9-756d4b1b82bb,hi alexa i wan to order pizza from the joint today,pizza-order
+pizza-ordering-2,dlg-71f81ef9-02c7-443e-9099-0c433bc46de5,"Hi, could you help me order a pizza from Domino's?",pizza-order
+pizza-ordering-2,dlg-7218705f-f70e-411e-8a8d-bf13a5db421f,"Macy, I need you to order a pizza for lunch.",pizza-order
+pizza-ordering-2,dlg-7248165f-d16a-4c9b-a4bf-7fae812018be,"Hi Sherri, this is Bob and I need you to order me a pizza from Joe's Pizzeria over on 9th and Main Street.",pizza-order
+pizza-ordering-2,dlg-72934e32-c641-4eed-afed-18ee27316efa,I'd like you to order a pizza for my family's dinner tonight.,pizza-order
+pizza-ordering-2,dlg-729f4441-e831-4369-85a6-6800e9011a20,I'd like to order pizza from my local Domino's,pizza-order
+pizza-ordering-2,dlg-72c4bcc6-bcca-46a2-8659-d0db4ed25965,I'm thinking about ordering a pizza for lunch. ,pizza-order
+pizza-ordering-2,dlg-72fd870e-2b5e-4431-8904-a4fb150c3e44,"Hello, I'd like to order a pizza from Dominos.",pizza-order
+pizza-ordering-2,dlg-73100d64-4e1d-467b-8ff2-2f2147b39e1c,"Hi, can you help me order some pizza?",pizza-order
+pizza-ordering-2,dlg-734871d3-52c9-4f30-9f38-56207d5b1fa8,"Hi, Nancy can you please get me a pizza from abc's?",pizza-order
+pizza-ordering-2,dlg-7386d169-541b-4ecf-be31-6f9d893d1e47,"Hi, I need to order a pizza tonight. Can you help?",pizza-order
+pizza-ordering-2,dlg-739d4688-85ac-43d7-b9c8-92bd5e51bd09,Hey there! I want to get an order in for a pizza from the usual place.,pizza-order
+pizza-ordering-2,dlg-73e86ef6-81d8-4ec0-bf8f-fe6906f29452,I'd like to order a pizza from Papa John's in Sidney Ohio.,pizza-order
+pizza-ordering-2,dlg-7407d85d-57b9-45db-9140-8ac6318030d6,Is it too late to order a pizza,pizza-order
+pizza-ordering-2,dlg-74086272-44d0-41fd-9001-df8b7939cecf,I want a Veggie double crust deep dish pizza from Oleys,pizza-order
+pizza-ordering-2,dlg-744f0bb7-280f-4865-823a-2d283f879f51,I need you to place an order for me for Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-748be8ae-8e7d-4bb3-b8bb-9e84308b196e,"Hey, I would like to order a carryout special $7.99 large 2 topping pizza from Domino's.",pizza-order
+pizza-ordering-2,dlg-74f26853-59f7-4024-af4a-4d6fa97da008,"Hi, I want to order a large pizza for dinner tonight.",pizza-order
+pizza-ordering-2,dlg-74f8573a-0261-40a2-9810-69937f3cebcc,Do you think you can place an order for pizza for me?,pizza-order
+pizza-ordering-2,dlg-74ff48ac-6ee6-45ed-b9ca-d945bbb8db68,I am really hungry and in the mood for a pizza,pizza-order
+pizza-ordering-2,dlg-751a00f1-cbfc-4b05-8d27-704149226e2f,I would like to order a pizza,pizza-order
+pizza-ordering-2,dlg-7540aff7-c72e-4204-b9a8-77d9a06ffb34,"Susan, will you order me a pizza?",pizza-order
+pizza-ordering-2,dlg-75881061-29ef-44df-bf69-c904f81a2de8,Can you order a medium pizza at Eagle Pizzeria?,pizza-order
+pizza-ordering-2,dlg-758ca35e-137a-425a-8fe6-f8c4d1dc1cde,I want to place an order for a pizza. ,pizza-order
+pizza-ordering-2,dlg-75acd418-349c-4710-aa27-f37fade81daa,Hi - is it too late to order a pizza for pick-up from Il Canale?,pizza-order
+pizza-ordering-2,dlg-75f806df-7100-4b3c-a42a-12c6b504a934,I'd like to order pizza from Dominoes,pizza-order
+pizza-ordering-2,dlg-761aab1d-5def-4e87-94f2-aaa8d0adac5a,I need to order a pizza from Sappys Pizza,pizza-order
+pizza-ordering-2,dlg-7653af4e-569c-46f2-815a-9bdc9a534823,Could you place an order for a pizza from Pizza Hut for this evening's get together?,pizza-order
+pizza-ordering-2,dlg-76c0b352-3670-4122-9242-bb67d7d71daa,"Hello, I would like to order a pizza from Gino's East.",pizza-order
+pizza-ordering-1,dlg-770219bb-ce89-423b-85cc-e24af346c395,"Hi Chris, I'm thinking some pizza for lunch for our team - how does that sound to you?",pizza-order
+pizza-ordering-2,dlg-77162367-db3d-4ba6-b8cd-de3a30779f7f,"Hey, I was thinking about ordering some pizza today. I'm hungry. Can you see if you can place an order Pizza Plaza for me?",pizza-order
+pizza-ordering-2,dlg-7725ca59-1d48-4129-b338-e3898c082f04,"Im thinking I want to order from Pizza Plus, can you please order us lunch?",pizza-order
+pizza-ordering-2,dlg-774407a0-5f65-4d61-86fd-1b6d162744fc,I'm so hungry for pizza.,pizza-order
+pizza-ordering-2,dlg-77711eef-548d-4929-8ba4-52f7e1464775,"Hey, I'd like to order two large pizzas.",pizza-order
+pizza-ordering-2,dlg-77db2a26-77b8-4ad9-afd0-daf8aad8fbc5,"Hello, I need to order a pizza from Pizza Hut.",pizza-order
+pizza-ordering-2,dlg-77efe798-4c99-46ba-bc1a-b397c00fac5b,I want to order a pizza from Julianna's.,pizza-order
+pizza-ordering-2,dlg-78610bd0-65a8-4794-ac14-89de7b8d4bd8,"Hi, I wanted to place an order for pick up",pizza-order
+pizza-ordering-2,dlg-7888d6e9-11a5-47ca-b00e-b322b7e6aa27,I’d like to order a pizza for lunch. Is Fellini’s open?,pizza-order
+pizza-ordering-2,dlg-78a2dd6f-e216-448b-a651-a50dfcd0f0be,I would like to order a pizza from Luna Pizzeria.,pizza-order
+pizza-ordering-2,dlg-791d422f-67af-488c-956a-8794c51ae154,"hi pd, i like to have pizza. can you please order for me home delivery.",pizza-order
+pizza-ordering-2,dlg-792c5178-e423-4e88-b6dc-6f898a4bb1ee,Is Pizza Hut currently open?,pizza-order
+pizza-ordering-2,dlg-79418104-7ae8-4bf0-8f3f-a9e3fc0f8f5e,"hey pd, i like to order pizza. can you help me to order the pizza.",pizza-order
+pizza-ordering-2,dlg-7945490d-a80c-44aa-9cf0-8720cf4fdeca,Can I order a pizza at Blaze please? ,pizza-order
+pizza-ordering-2,dlg-7947a57f-6e3a-400b-a9b0-ddcb11d22107,A pizza sounds great for lunch. Could you see when Little Caesars opens?,pizza-order
+pizza-ordering-2,dlg-79482878-810d-4e81-b9be-5239ba3ed6e2,Place a pizza order,pizza-order
+pizza-ordering-2,dlg-795a1973-3bc6-49b0-823e-a5c9a05271cf,"Hey, Diedre, I could really use some pizza from Anthony's Coal Fired.",pizza-order
+pizza-ordering-2,dlg-7965425b-0416-4e43-a1c9-3f8ced77010d,Hello is there take-out at this joint?,pizza-order
+pizza-ordering-2,dlg-798bace5-cd19-45b4-8a85-21cb21d284b3,"Hi, stacy, can you have a pizza delivered to my home office at 10pm, please?",pizza-order
+pizza-ordering-2,dlg-799bb86f-3803-4a47-876b-2b0e9e2fc703,"Hi, I want to order a pizza from Dominos.",pizza-order
+pizza-ordering-1,dlg-799f6e21-f1de-48bb-bae4-61b1cde9890d,"Hey assistant, can you order me a pizza from Papa John's?",pizza-order
+pizza-ordering-2,dlg-79da6bd5-f72d-4cb3-a5b0-c4bd8a2d2da8,i would like to order pizzas please.,pizza-order
+pizza-ordering-2,dlg-7a295798-5a76-46d1-8f4e-6242995815f9,Can I get a pepperoni and pineapple pizza?,pizza-order
+pizza-ordering-2,dlg-7a37fa98-321c-45e9-b286-1e740952b4ee,I want a pepperoni pizza,pizza-order
+pizza-ordering-2,dlg-7a592bb3-1698-4092-9112-e4c7b37da50a,"I'd like to order two large pizzas, please",pizza-order
+pizza-ordering-1,dlg-7a6aea38-3cda-46a3-a651-a2d93f9055ef,"Hey, I'd like to get two Dominos pizzas for pickups?",pizza-order
+pizza-ordering-1,dlg-7ad3e68a-7f08-493e-a90c-27facd22f2cc,I'm trying to order a pizza from Pizza hut.,pizza-order
+pizza-ordering-2,dlg-7ae52ae5-5e3f-4cd0-8995-cf797b07c2c7,I'd like to order a specialty pizza tonight,pizza-order
+pizza-ordering-2,dlg-7b05f146-1656-4a5c-b41d-3db64069b0a8,"Hi, I want to order a pizza",pizza-order
+pizza-ordering-1,dlg-7b26ec3d-7250-4513-bcb4-8260f5e72cfd,"Hi, could you put in an order for pickup at Humdinger's Pizza for me?",pizza-order
+pizza-ordering-2,dlg-7b39e864-9d21-4788-ad9b-981a9cab62ee,Can I order a Pizza please?,pizza-order
+pizza-ordering-2,dlg-7b60984d-459e-454d-846e-a0d0563ecb5f,Hi nick!,pizza-order
+pizza-ordering-2,dlg-7b7c1af2-6b7a-4b2b-add9-a33119c60cdd,"Hello, I would like to order a pizza from Zeek's Pizzeria",pizza-order
+pizza-ordering-2,dlg-7bb48316-acff-4b7a-972f-9f4bcd284bde,"Hi, could you order a pizza for me from Dominos?",pizza-order
+pizza-ordering-2,dlg-7bde31fb-2934-459c-91eb-ad59cb4f70e2,I would like to order a pizza from Hideaway Pizza.,pizza-order
+pizza-ordering-2,dlg-7c0bd75d-a089-49e0-8196-3e73a3ededf4,I would like for you to order me a pizza from Pizza Hut. Thank you.,pizza-order
+pizza-ordering-1,dlg-7c23b6e7-79f2-4a3d-85f1-99e2d5d4e1bc,I'd like to order a pizza for dinner.,pizza-order
+pizza-ordering-2,dlg-7c647934-d359-4368-8100-8c8c8c800783,Hi can you order me a pizza from toppers to pick up on the way home,pizza-order
+pizza-ordering-2,dlg-7cf5b28e-1051-4ac3-b572-ff6b5a120518,Can you please order a pizza from Franzones.,pizza-order
+pizza-ordering-2,dlg-7d607fe5-c69d-4344-bd0c-c694d33552de,I want to have pizza for dinner tonight.,pizza-order
+pizza-ordering-2,dlg-7d8641fd-d8a5-4309-b57f-14a0716bc0f0,Hello assistant! My buddy and I are super stoned and have the munchies! We want to order a pizza from Boston House of Pizza!,pizza-order
+pizza-ordering-2,dlg-7d9c99c1-39d4-4496-ab8c-242605811cc7,"Hey, Assistant. I want to order pizza.",pizza-order
+pizza-ordering-2,dlg-7d9f8d2c-6d35-4554-842a-90dec5e1e7d2,"Amy, can you order a pizza for me from Pizza Hut",pizza-order
+pizza-ordering-2,dlg-7da0c9b1-6ca5-4379-8131-0fab14607392,"I want pizza, let's order from Papa John's.",pizza-order
+pizza-ordering-2,dlg-7dd19f9a-27f6-4397-9cee-411f1889a741,I want a pepperoni and sausage large pizza with extra cheese,pizza-order
+pizza-ordering-2,dlg-7e165a9e-db8b-48fa-a267-c18fcf35aedd,What's the name of that pizza place I like? Over on Hidden Valley?,pizza-order
+pizza-ordering-2,dlg-7f7ff7ba-5600-42f0-953f-7810518849b5,Hey! Do you have sec to order a pizza for my pool party I'm having?,pizza-order
+pizza-ordering-2,dlg-7f9ebe27-ea01-47bc-865b-6a080f85f87b,"Hi, I would like to place an order for pickup, please.",pizza-order
+pizza-ordering-2,dlg-806a2c0b-12ee-48ee-adda-ef412e24374e,"Hello, I'd like to order a pizza from Pizza Hut.",pizza-order
+pizza-ordering-2,dlg-80d9c0f3-0695-4543-a0a1-824e1bd2ec64,"Hi. I would like to order a pizza from Pizza Hut, please.",pizza-order
+pizza-ordering-2,dlg-81256f4b-b2c3-4f1e-91e1-c357933e3f94,Order a pizza from Domino's.,pizza-order
+pizza-ordering-2,dlg-813a53c3-77fc-475c-a3af-42569e56420b,"Hiya, I want to order a pizza.",pizza-order
+pizza-ordering-2,dlg-81466982-726c-470a-8de2-ef6019ce67aa,"How do you feel about pizza for lunch from Lou Malnati's, Nadine?",pizza-order
+pizza-ordering-2,dlg-8172c342-8759-4a7f-86fd-fa0e95ce4d93,For dinner tonight I’m thinking about ordering a personal pan pizza from Oasis Pizzeria. You know the one on East Main Street in Lawrenceburg Kentucky?,pizza-order
+pizza-ordering-2,dlg-81a5bb9e-f62c-461b-a55a-3cf6890f30b2,"Hi, I'm interested in a pizza. Do you have gluten free options?",pizza-order
+pizza-ordering-1,dlg-81b8b6c8-8bb6-4277-a4ea-20323c86741a,I need a pizza ordered from papa johns for pick up,pizza-order
+pizza-ordering-2,dlg-81cbc4ff-af30-4ea5-838e-201196d8e639,"Hello, can I place an order to go please?",pizza-order
+pizza-ordering-2,dlg-81cd66b3-790d-4bba-ae55-966c91012f18,"Hi, I'd like to order some pizzas.",pizza-order
+pizza-ordering-1,dlg-81da728f-0d37-4f87-8c4b-5209b4141776,Can you help me order pizza for my family for dinner tonight?,pizza-order
+pizza-ordering-2,dlg-81e1df27-b6dc-4a20-a26f-b52e2ce8d2e3,"hey assistant, can you place a pizza order from X pizzeria for me.",pizza-order
+pizza-ordering-2,dlg-81fa263e-958b-4a60-a027-6a1dfa99d37c,Would you please order a pizza from Sambino's?,pizza-order
+pizza-ordering-2,dlg-8228cb4a-4977-4582-b092-b31cc1bcc894,"Hello, what are the best pizza places in Pikeville, Kentucky?",pizza-order
+pizza-ordering-1,dlg-826ef0aa-6d76-4b92-a490-21a8264ed697,I'd like to order two large one topping with pepperoni and ground beef and a side order of garlic breadsticks from Happy Pizza on Oak Street.,pizza-order
+pizza-ordering-1,dlg-82c3cd38-f6f4-42a7-a77c-a400a2dc1b5a,I'd like make an order for pizza.,pizza-order
+pizza-ordering-1,dlg-82e215ea-0cce-4872-ad66-c390b488c20b,"I'd like to order a pizza, please.",pizza-order
+pizza-ordering-2,dlg-83389e48-33fd-4374-81ed-4375f420ffc0,"Hi there, I hope you are well. Do you have a sec to place a pizza order to Papa John's for me?",pizza-order
+pizza-ordering-2,dlg-835ea94c-3441-41ec-86d7-4639ea4a55f8,Hey I'm having friends over tonight and we're going to have pizza so I want to get one from Sizzle Pie.,pizza-order
+pizza-ordering-2,dlg-836646db-c9ac-457c-88cd-6aad5073e46e,Elaina!,pizza-order
+pizza-ordering-1,dlg-8369dedd-2efc-41c9-b4f2-f8b7a1ee8fdc,I'd like you to order me two pizzas from Napoli's please.,pizza-order
+pizza-ordering-2,dlg-83d5f920-3c06-4f40-86d5-31a4ffe49bdc,Hello! Do you have any specials on pizzas tonight?,pizza-order
+pizza-ordering-2,dlg-83ee758e-b2ce-4685-a0a0-d52fb52ffa91,I want to order two pizzas from Uno on Grand.,pizza-order
+pizza-ordering-2,dlg-8436006b-78bd-4eea-bfcc-25d8640f98ed,"Hey, do you guys do a hawaiian?",pizza-order
+pizza-ordering-2,dlg-843b135d-cdfa-4cbd-a27f-227592a01243,Order a pizza,pizza-order
+pizza-ordering-2,dlg-84b6aec2-89f1-4a8e-96f7-24447745e6b9,"Julie, I am having a get together with family tonight can you please call Jolly Rogers and order a pizza for me.",pizza-order
+pizza-ordering-2,dlg-84c56128-7a3d-48a9-9b94-d519197256fc,"Hi Lee, are you busy at the moment?",pizza-order
+pizza-ordering-1,dlg-84caf831-24af-4722-90a2-6e0222195ab3,"Hey, can you order a pizza for carryout?",pizza-order
+pizza-ordering-2,dlg-84cd1a0f-196a-41a4-a4a9-e13ce76579ad,I want to order a pizza from papa johns,pizza-order
+pizza-ordering-2,dlg-852bdd73-6ec1-4a2f-acf2-28aa4b9f3080,I want to order pizza!,pizza-order
+pizza-ordering-2,dlg-8555fab2-6c12-4052-abbe-a6bb0d053e0e,Can you order a pizza for me from Dominos?,pizza-order
+pizza-ordering-2,dlg-85acd903-c4bc-4d86-84ea-a19b16a087a5,I'd like you to place an order for me.,pizza-order
+pizza-ordering-2,dlg-85c21429-fd07-4d88-a281-2ce3fad95c36,Hi assistant. Can you please order me a pizza?,pizza-order
+pizza-ordering-1,dlg-85eb3536-40a2-41cc-87dc-feea200df818,"Hey, can you put in an online order for pizza from Joe's Pizzeria for me?",pizza-order
+pizza-ordering-1,dlg-860cf72d-cbd2-4850-8252-78f44704f01d,"Hi, I am having some few friends over and I was thinking of ordering some pizzas for them from Pizza hut.",pizza-order
+pizza-ordering-2,dlg-86125b3b-1c45-46d9-9c5e-34efb61db972,Are your pizzas gluten-free?,pizza-order
+pizza-ordering-2,dlg-8621d250-3f8e-482d-9c7b-941b6c805261,"Hi, could you order a pizza for me from Blaze Pizza?",pizza-order
+pizza-ordering-2,dlg-86582f4c-5c8f-46f6-a93f-9f503e3cc9e9,"Hey, I am thinking I would like to order a pizza from Papa Johns near my house!",pizza-order
+pizza-ordering-2,dlg-8666cf4e-56ca-4111-a76a-3c6255445e85,I'm looking to order a pizza at Papa Johns.,pizza-order
+pizza-ordering-1,dlg-8667045c-63fb-42eb-842c-54e9f7c38e30,"Hi, I wanted to get some pizza from Tony's Pizzeria for the party tonight",pizza-order
+pizza-ordering-2,dlg-86ba7f1f-6752-4cbe-ac29-9c4074cfa52c,Would you place an order for pizza at California Pizza Kitchen for me to pick up after work?,pizza-order
+pizza-ordering-1,dlg-87059c49-d84e-49d7-a27c-d14c179f98f4,"Hi, can I order a pizza from Monster's Pizza?",pizza-order
+pizza-ordering-2,dlg-87bef667-eaf2-46f5-9d94-dc6feaa6e1bc,Hello! Will you be a dear and please order me two pizzas from Pizza Hut,pizza-order
+pizza-ordering-2,dlg-8808327e-1dc5-4046-9101-ed34d70365c6,"Hello, can you order a pizza for me?",pizza-order
+pizza-ordering-2,dlg-88c42d37-ec78-4e16-b246-0d6566cb69ef,"Diedre, I want some Papa John's pizza.",pizza-order
+pizza-ordering-2,dlg-88d73c4a-57e0-4956-90b0-357a6890ee9d,Would you order one of the special pepperoni heart pizzas from Papa Murphys,pizza-order
+pizza-ordering-2,dlg-891d3496-1286-4efa-ad04-644e10bd99a0,Hi Rossi. Order pizza at L&B on 86th Street pleas.e,pizza-order
+pizza-ordering-2,dlg-895c796d-b0cc-43b2-8c54-a2b816ef5051,"Gwendolyn, I need a pizza stat!",pizza-order
+pizza-ordering-2,dlg-895ccc44-c703-467a-9094-a77e9ca980a4,Hi there! Will you be a dear and place a pizza order for me from Pizza Hut?,pizza-order
+pizza-ordering-1,dlg-895fcf89-e9b4-4b86-b679-4b285685698b,"I'd like you to order some pizzas from Gina's for the girls from my book club, we will be meeting at 6 pm tonight.",pizza-order
+pizza-ordering-2,dlg-89753253-4b3e-4e3b-9d43-bebc40b570fb,Will you place an order for pizza at Papa John's for me?,pizza-order
+pizza-ordering-2,dlg-89dd1cbf-36f6-4513-8b6f-5c4f053ff990,I am starving. Will you please oder me some food?,pizza-order
+pizza-ordering-2,dlg-8a240738-ec66-4658-ad65-926b8f9c5f73,"Hey, would you order a pizza for me from Pizza Hut?",pizza-order
+pizza-ordering-2,dlg-8a27fac9-42d7-437f-8546-47020fdd382d,"Hi Craig, can you order me a pizza for pick up that will be ready at 6 p.m? That way I can get it on my way home!",pizza-order
+pizza-ordering-1,dlg-8a2ac0ea-bcd6-48bd-892c-f68453b2c959,Hi there Joan. Can you order us some pizza?,pizza-order
+pizza-ordering-2,dlg-8ab40a37-d39f-484f-be0e-5b06e79e8d6f,I would like to order a couple of large pizzas.,pizza-order
+pizza-ordering-2,dlg-8adf5675-2cfa-42a3-8181-b15bc8a928ab,I would like you to order me a pizza from Ramos.,pizza-order
+pizza-ordering-2,dlg-8ae9112f-bd22-4970-80d7-2175825d216e,I want to order a large pizza from bertuccis,pizza-order
+pizza-ordering-1,dlg-8b55c0ec-55d3-4767-9013-0b5c3c474833,"Hey, I need you to call Papa Johns and put in an order for me.",pizza-order
+pizza-ordering-1,dlg-8b8a658d-26ee-40da-b50b-e89225c10c4c,"Hi there, I'd like to make an order.",pizza-order
+pizza-ordering-2,dlg-8bba2087-534d-414c-b0ab-48355397a79e,I am in the mood for pizza,pizza-order
+pizza-ordering-2,dlg-8bc9ca01-33a3-4dce-a3b3-f2e12366d921,I need to order a couple of pizzas from Spot.,pizza-order
+pizza-ordering-2,dlg-8bfaa6ae-0e8f-4f2c-89a8-64b7c8d09d0d,"Kim, can you order some pizza for the shareholder meeting later today?",pizza-order
+pizza-ordering-2,dlg-8bfc5f3e-fd0d-4cca-b792-abe6aecfa445,"Hey, ""Sarah"", I would like you to order me a few pizzas from Pizza junkiez.",pizza-order
+pizza-ordering-2,dlg-8c787972-4895-49e6-9c5e-bc68f731d860,"Hey! Can you order me a chicken, bacon, ranch, pizza from Sam and Greg's?",pizza-order
+pizza-ordering-1,dlg-8cc7c402-0348-40d3-9390-67b87fb11b85,"Hey Maria. I need you to call Marco's Pizza and place an order for me, please. We're going to have to work late at the office, and I want to make sure everyone is fed.",pizza-order
+pizza-ordering-2,dlg-8d24fd90-92be-444e-801b-4ea8193be10f,I want to order a pizza today,pizza-order
+pizza-ordering-2,dlg-8d7f3a1f-eb35-4f75-a439-779497791160,"Alpha Mandy, what's up?",pizza-order
+pizza-ordering-2,dlg-8d9ac9eb-08e7-48a0-8123-cae24adb1efc,I'd like to order the monthly specialty barbeque chicken pizza from Romeo's on Grandview.,pizza-order
+pizza-ordering-2,dlg-8da1ae38-1470-42e0-bde7-519aa66112f2,"Hi, can you order me a pizza from Pizza Hut?",pizza-order
+pizza-ordering-2,dlg-8def4070-9756-473a-b2ef-11eae8cc56fc,I want to order a pizza for dinner with my family tonight.,pizza-order
+pizza-ordering-2,dlg-8df9dbac-b4ff-4864-8217-c02b52914491,"Hello, I need to order a pizza from Papa John's.",pizza-order
+pizza-ordering-1,dlg-8e1bee1d-ca42-41a9-b19c-7521e75822bf,"Hey, I'd like to order some pizzas.",pizza-order
+pizza-ordering-2,dlg-8f2835f2-f427-479c-b48d-d53b615d012d,"Hi, can you please order a pizza for me?",pizza-order
+pizza-ordering-2,dlg-8fcca7c7-5048-4fab-b55c-1e7604ce9bb5,"Hello, I'm running short on time and won't be able to cook dinner for myself. I'm interested in ordering some pizzas from Nino's.",pizza-order
+pizza-ordering-2,dlg-8fef2a0b-2503-4197-8d9c-77608c5630b0,"Hi, I am calling to order a pizza from the House of Pizza.",pizza-order
+pizza-ordering-2,dlg-90044b97-4010-4e21-a93b-ecb0624d98f7,"Hey assistant, can you order a pizza for me?",pizza-order
+pizza-ordering-1,dlg-90468954-521b-4c19-9ebc-7f554e191696,"Hey Bud, I want to get a pizza from Otto's for us for lunch.",pizza-order
+pizza-ordering-1,dlg-907d9302-1ef2-41c5-a7ef-556b636e34c4,"Hi, I'd like to order a pizza from Antonio's, please.",pizza-order
+pizza-ordering-2,dlg-90b38975-fc80-43eb-88d8-a087d0f5fbc3,I want to order a pizza from Christos Pizzeria,pizza-order
+pizza-ordering-2,dlg-90bbed56-1e07-4038-9781-7c91859b9b7e,Hey there. I need you to do me a favor and stop by Pizza Hut on your way over here.,pizza-order
+pizza-ordering-1,dlg-91c4eaaf-8e80-4058-a19a-7addeb34fc49,Hello Sara can you make a pick up order from Hungry Howies for me for dinner with the family tonight?,pizza-order
+pizza-ordering-2,dlg-920c1192-ed94-4df3-a625-f87b733c3c59,Hey- I was just wondering about ordering pizzas from Frankenstein's for girl's night instead of trying to cook something later.,pizza-order
+pizza-ordering-2,dlg-92127f57-e447-48ae-9f87-5acd7342b0c1,Hey. I need you to order me a pizza.,pizza-order
+pizza-ordering-2,dlg-922173f2-0d31-42dd-8d47-76a709cce3b7,"Hello, I would like you to check on getting a pizza from Captain for me.",pizza-order
+pizza-ordering-2,dlg-9221dac4-8519-4705-bb9a-fcdb16ca046b,I need a small chicago style pizza from Joes,pizza-order
+pizza-ordering-2,dlg-9248dd8d-51b2-4a9f-8cda-5ece6ae7f7a2,"Hey, will you order me a pizza for lunch please? ",pizza-order
+pizza-ordering-1,dlg-924fad88-5ff2-490c-ac85-a0ed869dd2a8,"I'm having a few friends over for dinner tonight, please place a pizza order for me at Benny's Pizza.",pizza-order
+pizza-ordering-1,dlg-92d35cae-5d6b-4290-8098-92f5f55c9e9f,I'd like to place a pizza order for delivery please. ,pizza-order
+pizza-ordering-2,dlg-92d6fb60-c533-4052-8860-8687be3a3f75,I want to order a pizza from Rosati's,pizza-order
+pizza-ordering-2,dlg-92eacb5d-f941-444d-8b99-de0308cf6473,Hey! Can you place an order at Auggie's Pizzeria?,pizza-order
+pizza-ordering-2,dlg-93208426-2072-4d59-aa71-c20a04dfb52a,I want to order a pizza from Luigi's on 10th Street,pizza-order
+pizza-ordering-2,dlg-93462128-f9a8-4334-84a7-cdfada5c96d5,"Hi! I'd like to order a pizza, please. ",pizza-order
+pizza-ordering-2,dlg-9348f0ce-2c1c-40a6-88d8-ef579ff10695,I would like to order pizza.,pizza-order
+pizza-ordering-2,dlg-93b0ab98-f67e-45b1-8b02-266e0f6bbe0e,I will like to order some Pizza Hut,pizza-order
+pizza-ordering-2,dlg-93c06e40-ce87-4d08-9ed0-c8f1f7fd63d5,is this Tim’s Pizza?,pizza-order
+pizza-ordering-2,dlg-93e73706-1bdd-4895-8528-cfe9621716fd,"Hey, I want to order a pizza for pickup. ",pizza-order
+pizza-ordering-2,dlg-94183622-c4fa-4f50-afc0-c5499247e81f,"I would like to order a pizza for pick-up, please.",pizza-order
+pizza-ordering-2,dlg-94259e19-c683-4a9c-b77c-03b96408931b,"Hi Assistant, could you order Azzip for me?",pizza-order
+pizza-ordering-2,dlg-948a32fd-7b6b-436c-8f00-acbfebfa9454,Hey Anne can you place a pizza order for me from Papa Johns,pizza-order
+pizza-ordering-2,dlg-94b5d450-b36d-4050-9cd2-0280db4911fc,"Hi Chris, this is Ron and I need you to order me a pizza.",pizza-order
+pizza-ordering-2,dlg-9505856d-20e9-4aff-954d-dcd6419994f9,I would like to have pizza with my sister for lunch today. Can you place an order with Pizza Hut and have them to deliver to the office?,pizza-order
+pizza-ordering-2,dlg-950a7ef8-7a26-49d5-a98d-dec3ea40b0ad,I'm ready for lunch.. ,pizza-order
+pizza-ordering-2,dlg-9523c376-0040-4850-acc0-42e851dd973f,I wanted to see if you can place an order online for me from Marcos?,pizza-order
+pizza-ordering-2,dlg-958b1609-15ef-4f8b-9f71-298b95596032,I am going to need a couple pizzas for tonight. ,pizza-order
+pizza-ordering-2,dlg-958f2ecb-f661-41d8-9e51-bcdfc5d11048,I'd like to order a pizza from the Doughroom.,pizza-order
+pizza-ordering-2,dlg-9593537f-b74f-4c3c-9401-bd10cd9762e2,"Hi! I would like to order three (3) Large Pizzas, two cheese one peperoni",pizza-order
+pizza-ordering-2,dlg-959a5398-e3c1-4a9b-9ae6-c270b417f25f,"Hi Tommy, I need a suggestion for a local pizza restaurant. Do you have any suggestions?",pizza-order
+pizza-ordering-1,dlg-95b5900e-bf90-4567-b657-f59f0cbe24ca,Could you order a large iced caramel coffee from Starbucks for me? And also order 3 pizzas for lunch?,pizza-order
+pizza-ordering-2,dlg-960c8349-929c-4792-ac40-e46b11168356,"Hello Renee, I need you to order a pizza for me from Agostinos.",pizza-order
+pizza-ordering-2,dlg-961b358f-defd-495e-96c2-11842b840453,Can you please order a pizza from Papa Johns?,pizza-order
+pizza-ordering-2,dlg-9652924e-650f-40f1-81de-67fc8e168243,I'd like to order a pizza from Cascade Pizza.,pizza-order
+pizza-ordering-2,dlg-965b76ae-04d8-4211-956c-0dc1cfd388c4,"Hello, I want you to get me a pizza from Anthony's",pizza-order
+pizza-ordering-2,dlg-968442d3-23ac-47b8-aa8d-9aa73f30a5ea,"Hey! I need you to put in an order to Peace, Love, and Pizza for me..",pizza-order
+pizza-ordering-2,dlg-96916cee-7222-4c34-aced-f9e7aeeee5d6,"Carlos, are youable to do something for me? I need a pizza.",pizza-order
+pizza-ordering-2,dlg-969bfbaf-a26e-4de4-8d2b-db4fa7cadc42,"Hey, Google, order pizza.",pizza-order
+pizza-ordering-2,dlg-96fc1869-7b28-49da-ad15-1dc21fbdbe91,I would like to order pizza from California Pizza Kitchen,pizza-order
+pizza-ordering-1,dlg-970b1696-28b5-4e16-ba83-fb7e31445a30,"Hello, can you order a pizza from Papa John for me?",pizza-order
+pizza-ordering-1,dlg-976501bb-aec7-4f68-bd32-b68ffef4ed14,"Hey, I want you to order dinner from Pizza Hut",pizza-order
+pizza-ordering-2,dlg-97bee089-b689-44c3-9ba4-67686c26ed26,Hi Tabitha! I would like to order a pizza from Pizza Hut!,pizza-order
+pizza-ordering-2,dlg-97cdc2c4-c845-4bba-9c1c-026f7e88d7d1,"Hello, I'd like to order a pizza?",pizza-order
+pizza-ordering-2,dlg-97ceb129-857f-4967-83ba-bb4b88cd3d87,Can I place an order for take out?,pizza-order
+pizza-ordering-1,dlg-97db5f9d-0d88-4ef5-bec1-378bef88220b,"Hey, I would like to order a pizza I heard Pizza Hut has a deal for large pizza.",pizza-order
+pizza-ordering-2,dlg-97ed096c-b2ca-479d-829e-2bd9e2953391,Can you order me a couple of pizzas from Round Table?,pizza-order
+pizza-ordering-2,dlg-97eed619-af0f-4601-9110-01f8dd5fd8e6,Hey I want to get a pizza from Zachary's.,pizza-order
+pizza-ordering-2,dlg-97f85e45-7490-4be4-bb03-5800557ecc66,"Hello, Dan. ",pizza-order
+pizza-ordering-2,dlg-980e2558-7859-4f4a-aa69-7bfaebd5064c,I'm having a party and want to order a pizza from Marco's.,pizza-order
+pizza-ordering-2,dlg-984071e3-6f9d-4bbc-8e1c-9abe5b82c99a,"Hi, I want to order a couple pizzas for dinner.",pizza-order
+pizza-ordering-2,dlg-9871cf43-d9a3-4cbb-853d-f2b08a6d1178,Hey you can you order me a pizza?,pizza-order
+pizza-ordering-2,dlg-9873e1d7-80aa-4e37-83c6-d1597b06ce6d,I could go for a pizza. How about Old Town Pizza in Auburn?,pizza-order
+pizza-ordering-1,dlg-98c2cfcb-cfd1-41b6-9bca-0c2f94011227,"I'm thinking of pizza for dinner, any suggestions?",pizza-order
+pizza-ordering-2,dlg-99063e84-5315-4ff1-a6e9-71a52cd400d5,can you order me a pizza from pizza hut,pizza-order
+pizza-ordering-1,dlg-992f1d02-d61f-4fb4-b7a2-c04ec4c652c1,"Hi, I'd like a latte please.",pizza-order
+pizza-ordering-2,dlg-99331370-7a3f-43b2-ac88-63b662d83b3b,"Hi, can you get me a pizza from Dominos?",pizza-order
+pizza-ordering-2,dlg-99416317-1689-4438-bdcd-f9839fc37261,I would like to order a pizza from Oregano's please.,pizza-order
+pizza-ordering-2,dlg-9989860d-f084-4523-9674-94d7f8bda30d,I need you to order a pizza for Joyce's work group today.,pizza-order
+pizza-ordering-1,dlg-99b79d03-0015-4828-a604-f8fad4d5c806,Hi I would like to know how much a pizza is?,pizza-order
+pizza-ordering-2,dlg-9a049f0d-2542-4a97-830f-62aee5d425ff,Is Pizza Man open late?,pizza-order
+pizza-ordering-2,dlg-9a983034-6b0b-416a-b5c6-312ed12b0de2,I need an order a pizza,pizza-order
+pizza-ordering-2,dlg-9aab0156-c38a-4e04-bbd4-44224119630f,"OK, What restaurant to you want to order from>",pizza-order
+pizza-ordering-2,dlg-9ab0de09-3f0c-4bc7-a622-df36de5a3eb6,Hi Is this Papa Johns,pizza-order
+pizza-ordering-2,dlg-9af51a3e-97ec-47b3-a857-f018561622cc,Hi Jan. I am thinking of ordering pizza from Artichoke Pizza .,pizza-order
+pizza-ordering-2,dlg-9b4e0a72-c96a-4594-b861-6f88f4ba7668,I would like to order a two topping pizza.,pizza-order
+pizza-ordering-2,dlg-9c10cdb4-2acc-4a41-92e1-1064a1885ce0,Hi I want to place an order for pizza in dominos,pizza-order
+pizza-ordering-2,dlg-9c7a0b25-93e7-4cb2-9297-d96246473aeb,"Hello, could you order a pizza for me from East of Chicago?",pizza-order
+pizza-ordering-2,dlg-9ccacf5f-fde5-4990-ab7f-e84465977c9f,Can you order me some pizza to pick up at Kingsbridge Social Club?,pizza-order
+pizza-ordering-2,dlg-9ccd3cc4-61ca-4972-9208-3681f2d2b20e,I'd like to order a pizza from Big Mama's in SoHo.,pizza-order
+pizza-ordering-2,dlg-9ce3559e-7df6-4168-9cec-784ef309248c,I'd like to order pizza for my lunch meeting today.,pizza-order
+pizza-ordering-2,dlg-9d09fdf7-8b98-4d5e-a735-a01654b9f684,"Hi, I'd like to order a Pan Pizza from Dominoes",pizza-order
+pizza-ordering-2,dlg-9d0d57ea-171a-43db-bdb5-69f3a69ce95c,"Google, order me a pizza.",pizza-order
+pizza-ordering-2,dlg-9d5aa5f9-bdc8-4794-b83a-d5f7158eeccf,"Hi, I am thinking of ordering pizzas from Giovanna's.",pizza-order
+pizza-ordering-2,dlg-9d7bff07-666e-41e1-b8b1-6232194b0ac6,"Hello, I was looking to order a Pizza.",pizza-order
+pizza-ordering-2,dlg-9d839c3b-2d98-4956-93dd-1c565d4d345e,I want to order a pizza from Rosati's.,pizza-order
+pizza-ordering-2,dlg-9dc250a5-b954-44a1-bce4-cf644dabc1d7,"Hi, can you order a pizza for tonight?",pizza-order
+pizza-ordering-2,dlg-9e1805de-383b-4efe-bed1-b21ceb44d5b2,"Hi Carrie, this is Bob",pizza-order
+pizza-ordering-2,dlg-9e5ed5f5-8d5e-4f0a-9703-df399afc5a0c,call me up a pizza pie,pizza-order
+pizza-ordering-2,dlg-9e8223a9-8872-4a1d-b16b-8f1cf6fdd7c3,I would like to place an order. ,pizza-order
+pizza-ordering-1,dlg-9ec14e22-6078-4b0f-b908-626e8249a8ff,"Hmm, I am hungry for some pizza.",pizza-order
+pizza-ordering-2,dlg-9ecfd32d-a630-4e98-a26b-7981632cda9f,Siri are you hungry?,pizza-order
+pizza-ordering-2,dlg-9edc9fd8-e69a-45a3-87e7-32c0591991fd,Can you order a pizza from LaRosa's please?,pizza-order
+pizza-ordering-2,dlg-9efdf758-d9ab-4525-a074-03906d511f76,I want a pizza from papa John,pizza-order
+pizza-ordering-1,dlg-9f01217b-27b9-4841-9938-983fde62b28b,"Hey, can you order me pizzas from Dominos?",pizza-order
+pizza-ordering-2,dlg-9fb3cfb0-cca8-4c86-b84f-1f663098d4d0,Could you order me a pizza from Fiori's Pizzaria please?,pizza-order
+pizza-ordering-2,dlg-a00ba666-a927-4291-ad80-fc176c5aa170,"hey chris, want to order some pizza for lunch can you place an order for me from dominoes",pizza-order
+pizza-ordering-2,dlg-a0346b22-1145-4ca4-9bd5-e53e5d2db51e,"Hey Claire, Can you order me a pizza for lunch?",pizza-order
+pizza-ordering-2,dlg-a04fb5f6-7745-4085-aecf-502d01900864,"I am thinking that a pizza sounds good tonight. Quick and easy, what's closer, Shotgun Dan's, or Pizza D' Action?",pizza-order
+pizza-ordering-1,dlg-a0aa7e9b-8273-4154-b831-6b68aa4bac82,I would like to place an order for 3 pizzas at La Casa Pizzaria.,pizza-order
+pizza-ordering-2,dlg-a0e7deee-4087-4c71-8fce-ca7481fc06bd,"Hi, I was calling to order a pizza?",pizza-order
+pizza-ordering-2,dlg-a0fd489e-795e-4419-83ab-743250bca2b9,"Hello, can you order a pizza from Little Caesars for me?",pizza-order
+pizza-ordering-2,dlg-a1005876-990a-40a7-b969-80c5cf6d9e0a,"I'm not going to be able to make dinner tonight, can you help me order a pizza",pizza-order
+pizza-ordering-2,dlg-a14b25d0-4758-4ea9-8e20-37f2fb21b0bb,We'd like to order a pizza please.,pizza-order
+pizza-ordering-2,dlg-a17dc16c-f22d-4da1-a238-c1e61671d024,"Assistant, I want to order a pizza.",pizza-order
+pizza-ordering-2,dlg-a1a66261-963b-474d-86a4-09100c0a958d,"Hi, could you order me a pizza, please? I need to bring dinner home.",pizza-order
+pizza-ordering-1,dlg-a1b2acad-9219-4aac-9b91-ec6482b36afa,"Hey Wanda, can you order me a couple pizzas from the Screamin Banchie Pizza place?",pizza-order
+pizza-ordering-2,dlg-a1b4f0d5-8ec3-4b85-a428-b97e3cf6ed13,I want to order a pizza from dominoes,pizza-order
+pizza-ordering-2,dlg-a1d3bc59-2978-416f-9151-39206645b9db,"Hey, can you call Old Orchard to get me a pizza please?",pizza-order
+pizza-ordering-2,dlg-a253b089-9279-4c44-b537-7c97e0b25efe,I would like to order a pizza from Sauce please,pizza-order
+pizza-ordering-2,dlg-a26bca7a-78e1-4171-85f7-51d4c3277c71,"Hi Jane! I am craving some pizza, can you order for me?",pizza-order
+pizza-ordering-2,dlg-a27839b0-bf9d-4e0b-a49b-6b372a02d154,"Hey, I'm really feeling a pizza. What places nearby are still open?",pizza-order
+pizza-ordering-2,dlg-a2b73c67-4a48-4daa-9f67-634117ba7b16,"Hi, Do you have any specials today?",pizza-order
+pizza-ordering-2,dlg-a2d41f89-5ad8-414f-a4d0-f92efb8f7d19,I need you to order me a pizza from Mazzios.,pizza-order
+pizza-ordering-1,dlg-a2e0cec9-a966-421f-8449-27bd05884b06,I want to order one pizza from little caesars,pizza-order
+pizza-ordering-2,dlg-a2f2beb4-f492-4b50-9d65-0384b3de3205,"Hey Sarah, Can you order me a pizza for lunch?",pizza-order
+pizza-ordering-2,dlg-a34848c5-9892-48aa-b0f7-70fd1e7a6af0,"Hi, I would like to order a pizza from Dominos.",pizza-order
+pizza-ordering-2,dlg-a3486798-f62a-494d-9146-216a8d6760cf,Hi. Do you have any pizza specials?,pizza-order
+pizza-ordering-2,dlg-a35b2cb6-d536-4dc1-a91c-4863fcc56218,Hi! I'd like you to order me a pizza from Pizzeria Azzuria,pizza-order
+pizza-ordering-2,dlg-a3ab9612-1840-4ae5-bec7-3ca14c44a0cb,Order a pizza from Pizza Hut,pizza-order
+pizza-ordering-2,dlg-a3c9877a-0035-4293-93c5-061ec01eeb55,"Hi, I need to order a pizza, please.",pizza-order
+pizza-ordering-2,dlg-a46e38de-4993-4bdb-8bfb-05c409968fcc,"I'd like to place an order at Joe's Pizza, are they still open?",pizza-order
+pizza-ordering-2,dlg-a47226aa-657e-4ec2-8864-e665a9028445,Hey there! Would you please order me a pizza from Pizza Hut?,pizza-order
+pizza-ordering-2,dlg-a4e30867-ba24-4935-93e2-4e1e0da53d1b,I'd like to order one pizza.,pizza-order
+pizza-ordering-2,dlg-a5280a2a-cef4-4d40-a732-8e5978a8dd04,Hi Mary how are you? Could you do me a favor and place an order for a pizza?,pizza-order
+pizza-ordering-2,dlg-a59ccc5f-5feb-40fa-9233-8e27705f82f1,"Jane, I would like for you to order a pizza for me to have for dinner.",pizza-order
+pizza-ordering-2,dlg-a5e1a812-46e3-4354-ab00-2c10311864a5,"Hey Google, I am feeling hungry",pizza-order
+pizza-ordering-2,dlg-a5fcb1eb-517f-466a-954d-18acba870e4c,I'd like to get some pizza from Dominoes,pizza-order
+pizza-ordering-2,dlg-a644d12a-ad2b-41d0-83fa-25bdad5f4323,Can you please order pizza for our meeting?,pizza-order
+pizza-ordering-2,dlg-a6c104dc-da16-4eff-a33b-227a31dbf9cf,Hello Tom I have a taste for pizza ...Can you place and order for a large pizza for our meeting today?,pizza-order
+pizza-ordering-2,dlg-a6c64256-eb16-4312-925f-1d948eec9416,hi i would like to order a pizza from pizza hut please,pizza-order
+pizza-ordering-2,dlg-a7047d46-3182-4755-abf3-f5e855c77518,I'd like to order one large two topping barbecue chicken pizza with banana peppers and onions.,pizza-order
+pizza-ordering-2,dlg-a768039c-5880-4cef-a338-084268ba10bc,I would like to order a pizza from Shakey's.,pizza-order
+pizza-ordering-2,dlg-a79db222-f8ab-4ea0-a18c-0600b172f968,I would like to order a pizza from Papa Johns,pizza-order
+pizza-ordering-1,dlg-a7d5d8f4-3a18-4a63-96b6-f68609a60ca6,I would like you to order for me 3 large pizzas.,pizza-order
+pizza-ordering-1,dlg-a80b2d89-bcae-454d-b8c4-68f88529a038,"I'd like a venti iced americano, light ice, with 2 pumps white mocha.",pizza-order
+pizza-ordering-1,dlg-a84a1976-464e-4551-8426-26a7ad26b161,Can you order pizza for lunch? ,pizza-order
+pizza-ordering-2,dlg-a86be952-39a4-46ab-96f6-7938e03b9cce,I would like to get a pizza from papa johns,pizza-order
+pizza-ordering-2,dlg-a8c79ad3-e51b-48a7-b273-58a151dc9754,"Hey, I was thinking about ordering from Sal's pizza for the upcoming event.",pizza-order
+pizza-ordering-2,dlg-a91bb338-170c-4b96-a21f-4cd2ded3ca46,I need a pizza from Mazzio's that can feed starving boys and their momma.,pizza-order
+pizza-ordering-1,dlg-a948c4e6-0c50-4690-bf8a-378cee63754c,Hello! I would like to get a pizza for this evening for dinner. Can you order it for me?,pizza-order
+pizza-ordering-2,dlg-a94d4fa5-ab8a-4826-b49f-fbc7bb16c53d,Hey Assistant can you order a pizza from Domino's for today's meeting?,pizza-order
+pizza-ordering-2,dlg-a990161c-2f2c-48b2-9547-81f25cdc407f,"Hello, I need to order two pizzas for dinner tonight from Pizza Hut",pizza-order
+pizza-ordering-1,dlg-a9a20a28-3ffd-46b6-ab9a-95e0d3c7ff90,I want to order 2 pizzas from Rosatti's.,pizza-order
+pizza-ordering-2,dlg-a9b80a94-f3c2-4141-bee6-1827d1788e6f,Sandy can you order a pizza for me dominos?,pizza-order
+pizza-ordering-2,dlg-a9f7c86a-bd3e-4ec3-8dad-3f6213397b16,Hello! I want to order a pizza.,pizza-order
+pizza-ordering-1,dlg-aa0cdc1c-5792-4b21-9069-408bc27b4edb,I want to order Dominos pizza,pizza-order
+pizza-ordering-2,dlg-aa325470-8eed-4a87-8be6-8bf3a2d1b55c,"Hey Marco, can you recommend a local pizza restaurant for my friends and I for tonight. We are going to watch the big game. ",pizza-order
+pizza-ordering-2,dlg-aa4fd95a-caf8-4d7f-ae2d-06f54ba15a52,"Hi, I'd like to order a pizza from Little Star, please.",pizza-order
+pizza-ordering-2,dlg-aa68b4a8-3d44-4c95-8884-c10c0a717f69,I need to order a pizza from Marco's.,pizza-order
+pizza-ordering-2,dlg-aa7b3259-ec4f-4aa1-a109-26a402b5343b,I want to order some pizzas from Brooklyn Pizza in Charlotte,pizza-order
+pizza-ordering-1,dlg-aafba973-6dca-4715-9a11-5c844ef4da8b,"Hey, I forgot to set out my chicken to thaw tonight. Can you order me a pizza?",pizza-order
+pizza-ordering-2,dlg-ab2ef44c-4f7f-4524-ac94-140b0ef1c041,"Hi , Pizza Chapel ? I undertsand you are still running a tues night special ?",pizza-order
+pizza-ordering-1,dlg-ab4f13a3-19ff-4af1-ad84-9bfd8465b25d,Hi. I am absolutely starving. Can you order me a pizza?,pizza-order
+pizza-ordering-2,dlg-ab568759-77b3-4c3d-bd73-4b30f297d26e,I want to order a pizza from Sam's Pizzeria.,pizza-order
+pizza-ordering-2,dlg-ab6717c7-09ae-476d-be0c-7aefea1a191d,"Hello, I'd like to order a pizza",pizza-order
+pizza-ordering-1,dlg-ac0e548e-2289-4184-997d-3a36d24ae512,I want to order a couple of pizzas from Marcos.,pizza-order
+pizza-ordering-2,dlg-ac28badc-f681-48cc-ab21-fe0745e72654,id like to order a pizza ,pizza-order
+pizza-ordering-1,dlg-ac5c7222-b074-4e94-b073-58f563bc165a,Hi there! I'd like to order a pizza from Luna Pizzaria.,pizza-order
+pizza-ordering-2,dlg-acaaaf7c-4059-4798-94b2-dddc39f6d0b4,"Hi, can I get special order pizzas ?",pizza-order
+pizza-ordering-2,dlg-acbddca9-010b-4e80-a5b4-a88cdb9e0db2,"Hey Emily, I wanted to see if you could order me a large pizza from Channellos.",pizza-order
+pizza-ordering-2,dlg-aced3cbc-0607-4615-b06c-55ecf03e477f,I need a pizza sent to my house.,pizza-order
+pizza-ordering-2,dlg-ad2c8b98-0a33-4a86-8bb5-387f0fc542c5,Hi Suzy!,pizza-order
+pizza-ordering-2,dlg-ad2ca719-d8e4-40cd-9cf7-8946015f5656,"I am in the Boylston area, can you order me two pizzas from Domino's?",pizza-order
+pizza-ordering-2,dlg-adb3878f-7b27-4b20-b857-cef0349b7113,"Hi [ASSISTANT], could you order a pizza from Pizza Rigazzi for my dinner date?",pizza-order
+pizza-ordering-2,dlg-adc59ba6-49e8-48b4-b885-28b39c1c2cc2,Good afternoon. I would like to order a pizza today.,pizza-order
+pizza-ordering-2,dlg-add0c5bb-f03e-44b0-b6b8-1da2463a17d2,"Hi, I want to order a pizza from Pizza Shack",pizza-order
+pizza-ordering-2,dlg-ae286767-cf48-44f2-9633-5bcb38e5a461,"I am looking to order a gluten free pizza in Bangor, Maine",pizza-order
+pizza-ordering-2,dlg-ae3ae608-c7d0-4645-bc14-5c92f0275828,"Yeah, I'd like to know what deals you have on pizza",pizza-order
+pizza-ordering-2,dlg-ae3e03e4-1d4f-4b64-b32b-00008538a12d,"I'd like to order a large pizza for pickup, please.",pizza-order
+pizza-ordering-2,dlg-ae6a7636-a0da-4386-a8f4-a4680309d2b4,Hi I want pizza?,pizza-order
+pizza-ordering-2,dlg-ae9cac35-bdfa-42f7-bce6-aa218134c53b,"Hi! We're getting hungry, can you place an order at Barry's Pizza?",pizza-order
+pizza-ordering-2,dlg-aea2e824-7fb8-4bd8-b33b-d82cfd1145aa,"Hi, it’s me. Can you order a pizza for me?",pizza-order
+pizza-ordering-1,dlg-aec220e4-47bb-4846-bb50-5179d1e0b80e,"Hi, I'm going to be meeting with my mom and sister for my mom's birthday, so I was wondering if you'd be able to put in an order at Donatos for us?",pizza-order
+pizza-ordering-2,dlg-aee67bea-0f94-464a-a081-1d2e001c41f8,"Hey! I'm carving a delicious pizza right now, can you place an order for me?",pizza-order
+pizza-ordering-2,dlg-af3a0224-64ff-401f-81b0-b5a61d36ec2b,"Hello, I'd like to order a pizza from Domino's.",pizza-order
+pizza-ordering-1,dlg-af6dd80d-e095-4801-a5cb-24d7de779634,"Hi, I'd like to order a pizza from Pizza Hut.",pizza-order
+pizza-ordering-2,dlg-af7ae629-e0bd-4bc6-96a8-c0e02a789197,"Hi, I'd like to get a pizza order in.",pizza-order
+pizza-ordering-2,dlg-af92cc13-6acd-4edf-ab3a-3de86ab334d4,"Hi, could you order a pizza for me from the Dominos for me?",pizza-order
+pizza-ordering-2,dlg-afab4fd2-c92a-4fd4-b0a6-f0baf8073fe6,I would like to order a pizza from Round Table tonight.,pizza-order
+pizza-ordering-2,dlg-b008f948-4521-4926-9ddf-3f7ecdc8fbf1,Hey can you order me a large pepperoni and ham pizza from stone oven pizza?,pizza-order
+pizza-ordering-2,dlg-b08821b4-f830-4f1b-b9a5-96a7d17e7104,"Hello, would you please order me a pizza from Domino's?",pizza-order
+pizza-ordering-2,dlg-b0b42927-3b9d-4d92-a4b8-e56b0c9a9906,I would like pizza for dinner tonight.,pizza-order
+pizza-ordering-2,dlg-b112feb7-84cd-4156-9785-f5ab697b9053,Hey!,pizza-order
+pizza-ordering-2,dlg-b12ff9a7-adfa-4cdd-8cd7-a1e84526c59a,I would like to order a large pizza from Salvatore's,pizza-order
+pizza-ordering-2,dlg-b155d6ba-9011-49dc-8ba7-0dd3b287af69,"Hello, I would like to order a pizza for pick up",pizza-order
+pizza-ordering-2,dlg-b15e8826-506b-4380-92a1-995e0f7ab695,"Hello, I'd like to order a pizza from Giordano's.",pizza-order
+pizza-ordering-1,dlg-b16d341b-c7ae-4017-82db-08a11b74f2b8,I was wondering if I can get four pizzas ,pizza-order
+pizza-ordering-2,dlg-b192655d-e80b-4e84-9d59-bd013faea348,"Hi, I'd like to order a pizza from Papa Johns in Willow Grove, PA",pizza-order
+pizza-ordering-2,dlg-b1b17b6e-f99f-46d3-a3de-278e9fab7bb6,Hey can you order me a pizza from Cosmo's on the hill,pizza-order
+pizza-ordering-1,dlg-b20f0c72-5b4c-4da1-8146-ff284b7a3e9f,I want to order to a pizza for dinner tonight.,pizza-order
+pizza-ordering-1,dlg-b25c11f4-af49-4018-8e90-89ab7201786e,"Hi Susan, I have a family event this evening and would like for you to place an order withPizza Emporium please.",pizza-order
+pizza-ordering-2,dlg-b27e071b-fbd1-4097-ad45-20cd4a0ed0ee,I am in the mood for a pizza.,pizza-order
+pizza-ordering-2,dlg-b28c8cc9-d419-42a6-877a-f91309bc2ad0,I would like to order a pizza from Don Antonio.,pizza-order
+pizza-ordering-2,dlg-b2f92c29-fe59-4f7b-9008-9c81a35e5df5,Can I have a ham pizza please,pizza-order
+pizza-ordering-2,dlg-b340632d-2af3-49ab-8d10-cfa63d2723f8,"Hi, I would like to order some pizza",pizza-order
+pizza-ordering-2,dlg-b35aa002-5955-44d9-881f-e2afdf679bb7,I want to order a extra large supreme pizza.,pizza-order
+pizza-ordering-2,dlg-b3b3c743-5e05-4aed-ab9d-a46f1c8a37cd,"Hey, I would like to get a pizza from Pizzario Uno on South Street.",pizza-order
+pizza-ordering-2,dlg-b40ce4ae-7b56-43eb-bb76-b32ba212b3eb,"Hello, can you please order a pizza from Domino's?",pizza-order
+pizza-ordering-2,dlg-b4565406-e5d8-4355-8717-4cfe7ab88662,"Hello, I need to order a pizza for dinner, can you help me?",pizza-order
+pizza-ordering-2,dlg-b45baa6d-478c-4e27-91cf-25ae7503a19d,"Hi there, I'd like to order two medium pizzas, please",pizza-order
+pizza-ordering-2,dlg-b4a443b9-9da1-437e-871d-36871b1f9fc4,"Hello, I need a pizza ordered for a small party tonight.",pizza-order
+pizza-ordering-2,dlg-b4cf679f-10a1-4009-9277-07b7f5b4bdfe,Hi i would like to order a cheese lovers pizza,pizza-order
+pizza-ordering-1,dlg-b4fce881-f03a-491a-989e-d7c8bbe035cd,"Hi, I need to order some pizza from Lotsa Motsa.",pizza-order
+pizza-ordering-2,dlg-b51878d1-009c-4156-9742-2a6cb82b419b,"Hi there, I'd like to have a Pizza from Pizza Hut",pizza-order
+pizza-ordering-2,dlg-b5205d99-5bb7-47ff-8580-08f1f8cbc013,Have you left the office yet? ,pizza-order
+pizza-ordering-2,dlg-b54e54f7-0141-4125-a999-62239a8b9b11,I was thinking about ordering some pizza.,pizza-order
+pizza-ordering-1,dlg-b5765f41-cf9a-4090-ab83-530f079f1742,Hi Siri! can you order 2 pizza from Pizzahut?,pizza-order
+pizza-ordering-2,dlg-b59a6218-eeef-4b83-a34e-79b26c04698c,"Hi, I'd like to order a pizza from Domino's.",pizza-order
+pizza-ordering-1,dlg-b5d2ca0c-1bfb-4107-9dc2-7a71f6235f97,I need you to order some pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-b5eb590e-af2a-4f5f-910a-e92aa785f780,I would like to order pizza for the team for dinner tonight,pizza-order
+pizza-ordering-2,dlg-b5f25dba-428d-476f-b73a-bb1f8b768751,I need you to place an order for me at Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-b6a491ee-d9d8-49ad-bef2-eec1f3a1c57d,"Hi Rachel, I'm having some friends over for a movie can you help me order a pizza from Napoli?",pizza-order
+pizza-ordering-1,dlg-b6dd5837-9118-4dd3-ab83-c0fff63d660e,What are your delivery times like from my address?,pizza-order
+pizza-ordering-2,dlg-b6f9e21e-ad22-47b8-abbd-1c9addf633d6,Call Fernando's Pizza on Cahuenga Blvd West in Studio City.,pizza-order
+pizza-ordering-1,dlg-b72c3134-5226-4965-9461-f1f41f9a07fc,"Hey Martha, could you please order a pizza for me? I'm quite hungry.",pizza-order
+pizza-ordering-2,dlg-b75927fb-6ac1-4236-b989-960998560af3,Can you get an order started at Pizza Hut so I can pick some pizzas in a bit?,pizza-order
+pizza-ordering-2,dlg-b765470e-26c3-4397-82d3-40a2be00089b,"Hi, I'd like to order a pizza from Wiseguy Pizza in Washington, D.C. please.",pizza-order
+pizza-ordering-1,dlg-b76bcca4-948b-4bc8-ae8f-a904226b6ca4,"Hey, Bill. Can you order me some pizzas?",pizza-order
+pizza-ordering-2,dlg-b82c83f7-69b7-4e5e-a4f1-077fb1245ed1,Hey Sam I was thinking about ordering some pizza. My family is going to join me for lunch.,pizza-order
+pizza-ordering-2,dlg-b897cf62-c3bc-44bb-ae99-c22ae914e73e,I'd kie to place an order,pizza-order
+pizza-ordering-2,dlg-b8d93bcb-04f5-4813-8388-65dfe320e0da,I wanna order a pizza from NYPD Pizza,pizza-order
+pizza-ordering-2,dlg-b8dca5f8-cc5b-414c-afeb-226d054758a6,Hello! I was calling to order a small sized extra spicy Chicken Pizza.,pizza-order
+pizza-ordering-1,dlg-b8ff41dc-8ada-4a5e-b4e5-e7b4c2ec3b38,"Hey assistant, order me a Energy Vanilla Drink of Starbucks",pizza-order
+pizza-ordering-1,dlg-b9cd0273-af7b-463b-98b7-69262e833eee,"Hello, I was wondering if you could place a Pizza Hut order for me please?",pizza-order
+pizza-ordering-2,dlg-ba2d4851-e5ae-4ac4-b051-ae217d91e265,"I am hungry, and I need two pizzas. ",pizza-order
+pizza-ordering-2,dlg-ba303209-f188-4d1f-9240-3f5531c9cf40,Hi can you order some pizzas for my club tonight?,pizza-order
+pizza-ordering-2,dlg-ba3d74da-e5c5-41c2-ae7d-a0229705c5c2,I'm in the mood for ordering a pizza.,pizza-order
+pizza-ordering-1,dlg-ba4961c5-fd52-4dbe-a2dc-4db58cf174e7,Hello can I have a extra large pizza deal. I would like to have 6 extra large pizzas.,pizza-order
+pizza-ordering-2,dlg-ba7e7c58-3063-40ec-98cc-18accc0e0ac0,I would like to order a pizza from hometown pizza,pizza-order
+pizza-ordering-2,dlg-ba992a6b-e887-4384-ab30-389989e738b6,"Hi Joe, can you place an order for a pizza for me? It's lunch and I'm starving. ",pizza-order
+pizza-ordering-2,dlg-bb3bd9f6-6e00-40e0-adb2-a7a854cef542,"Hello, can I put in an order for pizza from Anthony's?",pizza-order
+pizza-ordering-2,dlg-bb552b52-1b9a-4001-ac25-afd3bd3cc6d3,Ok Google order me a pizza from Pizza Hut,pizza-order
+pizza-ordering-2,dlg-bb56fcf8-d79d-4511-9b93-9f8c6866a303,So I lost a bet and need to order several pizzas. Can you help you me out?,pizza-order
+pizza-ordering-2,dlg-bb712f05-583f-4965-ad61-6804ce199df9,"Assistant, can you order me some pizza's from Zalla'z?",pizza-order
+pizza-ordering-2,dlg-bc502dee-599c-4068-bb5c-3e6cbe3b8df4,"Hi, I would like to know if I custom make an order.",pizza-order
+pizza-ordering-1,dlg-bc5235d4-0256-4f1f-b8dd-0c6f5c1a0679,"Hi, I'd like to order a Grande Mocha",pizza-order
+pizza-ordering-2,dlg-bc62a871-b5b6-45c5-970f-e9abfd610548,"Hey Ken, I need to order a pizza for my kids tonight, can you help me? Can you place an order for me at Domino's?",pizza-order
+pizza-ordering-1,dlg-bc84d2db-40b3-431a-981d-953344524756,Hello Benny.,pizza-order
+pizza-ordering-1,dlg-bc8c0bd3-96a8-452f-8239-a5328bb67cc0,"Hi, Could you do me a favor and order a large pizza for me?",pizza-order
+pizza-ordering-2,dlg-bcf20efc-4c3a-4814-b486-8f5a5c5dad30,"Hello, I'd like to order a pizza from Angelos",pizza-order
+pizza-ordering-2,dlg-bd10fdbb-a141-4308-8cd9-d9ded7ea6dcb,Want to buy a pizza at the Pizza Loca.,pizza-order
+pizza-ordering-2,dlg-bd40becb-d1f0-4efc-8089-7f33258d8d7c,Janine I'm feeling a bit hungry. How about you?,pizza-order
+pizza-ordering-2,dlg-bd852c3b-378c-42c6-9adb-32b4c07b2e64,"Hi, I'd like to order pizza from Domino's for my family.",pizza-order
+pizza-ordering-2,dlg-be7de3bb-7ec2-4826-b0d9-af5accab499e,"Hey, can you order a pizza from Sal's Pizza place for me?",pizza-order
+pizza-ordering-1,dlg-be9a2bb4-f862-48d3-b747-6229b33ac781,"Hello, do you have a special for large pizzas?",pizza-order
+pizza-ordering-2,dlg-bea33a57-cc81-4f88-9625-0ef4416d5996,"Hi, can you order me a pizza. ",pizza-order
+pizza-ordering-2,dlg-bed9bd7e-0594-4f44-8b31-daaa4496ebc1,"Hey Jaime, Can you order a pizza from Papa Petes Pizza in Centralia?",pizza-order
+pizza-ordering-2,dlg-befc6cbf-944e-4ec9-b945-9a59a601b85d,"Hi, can you order me a pizza?",pizza-order
+pizza-ordering-2,dlg-bf0a9d35-f071-4e09-a10d-c6a09c109dba,I want to order a pizza from the blaze pizza down the street,pizza-order
+pizza-ordering-2,dlg-bfd9b275-0588-40e3-9f92-1e7113aa7827,Hi Nancy. I need you to order me a pizza from Luigi's.,pizza-order
+pizza-ordering-2,dlg-c013aef4-5f1e-4167-bc22-f08ab4a6cd17,"Hey, can you give me a hand ordering dinner?",pizza-order
+pizza-ordering-2,dlg-c0486400-0084-42fb-8493-18b0e10a5685,Can you order a buffalo chicken pizza from papa johns?,pizza-order
+pizza-ordering-2,dlg-c052ae95-93f4-4f63-91d2-2b0be2ffca6c,I'd like to get a pizza ordered. ,pizza-order
+pizza-ordering-2,dlg-c08ce0ef-2197-40f8-8b01-d1a20dbc1871,Hey. I was wondering if you guys have any specials for today.,pizza-order
+pizza-ordering-2,dlg-c0978037-55aa-4844-bb9a-85038267ddcf,Id like you to put in a pizza order for me,pizza-order
+pizza-ordering-2,dlg-c0b9f52f-ab59-4e57-a676-862e666b133b,"Hi, I would like to order pizza please.",pizza-order
+pizza-ordering-2,dlg-c0e00464-3d69-4ead-8158-1c71e6b58d96,"Hi, can you order a pizza for me? ",pizza-order
+pizza-ordering-2,dlg-c11a7e0b-0afe-43d9-b40f-ce8d3f77b151,may i order a pizza please,pizza-order
+pizza-ordering-2,dlg-c12d0aba-4212-4283-b49f-56cd4b9af87f,I am looking to order some pizza from Pizza Hut.,pizza-order
+pizza-ordering-2,dlg-c1448c24-aabc-4481-b7a9-70c336920563,Hello Google! Would you please place a pizza order for me from the nearest Domino's Pizza for pickup?,pizza-order
+pizza-ordering-1,dlg-c15bca14-68d5-4f12-bb42-11cc27a84bd8,"Susan, would you please order a few pizzas from the local Dominoes?",pizza-order
+pizza-ordering-2,dlg-c1b054cb-ef63-427f-8f6f-7e68f697787e,Hi I'm running late again and need to pick up supper on my way home. Can you call in a pizza order for me?,pizza-order
+pizza-ordering-2,dlg-c1bee34c-f8b8-47b4-a1a1-5a9b943ab76f,"Hey, how are you? I think I would like to get a pizza for dinner tonight.",pizza-order
+pizza-ordering-2,dlg-c216398b-bed2-4081-8e36-3f201443bcdb,I'm having all the grand kids over tonight and want to order Little Ceasars Pizza for everyone.,pizza-order
+pizza-ordering-2,dlg-c2cf3f51-cb5e-4df7-a95c-75f5679a9463,Hey could you put in an order for 5 pizzas for me.,pizza-order
+pizza-ordering-2,dlg-c2fb7aab-f5fb-4d78-9053-663211cdb12d,Hey Lisa,pizza-order
+pizza-ordering-2,dlg-c2fce8bb-4e2a-42fb-a097-3cbebc9fa026,"Hello, I would like to order a pizza for tonight, it's my son's birthday.",pizza-order
+pizza-ordering-2,dlg-c357367d-0df1-4034-b2b8-ad8df5d63b29,"Hey, uh, can I get my usual from Junior Joe's?",pizza-order
+pizza-ordering-2,dlg-c3598159-dd8c-43dd-97df-6ac22a9687f6,Please order two large pizzas from The Pizza Shoppe.,pizza-order
+pizza-ordering-2,dlg-c37c33df-4b4d-47d1-88a9-2a4453df43c8,HI I'm wanting to order a pizza to go please,pizza-order
+pizza-ordering-2,dlg-c380a787-5738-4c4c-b1e6-94bb35998b84,Is Pizza Barn Open?,pizza-order
+pizza-ordering-2,dlg-c3b5ddf7-5c92-41a7-a088-a0a5f604b74b,"Hello, I'd like to order a pizza.",pizza-order
+pizza-ordering-2,dlg-c3d269ba-7469-43df-a552-a0b2daf7fbf7,"Hi, can you order me a large pizza with pepperoni, garlic, and extra mushrooms?",pizza-order
+pizza-ordering-2,dlg-c3d6ce53-8c51-4317-90f5-550e9b0a1683,Hi I would like to place an order please.,pizza-order
+pizza-ordering-2,dlg-c4097d12-31a4-4e37-9e34-3c3b2ad12003,"Hi Allie, can you do me a favor?",pizza-order
+pizza-ordering-2,dlg-c40d598a-0208-4e7e-b5e9-b9bb7b5fd328,I think Domino's pizza would be good for dinner tonight.,pizza-order
+pizza-ordering-2,dlg-c445f269-9791-49c8-bde1-81cca8000d93,Do you think you could order me a pizza from that cute little restaurant around the corner?,pizza-order
+pizza-ordering-2,dlg-c4826847-6e7d-4f83-b2d4-b7d6eb9fb6fe,I would like to order pizza,pizza-order
+pizza-ordering-2,dlg-c488f621-1835-4b9c-8171-047eea3925dc,Hello Papa John!,pizza-order
+pizza-ordering-2,dlg-c53fb112-3d13-41b4-b77c-d4b959608cde,I would like to order a pizza from Papa John's please.,pizza-order
+pizza-ordering-2,dlg-c55dd227-9021-4c59-a8d2-0d6b59f5ee1c,Hi I'd like to place an order from Leucadia Pizza.,pizza-order
+pizza-ordering-2,dlg-c58a5aac-645b-4678-a195-ce2c13ac6a1e,I wanna order a pizza,pizza-order
+pizza-ordering-2,dlg-c5fc94c5-40c2-4cc4-8933-10a8e14e857a,I would like to order a pizza from Marcos.,pizza-order
+pizza-ordering-1,dlg-c613683e-afa1-492f-9be8-2a94bc97f004,"Hey! I need a favor, can you order online a two pizzas for me? ",pizza-order
+pizza-ordering-2,dlg-c622e4b1-56c6-44a5-8d13-da5ab6acf07a,Could you order a pizza from Flipping Pizza?,pizza-order
+pizza-ordering-2,dlg-c6a90be5-e905-4818-abb6-b9e67158e83d,"Hey, Candace, could you order a pizza for me? We're having a game night and we need some food!",pizza-order
+pizza-ordering-2,dlg-c6eb6166-07da-4bbf-bdae-2673ece8c71d,"Hi Mary, I'd like to place an order for a pizza at Dominos.",pizza-order
+pizza-ordering-2,dlg-c766af70-8653-428d-ad8b-40cd19a61f69,"Hey, I think I'd like to pick up a pizza for dinner.",pizza-order
+pizza-ordering-2,dlg-c7839a82-6aea-4aa0-8546-4a327836ed80,I'd like to get some pizza for dinner,pizza-order
+pizza-ordering-2,dlg-c7c1d6c9-1d8d-4ed7-8fc2-3ed2ebfd69ad,I want to order a pizza from Pizza Hut,pizza-order
+pizza-ordering-2,dlg-c7e30f8e-4b0a-4cd5-98f8-cbb96b0a2621,"Hello, my name is Joseph Cittrel and I'm calling to order a pizza.",pizza-order
+pizza-ordering-2,dlg-c7f57795-2835-4045-b45e-e94db6be34ad,I need some Pizzas from Domino's,pizza-order
+pizza-ordering-2,dlg-c7fd10d2-9b84-476a-8bb7-6cd09a16fe6e,"Hi, I want to order a pizza from Papa John's.",pizza-order
+pizza-ordering-2,dlg-c83a5fed-0c4d-420e-a424-cef3c2f8ed66,"Hello Google, I would like to order a pizza from the Domino's Pizza closest to my house.",pizza-order
+pizza-ordering-2,dlg-c88ea33a-4710-4419-aaea-bf7c8625698b,Hi! I would like to order a pizza from Papa John's.,pizza-order
+pizza-ordering-2,dlg-c8b707b1-575a-41c5-915e-a958d8b55f5b,"Hi, I'd like to place an order for pick-up from Twins Pizza please.",pizza-order
+pizza-ordering-1,dlg-c8c3b090-5a26-442d-84d5-5d6afd3fbb11,Hey can order me 2 pizzas online from Lou Malnati's,pizza-order
+pizza-ordering-2,dlg-c8cddbcb-4cd0-434f-978e-031ad8dc9bb3,"Hi, could I get you to place a pizza order for me.",pizza-order
+pizza-ordering-2,dlg-c8f008a7-f7ef-452f-bf00-b22e9376aeb7,I would like to order a pizza from my favorite pizza place.,pizza-order
+pizza-ordering-2,dlg-c92c42c6-0846-4937-ac61-959ff4a71e9b,Any discounts at Main Street Pizza?,pizza-order
+pizza-ordering-1,dlg-c94bc447-9f73-4794-a19b-23c78eb19713,Hi there. The bf and I are feeling like it's a pizza kind of night. Can you help me order a couple from Domino's?,pizza-order
+pizza-ordering-2,dlg-c9603ed8-939f-4216-83e1-4e15397d70db,Hi can you order me a pizza from toppers,pizza-order
+pizza-ordering-1,dlg-c98945ea-a268-4c4d-b124-80fcbfac7d7c,"Hi, is this Roundtable's?",pizza-order
+pizza-ordering-2,dlg-c992d030-96b1-47b0-87e4-5cfdbbcdc743,"I'm feeling like some Victorio's Pizza today, can you call in an order for me?",pizza-order
+pizza-ordering-1,dlg-c9a7d791-293b-4821-aba8-fe711000880e,I want to order some pizza from papa john,pizza-order
+pizza-ordering-2,dlg-c9b1b268-dd49-43a8-8509-c0bc55f6536a,I want to order a Pizza from Dominos,pizza-order
+pizza-ordering-2,dlg-ca424f19-86fc-4c3b-a592-ac9941da32e1,"Hi Ronald, kindly help me order for pizza.",pizza-order
+pizza-ordering-2,dlg-ca802ce6-dde2-4875-8284-0102dc66ca6f,I think I want to order a pizza from Andrea's tonight.,pizza-order
+pizza-ordering-2,dlg-ca84d00d-eeaa-416b-84f6-3bef66eff5d4,I think that a pizza from Papa John's sounds good today. Let's order one!,pizza-order
+pizza-ordering-2,dlg-ca8f92ed-b0a2-45df-b37b-4506a3e58955,"Hello, I'm calling to order a large pizza please.",pizza-order
+pizza-ordering-2,dlg-cab2ec09-af2e-4b25-8966-e755c5c3db93,"Hello, I would like to order a pizza for pickup please.",pizza-order
+pizza-ordering-2,dlg-caba0826-26de-4294-91df-7b45e318ea54,"Hi, I wanna order some pizza from Papa John's",pizza-order
+pizza-ordering-2,dlg-cb02a519-0be5-437e-8116-7e28741ffad3,I am thinking of having pizza tonight.,pizza-order
+pizza-ordering-2,dlg-cb03f69c-f923-4772-b233-4b22fa0168bb,I will like to order Pizza Hut,pizza-order
+pizza-ordering-1,dlg-cb09d2bb-1611-4771-bbd4-0e04a384953a," Hello, I would like to order a pizza",pizza-order
+pizza-ordering-1,dlg-cb0a7727-223b-44d9-8c0f-0ba33ed91a3e,"Hello, I would like to order some pizzas for an upcoming event.",pizza-order
+pizza-ordering-2,dlg-cb29d4c8-e747-4b50-9ca7-69aab81beeb1,"Oh man! I totally forgot, I need to order pizza's for Benji's birthday party tonight. I'll order a few large pizza's from Town Pizza. Hi, Cheryl. I need you to order a few pizzas for Benji's birthday party tonight.",pizza-order
+pizza-ordering-2,dlg-cb304ad0-1ea4-4837-8966-5870d89aba56,"Do you know if i had you order a pizza from that new place, tomori's Pizza",pizza-order
+pizza-ordering-2,dlg-cb525f2f-8393-47eb-88ff-28667c63119f,Gail. could you order a pizza for me from papa johns,pizza-order
+pizza-ordering-2,dlg-cb941302-646b-4903-87ac-eb9410cba098,"Hey, I need to order a pizza. ",pizza-order
+pizza-ordering-1,dlg-cbfca9c2-7762-4ac3-9041-dee6c6ab6c28,"Hey, Assistant. I'm in the mood for pizza.",pizza-order
+pizza-ordering-2,dlg-cccad05e-fca6-4f5c-a349-fb0b45513d74,"Hey there, would you mind ordering a Pizza Hut pizza for me?",pizza-order
+pizza-ordering-2,dlg-ccea3d55-7776-48bf-b4f9-3a842a4cee1b,"Hi, I would like to order a Hawaiian pizza with extra meat on it.",pizza-order
+pizza-ordering-2,dlg-cd17546d-c320-4169-baa8-61f94812f236, Hi! can you help me wit a pizza order?,pizza-order
+pizza-ordering-2,dlg-cd296441-3f46-41fc-95df-8c20b82b2ca6,"Hi, I would like to order pizza from Domino's.",pizza-order
+pizza-ordering-2,dlg-cd74222d-dea6-47e6-9026-5f769fb42f7a,"Hi, can you order a pizza for me from Horny Goar pizzeria in SF?",pizza-order
+pizza-ordering-1,dlg-cdd028d0-30a6-4e41-b66d-732ccae0d0d2,Hey Jeff can you call Italo's and order the family size pizza for me?,pizza-order
+pizza-ordering-2,dlg-cdecaf35-a46e-4637-9c87-ae00d1e34ea7,Do you have any specials today?,pizza-order
+pizza-ordering-2,dlg-ce2bcf5a-a429-4d80-9c05-ce808db49cf9,"Hi Jenny, can you a pizza for me, please.",pizza-order
+pizza-ordering-2,dlg-ce53037c-27fd-4242-aa4c-4ce61de54a61,"Hey, could I get a two topping cheese?",pizza-order
+pizza-ordering-2,dlg-ce56f363-7813-42bc-bec2-fff93fb2dda3,"Hi, Can you order me a pizza for this evening?",pizza-order
+pizza-ordering-1,dlg-cea1d562-20b5-483b-9af3-b3add10389eb,Hi! I need to order two pizzas.,pizza-order
+pizza-ordering-1,dlg-ceaa4a24-0c9d-41cb-ad14-c52303b0ccd8,I would like to order pizza from Villa monte,pizza-order
+pizza-ordering-2,dlg-cec7bf6f-e936-4f18-a30b-9d39ad0fdb2b,"Hi, I like to place an order with Pizza Junkies.",pizza-order
+pizza-ordering-2,dlg-cf32b4a0-34e3-443a-9727-638ab2cacfa5,I need to order a pizza to pick up.,pizza-order
+pizza-ordering-2,dlg-cf4afcb2-2218-4519-ad3d-6e4fb14ce157,"Alexa, can you order me a pizza from Little cesars",pizza-order
+pizza-ordering-2,dlg-cf51f2ea-d5c5-4642-8936-6b35a2553e06,Hi! I would like to order some pizza from Sarpino's.,pizza-order
+pizza-ordering-2,dlg-cf63dcc4-7faa-4d4a-9084-9df5b43335db,Please call Concord Papa John's to order a pizza.,pizza-order
+pizza-ordering-2,dlg-d01eecb7-9672-433f-ace8-8dafa1020ef8,"Hey, I need to order a pizza from Little Caesars.",pizza-order
+pizza-ordering-1,dlg-d01f7708-30ef-46ea-99e3-61f75ed5874d,"Hey Rebecca, it looks like this meeting is going to last until dinner time. Could you please order about 3 pizzas from Capri's?",pizza-order
+pizza-ordering-1,dlg-d04ef577-3532-48b3-87a6-15d0c2da3174,"Hi, I need to place an order.",pizza-order
+pizza-ordering-2,dlg-d05a1766-06b1-428e-ae5d-44da5c80b180,I want to place an order for a pizza pickup at Gina's Pizzeria on Mcdonald Avenue.,pizza-order
+pizza-ordering-1,dlg-d0a83758-33ed-4d98-b632-b6e57dae7064,"Hi, I need some pizzas?",pizza-order
+pizza-ordering-2,dlg-d12ae9ec-198f-4419-add1-df5e42356cde,"Hello, I need you to order me a pizza from Mod Pizza.",pizza-order
+pizza-ordering-2,dlg-d13e339c-1193-4b77-aa8c-1fc27b3948f8,I want to order a pizza from Giovanni's.,pizza-order
+pizza-ordering-2,dlg-d154fa0f-694d-4718-ab5d-19d1c8864087,Hey can you order a pizza for me?,pizza-order
+pizza-ordering-2,dlg-d1dd9d0c-2a20-44f3-8828-f54216ac3263,Hey can you swing by Costco and pick me up a pizza?,pizza-order
+pizza-ordering-2,dlg-d210fcd1-a85d-491b-877e-0c1289e77d57,"Hi, can you order me a zucchini pizza?",pizza-order
+pizza-ordering-1,dlg-d21e3e44-5097-4994-9d03-ef3baf616501,"Hey, I'm hungry. Can we get some chow?",pizza-order
+pizza-ordering-2,dlg-d2b1cca5-408f-4f48-9c5b-c0548d236c19,Can you place me an order at Pizza Hut?,pizza-order
+pizza-ordering-2,dlg-d2bb66db-672f-4c8e-9b12-c2fdbac53603,HELLO TIM'S PIZZA,pizza-order
+pizza-ordering-2,dlg-d2ce2ff3-d081-4e03-b4ee-3be7dbe5ea30,"Hi! Can you place an order at Pizza Bella, please?",pizza-order
+pizza-ordering-2,dlg-d2fe11e7-a15d-47d1-aba9-80fcde5ded22,"Hey, I like to order a pizza from Marco's Pizza.",pizza-order
+pizza-ordering-2,dlg-d3900bbc-a6cb-4df0-a7fc-7edecb7ca2ef,Can you please order a pizza for me from Papa John's,pizza-order
+pizza-ordering-2,dlg-d3a39d93-d046-4088-9132-f163bdc0bdd0,"Hi, I need to order a pizza for pick up.",pizza-order
+pizza-ordering-2,dlg-d3ba81a8-1318-4768-960e-0989da4bad81,"Hey John (assistant), can you order me a pizza for when I get to the office in 60 minutes?",pizza-order
+pizza-ordering-2,dlg-d3c00d79-f42b-46e5-b1a5-06448712aaa7,"Hi assistant, can you order me a pizza from Dominos?",pizza-order
+pizza-ordering-2,dlg-d3f6473b-eb6f-4f5a-8b19-7447084ef35b,I'd like to order a two topping pizza.,pizza-order
+pizza-ordering-2,dlg-d416729f-c7f6-4680-bed5-225eadbd33bd,Hey! Is that little pizza shop down the road still open?,pizza-order
+pizza-ordering-2,dlg-d45bf64d-5b1d-4880-a7f6-73c78d3bcc00,"Hi, when you get a chance can you order me a pizza?",pizza-order
+pizza-ordering-2,dlg-d4cadb74-be2c-49b3-9fb3-08e952e36ebb,"Hi, could I make an order for carryout?",pizza-order
+pizza-ordering-1,dlg-d4dcf226-2cec-4387-8c77-2942882aa87c,Hey Kathy! Can you order me some pizza from Chicago's please?,pizza-order
+pizza-ordering-1,dlg-d51a4552-1822-4c91-a430-c06d7b1eae7b,Could you order me some pizza from that place we ordered from last?,pizza-order
+pizza-ordering-2,dlg-d54b196e-bb96-4cfe-bf6b-dcdf845b9042,"I'd like to get a pizza for dinner, please.",pizza-order
+pizza-ordering-2,dlg-d553c1e8-ff9f-4591-893c-58fa1fb6821d,Hi! Can you order a pizza for me from Fine Folks Pizza?,pizza-order
+pizza-ordering-2,dlg-d591c144-cc32-45fd-96e1-c98c35bffd34,"Hello, I'd like to place an order for a large pizza.",pizza-order
+pizza-ordering-2,dlg-d5ca96bf-1c1f-4394-8319-31a09823a86b,I am looking to order some pizza today,pizza-order
+pizza-ordering-2,dlg-d5fa5bff-d2a2-468d-bb63-c86e4a2941ba,"Hey, Can you call in a pizza order for me? Im running late and won't have time to make dinner tonight.",pizza-order
+pizza-ordering-2,dlg-d62988be-e591-424a-94cb-f75deed92b58,I want to order some pizza from Pizza Hut,pizza-order
+pizza-ordering-2,dlg-d64d6770-d7c1-4030-a849-58e56fe698dd,"Hi, would you be able to order me a pizza please?",pizza-order
+pizza-ordering-2,dlg-d651a89e-d008-4df3-8e66-d68770534a34,I'd like to get a pizza from Domenico's.,pizza-order
+pizza-ordering-2,dlg-d6876fa6-7b2b-44c5-a97a-d2fdbecfd029,What specials do you have today? ,pizza-order
+pizza-ordering-2,dlg-d69e4065-945a-464c-ba2d-c698d5be3ea1,I would like to order a medium pizza from little caesars.,pizza-order
+pizza-ordering-2,dlg-d6b7c914-3875-4df3-8031-a12382e20ea0,I need to order 2 large pizzas from Pizza Hut,pizza-order
+pizza-ordering-1,dlg-d77c94d4-5fe7-482d-817e-ea6a446dbdfa,I would like to order a few pizzas from Sir Pizza tonight.,pizza-order
+pizza-ordering-2,dlg-d7abdbb2-d3ad-4506-bfe1-b2d125e82c50,Hi can you help me order a pizza for my husband and I tonight? We're having a date night at home!,pizza-order
+pizza-ordering-2,dlg-d828755b-5036-4e35-b4ad-dd0cb8b71aed,I'd like to order a pizza from Pagliacci.,pizza-order
+pizza-ordering-2,dlg-d83b762e-c45a-4a24-8e44-210e298efd98,"Dear assistant, I'd like you to order one pizza from Little Italy downtown for my colleague and I to share right now.",pizza-order
+pizza-ordering-2,dlg-d852b05a-d24b-4922-a250-5ca6e0320818,"Hi, can you order me a pizza for lunch?",pizza-order
+pizza-ordering-2,dlg-d85689a1-f74f-4a37-a254-136200e5a71e,I need to order a large pizza from Mike's Pizza Place,pizza-order
+pizza-ordering-1,dlg-d87833f7-864d-485a-8afe-2531ab49d2fd,Can you place an online order for me from Annie's Pizza?,pizza-order
+pizza-ordering-2,dlg-d89a0fef-eefb-4558-8343-f99577731fb7,"Hi there, how are you doing today?",pizza-order
+pizza-ordering-2,dlg-d8b21299-fef3-4ae2-98d9-b7e6ff4e9303,"Hi, can I please order a BBQ chicken specialty pizza?",pizza-order
+pizza-ordering-2,dlg-d8ddeba2-c97e-47b9-8777-70ae179b7aa5,Hi can I make a pick up order for a pizza from pizza hut,pizza-order
+pizza-ordering-2,dlg-d9130b3e-f689-48f2-95a3-3c903c2821ad,"Marie, would you order us a pizza?",pizza-order
+pizza-ordering-2,dlg-d93d83a2-0e59-456f-9163-01f96f03058e,Hi. Can you order me a pizza from Domino's?,pizza-order
+pizza-ordering-2,dlg-d9473e86-90ec-4c9c-8f30-71332e68cb79,"Hey Rosie, I would like to make an order for pizza. I would like to have it delivered to my house. I have 2 friends over and we are starving!",pizza-order
+pizza-ordering-1,dlg-d94a2a89-297f-497c-8e40-5da1b3546174,"Hi, i'd like to order a Mike's special.",pizza-order
+pizza-ordering-2,dlg-d964750b-1a31-4ef3-b83a-9250eb9d2511,"Hello, Greg. Can you order me a couple of pizzas?",pizza-order
+pizza-ordering-2,dlg-d9b8ecbd-cb79-4e97-ba74-f6b9b2b2728b,I would like to order a pizza from Dewey's pizza please.,pizza-order
+pizza-ordering-1,dlg-d9c68c7f-d26b-4508-a0d6-664425a7be7f,"Hi honey, I need you to order me some Dominos for my sister's birthday party this evening.",pizza-order
+pizza-ordering-2,dlg-da42a0b0-ead0-4770-8dfe-191d19812e64,"I need you to order me a pizza for tonight, do you have time now to order one for me?",pizza-order
+pizza-ordering-2,dlg-da6b1c87-6901-4f4a-bdab-3189d9351174,I'd like to order a pizza from ZeroZero in San Francisco.,pizza-order
+pizza-ordering-2,dlg-db0affb2-0bbe-43f2-9012-8767c4a076b2,Can you purchase me a pizza from Dominos?,pizza-order
+pizza-ordering-1,dlg-db1f2ee2-7b86-44c0-ae3f-93f2a981d7b1,I want to order three pizzas,pizza-order
+pizza-ordering-2,dlg-db5a3221-2247-40bd-97ae-a1d8a38808a8,"Hey, could I get you to order me a pizza from Papa Murphy's?",pizza-order
+pizza-ordering-2,dlg-db68688c-ee38-4428-8469-2ab191a8a053,I want to order a pizza from Razzis,pizza-order
+pizza-ordering-2,dlg-db719e16-8c11-41ed-83a7-912559a6163f,Please order a pizza from Salvatores,pizza-order
+pizza-ordering-2,dlg-dba640cd-54fc-4421-8616-574f74fa4155,I want to order a pizza from Jets.,pizza-order
+pizza-ordering-2,dlg-dbf6ea34-dbbc-4292-8a25-325a7f95d5d7,I'm feeling like pizza tonight. Would you mind making an order from Johnny's for me?,pizza-order
+pizza-ordering-2,dlg-dbfdd521-0c6d-4d69-8017-4c899dc1cc8d,"Hey Jane, can you order me a pizza for dinner please?",pizza-order
+pizza-ordering-2,dlg-dc2b193e-a2de-4dd5-bf11-87c74b961ca9,Can I have a vegetarian pizza please,pizza-order
+pizza-ordering-2,dlg-dc2c7819-8511-4d20-b227-13bb39404900,"Hi Jacey, I need a favor",pizza-order
+pizza-ordering-2,dlg-dc4148e5-29fa-4266-a834-cc9366650a7d,Can you order me a pizza from Pizza Hut?,pizza-order
+pizza-ordering-2,dlg-dc47b82b-059f-4c93-a724-5f6a01fbd440,Hi I'd like to order a pizza,pizza-order
+pizza-ordering-1,dlg-dcab4010-0b0d-4ca2-af6f-b675337f541e,Yo I need some pizza from Dominos.,pizza-order
+pizza-ordering-2,dlg-ddd1289c-7465-4bf1-8bb7-6ccac3084a83,Do you deliver?,pizza-order
+pizza-ordering-2,dlg-dddf8755-97eb-477e-a5ac-d00f222b2812,Me and the Mrs would like a pizza for dinner tonight.,pizza-order
+pizza-ordering-2,dlg-de33fe89-9279-4ceb-9ca3-a059d05060c0,Order a pizza from papa johns,pizza-order
+pizza-ordering-2,dlg-de48ebea-2220-42a5-8250-eec9583a9d67,I would like to order pizza from Ray's Pizza.,pizza-order
+pizza-ordering-2,dlg-deaf2678-5827-4d0c-9c79-14b0f6cd5762,Hello Pam. I am really hungry and I would like for you to order me a pizza.,pizza-order
+pizza-ordering-2,dlg-df3593b4-dfc4-44a7-be57-e4bad227145a,"Hey Eric, I'm thinking of pizza tonight for dinner.",pizza-order
+pizza-ordering-1,dlg-df3d4fd2-b183-4998-8cc5-2b46417d2ff5,Can I get some papa murphy's pizza?,pizza-order
+pizza-ordering-2,dlg-df79d7ba-d489-4e58-9577-08afaf1a42ab,I would like to get a pizza from dominoes,pizza-order
+pizza-ordering-2,dlg-df89527b-1744-46df-894a-1fc8b74e9217,"Hi Emily, I will need you to order a pizza for me for me please. I am running late and I wont have time to stop by the grocery store.",pizza-order
+pizza-ordering-2,dlg-df933cb9-27db-4a9d-92b3-ca00a0a16a17,Hello I would like to order a two topping pizza.,pizza-order
+pizza-ordering-2,dlg-e03f0bc2-3b5f-4749-bdf7-be315c057a5d,What are your specials tonight?,pizza-order
+pizza-ordering-1,dlg-e0ba2810-b6f9-4c4a-b942-02c27f56a455,"Hey, I'll be needing two huge pizzas for a small family get-together.",pizza-order
+pizza-ordering-2,dlg-e0c6210c-42ab-4048-80d6-6967615264f1,"Hi, are you still taking orders for pickup tonight?",pizza-order
+pizza-ordering-2,dlg-e1495221-a716-4b04-8ddc-f0bf7b403917,Hey. I need you to go to pizza hut.,pizza-order
+pizza-ordering-2,dlg-e17dac3e-3be8-4de1-9f4a-738f670f11aa,I'd like to order a large pizza,pizza-order
+pizza-ordering-2,dlg-e1aee2f5-70af-4d9b-8cfe-028f0db8bc68,"Hi, I want to order a pizza from Cicero's in San Jose.",pizza-order
+pizza-ordering-1,dlg-e1b798ef-15b7-4c55-bce9-dba7a04b9c23,Would you have time to pick up some Casey's Pizza.,pizza-order
+pizza-ordering-1,dlg-e1b9e929-f579-4e76-9d8a-d989f53a596e,Can you order me some pizza from Myles Pizza?,pizza-order
+pizza-ordering-1,dlg-e258cd32-1f05-4c1d-b377-fce69478e880,"Hello, I will like to order a pizza.",pizza-order
+pizza-ordering-2,dlg-e28d28d6-3e1b-4e9e-986b-afa4d5fb4539,Hi I wanna order a large pizza,pizza-order
+pizza-ordering-2,dlg-e2a712d7-b7a9-41b5-91ef-9f1dca8bd29f,"Jonathan, I want to order a pizza for the staff meeting later today.",pizza-order
+pizza-ordering-2,dlg-e2cead88-60f7-4770-acd5-219d427a2a96,hi i want a pizza from dominos,pizza-order
+pizza-ordering-2,dlg-e2d1e6f9-dfc2-4dde-b024-f82cf1121748,"Hey, I want to order the heart shaped pizza from Donates.",pizza-order
+pizza-ordering-1,dlg-e3037ecb-39c8-4570-b201-08e0ee9fa17e,Can I have a large peporonni pizza,pizza-order
+pizza-ordering-2,dlg-e31e67f4-3c8a-4766-8247-afb5a33cbc63,"Google, it’s pizza night again!",pizza-order
+pizza-ordering-2,dlg-e3ff039c-ca63-4532-bb1b-1a865e876c6d,I feel like having a pizza.,pizza-order
+pizza-ordering-1,dlg-e425e6f7-b277-4369-bebd-1165549ced98,"I want to order some pizzas from my favorite pizza restaurant, Veto Pizza.",pizza-order
+pizza-ordering-2,dlg-e46fefef-715f-4aff-91bc-84fa3f2f4f17,"Hi, I am in the mood for a pizza. Could you please place an order for a pizza for me?",pizza-order
+pizza-ordering-2,dlg-e47a7f7d-2092-4ac7-aabc-d45d033197a0,Pizza sounds like a great choice for dinner tonight.. would you place the order for me to pick up?,pizza-order
+pizza-ordering-2,dlg-e497e6ed-182c-4089-829b-911f4de2c3e5,I would like a pizza.,pizza-order
+pizza-ordering-2,dlg-e4abab90-8a0d-4fb3-9a99-adf691b19451,I gotta get some pizza tonight man.,pizza-order
+pizza-ordering-2,dlg-e4ba5c24-fbdd-4a80-ae3e-6de334a995e7,hello I want a Neapolitan pizza,pizza-order
+pizza-ordering-2,dlg-e4def715-ee30-48ba-babd-b1f0f73f845b,Hi there. My family is hungry for Pizza. Can you order pizza for us?,pizza-order
+pizza-ordering-2,dlg-e4dff55d-5d8c-4c2d-ad97-907062d20134,Hello I will like to order a Pizza from Little Ceasars in Middlesex,pizza-order
+pizza-ordering-1,dlg-e553c5a5-13e4-42b3-9074-1c82d00be056,"Hi, can you give me a hand ordering dinner for my party tonight.",pizza-order
+pizza-ordering-2,dlg-e5551a72-685b-4cb3-bbf5-ec470bc8fa4d,Hey I want to order a pizza from Mr. Moto's.,pizza-order
+pizza-ordering-2,dlg-e56b0c7d-2a3a-4c54-9acf-c6b6a9e3bd11,"Hello, Id like to get a pizza for carryout",pizza-order
+pizza-ordering-2,dlg-e59b2dbf-d71f-463e-a51c-8ff2a0d4ff87,Hi I would like to order a pizza please.,pizza-order
+pizza-ordering-2,dlg-e5f70c23-2824-4abf-8cfa-2e104f5038d8,"Hello Kathy, are you there?",pizza-order
+pizza-ordering-2,dlg-e6047388-6fa9-4388-b797-b57013150a95,Hi George,pizza-order
+pizza-ordering-2,dlg-e61b9070-0b24-4c46-a012-a7859db8f31d,I am really interested in eating some Piezons pizza tonight!,pizza-order
+pizza-ordering-2,dlg-e63a603f-6e8e-43c1-8b4d-c7eaa1e5ca65,"I'm thinking about pizza for lunch, would you please order one for me from Tony's?",pizza-order
+pizza-ordering-2,dlg-e668e1f4-c0f4-4420-bcd9-2433629f5eb6,I need to place an order at Pequods.,pizza-order
+pizza-ordering-2,dlg-e6c41048-362c-42c0-a2b4-505bd1c34a1f,I need to order a pizza for tonight.,pizza-order
+pizza-ordering-2,dlg-e6df0df1-9703-4c8f-a88d-264b6062e982,Hey whats up,pizza-order
+pizza-ordering-1,dlg-e6e6409e-2bb3-4269-8ace-c5636b6c3eb9,"Hello. I need you to put in an order for pizza at Maialina, please.",pizza-order
+pizza-ordering-1,dlg-e6ec80ba-1417-48cc-aaa0-f649821ac266,"Hello, could you please order me some pizzas from Mezza Luna?",pizza-order
+pizza-ordering-2,dlg-e7313b5a-bbb9-4302-a57a-780922f684e5,I want to order a pizza from Cosaro's Pizza.,pizza-order
+pizza-ordering-1,dlg-e787676d-35c5-415c-a473-88d5d19a1b58,"Hello, Jeff. Can you order some pizza for me?",pizza-order
+pizza-ordering-1,dlg-e7e112e4-733d-4b61-965e-1694cb661cba,Please get me a grande Mocha from Starbucks,pizza-order
+pizza-ordering-2,dlg-e7e88f32-1dd6-4e5a-b445-5bb6394025ee,"Hey Sally. John is coming by for lunch today, and I thought it would be nice to grab a pizza. Could you call Pizza Hut and put in an order for me?",pizza-order
+pizza-ordering-2,dlg-e7f5d68d-e136-4526-9352-e0d3d09c1702,Hi. I would like to order a pizza.,pizza-order
+pizza-ordering-2,dlg-e86ccb21-1545-4507-9eca-43fe2a45a6a9,I would like to order a pizza from Carl's Pizzas.,pizza-order
+pizza-ordering-2,dlg-e8c49383-4590-41b5-8fd1-4864b10fc611,"Hi, I'd like to place an order for pick up.",pizza-order
+pizza-ordering-1,dlg-e95eb3fc-af4c-47d7-afd9-67813c0002df,"Hi. I wanted to see if I could order some pizza from Marco's at the location nearest to me in Carrollton, Texas.",pizza-order
+pizza-ordering-2,dlg-e9eddde3-684b-4965-9888-957cf579de90,"Hi, I would like to order a pizza from Pizza Hut.",pizza-order
+pizza-ordering-2,dlg-ea473cd0-5555-4acd-8fd0-51a0da547c7b,I'm extremely hunger and thinking about pizza.,pizza-order
+pizza-ordering-2,dlg-ea526515-c228-4fd9-acd8-5d882605ebb5,"Hi, I need to order a pizza!",pizza-order
+pizza-ordering-2,dlg-ea65ea4d-707f-475b-813f-b7c4cda88b9c,I'd like to order a pizza from Jet City Mount Vernon.,pizza-order
+pizza-ordering-1,dlg-ea7b3a7c-e7d5-4cc8-b47f-7565e23dbee1,Hey sally i would like to order 2 pizza's from luigis on main street in town.,pizza-order
+pizza-ordering-1,dlg-eab05dfa-7aec-4d19-83a8-a205843e4990,"Hi, I would like to order pizza.",pizza-order
+pizza-ordering-2,dlg-eab727dc-43f7-42df-9a1c-2a853881cee5,Good evening. I'd like to order a pizza tonight.,pizza-order
+pizza-ordering-1,dlg-eabaf5b7-9b75-4bc7-b3b2-253dd7633e06,I would like to order a pizza from Papa Joh'ns.,pizza-order
+pizza-ordering-2,dlg-eac241ee-bff3-4be8-aa1c-89bcc6a267bb,I want some pizza!,pizza-order
+pizza-ordering-1,dlg-eadb7312-c4ca-4501-a53a-1903a6db3444,I think I want Casey's pizza today.,pizza-order
+pizza-ordering-2,dlg-eb2ccd6d-afb5-4699-86c4-5186677898fc,Hello! I need to order a pizza.,pizza-order
+pizza-ordering-1,dlg-eb3b1eab-bf45-4479-8723-ff3efea5a49b,"Hi, this is peter",pizza-order
+pizza-ordering-2,dlg-eb65caa2-22fa-43c2-a417-185b5f01d2f4,"Paulo, can you order me a pizza from 4th St Pizza for dinner tonight?",pizza-order
+pizza-ordering-2,dlg-eb740928-04b6-4008-91a7-a605727e57e0,"Hi, Please I would like to order pizza for dinner.",pizza-order
+pizza-ordering-2,dlg-ebabfd56-b95f-4fc4-bf8a-dfde5445bf66,Can I have a garden fresh pizza please,pizza-order
+pizza-ordering-1,dlg-ebb7cd93-3c64-41ff-8d3a-413067eb7774,I need some pizzas.,pizza-order
+pizza-ordering-2,dlg-ebc0331f-8e81-413c-8840-c444bc5eecf3,"Assistant, is there a good pizza place close to my current location?",pizza-order
+pizza-ordering-2,dlg-ec12c805-6d06-4887-834a-f9a72a2f70b6,Hannd-tossed crust,pizza-order
+pizza-ordering-2,dlg-ec17c10b-e389-4704-8d5e-1c3f0ac94e80,Hello. I would like to place an order for pick up.,pizza-order
+pizza-ordering-2,dlg-ec3b13ab-4219-40f7-a1db-5490eaaffbac,"Hi, I need to order a pizza pie.",pizza-order
+pizza-ordering-2,dlg-ec49cbe1-f189-426b-8587-dedcc8d3c195,"Hi Connie, Are you busy?",pizza-order
+pizza-ordering-2,dlg-ec625a8c-c6dc-486a-92ee-b1ef8e3c8716,"Hey, I would like to order a pizza.",pizza-order
+pizza-ordering-1,dlg-ec906060-c33e-4d9f-b988-12f281d5d636,I'm thinking about ordering a pizza from Tom's,pizza-order
+pizza-ordering-2,dlg-ecb7c802-d6ec-440f-b33b-86e577d96ca1,"Assistant, I'd like to place an order from Papa Johns Pizza.",pizza-order
+pizza-ordering-2,dlg-ecb7cb00-c03d-471b-bf5b-d8f525532290,Can you go pick up something from papa johns ?,pizza-order
+pizza-ordering-2,dlg-ecbac878-814b-4377-ac35-675c2b39a887,"Sarah, I need a pizza for the party tonight at my house.",pizza-order
+pizza-ordering-2,dlg-ed234293-11a0-4de5-a986-005ee356a2cc,Would you order me a pizza from Geno's?,pizza-order
+pizza-ordering-2,dlg-ed25c546-5aa9-4b67-b98d-9cfabb8ba3ab,"Hello Abby. The family and I want to go to Pizza Hut on Main street this afternoon and since there is normally a long wait, can you order a pizza for me?",pizza-order
+pizza-ordering-2,dlg-ed50649e-2580-49dd-92a4-d0010489d20b,I want to get a pizza from Gino's,pizza-order
+pizza-ordering-1,dlg-ed56573c-3eef-4d2e-88de-dc13a51a93c1,"Hi, could you order a frappucino from Starbucks for me?",pizza-order
+pizza-ordering-2,dlg-ed69ab71-981f-4f0d-bb2a-613b18a54487,"pull my pizza account, will you?",pizza-order
+pizza-ordering-2,dlg-ed6f8169-1865-4f3b-9f07-32e6196267f2,im getting hungry googlexa,pizza-order
+pizza-ordering-1,dlg-ed8ac4e6-41fc-45fa-90f0-8db6c791922c,I would like to order pizza from Dominos.,pizza-order
+pizza-ordering-2,dlg-ed95be70-e540-4351-a5f6-a53a6395bbe9,"Hey, Sally. Can you order me a pizza?",pizza-order
+pizza-ordering-2,dlg-edcee039-6297-4937-b2c8-065314d31cd6,What's the nearest pizza place?,pizza-order
+pizza-ordering-1,dlg-edd3aca8-d48e-423f-8805-9d27aca71a72,"Google, I would like to order a pizza.",pizza-order
+pizza-ordering-2,dlg-edf185b2-342a-4ea6-899c-e8518648d4ae,Can I order Papa John's online?,pizza-order
+pizza-ordering-2,dlg-ee079662-e71a-4201-b11b-edb514cd50ef,I promised the kids I would bring a pizza home. Would you order for me?,pizza-order
+pizza-ordering-2,dlg-ee604054-73b4-45cc-a9d3-f06b23af471e,"hi, i would like to request to order pizzas from dominoes",pizza-order
+pizza-ordering-2,dlg-eed69279-92e9-48b7-ad31-9d2910e5cb8d,sizes of pizzas ,pizza-order
+pizza-ordering-2,dlg-eef527e9-483b-4d57-9f85-d718b724f68c,"Hi, I'd like to place an order for a pizza from Little Star, please.",pizza-order
+pizza-ordering-2,dlg-ef15995d-63f2-4d25-9635-fc1a0256d75e,I want to order a pizza. Where was the last place I ordered from,pizza-order
+pizza-ordering-2,dlg-f0379090-07cf-4738-9d4e-b1006ccb7f10,Hello I am wanting to order a pizza for my family tonight.,pizza-order
+pizza-ordering-1,dlg-f05dd061-d801-44cd-b22c-acb866cac70e,I need to order some pizza,pizza-order
+pizza-ordering-1,dlg-f0d33770-5ea0-4660-b1f4-62ce880aeae4,I need you to order a carryout pizza from Papa John's,pizza-order
+pizza-ordering-2,dlg-f0fdfa55-e171-465d-9857-59013ecb9022,I'd like to order a 2 topping pizza tonight,pizza-order
+pizza-ordering-2,dlg-f1637262-8991-465e-99bf-05e1de77dc0e,Does PizzaWay deliver pizzas?,pizza-order
+pizza-ordering-1,dlg-f1637864-e4b1-4a3a-a983-0a78bb17c801,I want to place an order for pizza.,pizza-order
+pizza-ordering-2,dlg-f181365a-a9ac-4361-9b78-8b8526102aa3,"Hi, I need to order a pizza please.",pizza-order
+pizza-ordering-2,dlg-f1eadf21-b353-4442-a853-265d7164f862,Can you order me a pizza for pick up,pizza-order
+pizza-ordering-2,dlg-f25b6b2d-436f-48e6-8ca5-7f6a87126586,"Hi, I'm thinking I want to order pizza.",pizza-order
+pizza-ordering-2,dlg-f2cce106-fc04-4f0b-94bb-54b4806840b4,"Lanie, I would like pizza for dinner tonight.",pizza-order
+pizza-ordering-2,dlg-f2d6a985-23f4-4c9c-bcf9-eea09ec3d146,"Hello, I was calling to order a very special pizza. Do you guys have any special deals today? ",pizza-order
+pizza-ordering-2,dlg-f2e8cab0-69a9-4fa2-a018-1d995aa1a73f,"Hey, I need you to order me a pizza from Dominos",pizza-order
+pizza-ordering-1,dlg-f2fd13f3-1cf4-40d7-a89c-bb47609a0b83,Hey can you do me a favor a order me a pizza from Pats?,pizza-order
+pizza-ordering-2,dlg-f30be682-c653-4a39-a07b-1531d670e644,Hey Janna. Can you help me to order pizza please?,pizza-order
+pizza-ordering-2,dlg-f333564c-3618-44ed-b0e7-157e399a53e0,"Hey, I need to order pizza from Blaze in NYC.",pizza-order
+pizza-ordering-1,dlg-f3b14724-5d5e-4885-a8a3-ecb199e8399a,"Hi, I need you to order me a pizza from Metro.",pizza-order
+pizza-ordering-2,dlg-f3dfeb4c-d4cb-443b-9dfb-f6d76aa5ba0a,I'm hungry. I'd like to get a pizza from Stuft Pizza.,pizza-order
+pizza-ordering-2,dlg-f3e36e68-19ca-4ff3-950b-6082777bc6e0,"Assistant, order me a pizza from Pizza Hut",pizza-order
+pizza-ordering-2,dlg-f432b099-7c67-4954-86a9-34702bee70cd,"Hey, I want to get some pizza.",pizza-order
+pizza-ordering-2,dlg-f4527e0d-18df-4d82-be22-05e9d880dca3,"Hi, I'd like to order pizza",pizza-order
+pizza-ordering-2,dlg-f4983c5b-f953-4456-acbd-68b32b398c22,I would like to order a Pizza from LaRosa's Pizzeria.,pizza-order
+pizza-ordering-2,dlg-f4a16a40-a20f-4ec0-956a-e0ad40f44e7a,"Hi, it's me. Can you order me a pizza for lunch?",pizza-order
+pizza-ordering-2,dlg-f4a6e845-18cb-441b-b668-40fe7cec3039,I want to get a pizza from cpk,pizza-order
+pizza-ordering-2,dlg-f4a86d2b-b594-415c-9b2a-d462610aa07f,I would like to order a large pizza.,pizza-order
+pizza-ordering-2,dlg-f4c3662a-195f-42c8-ba48-275d36b09313,Hello Asilyn how are you?,pizza-order
+pizza-ordering-1,dlg-f519f3f3-7586-4fa9-9121-2fd91d2e5f86,"Hey, I am going to need to put in an order for some pizzas.",pizza-order
+pizza-ordering-2,dlg-f5332a4b-488f-4a50-ad9b-f5586c87cc06,I need you to order some pizzas from Gino's on 51st St. Do you know what place I'm talking about?,pizza-order
+pizza-ordering-2,dlg-f5f32a4a-5240-40a1-b593-fba069b2d0be,order pizza from dominos,pizza-order
+pizza-ordering-2,dlg-f60379eb-498f-455e-872d-46c23bc2882c,I'd like to order a pizza from Belmont Pizza please.,pizza-order
+pizza-ordering-2,dlg-f61a365f-47a5-44cb-8834-3fcf0d19588b,Hi Natasha. Can you order pizza for me please? V & S pizza works for me .,pizza-order
+pizza-ordering-2,dlg-f61aaab6-cb75-41af-86d3-81b0accce34d,"Hey, do you have the number for the Pizza Hut down on 4th Street?",pizza-order
+pizza-ordering-2,dlg-f67c0689-0e2d-4ad9-b10d-973d3e76bb45,"Hey, can you order a Casey's pizza for me?",pizza-order
+pizza-ordering-2,dlg-f695ea52-fe65-42d0-9411-221fdfdbbb76,"I saw a pizza commercial, now I want some pizza",pizza-order
+pizza-ordering-2,dlg-f6bb82c5-01ed-4567-8835-ac7de4883ba4,I am hungry!,pizza-order
+pizza-ordering-2,dlg-f6c04f63-2219-47c7-a542-cd577690b993,I would like a large two topping pizza from dominos.,pizza-order
+pizza-ordering-2,dlg-f6dbaf91-1ef2-4140-a535-be881465ee73,I want to order a pizza from Shotgun Dan's tonight to celebrate my son's birthday.,pizza-order
+pizza-ordering-2,dlg-f702dc83-de20-4e51-999c-96c26261cbdf,"Hi ,Erica. I would like you to help me order a pizza for lunch for me and my friend Tom ,who is on his way to my office. ",pizza-order
+pizza-ordering-2,dlg-f73e7be0-0ea3-4586-9f85-95fdbc45450d,"Hi, I'm hungry for pizza!",pizza-order
+pizza-ordering-1,dlg-f7426e5c-3652-4f21-9f3f-7ba7dc3cb2e5,"Hey, I want to order pizza from Magpie",pizza-order
+pizza-ordering-1,dlg-f778958f-3b10-4217-bdea-476a2978d63d,"Hello, Kara. I would like to order pizzas from Mellow Mushroom.",pizza-order
+pizza-ordering-2,dlg-f77cbbb1-a7fc-4a13-bf33-f558906730fb,I would like to order a pizza from Marco's,pizza-order
+pizza-ordering-2,dlg-f7fa3e27-3db2-40a5-8ef8-48fd6d820ada,Id like to put in an order for Antonios Coal Fired Pizza.,pizza-order
+pizza-ordering-2,dlg-f825ff06-22f9-4eac-80dc-467f95555a6b,I'm feeling hungry for pizza from my favorite pizzeria,pizza-order
+pizza-ordering-2,dlg-f8377ab3-f272-4803-b16b-2666bf032199,"Hi Stacy, can you recommend a local pizza restaurant for my family and order us a pizza tonight?",pizza-order
+pizza-ordering-1,dlg-f83c7f7e-f934-4889-b306-a84cd7bf8e38,"Good evening, I need you to place a pizza order for me.",pizza-order
+pizza-ordering-2,dlg-f88494b1-7c5d-47e7-bf6b-303e2bb9f0dd,"Cynthia, find Howies in towns menu",pizza-order
+pizza-ordering-2,dlg-f93043f1-74f9-4d2f-a81d-76ebc48c2fc7,I will like to order some pizzas from Papa Johns,pizza-order
+pizza-ordering-1,dlg-f94f48ec-aa2a-4d90-8b7e-9b36fa4c9098,Hi. I need to order some pizzas from the Random Lake Pizzeria.,pizza-order
+pizza-ordering-2,dlg-f97734ca-7200-46a9-bd84-9f11c56a887e,I'd like to place a pizza order at Blaze Pizza for delivery please.,pizza-order
+pizza-ordering-1,dlg-f97efc4a-c9be-4a2b-aef8-f165055bdfbe,"Hey, I would like to get a pizza for the family tonight. Can you help me with this?",pizza-order
+pizza-ordering-1,dlg-f97fe1f5-a1a6-4c22-892d-6231423f9beb,Hey can you order a pizza for me? I need it for Sade's party.,pizza-order
+pizza-ordering-2,dlg-f9cbf30e-ce6e-4d0c-99ea-922e8b1ed52a,"Hello, I want to have pizza tonight. Can you order a pizza from Pizza Hut for me?",pizza-order
+pizza-ordering-2,dlg-fa26be48-4b6f-4a04-92c2-b90ca10e2b34,"Hello, I need to order some food, and I was thinking of getting a pizza.",pizza-order
+pizza-ordering-2,dlg-fa94c375-139f-4157-9eec-1d3aa1843df8,"Hello Andrew, good evening",pizza-order
+pizza-ordering-2,dlg-fa97878f-320d-4008-af75-31b160e397f2,"Hello PA, can you see if you can reach pizza palace for me""",pizza-order
+pizza-ordering-2,dlg-fab248c2-0d8b-414b-ad32-e8461d524fbd,I'd like to order two large one topping with pepperoni and ground beef and a side order of garlic breadsticks.,pizza-order
+pizza-ordering-2,dlg-faca3b6a-c38b-4226-8b85-4f2d2a1151f8,I gotta have a Pizza!,pizza-order
+pizza-ordering-2,dlg-fae60320-6c54-4919-9fa8-a6db99448ebe,call and order some pizza for me,pizza-order
+pizza-ordering-2,dlg-fb125408-e817-42c2-b40f-c36647a46c8d,Hello can you order me a pizza from dominos?,pizza-order
+pizza-ordering-2,dlg-fb34fdd9-4636-4558-a5a7-074d0b0a0ee0,I want to order a pizza from Domino's,pizza-order
+pizza-ordering-2,dlg-fc24d89c-4006-4d6b-bc56-2a66c46c4ce4,Hi I would like to order a pizza from Coop Pizza,pizza-order
+pizza-ordering-2,dlg-fc33f3c8-e7ea-48fe-9aa6-12a1c5c70db3,"Hi, I'd like t place an order for a pizza.",pizza-order
+pizza-ordering-2,dlg-fc4c453e-a684-4f34-8fcc-388c30f26f5a,I am in the mood for some Papa Johns.,pizza-order
+pizza-ordering-2,dlg-fc9b66b2-a1d4-4aa7-8ca8-cee98134b237,"Hey, Carlos. I'm straving. I'm in the mood for some pizza.",pizza-order
+pizza-ordering-2,dlg-fcb68ddc-c799-4a26-925a-6cb67d032dc4,Hello. Can I order a pizza from Dominos?,pizza-order
+pizza-ordering-1,dlg-fce3b262-5f83-4f2f-9451-b11863a3c049,I would like to order some pizza from Papa Johns for dinner.,pizza-order
+pizza-ordering-2,dlg-fceb74c3-152e-4939-a650-99daebcd94f4,"Sheila, this is Katlin.",pizza-order
+pizza-ordering-2,dlg-fd757c7b-49b0-4356-98fd-366135018a18,"Hey google, can you order pizzas from domino's?",pizza-order
+pizza-ordering-1,dlg-fdbb3983-3c57-4a98-9d07-bfe54d3eb0b3,I'd like for you to order me food for lunch. ,pizza-order
+pizza-ordering-2,dlg-fde17097-7f2e-4197-b93e-f597442c1bcc,I want to order a pizza from the pizzeria close to me,pizza-order
+pizza-ordering-2,dlg-fdf5c9af-b2c7-41bf-8a4c-51e2597cfae8,I want to get a pizza delivered from Julia's Pizza on Stutter Street.,pizza-order
+pizza-ordering-2,dlg-fe253c32-f0bd-47cf-b64c-0df486590b89,Hi Assistant. I need some help today.,pizza-order
+pizza-ordering-2,dlg-fe3c5fd7-af9d-4df5-8b44-f5dd8b116489,Hi. I'm thinking of ordering a pizza for dinner. Can you give me a hand?,pizza-order
+pizza-ordering-2,dlg-fe5868c5-1a90-480b-aaad-35a933d2d719,Hey there. Can you order a pizza for me? ,pizza-order
+pizza-ordering-1,dlg-fea57747-15e4-4407-823e-f7b52866fc62,I need you to order five pizzas from Pizza Hut.,pizza-order
+pizza-ordering-1,dlg-feb788cc-5680-43d7-b186-6f5f6178d036,"Hey, do you think you could order me a pizza from Mineo's please?",pizza-order
+pizza-ordering-2,dlg-feb9e7a7-6e1b-4495-aed4-ef84366534a9,"Hello, I need to order one pizza please",pizza-order
+pizza-ordering-1,dlg-fec84e75-e245-4241-98ce-9ae12c5521ff,Hey do you mind getting me some pizzas from that place I love,pizza-order
+pizza-ordering-2,dlg-fed00751-6a85-4f2d-af94-4561a3755887,I want to order a pizza please.,pizza-order
+pizza-ordering-2,dlg-fefdbf41-bc26-44b9-94d8-e2ef027b464c,Hey can you order me a pizza from Dominos?,pizza-order
+pizza-ordering-2,dlg-ff143b87-2a1f-4dea-ba5c-9ac2719a00a2,"Chandler, I need for you to order a pizza from Little Ceasar's for me",pizza-order
+pizza-ordering-2,dlg-ff3dcb17-4962-4ee3-a18e-aa26b746c6dc,Hi there! I would like to order a pizza from Joe's Famous Pizza please at 200 south Kelly avenue Edmond,pizza-order
+pizza-ordering-2,dlg-ff72ea4c-8e49-48c1-8c3e-bc44eadece48,"I need to order a Pizza, is Papa Johns open right now?",pizza-order
+pizza-ordering-1,dlg-ff87a7d2-8474-471c-abd0-4dcb98085c2a,tO PLEASE ORDER A CHEESE PIZZA FOR ME,pizza-order
+pizza-ordering-2,dlg-ff8bbb1d-f40d-4bef-97c1-129a50eb4747,I think it's time for lunch,pizza-order
+pizza-ordering-2,dlg-ff98d87d-9684-4ad2-ad39-2fffbc36917a,I'd like to make a pizza order to Dominoes,pizza-order
+pizza-ordering-2,dlg-ffad2ce1-1865-48c9-b085-d5ca8dd0ca4e,Is stuffed crust available?,pizza-order

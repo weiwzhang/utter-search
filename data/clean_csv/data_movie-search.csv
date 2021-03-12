@@ -824,7 +824,6 @@ movie-18,dlg-4d2f2a5c-2245-4546-a343-5d2351f5b582,"I was thinking about an actio
 movie-29,dlg-4d5335ef-1dfb-40f8-b7f8-adf1c4edb821,"Hi. Today, I'm looking on Netflix to see if the movie Mr. Nobody is available.",movie-search
 movie-28,dlg-4d8493ac-9250-4391-9800-69961acd20a5,"Hi. I am looking for a movie to watch at home tonight, and was wondering if you would help me make a make make a recommendation.",movie-search
 movie-25,dlg-4dadef5f-9ceb-45ae-a4d1-126c96b677e9,"Hi, I'm looking for a good movie to see in Seattle, near the University of Washington.",movie-search
-movie-20,dlg-4dd34d68-0c9a-4df6-bacb-c266e75558e0,"I'm in Boulder, Colorado near the university.",movie-search
 movie-28,dlg-4dd3fe63-9da0-4b37-b947-2f4c3cedf690,"Hello, I'm looking for a new release Western movie that's available on YouTube.",movie-search
 movie-19,dlg-4de5e332-67b2-4379-9a62-96bee46eed80,"I'm looking for anything, you know a romance movie.",movie-search
 movie-21,dlg-4de8df6e-f5cb-4b2d-b812-d2da26288235,"Hi, today I need help finding a movie to go watch in a theater. Currently I live in Pasadena, California near the Rose Bow.",movie-search
@@ -842,7 +841,6 @@ movie-28,dlg-4ec20116-8b26-4ac3-b506-d85a216cc8ce,Give me a list of romance box 
 movie-10,dlg-4f0a8dab-8dfd-4af2-891d-77bb3342762c,I'm really interested in action-adventure movie.,movie-search
 movie-2,dlg-4f241919-2385-4988-a091-d1760aea3396,I wanted to see a comedy movie. Are there any movies still going on in the theater?,movie-search
 movie-29,dlg-4f40b364-c9cc-4480-9c46-b07fe989e58c,"Yeah. I'm looking for a movie to watch at home tonight. Something on Netflix, please. Can you help me?",movie-search
-movie-12,dlg-4f512631-8cbb-4bed-906b-02ff05f92d87,I want to search for by genre. I want to see a comedy.,movie-search
 movie-18,dlg-4f628778-131c-4a5e-97f0-7b615acb08f3,"Hi, I'm looking for a movie that's an audience favorite Starring Whoopi Goldberg.",movie-search
 movie-19,dlg-4f763d69-122f-4fbb-bae1-64d9bf00011c,I'm looking for a horror movie that has Christopher Lee in it.,movie-search
 movie-29,dlg-4fc603eb-2e7c-4705-bf75-2c0e2f19c7ee,I would like to see a thriller movie. Something that's not mainstream.,movie-search
@@ -871,15 +869,12 @@ movie-28,dlg-51f61e06-beae-4e15-82fc-7fe779cabc44,"Today I need some help in fin
 movie-21,dlg-52246d5c-73d2-4e92-965f-b58b0b6e0131,"Hi, today I need help finding a movie to go watch in a theater. Currently, I am right now in Boulder, Colorado near the university.",movie-search
 movie-27,dlg-52389118-3769-4dfe-a071-60e089017f4d,"I am looking to watch a movie on YouTube, that film is a critic favorite.",movie-search
 movie-28,dlg-52448662-0b5e-4206-806b-8b7f1a3a3e7c,I prefer a mystery movie. And how about a newer one?,movie-search
-movie-10,dlg-5266d45b-56e5-433a-9ae3-d4f6f84a4e54,I am looking for an IMAX theater nearby.,movie-search
 movie-19,dlg-526a8d87-5150-4703-8ebc-b44d954b1ff6,"Hi, I was wondering if you could help me recommend a movie for me to rent.",movie-search
 movie-3,dlg-52924bea-9f81-4b65-b125-3075bb225137,Hi. I'm trying to find a movie.,movie-search
 movie-10,dlg-52aff980-ec37-4ecc-94bf-5a645e4451ca,I'd like to see a comedy movie.,movie-search
-movie-5,dlg-52b0e424-7a41-48d7-a677-5f62887f36f9,A theater in San Francisco.,movie-search
 movie-6,dlg-52b3b33c-852b-468b-8ebc-41202e03e79b,"Oh, I'm looking for a movie. Could you help me help me out with that?",movie-search
 movie-6,dlg-52bfac08-c312-4675-8168-4c5b81724018,"I like action-thrillers. Could also be like just a drama, sort of like based on something real, like a real life drama.",movie-search
 movie-2,dlg-52bfd24c-83ad-4a50-a118-f7d2a4225314,Hello. I would like help in finding a movie to see in a theater.,movie-search
-movie-27,dlg-52c3b4fb-485d-4506-bada-dda2508f1615,I was thinking maybe some kind of thriller with Matt Damon. Something relatively new.,movie-search
 movie-25,dlg-52cd1bb0-8660-45ce-9708-892e85332f46,"Hi, I'm looking to go see a movie. I'm in New York City near Times Square.",movie-search
 movie-29,dlg-52d67e92-432b-4a1b-975f-3f3b17a8d9a9,Hi. I'd like to get some help I'd like to find a movie to rent. Something that's probably sometime this released sometime this decade. And I'd like it to be a comedy. And I'd like it to be kind of like a feel good one.,movie-search
 movie-29,dlg-52eed023-8279-43ea-91f4-cfc9a79f71a0,I prefer something that is rated R and an animation movie.,movie-search
@@ -888,11 +883,9 @@ movie-29,dlg-531e50f5-503f-4083-a841-18bac39bab36,I'd like to watch a movie at h
 movie-29,dlg-5356c693-9ae9-4826-b73f-ad550fef381f,"Yes, I'm looking to rent a movie so I can watch it at home.",movie-search
 movie-8,dlg-53673a33-a467-4a2c-8c20-2603beecdab9,"I'm looking for a comedy, I think.",movie-search
 movie-29,dlg-5397754e-7147-4721-9fd4-2bc5e31cecac,I'm looking for a movie to watch at home.,movie-search
-movie-26,dlg-539f9408-55f8-4971-bd49-99dda2f4d3c4,I am in Bentonville in Arkansas.,movie-search
 movie-28,dlg-53b04ca2-5298-4268-aff2-70bc5e446333,"Hello, I need help finding a box office hit movie that's uplifting.",movie-search
 movie-29,dlg-53b96c35-61df-4717-a507-b4273bde3416,"Hi, could you help me find a movie to watch at home?",movie-search
 movie-26,dlg-53f726fa-7c8f-4505-86b1-e6866ce350a4,"Well, I want to go to the movie tonight. I am in Seattle, near the University of Washington.",movie-search
-movie-2,dlg-540f5ef1-a93d-4a6e-9340-8c689dc3aec7,Romance.,movie-search
 movie-19,dlg-5426a6ed-26e3-43bc-a0fd-9b0bf977b45b,"Hi, Hello, Is there any movie named When Marry Met Sally?",movie-search
 movie-6,dlg-542e4c1c-c411-46d4-b801-d4d7bfabb6d2,"I like thrillers, specifically more so action thrillers.",movie-search
 movie-2,dlg-544ab496-739e-4141-9acf-88e928f811ff,I would like help in finding a movie to go watch in a theater.,movie-search
@@ -907,7 +900,6 @@ movie-27,dlg-54f97b9e-0664-4f7c-b75e-f981d4bd1a05,"Yeah, what up? Hey, a lot of 
 movie-29,dlg-553517a9-4df4-404c-a672-5e06963ee462,"Hi, I would like to watch a movie something that's a mystery, but also nothing too depressing.",movie-search
 movie-10,dlg-5537c951-c8fc-412f-96df-6521cc815cb0,I'm trying to find a horror movie to watch in a theater tonight. Can you help me with that?,movie-search
 movie-29,dlg-55474fa1-99b6-4bfa-a2a5-fb5767dbe02a,Can you help me find an animated movie to rent?,movie-search
-movie-25,dlg-555eb4f2-1513-4f28-a185-6989a6cbafab,Hello assistant. I am in New York City near Times Square.,movie-search
 movie-7,dlg-556cf628-89c4-4a19-9461-c606afa01455,I need help finding a movie to see tonight at the theater.,movie-search
 movie-2,dlg-558bbcf9-8df1-43d5-8697-f5e321043050,Can you tell me about the movie La La Land?,movie-search
 movie-29,dlg-559b4a46-2b6a-4ca9-b2c9-2cac6cbeb9c0,"Hi, I'm looking for need help looking for a movie to rent, Please.",movie-search

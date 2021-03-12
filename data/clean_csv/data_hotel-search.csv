@@ -825,9 +825,6 @@ hotel-16,dlg-7f0009d5-a051-48fd-909e-f18f681fa0ea,"Hi, I need to get a hotel roo
 hotel-9,dlg-7f1c1c75-1392-4e05-a42b-2cab8221ea1a,"Hi, I need help booking a hotel in New Orleans.",hotel-search
 hotel-16,dlg-7f27c1d7-17b5-43af-8b20-8c4b7dc55d8b,"Hello. I'd like help in booking a hotel room in Santa Fe, New Mexico, please.",hotel-search
 hotel-9,dlg-7f2e56ed-3d17-464c-b370-d441ff833a3b,"I'm looking for a hotel in San Francisco, California for the dates May 8th to May 14th.",hotel-search
-hotel-11,dlg-7f397235-b586-4542-a079-5075a3c2f15e,"I'll be staying in St. Louis, Missouri.",hotel-search
-hotel-9,dlg-7f3b9184-6de5-4151-bd83-20e110a1497f,"Yeah, I'd like to inquire about reservations in Laguna Beach for a hotel between the 21st and 28th of March.",hotel-search
-hotel-10,dlg-7f6333aa-c386-4932-99e1-9743a529165a,"San Francisco, California.",hotel-search
 hotel-8,dlg-7f73d9f6-4e8a-4b47-a626-8d6d73e361ff,"I need help finding a hotel in West Palm Beach, Florida, please.",hotel-search
 hotel-1c,dlg-7f77b4bf-f560-4b77-b3d6-6d5a1ab4ef89,"Hi, I'd like to find out more about a hotel I plan to stay at. Squaw Valley, California.",hotel-search
 hotel-11,dlg-7f7d5604-0ba0-43ed-8306-c216cbcfad80,Hi there. I'm looking for a hotel room for this weekend.,hotel-search
@@ -844,14 +841,10 @@ hotel-9,dlg-8132675d-18ca-4e5a-a958-fed2e30bbae2,Hello. Looking for a hotel in N
 hotel-8,dlg-81663d44-d42b-44ed-8496-45c8b9910943,I'd like help finding a hotel in Tennessee.,hotel-search
 hotel-7,dlg-8170e994-dc88-4b69-8a89-49a216d71c6a,Would you like to help finding a hotel in San Diego?,hotel-search
 hotel-8,dlg-81b9be17-4995-469f-a5c0-aa2cffb68fed,"I'm looking for a hotel in Nashville, Tennessee, and not too far from Dollywood.",hotel-search
-hotel-9,dlg-81ddee9d-8410-44da-b8b6-47607a0282c1,I'm looking to spend no more than $150.,hotel-search
 hotel-2,dlg-81e13e70-57cd-4851-ab9e-70974d37aeba,"I would like to find a hotel for my summer vacation. I need to go Carlsbad, California. I am looking for a hotel, Must rate it as 4-stars and up, That restaurant with the full bar and hotel grounds.",hotel-search
 hotel-5,dlg-81f24a53-51e9-4c39-93c7-563609638356,"Hello, I'd like help finding a hotel in Park City, Utah.",hotel-search
-hotel-8,dlg-822120e8-a81c-4c84-a317-72b7715a8999,"I'd like help finding a flight in Laguna Beach, California.",hotel-search
 hotel-16,dlg-82e8fdb1-55f6-401c-846f-f9fc438f6002,"I would like help finding a hotel to stay in Lubbock, Texas.",hotel-search
 hotel-13,dlg-8305a646-cb13-40fd-a6a7-70e411faa636,"Hi, I need help finding a hotel.",hotel-search
-hotel-4,dlg-830bb7d3-1c0a-4232-8633-8890608ec592,I would like to stay there from June 10th to June 15th.,hotel-search
-hotel-1c,dlg-831d6262-98f3-4c0e-8bd3-f14c974ab446,It's called The Inn at Squaw Creek in Squaw Valley California.,hotel-search
 hotel-8,dlg-8328b0f5-7535-4265-93a7-ee08cbb83fdd,"Hello. I need help trying to find a room. The dates is going to be April 4th to the April 6th, and I'm going to Nashville, Tennessee.",hotel-search
 hotel-1b,dlg-83538392-8fa7-4141-9acd-4aca0f7e97b8,"I'd like to find out more about the hotel I plan to stay at Park City, Utah and the name of the hotel is Park City Peaks Hotel.",hotel-search
 hotel-2,dlg-8437f0b9-d239-4b7e-8314-2d42513f720f,I like to find a hotel for my summer vacation,hotel-search
@@ -866,7 +859,6 @@ hotel-8,dlg-84e2334c-05b7-48d6-b388-c9433c9b1632,"I would like finding a hotel i
 hotel-8,dlg-84e6d6c4-bcf6-47d6-949e-22e8eb9da259,"Hi Assistant, I'd like help finding a city in Nashville, Tennessee. Or a hotel in Nashville, Tennessee.",hotel-search
 hotel-9,dlg-854cc388-7b94-4caf-9560-a8bbbbfc30f6,"I'm looking for a hotel in Nashville, Tennessee. And I want to stay there on February 20th to February 21st.",hotel-search
 hotel-14,dlg-856564d1-d6f3-4b32-9033-5fbbb6b122a5,"I need help finding a hotel in Palm Springs, California. I need it through March 20th through the 23rd or May 20th through the 23rd and for two guests.",hotel-search
-hotel-2,dlg-85a22eb6-95e2-4fb6-b1dd-745db8a504d2,I want to go to Carlsbad California and I want to stay as close to the beach as possible ideally beachfront Ave.,hotel-search
 hotel-11,dlg-85c4cad7-0e4c-44d4-8884-a5582a9be6f0,"Yeah, I'd like to inquire about a hotel in St. Louis, Missouri from the 21st to the 26th of March.",hotel-search
 hotel-2,dlg-8650bc45-34d5-493c-9b5d-b7b6fe48fdab,"I'd like to find a hotel for my summer vacation. Yes. I'm looking for something in Carlsbad, California.",hotel-search
 hotel-9,dlg-86590425-75b3-4451-bdb4-f967c7159ee0,Hello. I'd like to have some help finding a hotel in New Orleans in the downtown area.,hotel-search
@@ -877,8 +869,6 @@ hotel-8,dlg-86bd549d-e66a-4e14-8fa7-53f1d3cb38f6,"I'd like help in finding a hot
 hotel-6,dlg-86fd8d3b-1511-4d67-85ce-5d79d4ab62bb,Help me finding a hotel in New York City.,hotel-search
 hotel-8,dlg-870bb3d8-577f-4f6a-92fa-39d93363cba6,"Hello, I'd like to help to find a hotel in West Palm Beach, Florida.",hotel-search
 hotel-5,dlg-872375fd-3bd6-42bd-af3a-605d36028013,I'd like help finding a hotel in Park City Utah.,hotel-search
-hotel-13,dlg-87cf32f3-0f9a-4f05-bdf4-8747daa5154f,"I'd like it to be in Naples, Florida.",hotel-search
-hotel-1,dlg-87dd1cb6-bd51-462a-9394-5daf76fa30ac,"Hi assistant.I'm staying at Marriott's Summit Watch in Park City, Utah.",hotel-search
 hotel-9,dlg-87ec252e-113d-4888-86a7-dd271b120003,"I'd like to find a hotel in West Palm Beach, Florida.",hotel-search
 hotel-8,dlg-886f3567-535c-411f-84a2-c8098653b8f1,"Hi, I'd like to help find a hotel in San Francisco, California.",hotel-search
 hotel-10,dlg-8871fc87-2497-488b-824c-fd0400cc406b,"I need help booking a hotel in San Francisco, please.",hotel-search
@@ -892,11 +882,9 @@ hotel-9,dlg-8996cfd4-09fe-4f97-9c0c-215a32cd031b,"I'm looking to find a hotel in
 hotel-14,dlg-8997ef3c-0a5d-4ebf-8408-daf6765526a2,I need help in booking a hotel in Palm Springs.,hotel-search
 hotel-8,dlg-89d273e9-cb5c-4810-8778-03a5c57181e6,"Hello. I need help finding a hotel in West Palm Beach, Florida.",hotel-search
 hotel-8,dlg-8a2900db-cecb-4f84-be80-ac3a33125c9f,"I'd like help finding a hotel on Laguna Beach, California.",hotel-search
-hotel-3,dlg-8a331bd5-8ef4-49ee-9c69-ca62cf52246d,Naples Florida and I want it beachfront.,hotel-search
 hotel-8,dlg-8aaeacd4-ec0a-4cc1-b615-a9117896706d,"I'd like help finding a hotel in West Palm Beach, Florida, please.",hotel-search
 hotel-4,dlg-8ab36a0f-53f3-4006-afad-4677f20ae5fb,"Hi. I need help finding a hotel in Chico, California.",hotel-search
 hotel-8,dlg-8ac312c1-e896-4dc8-9d68-f44f9763829c,"Hi, I'd like help finding a hotel in Nashville, Tennessee. I don't want to spend more than $500 and I'd like at least a three-star rating.",hotel-search
-hotel-2,dlg-8acfb015-046a-4122-b1e3-b5e164ca1fea,"I'm going to Carlsbad, California. It should be beachfront or very close to the beach.",hotel-search
 hotel-10,dlg-8b0db7df-36c5-4e42-9068-ef57a0dc3a5a,I'm looking for a four-star rated hotel.,hotel-search
 hotel-10,dlg-8b0ecbc5-0395-4856-90ac-2004ed154e01,Hi. I'd like help finding a hotel in San Francisco. I will be staying with one guest on March 12th to March 15th.,hotel-search
 hotel-6,dlg-8b484d5e-0366-4088-9100-3fe0c231a392,Hello. I'd like help finding a hotel in New York city.,hotel-search
@@ -907,7 +895,6 @@ hotel-16,dlg-8bd8d981-7d0c-4e64-b59d-547501386f7f,"Hello, I need to find a hotel
 hotel-10,dlg-8be0b606-eeae-4660-be7e-f62de6c24a9b,Hey. I'd like help finding a hotel in San Francisco.,hotel-search
 hotel-16,dlg-8c08f93d-3cb2-4f1a-a904-8d7f0b4feb1b,"Hello. I'm looking for a hotel to book in Salem, Oregon.",hotel-search
 hotel-12,dlg-8c3a7cd9-c120-4ff4-8d27-7d4b85a2f641,Can you please assist me in finding a hotel in Phoenix?,hotel-search
-hotel-4,dlg-8c5b3585-c34a-4332-adce-e303b6fab696,"I'd like help finding a restaurant. I'm located at Chico, California.",hotel-search
 hotel-7,dlg-8c6f2493-6e6d-4493-89b7-746846bca8d3,"Hello, I would like to find a hotel in San Diego.",hotel-search
 hotel-1,dlg-8c70540b-f8c9-454d-bbfb-428731892fce,"I would like to find out more about the hotel. I'd like to stay at Marriot's Summit Watch which is in Park City, Utah.",hotel-search
 hotel-3,dlg-8c7fbb98-6773-44cd-bcdb-2a2370e91b5e,Hi. I'd like to find a hotel of my summer vacation.,hotel-search

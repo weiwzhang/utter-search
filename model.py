@@ -21,6 +21,7 @@ argp.add_argument('variant',
     help="Which variant of the model to run ('vanilla' or 'synthesizer')",
     choices=["paraphrase-distilroberta-base-v1", "msmarco-distilroberta-base-v2"])
 argp.add_argument('--output_path', default=None)
+argp.add_argument('--corrupted', help='if use entity masked corpus', action="store_true")
 args = argp.parse_args()
 
 # Save the device
@@ -31,7 +32,7 @@ clean_data_labels = ['auto-repair-appt', 'coffee-order', 'flight-search', 'food-
 train_samples, dev_samples, test_samples = [], [], []
 for f in clean_data_labels:
     filename = "./data/clean_csv/data_" + f + ".csv"
-    df = pd.read_csv(filename)[:800]
+    df = pd.read_csv(filename)[:900]
     train_samples.append(df[:300])  
     dev_samples.append(df[300 : 350])
     test_samples.append(df[350:])
@@ -41,6 +42,45 @@ test_corpus = pd.concat(test_samples)
 print("train corpus size: ", train_corpus.shape)
 print("dev corpus size: ", dev_corpus.shape)
 print("test corpus size: ", test_corpus.shape)
+
+if args.corrupted:
+	import spacy
+	spacy_model = spacy.load("en_core_web_sm")
+	masking_map = {
+		'EVENT': 'entity0',
+		'FAC': 'entity1',
+	 	'GPE': 'entity2',
+	 	'LOC': 'entity3',
+	 	'NORP': 'entity4',
+	 	'ORG': 'entity5',
+	 	'PERSON': 'entity6',
+	 	'PRODUCT': 'entity7',
+	 	'WORK_OF_ART': 'entity8'
+	}
+	def mask_entity(u):
+	    doc = spacy_model(u)
+	    idxs = [0]
+	    masks = []
+	    ret = ""
+	    for ent in doc.ents:
+	        if ent.label_ in masking_map:
+	            idxs.append(ent.start_char)
+	            idxs.append(ent.end_char)
+	            masks.append(masking_map[ent.label_])
+	    if (len(idxs) > 1 and len(masks) > 0):
+	        for i in range(0, len(idxs) - 1, 2):
+	            ret = ret + u[idxs[i] : idxs[i + 1]] + masks[int(i / 2)]
+	        ret += u[idxs[-1] :]
+	        return ret
+	    else :
+	        return u
+	train_corpus['utterance'] = train_corpus['utterance'].apply(mask_entity)
+	dev_corpus['utterance'] = dev_corpus['utterance'].apply(mask_entity)
+	test_corpus['utterance'] = test_corpus['utterance'].apply(mask_entity)
+	print("corrupted train corpus size: ", train_corpus.shape)
+	print("corrupted dev corpus size: ", dev_corpus.shape)
+	print("corrupted test corpus size: ", test_corpus.shape)
+
 
 # create training sentence pairs
 train_pair_corpus = []

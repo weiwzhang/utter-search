@@ -799,21 +799,17 @@ uber-lyft-1,dlg-d0bb9e47-df92-49c4-b3be-0f008ff54100,"I need an UberXL to take m
 uber-lyft-1,dlg-d11035bc-bdd7-47c8-9204-a5752b1731b8,yo order me an uber,ride-book
 uber-lyft-1,dlg-d11c26fc-dad9-4cd1-9dfe-b2889dd1bebd,I need to a Lfyt to take me somewhere.,ride-book
 uber-lyft-2,dlg-d1998bfa-5f66-417a-865a-2cf8006d9656,I need a Lyft ride as soon as possible.,ride-book
-uber-lyft-1,dlg-d19e1272-56c5-4770-acfa-cfc4320cc42f,I am at McDonalds in Boston.,ride-book
 uber-lyft-1,dlg-d1ca0fe6-58f8-4b08-ab14-a0ed578928e2,Can you set up a lyft ride for me.,ride-book
 uber-lyft-2,dlg-d2a811f0-a7e1-47dd-8ca9-29ba2f4aca49,I want to book a uber ride,ride-book
 uber-lyft-2,dlg-d36b2c79-2dd8-4ff9-ac1c-3b2c11c6d3a1,"Good morning Joe, I need an Uber to get to the mall, I need you to call and arrange a pick up for me please.",ride-book
 uber-lyft-2,dlg-d36c0026-d9e0-4177-97c6-2b6c0b309042,I would like to request an Uber car.,ride-book
 uber-lyft-1,dlg-d37b918f-5f98-46ad-9f96-94658ab53448,"Hi, Mindy, could you order an Uber for me?",ride-book
 uber-lyft-1,dlg-d398b55e-c1dd-42e3-95bd-3e41921b90fc,"I need you to order an UBER for me, please.",ride-book
-uber-lyft-1,dlg-d3df56c5-2d16-4bfa-8749-842b037970d2,Assistant open lyft,ride-book
 uber-lyft-1,dlg-d3e5d644-1c61-42d2-a688-2a0e806e9510,"Sally, I'm meeting some friends for lunch this afternoon. Could you book me an Uber?",ride-book
 uber-lyft-1,dlg-d4324a53-8ff0-4f4f-bda1-a9ee96b4d177,Hey do you mind calling me an Uber ride for me and my date?,ride-book
-uber-lyft-1,dlg-d45a7644-0d50-4579-8db9-b8e7d2cbc48c,"I need to be picked up downtown, I want to do something tonight.",ride-book
 uber-lyft-1,dlg-d488ad23-3c5a-4499-8454-00de7c36c445,"Stacy, can you order me an Uber for later?",ride-book
 uber-lyft-1,dlg-d4ee8cda-eee3-49bc-bf95-d4d9ede41ed0,I would like a ride to the store please,ride-book
 uber-lyft-2,dlg-d56747fa-668a-4b3b-9040-6b7e894386f7,Looking for an Uber,ride-book
-uber-lyft-2,dlg-d584f21f-51c0-4719-ac66-7b66cb34667e,"Hey girl, can you do me a favor?",ride-book
 uber-lyft-1,dlg-d5caaa00-08cb-4a1f-bc71-eea4f97b7802,"Michelle, I need a ride somewhere in the next 10 minutes.",ride-book
 uber-lyft-1,dlg-d5f06e28-ec8f-40f9-b2b3-1907e3622054,I need a ride please,ride-book
 uber-lyft-2,dlg-d5f9ade3-41be-464c-93e5-9174eadcb96b,"Hey! I just got out of the Dallas Stars game, can you request a Lyft for me?",ride-book
@@ -841,7 +837,6 @@ uber-lyft-1,dlg-db56bccf-3237-4737-b9a5-51f3f2818f6f,Hey Mike. I would like an U
 uber-lyft-2,dlg-db64f7b0-8386-44d5-9f55-810578ae5b5c,Hi. I need an Uber.,ride-book
 uber-lyft-1,dlg-dbc844f3-54a1-48d9-bb70-956d575ae575,"Hey, can you arrange a car pickup for me?",ride-book
 uber-lyft-1,dlg-dc32d19d-c2eb-44cd-abb2-92c65eac0b20,Hello. Can you order a car for me?,ride-book
-uber-lyft-2,dlg-dc64849c-71b5-4b91-9ef0-60cb9b19ffa2,Hello! Need your assistance.,ride-book
 uber-lyft-1,dlg-dd2b026d-9cb0-4239-9bc8-ce961cf725b1,I need to request a ride.,ride-book
 uber-lyft-2,dlg-dd313b40-82e5-483b-a0b1-2874ea105698,I need to get and Uber Please,ride-book
 uber-lyft-1,dlg-dd6cc079-23ff-4b55-98f6-f51f8871a061,Can you please order me an Uber for an airport pick up tonight at 8:30?,ride-book
@@ -866,7 +861,6 @@ uber-lyft-1,dlg-e33d7e3b-cac5-4ff5-b9fb-f89bfbe5280f,"Hi Dave, can you please or
 uber-lyft-2,dlg-e3794621-7083-4b08-842d-2943cd5390b7,"Hello, could you reserve me an UberXL from the movie theatre in Huntington back home later?",ride-book
 uber-lyft-1,dlg-e3797e80-a033-47d3-be9f-3235ea00f09c,"Hi, I would like for you to order a car for me",ride-book
 uber-lyft-1,dlg-e42f3a6f-9a96-4452-9f3e-6fdb3d0953e9,I like to order a lyft,ride-book
-uber-lyft-1,dlg-e463914d-b595-4c4f-be7f-30e250f5e6f7,"Hello Renee, I need a special favor from you.",ride-book
 uber-lyft-1,dlg-e493ad97-054e-44c7-855e-594b2a18137a,"Hello, Sam. I need you to order me up a ride.",ride-book
 uber-lyft-1,dlg-e4f60816-95e8-4a09-98f1-8773af261998,"Hello, I'm needing a Lyft ride.",ride-book
 uber-lyft-1,dlg-e4fe4109-40bf-48d0-bd69-80cb67635678,"Hey Sam, can you please order me an Uber for my date with Adrian tonight?",ride-book
@@ -907,7 +901,6 @@ uber-lyft-2,dlg-eee4023c-88d0-44f8-8a68-6f2326dd0646,My name is Jasmine Lee and 
 uber-lyft-1,dlg-eef45746-7452-46ae-9e52-e0633702786f,Hey--I need you to schedule a ride for me crosstown.,ride-book
 uber-lyft-2,dlg-eefb1330-fb87-4f70-8748-c314c17d9780,"Hello, my name is Larry i need an uber ride",ride-book
 uber-lyft-1,dlg-ef216a49-724a-4c11-9c49-b6f5739653ad,"Hi there, how are you? Do you have a minute to order me a ride? ",ride-book
-uber-lyft-2,dlg-ef79f8b3-5ed0-40f3-9f4c-fdc019e05b2e,Hi I have a problem,ride-book
 uber-lyft-1,dlg-ef850dbc-c15e-4e19-81c4-3bcee0fb1366,"Hi, I was wondering if you could get me a ride.",ride-book
 uber-lyft-1,dlg-efcb5d7c-7cca-4aff-8018-f31082e5770e,Call me an Lyft to Bush's Chicken.,ride-book
 uber-lyft-1,dlg-eff3cc3f-fa3b-4fcf-bec3-9505d0b1260d,"Hey, I need to order an Uber ride.",ride-book

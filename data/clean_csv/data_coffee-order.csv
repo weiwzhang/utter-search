@@ -813,7 +813,6 @@ coffee-ordering-2,dlg-a8732541-02a4-48e3-9e46-d9d6b30621d3,Can i order a iced ca
 coffee-ordering-1,dlg-a873d14f-2d22-43c2-a2a3-74042f6a57b0,"Hello, would you be able to order me a coffee to pickup?",coffee-order
 coffee-ordering-1,dlg-a949f2df-ff88-4011-a094-820e0456875a,"Hi, I want to order a coffee from Starbucks",coffee-order
 coffee-ordering-1,dlg-a95055a0-028c-4ced-af51-6043ac707832,"Hi, I need to order a coffee drink from Starbucks.",coffee-order
-coffee-ordering-2,dlg-aa0f3aba-cd77-4e34-97a8-253fb951b332,Good afternoon.,coffee-order
 coffee-ordering-2,dlg-aa23a958-204f-4bcd-862d-54d6569a16da,Hi I'd like to order some starbucks,coffee-order
 coffee-ordering-2,dlg-aa480212-3a83-4dda-9631-3f1331e63fc5,"Hi, I need you to place a coffee drink order for me, can you do that right now?",coffee-order
 coffee-ordering-1,dlg-aa6ef220-b7ed-46e0-a0f2-4fdcbd9444fd,Hey. Can you stop by Starbucks on Glenwood in Raleigh for?,coffee-order
@@ -849,7 +848,6 @@ coffee-ordering-2,dlg-af89cea3-d56e-4a76-b39d-f60527d36a84,I am craving some sta
 coffee-ordering-2,dlg-af8edcd2-2e94-4ae5-ab21-2d692dd86311,"Hi, I'd like to order a coffee from Starbucks",coffee-order
 coffee-ordering-2,dlg-afddd440-35d1-4598-95ae-daf9155ce9f9,I want to get some coffee.,coffee-order
 coffee-ordering-1,dlg-b06faef5-9d95-4199-adf3-7a3e894cfc7d,can you please order me a coffee from starbucks for pick up?,coffee-order
-coffee-ordering-1,dlg-b075e0c9-95b3-4f6c-97ec-6c1593d3bb20,"Hi, I need to place an order please?",coffee-order
 coffee-ordering-2,dlg-b08de381-e833-485d-8734-f4b0001af157,Hey can you please order me a caffe mocha from Starbucks?,coffee-order
 coffee-ordering-2,dlg-b09aacb3-782b-4c9e-8e0f-79644e632653,Google can you order me an iced mocha?,coffee-order
 coffee-ordering-2,dlg-b0f2f24b-2385-4b80-943c-d13d71dcef47,Can you order a coffee for me from Starbucks?,coffee-order
@@ -867,13 +865,11 @@ coffee-ordering-2,dlg-b28ce1b7-9fa7-4fcc-8341-42953f6e71a9,I need you to place a
 coffee-ordering-1,dlg-b2f3860e-4e0c-48f9-9f33-05bc096bc460,Hi! I need to place an order for some coffee.,coffee-order
 coffee-ordering-2,dlg-b36dd978-6112-419d-b2f8-561cd46bcc1e,Hey assistant order coffee from starbucks,coffee-order
 coffee-ordering-1,dlg-b3ac24f5-2d63-4b1b-affd-868abc09aa19,"Hey there, I want to place a Starbucks order. Help me out.",coffee-order
-coffee-ordering-1,dlg-b3d79e61-eb01-4244-a3c2-baec23707a84,"Hey, how's it going?",coffee-order
 coffee-ordering-1,dlg-b3e5468c-f767-4367-a744-6e4ef490c7fd,"Good Afternoon, can you please order me a coffee when you get a chance?",coffee-order
 coffee-ordering-1,dlg-b3f3ac74-c113-4131-9d5f-ca1a8f9a6713,I would like you to place an order at Starbucks for coffee for me.,coffee-order
 coffee-ordering-2,dlg-b3fdecb0-7440-40fb-a2c8-2bf774884601,"Hi Jane, I'd like to order a coffee from Starbucks and have you pick it up for me.",coffee-order
 coffee-ordering-2,dlg-b44170c3-0276-4525-81eb-0e581ec1abc8,Hi there. I'd like to order a COFFEE DRINK from Starbucks.,coffee-order
 coffee-ordering-1,dlg-b4e31fc0-81ad-4fe4-8782-7e943e5617b9,"Good Morning, I am hoping you can order a coffee for me?",coffee-order
-coffee-ordering-1,dlg-b56247ef-f046-4009-a76b-e8fc25f4c857,"Hello, I'd like a Starbucks Black and White Mocha please.",coffee-order
 coffee-ordering-2,dlg-b5b6a5cc-1d6b-4d1e-8b46-cdf3a1b4bffe,"Hi Jane, will you place an order for me at Starbucks? I just love their Matcha Teas.",coffee-order
 coffee-ordering-2,dlg-b5bb8eb4-6dd2-4aab-9d8a-5f5311294487,hi i would like to order coffee from starbucks ,coffee-order
 coffee-ordering-2,dlg-b5ce93e0-a999-49da-8ba6-979ffdeab5b1,"Hi Bob, could you place an order for a coffee for me from Starbucks?",coffee-order
@@ -899,7 +895,6 @@ coffee-ordering-2,dlg-b8a31dea-62d8-45c8-a65e-d89c7a212aab,Can you order me a ca
 coffee-ordering-2,dlg-b8a61782-8757-4c9a-8ac8-b92672b0e248,Hi Assistant! Can you please order me a grande cafe mocha with 2% milk and whipped cream from Starbucks when you have a moment.,coffee-order
 coffee-ordering-1,dlg-b8bd035c-49ed-489c-9803-bb7b7602c663,"Hi there, can you order a coffee mocha from starbucks",coffee-order
 coffee-ordering-1,dlg-b8d028d7-0ffa-48d8-add0-5e547e3a51c9,I want to order some coffee from Peets.,coffee-order
-coffee-ordering-2,dlg-b8d7e5e4-3a61-47c2-9705-ed61876edac3,Caffè Latte,coffee-order
 coffee-ordering-1,dlg-b90babb7-be92-45dd-9a93-cb30cdf04608,I would like to order a drink from Starbucks that's in the Manhattan Mall in NYC.,coffee-order
 coffee-ordering-1,dlg-b932b11d-8e2b-4a58-bdea-e3c8016697ac,"Hey, I would like you to pick up Starbucks for me.",coffee-order
 coffee-ordering-2,dlg-b9e3b935-9454-4b11-9eae-d79719fd06ec,"hey jaime, can you order me a coffee from starbucks?",coffee-order
