@@ -28,14 +28,36 @@ args = argp.parse_args()
 device = torch.cuda.current_device() if torch.cuda.is_available() else 'cpu'
 
 # prepare corpus
-clean_data_labels = ['auto-repair-appt', 'coffee-order', 'flight-search', 'food-order', 'hotel-search', 'movie-search', 'music-search', 'ride-book']
+# clean_data_labels = ['auto-repair-appt', 'coffee-order', 'flight-search', 'food-order', 'hotel-search', 'movie-search', 'music-search', 'ride-book']
+train_data_labels = ['auto-repair-appt', 'coffee-order', 'flight-search', 'food-order', 'movie-search', 'ride-book']
+test_data_labels = ['auto-repair-appt', 'coffee-order', 'flight-search', 'food-order', 'hotel-search', 'movie-search', 'music-search', 'ride-book', 'pizza-order']
+
+# # old data split: all labels in test corpus are also present in training corpus
+# train_samples, dev_samples, test_samples = [], [], []
+# for f in clean_data_labels:
+#     filename = "./data/clean_csv/data_" + f + ".csv"
+#     df = pd.read_csv(filename)[:900]
+#     train_samples.append(df[:300])  
+#     dev_samples.append(df[300 : 350])
+#     test_samples.append(df[350:])
+# train_corpus = pd.concat(train_samples)
+# dev_corpus = pd.concat(dev_samples)
+# test_corpus = pd.concat(test_samples)
+# print("train corpus size: ", train_corpus.shape)
+# print("dev corpus size: ", dev_corpus.shape)
+# print("test corpus size: ", test_corpus.shape)
+
+# improved data split: 3 labels present in test that're not in train
 train_samples, dev_samples, test_samples = [], [], []
-for f in clean_data_labels:
+for f in test_data_labels:
     filename = "./data/clean_csv/data_" + f + ".csv"
     df = pd.read_csv(filename)[:900]
-    train_samples.append(df[:300])  
-    dev_samples.append(df[300 : 350])
-    test_samples.append(df[350:])
+    if f in train_data_labels:
+        train_samples.append(df[:360])
+        dev_samples.append(df[360:430])
+        test_samples.append(df[430:])
+    else:
+        test_samples.append(df[:470])
 train_corpus = pd.concat(train_samples)
 dev_corpus = pd.concat(dev_samples)
 test_corpus = pd.concat(test_samples)
@@ -83,10 +105,11 @@ if args.corrupted:
 
 
 # create training sentence pairs
+assert len(train_corpus['label'].value_counts()) == len(train_data_labels)
 train_pair_corpus = []
 train_corpus = train_corpus.sample(frac=1) # randomize order first
 # first, create similar pairs
-for label in clean_data_labels:
+for label in train_data_labels:
     same_label_data = train_corpus[train_corpus['label'] == label].reset_index(drop=True)
     utterance_list = same_label_data['utterance']
     for i in range(len(utterance_list) - 1):
@@ -99,9 +122,9 @@ for label in clean_data_labels:
 num_sim_pairs = len(train_pair_corpus)
 print("Number of similar pairs in training data: ", num_sim_pairs)
 # then, create dissimilar pairs
-for idx in range(len(clean_data_labels) - 1):
-    same_label_data = train_corpus[train_corpus['label'] == clean_data_labels[idx]].reset_index(drop=True)[:180]
-    diff_label_data = train_corpus[train_corpus['label'].isin(clean_data_labels[idx + 1:])].reset_index(drop=True)[:180]
+for idx in range(len(train_data_labels) - 1):
+    same_label_data = train_corpus[train_corpus['label'] == train_data_labels[idx]].reset_index(drop=True)[:180]
+    diff_label_data = train_corpus[train_corpus['label'].isin(train_data_labels[idx + 1:])].reset_index(drop=True)[:180]
     for utter1 in same_label_data['utterance']:
         for utter2 in diff_label_data['utterance']:
             inp_example = InputExample(texts=[utter1, utter2], label=0.2)   # TODO: should we use baseline model score as similarity score?
@@ -114,7 +137,7 @@ print("total training data size: ", len(train_pair_corpus))
 dev_pair_corpus = []
 dev_corpus = dev_corpus.sample(frac=1) # randomize order first
 # first, create similar pairs
-for label in clean_data_labels:
+for label in train_data_labels:
     same_label_data = dev_corpus[dev_corpus['label'] == label].reset_index(drop=True)
     utterance_list = same_label_data['utterance']
     for i in range(len(utterance_list) - 1):
@@ -127,9 +150,9 @@ for label in clean_data_labels:
 num_sim_dev_pairs = len(dev_pair_corpus)
 print("Number of similar pairs in dev data: ", num_sim_dev_pairs)
 # then, create dissimilar pairs
-for idx in range(len(clean_data_labels) - 1):
-    same_label_data = dev_corpus[dev_corpus['label'] == clean_data_labels[idx]].reset_index(drop=True)[:25]
-    diff_label_data = dev_corpus[dev_corpus['label'].isin(clean_data_labels[idx + 1:])].reset_index(drop=True)[:25]
+for idx in range(len(train_data_labels) - 1):
+    same_label_data = dev_corpus[dev_corpus['label'] == train_data_labels[idx]].reset_index(drop=True)[:25]
+    diff_label_data = dev_corpus[dev_corpus['label'].isin(train_data_labels[idx + 1:])].reset_index(drop=True)[:25]
     for utter1 in same_label_data['utterance']:
         for utter2 in diff_label_data['utterance']:
             inp_example = InputExample(texts=[utter1, utter2], label=0.2)   # TODO: should we use baseline model score as similarity score?
