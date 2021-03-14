@@ -25,7 +25,7 @@ torch.cuda.empty_cache()
 argp = argparse.ArgumentParser()
 argp.add_argument('variant',
     help="Which variant of the model to run ('vanilla' or 'synthesizer')",
-    choices=["paraphrase-distilroberta-base-v1", "msmarco-distilroberta-base-v2", "stsb-distilbert-base"])
+    choices=["paraphrase-distilroberta-base-v1", "msmarco-distilroberta-base-v2", "stsb-distilbert-base", "msmarco-distilbert-base-v2"])
 argp.add_argument('--output_path', default=None)
 argp.add_argument('--corrupted', help='if use entity masked corpus', action="store_true")
 argp.add_argument('--ner', help='if use entity concat', action="store_true")
