@@ -2,16 +2,22 @@
 # STS tasks
 # baseline: paraphrase-distilroberta-base-v1
 # QA: msmarco-distilroberta-base-v2
+# Bert (wordPiece tokenization): stsb-distilbert-base
 
 import pandas as pd
 import torch
 import math
 from torch.utils.data import DataLoader
+import spacy
 import logging
 import argparse
 from sentence_transformers import SentenceTransformer, LoggingHandler, losses, models, util
 from sentence_transformers.readers import InputExample
 from sentence_transformers.evaluation import EmbeddingSimilarityEvaluator
+# # try hacking sentence-transformers package
+# from sentence_transformers_local.sentence_transformers import SentenceTransformer, LoggingHandler, losses, models, util
+# from sentence_transformers_local.sentence_transformers.readers import InputExample
+# from sentence_transformers_local.sentence_transformers.evaluation import EmbeddingSimilarityEvaluator
 
 torch.cuda.empty_cache()
 
@@ -19,13 +25,28 @@ torch.cuda.empty_cache()
 argp = argparse.ArgumentParser()
 argp.add_argument('variant',
     help="Which variant of the model to run ('vanilla' or 'synthesizer')",
-    choices=["paraphrase-distilroberta-base-v1", "msmarco-distilroberta-base-v2"])
+    choices=["paraphrase-distilroberta-base-v1", "msmarco-distilroberta-base-v2", "stsb-distilbert-base"])
 argp.add_argument('--output_path', default=None)
 argp.add_argument('--corrupted', help='if use entity masked corpus', action="store_true")
+argp.add_argument('--ner', help='if use entity concat', action="store_true")
 args = argp.parse_args()
 
 # Save the device
 device = torch.cuda.current_device() if torch.cuda.is_available() else 'cpu'
+
+# NER prep
+spacy_model = spacy.load("en_core_web_sm")
+masking_map = {
+	'EVENT': 'entity0',
+	'FAC': 'entity1',
+	 'GPE': 'entity2',
+	 'LOC': 'entity3',
+	 'NORP': 'entity4',
+	 'ORG': 'entity5',
+	 'PERSON': 'entity6',
+	 'PRODUCT': 'entity7',
+	 'WORK_OF_ART': 'entity8'
+}
 
 # prepare corpus
 # clean_data_labels = ['auto-repair-appt', 'coffee-order', 'flight-search', 'food-order', 'hotel-search', 'movie-search', 'music-search', 'ride-book']
@@ -58,6 +79,7 @@ for f in test_data_labels:
         test_samples.append(df[430:])
     else:
         test_samples.append(df[:470])
+        dev_samples.append(df[470:540])
 train_corpus = pd.concat(train_samples)
 dev_corpus = pd.concat(dev_samples)
 test_corpus = pd.concat(test_samples)
@@ -65,20 +87,32 @@ print("train corpus size: ", train_corpus.shape)
 print("dev corpus size: ", dev_corpus.shape)
 print("test corpus size: ", test_corpus.shape)
 
+if args.ner:
+	def concat_entity(u):
+	    doc = spacy_model(u)
+	    idxs = [0]
+	    labels = []
+	    ret = ""
+	    for ent in doc.ents:
+	        if ent.label_ in masking_map:
+	            idxs.append(ent.start_char)
+	            idxs.append(ent.end_char)
+	            labels.append(ent.label_)
+	    if (len(idxs) > 1 and len(labels) > 0):
+	        for i in range(0, len(idxs) - 1, 2):
+	            ret = ret + u[idxs[i] : idxs[i + 1]] + labels[int(i / 2)] + " / " + u[idxs[i + 1] : idxs[i + 2]]
+	        ret += u[idxs[-1] :]
+	        return ret
+	    else :
+	        return u
+	train_corpus['utterance'] = train_corpus['utterance'].apply(concat_entity)
+	dev_corpus['utterance'] = dev_corpus['utterance'].apply(concat_entity)
+	test_corpus['utterance'] = test_corpus['utterance'].apply(concat_entity)
+	print("entity-concat train corpus size: ", train_corpus.shape)
+	print("entity-concat dev corpus size: ", dev_corpus.shape)
+	print("entity-concat test corpus size: ", test_corpus.shape)
+
 if args.corrupted:
-	import spacy
-	spacy_model = spacy.load("en_core_web_sm")
-	masking_map = {
-		'EVENT': 'entity0',
-		'FAC': 'entity1',
-	 	'GPE': 'entity2',
-	 	'LOC': 'entity3',
-	 	'NORP': 'entity4',
-	 	'ORG': 'entity5',
-	 	'PERSON': 'entity6',
-	 	'PRODUCT': 'entity7',
-	 	'WORK_OF_ART': 'entity8'
-	}
 	def mask_entity(u):
 	    doc = spacy_model(u)
 	    idxs = [0]
@@ -137,7 +171,7 @@ print("total training data size: ", len(train_pair_corpus))
 dev_pair_corpus = []
 dev_corpus = dev_corpus.sample(frac=1) # randomize order first
 # first, create similar pairs
-for label in train_data_labels:
+for label in test_data_labels:
     same_label_data = dev_corpus[dev_corpus['label'] == label].reset_index(drop=True)
     utterance_list = same_label_data['utterance']
     for i in range(len(utterance_list) - 1):
@@ -151,8 +185,8 @@ num_sim_dev_pairs = len(dev_pair_corpus)
 print("Number of similar pairs in dev data: ", num_sim_dev_pairs)
 # then, create dissimilar pairs
 for idx in range(len(train_data_labels) - 1):
-    same_label_data = dev_corpus[dev_corpus['label'] == train_data_labels[idx]].reset_index(drop=True)[:25]
-    diff_label_data = dev_corpus[dev_corpus['label'].isin(train_data_labels[idx + 1:])].reset_index(drop=True)[:25]
+    same_label_data = dev_corpus[dev_corpus['label'] == test_data_labels[idx]].reset_index(drop=True)[:25]
+    diff_label_data = dev_corpus[dev_corpus['label'].isin(test_data_labels[idx + 1:])].reset_index(drop=True)[:25]
     for utter1 in same_label_data['utterance']:
         for utter2 in diff_label_data['utterance']:
             inp_example = InputExample(texts=[utter1, utter2], label=0.2)   # TODO: should we use baseline model score as similarity score?
